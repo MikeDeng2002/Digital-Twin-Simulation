@@ -46,6 +46,70 @@ This runs 10 rounds of interaction with the bitcoin opinion question across all 
 | `custom_questions_with_sentiment.txt` | Example: 3 questions (Single Choice, Matrix, Slider) with sentiment |
 | `custom_questions_example.txt` | Example: 3 questions without sentiment |
 | `custom_questions_simple.txt` | Example: simple healthcare yes/no question |
+| `text_simulation_input/` | Full persona profiles (~2,951 lines each, 63 survey questions + answers) |
+| `text_simulation_input_simple/` | Simplified persona profiles (~144 lines each, demographics only) |
+
+---
+
+## Persona Input Folders
+
+Two versions of persona profiles are available:
+
+### `text_simulation_input/` — Full profiles (default)
+
+Each file contains ~2,951 lines with all 63 survey questions and answers, including demographics, personality traits, political opinions, and more. This gives the LLM rich context to role-play the persona but results in **large prompts** (~27k tokens per persona in a 15-persona fully connected graph).
+
+### `text_simulation_input_simple/` — Demographics only
+
+Each file contains ~144 lines with only the **14 demographic questions**:
+
+| Question | Example Answer |
+|----------|---------------|
+| Region | West |
+| Sex | Male |
+| Age | 30-49 |
+| Education | High school graduate |
+| Race | White |
+| Citizenship | Yes |
+| Marital status | Never been married |
+| Religion | Atheist |
+| Religious attendance | Never |
+| Political party | Something else |
+| Family income | Less than $30,000 |
+| Political views | Moderate |
+| Household size | 3 |
+| Employment status | Self-employed |
+
+**Benefits of using simplified profiles:**
+- **Much smaller prompts** — faster and cheaper API calls
+- **Higher `num_workers`** — less likely to hit rate limits
+- **Better for large-scale experiments** — can run more personas concurrently
+
+**Trade-off:** The LLM has less context to role-play the persona. Answers will be based only on demographic identity, not personality traits or detailed political opinions.
+
+### Switching between input folders
+
+Set `input_folder_dir` in your config YAML:
+
+```yaml
+# Use full profiles (default)
+input_folder_dir: "text_simulation_input"
+
+# Use simplified demographics-only profiles
+input_folder_dir: "text_simulation_input_simple"
+```
+
+### Example: Running with simplified profiles
+
+```bash
+poetry run python text_simulation/run_LLM_simulation_interaction.py \
+  --config text_simulation/configs/interaction_config_simple.yaml \
+  --num_rounds 10 \
+  --custom_questions text_simulation/custom_questions_bitcoin.txt \
+  --run_name bitcoin_simple_profiles
+```
+
+Where `interaction_config_simple.yaml` has `input_folder_dir: "text_simulation_input_simple"`. You can also use higher `num_workers` (e.g., 50-300) since prompts are much smaller.
 
 ---
 
@@ -77,7 +141,7 @@ num_workers: 300                       # Max concurrent API requests (see Rate L
 interaction_graph_path: "text_simulation/interaction_graph.json"
 num_rounds: 3                          # Default rounds (overridden by --num_rounds)
 baseline_output_dir: "text_simulation_output"         # Where Round 0 answers live
-input_folder_dir: "text_simulation_input"              # Base prompt files (pid_X_prompt.txt)
+input_folder_dir: "text_simulation_input"              # Base prompt files — use "text_simulation_input_simple" for demographics-only
 output_folder_dir: "text_simulation_output_interaction" # Output root directory
 
 # Processing options
@@ -104,16 +168,18 @@ system_instruction: |
 
 ### Rate Limits
 
-Each prompt for a fully-connected 15-persona graph is ~27k tokens. With `num_workers: 5`, that's up to 5 x 27k = 135k tokens per minute, which is under the 200k TPM limit for most OpenAI tiers.
+With **full profiles** (`text_simulation_input`), each prompt for a fully-connected 15-persona graph is ~27k tokens. With `num_workers: 5`, that's up to 5 x 27k = 135k tokens per minute, which is under the 200k TPM limit for most OpenAI tiers.
+
+With **simplified profiles** (`text_simulation_input_simple`), prompts are much smaller (~2-5k tokens), so you can safely use higher `num_workers` values.
 
 **If you see 429 errors**, reduce `num_workers`:
 
-| Personas in Graph | Recommended `num_workers` |
-|-------------------|--------------------------|
-| 5 or fewer | 300 (default) |
-| 6-15 | 3-5 |
-| 16-50 | 2-3 |
-| 50+ | 1-2 |
+| Personas in Graph | Full Profiles `num_workers` | Simple Profiles `num_workers` |
+|---|---|---|
+| 5 or fewer | 300 | 300 |
+| 6-15 | 3-5 | 50-100 |
+| 16-50 | 2-3 | 10-30 |
+| 50+ | 1-2 | 5-10 |
 
 ---
 

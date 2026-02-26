@@ -1,0 +1,144 @@
+## Persona Profile (This individual's past survey responses):
+Which part of the United States do you currently live in?
+Question Type: Single Choice
+Options:
+  1 - Northeast (PA, NY, NJ, RI, CT, MA, VT, NH, ME)
+  2 - Midwest (ND, SD, NE, KS, MN, IA, MO, WI, IL, MI, IN, OH)
+  3 - South (TX, OK, AR, LA, KY, TN, MS, AL, WV, DC, MD, DE, VA, NC, SC, GA, FL)
+  4 - West (WA, OR, ID, MT, WY, CA, NV, UT, CO, AZ, NM)
+  5 - Pacific (HI, AK)
+Answer: 3 - South (TX, OK, AR, LA, KY, TN, MS, AL, WV, DC, MD, DE, VA, NC, SC, GA, FL)
+
+What is the sex that you were assigned at birth?
+Question Type: Single Choice
+Options:
+  1 - Male
+  2 - Female
+Answer: 1 - Male
+
+How old are you?
+Question Type: Single Choice
+Options:
+  1 - 18-29
+  2 - 30-49
+  3 - 50-64
+  4 - 65+
+Answer: 1 - 18-29
+
+What is the highest level of schooling or degree that you have completed?
+Question Type: Single Choice
+Options:
+  1 - Less than high school
+  2 - High school graduate
+  3 - Some college, no degree
+  4 - Associate's degree
+  5 - College graduate/some postgrad
+  6 - Postgraduate
+Answer: 3 - Some college, no degree
+
+What is your race or origin?
+Question Type: Single Choice
+Options:
+  1 - White
+  2 - Black
+  3 - Asian
+  4 - Hispanic
+  5 - Other
+Answer: 1 - White
+
+Are you a citizen of the United States?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer: 1 - Yes
+
+Which of these best describes you?
+Question Type: Single Choice
+Options:
+  1 - Married
+  2 - Living with a partner
+  3 - Divorced
+  4 - Separated
+  5 - Widowed
+  6 - Never been married
+Answer: 6 - Never been married
+
+What is your present religion, if any?
+Question Type: Single Choice
+Options:
+  1 - Protestant
+  2 - Roman Catholic
+  3 - Mormon
+  4 - Orthodox
+  5 - Jewish
+  6 - Muslim
+  7 - Buddhist
+  8 - Hindu
+  9 - Atheist
+  10 - Agnostic
+  11 - Other
+  12 - Nothing in particular
+Answer: 1 - Protestant
+
+Aside from weddings and funerals, how often do you attend religious services?
+Question Type: Single Choice
+Options:
+  1 - More than once a week
+  2 - Once a week
+  3 - Once or twice a month
+  4 - A few times a year
+  5 - Seldom
+  6 - Never
+Answer: 3 - Once or twice a month
+
+In politics today, do you consider yourself a
+Question Type: Single Choice
+Options:
+  1 - Republican
+  2 - Democrat
+  3 - Independent
+  4 - Something else
+Answer: 1 - Republican
+
+Last year, what was your total family income from all sources, before taxes?
+Question Type: Single Choice
+Options:
+  1 - Less than $30,000
+  2 - $30,000-$50,000
+  3 - $50,000-$75,000
+  4 - $75,000-$100,000
+  5 - $100,000 or more
+Answer: 5 - $100,000 or more
+
+In general, would you describe your political views as
+Question Type: Single Choice
+Options:
+  1 - Very conservative
+  2 - Conservative
+  3 - Moderate
+  4 - Liberal
+  5 - Very liberal
+Answer: 2 - Conservative
+
+Including yourself, how many people currently live in your household?
+Question Type: Single Choice
+Options:
+  1 - 1
+  2 - 2
+  3 - 3
+  4 - 4
+  5 - More than 4
+Answer: 4 - 4
+
+What is your current employment status?
+Question Type: Single Choice
+Options:
+  1 - Full-time employment
+  2 - Part-time employment
+  3 - Unemployed
+  4 - Self-employed
+  5 - Home-maker
+  6 - Student
+  7 - Retired
+Answer: 6 - Student
