@@ -1,0 +1,25 @@
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following question as if you were taking this survey. The expected output is a JSON object in the format shown below.
+---
+
+Q1:
+What do you think about bitcoin? State your opinion. Keep your answer under 150 words.
+Question Type: Text Entry
+Answer: [Masked]
+Sentiment: -3 = strongly against bitcoin / very negative view of bitcoin, +3 = strongly in favor of bitcoin / very positive view of bitcoin
+
+---
+Expected output format:
+
+The output should be a JSON object with key "Q1".
+
+Example:
+{
+    "Q1": {
+        "Question Type": "Text Entry",
+        "Answers": {
+            "Text": "Your opinion here..."
+        }
+    }
+}

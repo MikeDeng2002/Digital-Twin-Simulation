@@ -1,0 +1,28 @@
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following question as if you were taking this survey. The expected output is a JSON object in the format shown below.
+---
+
+Q1:
+Do you think the government should provide free healthcare to all citizens?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer: [Masked]
+
+---
+Expected output format:
+
+The output should be a JSON object with key "Q1".
+
+Example:
+{
+    "Q1": {
+        "Question Type": "Single Choice",
+        "Answers": {
+            "SelectedByPosition": 1,
+            "SelectedText": "Yes"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following questions as if you were taking this survey. The expected output is a JSON object. For each question, provide the answer in the format shown at the end.
+---
+
+Q1:
+Do you think the government should provide free healthcare to all citizens?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer: [Masked]
+Sentiment: -3 = strongly against government-provided free healthcare, +3 = strongly for government-provided free healthcare
+
+Q2:
+To what extent do you agree or disagree with the following statements about government spending?
+Question Type: Matrix
+Options:
+  1 = Strongly disagree
+  2 = Disagree
+  3 = Neither agree nor disagree
+  4 = Agree
+  5 = Strongly agree
+1. The government should increase spending on social welfare programs.
+Answer: [Masked]
+2. Tax dollars are being spent efficiently by the current administration.
+Answer: [Masked]
+Sentiment: -3 = strongly against increased government spending, +3 = strongly for increased government spending
+
+Q3:
+On a scale of 0 to 100, how much do you trust the federal government to do what is right?
+Question Type: Slider
+1. [No Statement Needed]
+Answer: [Masked]
+Sentiment: -3 = complete distrust of federal government, +3 = complete trust in federal government
+
+---
+Expected output format:
+
+The output should be a JSON object with keys "Q1", "Q2", "Q3".
+
+1. Single Choice
+{
+    "Q1": {
+        "Question Type": "Single Choice",
+        "Answers": {
+            "SelectedByPosition": 1,
+            "SelectedText": "Yes"
+        }
+    }
+}
+
+2. Matrix
+{
+    "Q2": {
+        "Question Type": "Matrix",
+        "Answers": {
+            "SelectedByPosition": [4, 3],
+            "SelectedText": ["Agree", "Neither agree nor disagree"]
+        }
+    }
+}
+
+3. Slider
+{
+    "Q3": {
+        "Question Type": "Slider",
+        "Answers": {
+            "Values": ["65"]
+        }
+    }
+}

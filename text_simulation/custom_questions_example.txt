@@ -1,0 +1,68 @@
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following questions as if you were taking this survey. The expected output is a JSON object. For each question, provide the answer in the format shown at the end.
+---
+
+Q1:
+How concerned are you about the impact of artificial intelligence on jobs in the next 10 years?
+Question Type: Single Choice
+Options:
+  1 - Not at all concerned
+  2 - Slightly concerned
+  3 - Moderately concerned
+  4 - Very concerned
+  5 - Extremely concerned
+Answer: [Masked]
+
+Q2:
+To what extent do you agree or disagree with the following statements about AI?
+Question Type: Matrix
+Options:
+  1 = Strongly disagree
+  2 = Disagree
+  3 = Neither agree nor disagree
+  4 = Agree
+  5 = Strongly agree
+1. AI will create more jobs than it eliminates.
+Answer: [Masked]
+2. AI should be heavily regulated by the government.
+Answer: [Masked]
+3. I would trust an AI to make medical decisions for me.
+Answer: [Masked]
+
+Q3:
+On a scale of 0 to 100, how likely are you to use an AI assistant for daily tasks in the next year?
+Question Type: Slider
+1. [No Statement Needed]
+Answer: [Masked]
+
+---
+Expected output format:
+
+The output should be a JSON object with keys "Q1", "Q2", "Q3", etc.
+
+1. Single Choice
+{
+    "Question Type": "Single Choice",
+    "Answers": {
+        "SelectedByPosition": 3,
+        "SelectedText": "Moderately concerned"
+    }
+}
+
+2. Matrix
+{
+    "Question Type": "Matrix",
+    "Answers": {
+        "SelectedByPosition": [4, 3, 2],
+        "SelectedText": ["Agree", "Neither agree nor disagree", "Disagree"]
+    }
+}
+
+3. Slider
+{
+    "Question Type": "Slider",
+    "Answers": {
+        "Values": ["65"]
+    }
+}

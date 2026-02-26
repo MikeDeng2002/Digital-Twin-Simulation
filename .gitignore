@@ -10,6 +10,7 @@ text_simulation/text_personas/
 text_simulation/text_questions/
 text_simulation/text_simulation_input/
 text_simulation/text_simulation_output/
+text_simulation/text_simulation_output_interaction/
 cache/
 
 # C extensions
