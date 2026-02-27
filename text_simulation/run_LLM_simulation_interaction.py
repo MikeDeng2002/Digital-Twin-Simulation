@@ -260,7 +260,7 @@ def format_neighbor_answers_section(pid, neighbors, answers_dir,
     sections = []
 
     if own_prev_answers is not None:
-        lines = ["## Your answers from the previous round:"]
+        lines = ["## Your own answer from the previous round:"]
         for q_key in sorted(own_prev_answers.keys(), key=lambda k: int(re.sub(r'\D', '', k) or '0')):
             q_data = own_prev_answers[q_key]
             lines.append(f"{q_key}: {json.dumps(q_data)}")
@@ -276,7 +276,7 @@ def format_neighbor_answers_section(pid, neighbors, answers_dir,
         if persona_summaries and neighbor_pid in persona_summaries:
             summary = f" — {persona_summaries[neighbor_pid]}"
 
-        lines = [f"### Answers from Individual {neighbor_pid}{summary}:"]
+        lines = [f"### {neighbor_pid}{summary}:"]
         for q_key in sorted(answers.keys(), key=lambda k: int(re.sub(r'\D', '', k) or '0')):
             q_data = answers[q_key]
             lines.append(f"{q_key}: {json.dumps(q_data)}")
@@ -287,10 +287,13 @@ def format_neighbor_answers_section(pid, neighbors, answers_dir,
 
     header = (
         "---\n"
-        "## Context: Answers from other individuals in your social network\n"
-        "Below are answers from other people you interact with. "
-        "Consider their perspectives when forming your own answers, "
-        "but remain true to your persona profile.\n\n"
+        "## Opinions from people in your social network\n"
+        "You have heard opinions from other people in your social network. "
+        "Each person comes from a different background — their demographic "
+        "information (race, gender, age, region, education, employment, "
+        "political views, party, religion, income) is shown next to their answer.\n"
+        "Consider their perspectives, but answer based on who you are "
+        "as described in your persona profile above.\n\n"
     )
 
     if neighbor_blocks:
@@ -479,6 +482,7 @@ async def run_interaction_simulation(
     custom_questions_text=None,
     include_prev_answers=True,
     sentiment_scales=None,
+    start_round=1,
 ):
     """Main async loop: run multi-round interaction simulation.
 
@@ -529,24 +533,31 @@ async def run_interaction_simulation(
     for pid in sorted(persona_summaries):
         print(f"  {pid}: {persona_summaries[pid]}")
 
-    # Previous round's output directory (start with baseline)
-    prev_round_dir = baseline_output_dir
+    # Previous round's output directory
+    if start_round > 1:
+        prev_round_dir = os.path.join(run_output_dir, f"round_{start_round - 1}")
+    else:
+        prev_round_dir = baseline_output_dir
 
-    # Save metadata
-    metadata = {
-        "interaction_graph": interaction_graph,
-        "config": {k: v for k, v in config.items() if k != 'system_instruction'},
-        "system_instruction": config.get('system_instruction', ''),
-        "num_rounds": num_rounds,
-        "personas": sorted(available_prompts.keys()),
-        "baseline_output_dir": baseline_output_dir,
-        "custom_questions": use_custom_questions,
-        "custom_questions_path": config.get('custom_questions_path'),
-        "start_time": datetime.now().isoformat(),
-    }
     metadata_path = os.path.join(run_output_dir, "metadata.json")
-    with open(metadata_path, 'w') as f:
-        json.dump(metadata, f, indent=2)
+
+    if start_round == 1:
+        # Save metadata for a fresh run
+        metadata = {
+            "interaction_graph": interaction_graph,
+            "config": {k: v for k, v in config.items() if k != 'system_instruction'},
+            "system_instruction": config.get('system_instruction', ''),
+            "num_rounds": num_rounds,
+            "personas": sorted(available_prompts.keys()),
+            "baseline_output_dir": baseline_output_dir,
+            "custom_questions": use_custom_questions,
+            "custom_questions_path": config.get('custom_questions_path'),
+            "start_time": datetime.now().isoformat(),
+        }
+        with open(metadata_path, 'w') as f:
+            json.dump(metadata, f, indent=2)
+    else:
+        print(f"Resuming from round {start_round} (previous round dir: {prev_round_dir})")
 
     # Sentiment scoring setup
     sentiment_csv_path = os.path.join(run_output_dir, "sentiment_scores.csv")
@@ -554,8 +565,8 @@ async def run_interaction_simulation(
     sentiment_max_concurrent = config.get("sentiment_max_concurrent", 50)
     persona_id_list = sorted(available_prompts.keys())
 
-    # Score baseline (round 0) if sentiment is enabled
-    if sentiment_scales:
+    # Score baseline (round 0) if sentiment is enabled — only for fresh runs
+    if sentiment_scales and start_round == 1:
         print("\nScoring baseline (round 0) sentiment...")
         baseline_scores = await score_round_sentiment(
             baseline_output_dir, persona_id_list, sentiment_scales,
@@ -564,7 +575,7 @@ async def run_interaction_simulation(
         append_round_to_csv(sentiment_csv_path, 0, baseline_scores)
         print(f"Baseline sentiment: {len(baseline_scores)} scores recorded.")
 
-    for round_num in range(1, num_rounds + 1):
+    for round_num in range(start_round, num_rounds + 1):
         print(f"\n{'='*60}")
         print(f"Round {round_num}/{num_rounds}")
         print(f"{'='*60}")
@@ -654,12 +665,46 @@ async def run_interaction_simulation(
         # This round's output becomes next round's input
         prev_round_dir = round_dir
 
-    # Update metadata with end time
+    # Update metadata with end time and final num_rounds
+    try:
+        with open(metadata_path, 'r') as f:
+            metadata = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        metadata = {}
+    metadata["num_rounds"] = num_rounds
     metadata["end_time"] = datetime.now().isoformat()
     with open(metadata_path, 'w') as f:
         json.dump(metadata, f, indent=2)
 
     print(f"\nAll {num_rounds} rounds complete. Output saved to: {run_output_dir}")
+
+
+def find_last_completed_round(run_dir):
+    """Find the highest round N where round_N directory exists and has response JSONs.
+
+    Returns 0 if no valid round directories found.
+    """
+    max_round = 0
+    if not os.path.isdir(run_dir):
+        return 0
+    for entry in os.listdir(run_dir):
+        match = re.match(r'^round_(\d+)$', entry)
+        if not match:
+            continue
+        round_num = int(match.group(1))
+        round_path = os.path.join(run_dir, entry)
+        # Check that it contains at least one persona response JSON
+        has_response = False
+        for sub in os.listdir(round_path):
+            sub_path = os.path.join(round_path, sub)
+            if os.path.isdir(sub_path):
+                response_file = os.path.join(sub_path, f"{sub}_response.json")
+                if os.path.exists(response_file):
+                    has_response = True
+                    break
+        if has_response and round_num > max_round:
+            max_round = round_num
+    return max_round
 
 
 if __name__ == "__main__":
@@ -675,6 +720,8 @@ if __name__ == "__main__":
                         help="Do not include own previous-round answers in the prompt.")
     parser.add_argument("--no_sentiment", action="store_true",
                         help="Disable per-question sentiment scoring even if Sentiment: lines are present.")
+    parser.add_argument("--continue_from", type=str,
+                        help="Path to existing run directory to continue from. Resumes after last completed round.")
     args = parser.parse_args()
 
     config = load_config(args.config)
@@ -713,10 +760,45 @@ if __name__ == "__main__":
     interaction_graph = load_interaction_graph(graph_path)
     print(f"Graph has {len(interaction_graph)} personas with defined neighbors.")
 
-    # Create run directory
-    run_name = args.run_name or f"run_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
-    run_output_dir = os.path.join(output_base_dir, run_name)
-    os.makedirs(run_output_dir, exist_ok=True)
+    # Handle --continue_from or create a new run directory
+    start_round = 1
+    if args.continue_from:
+        # Resolve path: bare name -> prepend output_base_dir; absolute -> use as-is
+        continue_path = args.continue_from
+        if not os.path.isabs(continue_path):
+            candidate = os.path.join(output_base_dir, continue_path)
+            if os.path.isdir(candidate):
+                continue_path = candidate
+            elif not os.path.isdir(continue_path):
+                continue_path = candidate  # fall through, will error below
+
+        if not os.path.isdir(continue_path):
+            print(f"Error: --continue_from directory does not exist: {continue_path}")
+            exit(1)
+
+        run_output_dir = continue_path
+
+        # Load metadata to recover baseline_output_dir
+        meta_path = os.path.join(run_output_dir, "metadata.json")
+        if os.path.exists(meta_path):
+            with open(meta_path, 'r') as f:
+                prev_metadata = json.load(f)
+            baseline_output_dir = prev_metadata.get("baseline_output_dir", baseline_output_dir)
+            print(f"Loaded metadata from previous run. Baseline: {baseline_output_dir}")
+        else:
+            print(f"Warning: No metadata.json found in {run_output_dir}, using baseline from config.")
+
+        last_completed = find_last_completed_round(run_output_dir)
+        start_round = last_completed + 1
+        print(f"Last completed round: {last_completed}. Will resume from round {start_round}.")
+
+        if start_round > num_rounds:
+            print(f"Already completed {last_completed} rounds, target is {num_rounds}. Nothing to do.")
+            exit(0)
+    else:
+        run_name = args.run_name or f"run_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+        run_output_dir = os.path.join(output_base_dir, run_name)
+        os.makedirs(run_output_dir, exist_ok=True)
 
     print(f"Starting interaction simulation at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"Provider: {config.get('provider')}, Model: {config.get('model_name')}")
@@ -725,6 +807,8 @@ if __name__ == "__main__":
     print(f"Interaction output: {run_output_dir}")
     include_prev_answers = not args.no_prev_answers
     print(f"Number of rounds: {num_rounds}")
+    if start_round > 1:
+        print(f"Resuming from round: {start_round}")
     print(f"Include own previous answers: {include_prev_answers}")
     if custom_questions_text:
         print(f"Custom questions: {custom_questions_path}")
@@ -743,4 +827,5 @@ if __name__ == "__main__":
         custom_questions_text=custom_questions_text,
         include_prev_answers=include_prev_answers,
         sentiment_scales=sentiment_scales,
+        start_round=start_round,
     ))
