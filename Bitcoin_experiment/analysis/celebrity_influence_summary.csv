@@ -1,0 +1,11 @@
+slug,name,category,mean_w,median_w,std_w,pct_positive,n_personas
+peter_schiff,Peter Schiff,BEAR,2.6739,2.412,5.3446,74.4,78
+larry_fink,Larry Fink,BULL,0.1331,0.1308,0.171,87.2,78
+jack_dorsey,Jack Dorsey,BULL,0.091,0.082,0.0507,97.4,78
+cathie_wood,Cathie Wood,BULL,0.0647,0.0658,0.0489,92.3,78
+jamie_dimon,Jamie Dimon,BEAR,0.0505,-0.3342,4.6759,44.9,78
+donald_trump,Donald Trump,BULL,0.0409,0.043,0.0564,78.2,78
+michael_saylor,Michael Saylor,BULL,0.0324,0.0291,0.0241,96.2,78
+elon_musk,Elon Musk,BULL,-0.0025,0.0225,0.1701,59.7,77
+warren_buffett,Warren Buffett,BEAR,-0.4444,-0.6324,1.6378,30.8,78
+nouriel_roubini,Nouriel Roubini,BEAR,-1.7408,-1.7181,4.2497,24.4,78

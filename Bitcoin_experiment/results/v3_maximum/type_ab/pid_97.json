@@ -1,0 +1,76 @@
+[
+  {
+    "pid": "97",
+    "trial": 14,
+    "representation": "v3_maximum",
+    "model": "o4-mini",
+    "neighbors": [
+      {
+        "slug": "peter_schiff",
+        "name": "Peter Schiff",
+        "price": 3000
+      },
+      {
+        "slug": "michael_saylor",
+        "name": "Michael Saylor",
+        "price": 1000000
+      },
+      {
+        "slug": "jack_dorsey",
+        "name": "Jack Dorsey",
+        "price": 500000
+      },
+      {
+        "slug": "warren_buffett",
+        "name": "Warren Buffett",
+        "price": 15000
+      }
+    ],
+    "celeb_mean": 379500,
+    "baseline_price": 60000,
+    "recognition_response": "Peter Schiff  \n1. Do I know him?  \n   Yes.  \n2. What I know and how much I trust him on Bitcoin/markets  \n   \u2022 Host of The Peter Schiff Show, long\u2010time gold bull and Euro Pacific Capital CEO.  \n   \u2022 Deep background in macro, very bearish on Fed policy and Bitcoin\u2014views Bitcoin as a bubble and prefers gold.  \n   \u2022 I generally respect his macro analysis and track record on gold, but I view his anti-Bitcoin stance as ideologically driven. I\u2019d give his Bitcoin judgment a low-to-moderate weight\u2014good for minority contrarian signal but probably biased against crypto.  \n3. (N/A)\n\nMichael Saylor  \n1. Do I know him?  \n   Yes.  \n2. What I know and how much I trust him on Bitcoin/markets  \n   \u2022 Executive chairman of MicroStrategy, transformed that firm into a massive corporate Bitcoin holder.  \n   \u2022 Publicly preaches Bitcoin as \u201cdigital gold,\u201d argues it\u2019s superior store of value.  \n   \u2022 I respect his conviction and financial savvy in the enterprise software space, and he\u2019s done serious due diligence on Bitcoin\u2019s network effects. But he\u2019s highly leveraged to that thesis. I\u2019d assign moderate trust\u2014he\u2019s informed, but his incentives skew extremely bullish.  \n3. (N/A)\n\nJack Dorsey  \n1. Do I know him?  \n   Yes.  \n2. What I know and how much I trust him on Bitcoin/markets  \n   \u2022 Co-founder of Twitter, current CEO of Block (formerly Square). Early supporter of Bitcoin\u2019s role in payments and the Lightning Network.  \n   \u2022 He\u2019s more of a tech visionary than a market strategist\u2014he invests in infrastructure and developer tools.  \n   \u2022 I\u2019d give his Bitcoin price call moderate trust for assessing adoption and developer momentum, but he\u2019s not a traditional financial forecaster. His bullish view reflects his long-term tech outlook rather than macro value investing.  \n3. (N/A)\n\nWarren Buffett  \n1. Do I know him?  \n   Yes.  \n2. What I know and how much I trust him on Bitcoin/markets  \n   \u2022 Legendary value investor, CEO of Berkshire Hathaway, famously avoids businesses he can\u2019t forecast cash flows for.  \n   \u2022 Has called Bitcoin \u201crat poison squared,\u201d sees no intrinsic value.  \n   \u2022 I give his general market and equity-investment judgment very high trust. On Bitcoin specifically, I respect his consistency but think his framework (focused on cash flow) may be ill-suited to a non-cash-flow asset like crypto. So I\u2019d give his Bitcoin price view moderate trust\u2014high credibility, but possibly a category error.  \n3. (N/A)",
+    "type_a_raw": "150000",
+    "type_a_prediction": 150000,
+    "recognition_response_b": "Peter Schiff  \n1. Do I know him? Yes.  \n2. What I know and how much I trust him: He\u2019s the CEO of Euro Pacific Capital, a well-known gold bull and macro commentator who hosts The Peter Schiff Show. He\u2019s been consistently negative on Bitcoin for years, arguing it has no intrinsic value and will collapse in a crisis. I respect his grasp of traditional macro and currency history, but I view him as heavily biased toward gold. On Bitcoin specifically, I\u2019d give his judgment low to moderate weight\u2014he\u2019s knowledgeable about monetary economics but clearly has an axe to grind.  \n\nMichael Saylor  \n1. Do I know him? Yes.  \n2. What I know and how much I trust him: He\u2019s the Executive Chairman of MicroStrategy and arguably the most public corporate Bitcoin advocate. He\u2019s turned his company treasury into one of the largest corporate Bitcoin holders and speaks often about \u201cdigital energy\u201d and halving cycles. I value his data-driven approach to treasury management and his insights into institutional adoption. That said, he\u2019s deeply invested\u2014both financially and reputationally\u2014and his worldview is shaped by promoting Bitcoin. I\u2019d give his Bitcoin forecasts moderate weight, mindful of his strong personal stake.  \n\nJack Dorsey  \n1. Do I know him? Yes.  \n2. What I know and how much I trust him: He co-founded Twitter, runs Block (formerly Square), and has made Bitcoin a strategic focus for both companies. He\u2019s passionate about a decentralized financial system built on Bitcoin. He brings technical credibility and a track record of shipping financial products, but he\u2019s more of a visionary than a market forecaster. I\u2019d consider his view informative about adoption trends and developer momentum, but I\u2019d temper it with the recognition that he\u2019s promoting an ecosystem he\u2019s building. I\u2019d assign moderate trust to his long-term price outlook.  \n\nWarren Buffett  \n1. Do I know him? Yes.  \n2. What I know and how much I trust him: He\u2019s the legendary value-investing guru and CEO of Berkshire Hathaway. He has famously called Bitcoin \u201crat poison squared\u201d and argues it produces nothing. His strength is identifying productive assets and sustainable business models. He freely admits when he doesn\u2019t understand something, and he\u2019s consistent in guarding his circle of competence. On Bitcoin, I give him high credibility on the core point that it doesn\u2019t generate cash flow, but lower weight on any specific price target\u2014he\u2019s not a crypto specialist, so his $15,000 forecast feels more like a statement of skepticism than a detailed valuation model.",
+    "type_b_raw": "PREDICTION: 100000  \nREASONING: I balance Saylor and Dorsey\u2019s optimism about halving-driven demand and network effects with Buffett and Schiff\u2019s warnings about intrinsic value. My moderate trust in institutional adoption and macro momentum leads me to expect several-fold gains over current levels. I also factor in regulatory headwinds and Bitcoin\u2019s inherent volatility, which cap the upside. This midpoint forecast satisfies my preference for clear, bounded outcomes while reflecting mixed expert credibility.",
+    "type_b_prediction": 100000,
+    "type_b_reasoning": "I balance Saylor and Dorsey\u2019s optimism about halving-driven demand and network effects with Buffett and Schiff\u2019s warnings about intrinsic value. My moderate trust in institutional adoption and macro momentum leads me to expect several-fold gains over current levels. I also factor in regulatory headwinds and Bitcoin\u2019s inherent volatility, which cap the upside. This midpoint forecast satisfies my preference for clear, bounded outcomes while reflecting mixed expert credibility."
+  },
+  {
+    "pid": "97",
+    "trial": 24,
+    "representation": "v3_maximum",
+    "model": "o4-mini",
+    "neighbors": [
+      {
+        "slug": "jamie_dimon",
+        "name": "Jamie Dimon",
+        "price": 5000
+      },
+      {
+        "slug": "donald_trump",
+        "name": "Donald Trump",
+        "price": 250000
+      },
+      {
+        "slug": "cathie_wood",
+        "name": "Cathie Wood",
+        "price": 500000
+      },
+      {
+        "slug": "peter_schiff",
+        "name": "Peter Schiff",
+        "price": 3000
+      }
+    ],
+    "celeb_mean": 189500,
+    "baseline_price": 60000,
+    "recognition_response": "Jamie Dimon  \n1. Do you know who this person is?  \n   \u2013 Yes.  \n2. What do you know about them and how much do you trust their judgment on Bitcoin or financial markets?  \n   \u2013 He\u2019s the long-time CEO of JPMorgan Chase, one of the biggest U.S. banks. He\u2019s famously skeptical of Bitcoin (\u201ca fraud,\u201d etc.) and has a vested interest in the traditional banking system. On broad macro credit and banking issues I respect his views, but on crypto I discount them because of his incentive to defend the incumbents. I\u2019d take his $5,000 forecast seriously as a reflection of a large-bank downside case, but I wouldn\u2019t treat it as an unbiased market-price target.  \n3. (n/a)\n\nDonald Trump  \n1. Do you know who this person is?  \n   \u2013 Yes.  \n2. What do you know about them and how much do you trust their judgment on Bitcoin or financial markets?  \n   \u2013 He\u2019s the former U.S. president and real-estate developer. He doesn\u2019t have a track record as a crypto or market analyst\u2014his pronouncements are typically political or brand-driven. I\u2019d give essentially zero weight to a political figure\u2019s isolated six-figure Bitcoin forecast, especially without a research base.  \n3. (n/a)\n\nCathie Wood  \n1. Do you know who this person is?  \n   \u2013 Yes.  \n2. What do you know about them and how much do you trust their judgment on Bitcoin or financial markets?  \n   \u2013 She\u2019s the founder and CIO of ARK Invest, famous for high-conviction ETFs in disruptive innovation (Tesla, genomics, crypto). She\u2019s done deep-dive research on Bitcoin adoption curves and treats it as digital gold. Her funds can be extremely volatile, but she\u2019s systematic and data-driven. I\u2019d assign moderate trust\u2014she\u2019s informed and transparent about assumptions\u2014but also recognize she\u2019s on the bullish extreme. Her $500,000 number is defensible under a maximum-adoption scenario, but it\u2019s more a bull-case upper bound than a median forecast.  \n3. (n/a)\n\nPeter Schiff  \n1. Do you know who this person is?  \n   \u2013 Vaguely.  \n2. If no or vaguely\u2014would you look them up before forming an opinion? If yes, what would you likely find and how would that change your view of their prediction?  \n   \u2013 Yes, I\u2019d look him up. I\u2019d see he\u2019s the CEO of Euro Pacific Capital, a prominent gold-bug and currency critic who hosts The Peter Schiff Show. He\u2019s built a reputation on warning about fiat collapse, pushing gold, and repeatedly calling Bitcoin a bubble. That background tells me he has deep macro credentials in foreign exchange and precious metals, but a strong ideological bias against crypto. His $3,000 target tells me where the \u201cBitcoin is worthless\u201d crowd stands, but I\u2019d heavily discount it as a contrarian signal rather than a neutral forecast.",
+    "type_a_raw": "150000",
+    "type_a_prediction": 150000,
+    "recognition_response_b": "Here\u2019s my honest take on each, in my own voice:\n\n1. Jamie Dimon  \n  1. Do I know him? Yes.  \n  2. What I know and how much I trust him:  \n     \u2022 He\u2019s the long\u2010time CEO of JPMorgan Chase, one of the world\u2019s largest banks.  \n     \u2022 He\u2019s been vocally anti-crypto for years\u2014calls Bitcoin a \u201cpet rock,\u201d etc.\u2014and his institution has clear incentives to protect the traditional banking model.  \n     \u2022 I respect his deep knowledge of banking and financial infrastructure, but I also see a strong conflict of interest here. I\u2019d take his ultra-bearish $5K forecast seriously as a warning, but I wouldn\u2019t put too much weight on it as an absolute. I\u2019d rate his crypto judgment \u201cmoderately low trust\u201d because of that bias.\n\n2. Donald Trump  \n  1. Do I know him? Yes.  \n  2. What I know and how much I trust him:  \n     \u2022 Former U.S. President, real-estate developer, media personality. Known for grandiose promises and bold claims.  \n     \u2022 He\u2019s never been a market analyst or technologist; his crypto enthusiasm (e.g. \u201cStrategic Bitcoin Reserve\u201d) sounds more political or rhetorical than analytical.  \n     \u2022 I\u2019d classify his $250K call as political theatre rather than serious price modeling. Trust level: very low for meaningful financial insight.\n\n3. Cathie Wood  \n  1. Do I know her? Yes.  \n  2. What I know and how much I trust her:  \n     \u2022 Founder/ CIO of ARK Invest, high-profile on disruptive tech (Tesla, crypto, genomics). Known for aggressive, research-driven bull cases.  \n     \u2022 Her team publishes transparent models and has occasionally been right on big calls\u2014though often her price targets run well ahead of consensus and haven\u2019t always materialized on schedule.  \n     \u2022 I give her \u201creasonable trust\u201d on institutional adoption trends and long-term store-of-value arguments, but I temper optimism with the fact that her timing can be off. So \u201cmoderate trust\u201d in the $500K call, with a healthy dose of caution about the timeline.\n\n4. Peter Schiff  \n  1. Do I know him? Yes.  \n  2. What I know and how much I trust him:  \n     \u2022 Euro Pacific Capital CEO, longtime gold-bug, vocal Bitcoin skeptic. Hosts a podcast where he critiques Fed policy, crypto, etc.  \n     \u2022 He\u2019s consistent and financially literate, but his steady Bitcoin bearishness has repeatedly failed to predict past rallies. He\u2019s got niche expertise on precious metals, less so on digital assets.  \n     \u2022 I respect his macro view on debt and gold, but on Bitcoin he\u2019s been overly negative. Trust level on Bitcoin price: low.\n\n\u2014  \nSummary: I recognize all four. I\u2019d weigh Cathie Wood\u2019s and Jamie Dimon\u2019s views more than Trump\u2019s or Schiff\u2019s, but still discount all\u2010in positions. I\u2019d form my own forecast by blending mainstream institutional sentiment, historical cycles, and my own risk\u2013reward comfort rather than betting heavily on any single voice.",
+    "type_b_raw": "PREDICTION: 100000  \nREASONING: I\u2019m leaning toward a six-figure outcome by 2025 based on continued institutional adoption and limited supply, tempered by regulatory headwinds and macro volatility. I give weight to Cathie Wood\u2019s research-driven optimism but discount the aggressive timing, while also noting that Jamie Dimon\u2019s and Peter Schiff\u2019s deep bearishness overlooks Bitcoin\u2019s network effects. My own moderate impatience leads me to expect steady gains rather than parabolic spikes, and I favor a clear, conservative midpoint among the extreme forecasts. This balances mainstream sentiment, historical cycle patterns, and my preference for a definitive outlook.",
+    "type_b_prediction": 100000,
+    "type_b_reasoning": "I\u2019m leaning toward a six-figure outcome by 2025 based on continued institutional adoption and limited supply, tempered by regulatory headwinds and macro volatility. I give weight to Cathie Wood\u2019s research-driven optimism but discount the aggressive timing, while also noting that Jamie Dimon\u2019s and Peter Schiff\u2019s deep bearishness overlooks Bitcoin\u2019s network effects. My own moderate impatience leads me to expect steady gains rather than parabolic spikes, and I favor a clear, conservative midpoint among the extreme forecasts. This balances mainstream sentiment, historical cycle patterns, and my preference for a definitive outlook."
+  }
+]

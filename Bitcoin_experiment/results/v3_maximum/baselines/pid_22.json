@@ -1,0 +1,7 @@
+{
+  "pid": "22",
+  "representation": "v3_maximum",
+  "model": "o4-mini",
+  "baseline_price": 80000,
+  "raw_response": "80000"
+}
