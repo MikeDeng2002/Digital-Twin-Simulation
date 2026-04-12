@@ -9,7 +9,7 @@ num_workers: 300 # this can be adjusted based on your OpenAI rate limit
 
 # Processing options
 force_regenerate: false
-max_personas: 5  # Set to 5 for testing
+max_personas: 100
 
 # Input/Output directories
 input_folder_dir: "text_simulation_input"

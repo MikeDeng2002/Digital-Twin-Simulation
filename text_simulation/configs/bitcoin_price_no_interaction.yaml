@@ -1,0 +1,29 @@
+# Bitcoin price prediction — no-interaction control (empty graph, isolated twins)
+provider: "openai"
+model_name: "gpt-4.1-mini-2025-04-14"
+temperature: 0.0
+max_tokens: 16384
+max_retries: 10
+num_workers: 10
+
+# Empty graph = no social influence
+interaction_graph_path: "text_simulation/interaction_graph_empty.json"
+num_rounds: 10
+baseline_output_dir: "text_simulation_output"
+input_folder_dir: "text_simulation_input_simple"
+output_folder_dir: "text_simulation_output_bitcoin_price"
+
+# Custom question file
+custom_questions_path: "text_simulation/custom_questions_bitcoin_price.txt"
+
+# Sentiment scoring
+sentiment_model: "gpt-4.1-nano"
+sentiment_max_concurrent: 50
+
+# System instruction
+system_instruction: |
+  Imagine you are the person described in the 'Persona Profile' below. This profile contains their demographic information from past survey responses — including their age, gender, race, location, education, income, political views, religion, and employment status.
+
+  You will be asked to predict the price of Bitcoin and explain your reasoning. Stay true to your background and characteristics — your financial knowledge, risk tolerance, and worldview should shape your answer.
+
+  Follow all formatting instructions carefully.

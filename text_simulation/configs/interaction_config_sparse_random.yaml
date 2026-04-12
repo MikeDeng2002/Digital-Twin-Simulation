@@ -1,22 +1,22 @@
-# Interaction simulation configuration
+# Sparse random graph interaction simulation (30 personas, ~5 neighbors each)
 provider: "openai"
 model_name: "gpt-4.1-mini-2025-04-14"
 temperature: 0.0
 max_tokens: 16384
 max_retries: 10
-num_workers: 300
+num_workers: 10
 
 # Interaction-specific settings
-interaction_graph_path: "text_simulation/interaction_graph.json"
-num_rounds: 3
+interaction_graph_path: "text_simulation/interaction_graph_sparse_random.json"
+num_rounds: 30
 baseline_output_dir: "text_simulation_output"
-input_folder_dir: "text_simulation_input"
+input_folder_dir: "text_simulation_input_simple"
 output_folder_dir: "text_simulation_output_interaction"
 
 # Processing options
 force_regenerate: false
 
-# Sentiment scoring (used when custom questions have Sentiment: lines)
+# Sentiment scoring
 sentiment_model: "gpt-4.1-nano"
 sentiment_max_concurrent: 50
 

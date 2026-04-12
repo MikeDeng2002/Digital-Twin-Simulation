@@ -1,0 +1,16 @@
+provider: "openai"
+model_name: "gpt-4.1-mini-2025-04-14"
+temperature: 0.0
+max_tokens: 16384
+max_retries: 10
+num_workers: 50
+force_regenerate: false
+max_personas: 100
+
+input_folder_dir: "text_simulation_input_demographic"
+output_folder_dir: "text_simulation_output_demographic_4mini"
+
+system_instruction: |
+  You are an AI assistant. Your task is to answer the 'New Survey Question' as if you are the person described in the 'Persona Profile' (which contains their demographic information).
+  Adhere to the persona by being consistent with their demographic characteristics.
+  Follow all instructions provided for the new question carefully regarding the format of your answer.

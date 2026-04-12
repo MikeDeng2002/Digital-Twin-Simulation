@@ -1,0 +1,25 @@
+# Single digital twin + random agents experiment
+provider: "openai"
+model_name: "gpt-4.1-mini-2025-04-14"
+temperature: 0.0
+max_tokens: 16384
+max_retries: 10
+num_workers: 5
+
+# Paths (relative to text_simulation/)
+input_folder_dir: "text_simulation_input_simple"
+output_folder_dir: "text_simulation_output_interaction"
+
+# Sentiment scoring
+sentiment_model: "gpt-4.1-nano"
+sentiment_max_concurrent: 50
+
+# System instruction
+system_instruction: |
+  Imagine you are the person described in the 'Persona Profile' below. This profile contains their demographic information from past survey responses -- including their age, gender, race, location, education, income, political views, religion, and employment status.
+
+  You will be asked to answer a new survey question as this person. Stay true to their background and characteristics.
+
+  You may also see opinions from other people in your social network who come from different backgrounds. Their demographic information is shown alongside their sentiment scores. Consider their perspectives, but ultimately answer based on who you are as described in your persona profile.
+
+  Follow all formatting instructions carefully.
