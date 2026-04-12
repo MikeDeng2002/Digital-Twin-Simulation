@@ -49,7 +49,7 @@ for config_path in "$CONFIG_DIR"/*.yaml; do
         # Inject rep into output_folder_dir by passing as env var; runner reads NANO_REP
         echo "[$(date '+%H:%M:%S')] $run_name"
 
-        if python text_simulation/run_nano_batch.py \
+        if python text_simulation/run_LLM_simulations.py \
               --config "$config_path" \
               --nano_rep "$rep" \
               > "$log_path" 2>&1; then
