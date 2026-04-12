@@ -22,15 +22,29 @@ Usage (from Digital-Twin-Simulation/):
 from pathlib import Path
 import yaml
 
-OUT_DIR = Path("text_simulation/configs/nano")
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--temp0", action="store_true",
+                    help="Generate temperature=0.0 configs (no reps, deterministic)")
+gen_args = parser.parse_args()
+
+if gen_args.temp0:
+    OUT_DIR     = Path("text_simulation/configs/nano_temp0")
+    TEMPERATURE = 0.0
+    N_REPS      = 1   # deterministic — no need for repetitions
+else:
+    OUT_DIR     = Path("text_simulation/configs/nano")
+    TEMPERATURE = 1.0
+    N_REPS      = 3   # sample randomness across 3 reps
+
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # Remove any old configs first
 for old in OUT_DIR.glob("*.yaml"):
     old.unlink()
 
-MODEL       = "gpt-5.4-nano"
-TEMPERATURE = 1.0
+MODEL = "gpt-5.4-nano"
 
 # 10 persona settings: (config_name, input_folder_dir)
 SETTINGS = [
@@ -64,6 +78,12 @@ for setting_name, input_dir in SETTINGS:
         # output_folder_dir uses {rep} placeholder; runner fills it in per repetition
         output_dir_template = f"text_simulation_output_nano/{setting_name}/{reasoning_name}/{{rep}}"
 
+        # temp0: single run, no {rep} placeholder needed
+        if TEMPERATURE == 0.0:
+            output_dir_val = f"text_simulation_output_nano_temp0/{setting_name}/{reasoning_name}"
+        else:
+            output_dir_val = output_dir_template
+
         config = {
             "provider": "openai",
             "model_name": MODEL,
@@ -74,7 +94,7 @@ for setting_name, input_dir in SETTINGS:
             "force_regenerate": False,
             "max_personas": 5,
             "input_folder_dir":   input_dir,
-            "output_folder_dir":  output_dir_template,
+            "output_folder_dir":  output_dir_val,
             "system_instruction": SYSTEM_INSTRUCTION,
             "reasoning_effort":   reasoning_name,
         }
@@ -89,6 +109,6 @@ for setting_name, input_dir in SETTINGS:
 print(f"Written {len(configs_written)} configs to {OUT_DIR}/")
 print(f"  Settings:         {len(SETTINGS)}")
 print(f"  Reasoning levels: {len(REASONING_LEVELS)} (none, low, medium, high) — via responses API reasoning param")
-print(f"  Temperature:      {TEMPERATURE} (fixed for all)")
-print(f"  Repetitions:      3 per config, handled by run_nano_experiment.sh")
-print(f"  Total runs:       {len(SETTINGS)} × {len(REASONING_LEVELS)} × 3 = {len(configs_written) * 3}")
+print(f"  Temperature:      {TEMPERATURE}")
+print(f"  Repetitions:      {N_REPS} per config")
+print(f"  Total runs:       {len(SETTINGS)} × {len(REASONING_LEVELS)} × {N_REPS} = {len(configs_written) * N_REPS}")
