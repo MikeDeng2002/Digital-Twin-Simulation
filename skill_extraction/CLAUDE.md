@@ -307,3 +307,116 @@ predictor of w_social.
 |------------------|----------------|------------------|
 | **Raw text**     | Experiment 1a  | Experiment 2     |
 | **Skill method** | Experiment 1b  | Experiment 3     |
+
+---
+
+## Full evaluation pipeline
+
+The findings in `findings.md` are produced by running three stages in sequence.
+
+### Stage 1 — Extract skill profiles
+```bash
+# From Digital-Twin-Simulation/
+poetry run python skill_extraction/batch_extract.py
+```
+Output: `text_simulation/skills/pid_*/v{1,2,3,4}_*/background.txt` etc.
+
+### Stage 2 — Build prompt inputs
+Each profile version needs its own input folder of combined prompts (skill profile +
+survey question). Run `create_text_simulation_input.py` pointing to the correct skill
+version directory:
+```bash
+# Example for v3_maximum
+python text_simulation/create_text_simulation_input.py \
+  --persona_text_dir text_simulation/skills_as_text/v3_maximum \
+  --question_prompts_dir text_simulation/question_prompts \
+  --output_combined_prompts_dir text_simulation/text_simulation_input_skill_v3_maximum
+```
+Repeat for each version (v1_direct, v2_inferred, v3_maximum, v4_chained) and for
+the demographic-only baseline (uses `text_simulation/text_personas/` directly).
+
+### Stage 3 — Run LLM simulation
+Profile choice is controlled entirely by the **YAML config file** passed to `--config`.
+The script reads whichever `input_folder_dir` the config specifies — there is no
+profile flag in the script itself.
+
+```bash
+# Demographic only (baseline)
+python text_simulation/run_LLM_simulations.py \
+  --config text_simulation/configs/demographic_4mini_config.yaml
+
+# Skill v1
+python text_simulation/run_LLM_simulations.py \
+  --config text_simulation/configs/skill_v1_config.yaml
+
+# Skill v2
+python text_simulation/run_LLM_simulations.py \
+  --config text_simulation/configs/skill_v2_config.yaml
+
+# Skill v3 (maximum) — used for Bitcoin experiment
+python text_simulation/run_LLM_simulations.py \
+  --config text_simulation/configs/skill_v3_config.yaml
+
+# Skill v4
+python text_simulation/run_LLM_simulations.py \
+  --config text_simulation/configs/skill_v4_config.yaml
+```
+
+Each config specifies model, temperature, input/output folders, and worker count.
+Configs for different models (gpt-4.1-mini, o4-mini, gpt-4o) exist for each version:
+
+| Profile | gpt-4.1-mini | o4-mini | gpt-4o |
+|---------|-------------|---------|--------|
+| Demographic | `demographic_4mini_config.yaml` | `demographic_o4mini_config.yaml` | `demographic_gpt4o_config.yaml` |
+| Skill v1 | `skill_v1_config.yaml` | `skill_v1_o4mini_config.yaml` | `skill_v1_gpt4o_config.yaml` |
+| Skill v2 | `skill_v2_config.yaml` | `skill_v2_o4mini_config.yaml` | `skill_v2_gpt4o_config.yaml` |
+| Skill v3 | `skill_v3_config.yaml` | `skill_v3_o4mini_config.yaml` | `skill_v3_gpt4o_config.yaml` |
+| Skill v4 | `skill_v4_config.yaml` | `skill_v4_o4mini_config.yaml` | `skill_v4_gpt4o_config.yaml` |
+
+All configs live in `text_simulation/configs/`.
+
+### Stage 4 — Evaluate accuracy
+```bash
+# From Digital-Twin-Simulation/
+python evaluation/mad_accuracy_evaluation.py \
+  --predictions text_simulation/text_simulation_output_skill_v3/answer_blocks_llm_imputed \
+  --ground_truth data/mega_persona_json/answer_blocks \
+  --output evaluation/results/skill_v3_4mini_accuracy.xlsx
+```
+This computes **Accuracy = 1 − normalized MAD** vs wave-4 ground truth, with 95% CI
+using a t-distribution. The numbers in `findings.md` come from running this for every
+profile × model combination.
+
+---
+
+## Config file structure
+
+Example (`skill_v3_config.yaml`):
+```yaml
+provider: "openai"
+model_name: "gpt-4.1-mini-2025-04-14"
+temperature: 0.0
+max_tokens: 16384
+max_retries: 10
+num_workers: 50
+force_regenerate: false
+max_personas: 100
+
+input_folder_dir: "text_simulation_input_skill_v3_maximum"
+output_folder_dir: "text_simulation_output_skill_v3"
+
+system_instruction: |
+  You are an AI assistant. Your task is to answer the 'New Survey Question' as if
+  you are the person described in the 'Persona Skill Profile' above (which summarizes
+  their background, information sources, and decision procedure).
+  Adhere to the persona by being consistent with their skill profile characteristics.
+  Follow all instructions provided for the new question carefully regarding the format
+  of your answer.
+```
+
+Key fields:
+- `input_folder_dir` — subfolder inside `text_simulation/` containing `pid_*_prompt.txt` files
+- `output_folder_dir` — where LLM responses are saved
+- `provider` — `"openai"` or `"gemini"`
+- `num_workers` — parallel API requests
+- `force_regenerate` — set `true` to re-run already-completed personas

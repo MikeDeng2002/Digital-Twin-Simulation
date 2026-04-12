@@ -14,6 +14,7 @@ from datetime import datetime
 load_dotenv()
 
 def load_config(config_path):
+    
     """Load configuration from YAML file."""
     with open(config_path, 'r') as f:
         config_data = yaml.safe_load(f)
@@ -108,7 +109,7 @@ async def run_simulations(prompts_root_dir, base_output_dir, llm_config_params, 
 
     all_prompt_files_info = []
     try:
-        prompt_files_fs = sorted([f for f in os.listdir(prompts_root_dir) if f.endswith('_prompt.txt')])
+        prompt_files_fs = sorted([f for f in os.listdir(prompts_root_dir) if f.endswith('_prompt.txt')], key=lambda x: int(re.search(r'pid_(\d+)', x).group(1)) if re.search(r'pid_(\d+)', x) else 0)
     except FileNotFoundError:
         print(f"Error: Prompts root directory not found: {prompts_root_dir}")
         return
