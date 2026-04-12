@@ -98,9 +98,10 @@ async def run_simulations(prompts_root_dir, base_output_dir, llm_config_params, 
 
     llm_config = LLMConfig(
         model_name=llm_config_params['model_name'],
-        temperature=llm_config_params.get('temperature', 0.7),
+        temperature=llm_config_params.get('temperature', 1.0),
         max_tokens=llm_config_params.get('max_tokens'),
         system_instruction=llm_config_params.get('system_instruction'),
+        reasoning_effort=llm_config_params.get('reasoning_effort'),
         max_retries=max_retries_for_sequence, # Max retries for the [LLM call + save + verification] sequence
         max_concurrent_requests=num_workers,
         verification_callback=save_and_verify_callback,

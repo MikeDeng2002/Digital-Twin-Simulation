@@ -6,13 +6,14 @@ text_simulation/configs/nano/.
 
 Each config specifies:
   - model: gpt-4.1-nano-2025-04-14
+  - temperature: 1.0 (fixed for all configs)
   - input_folder_dir: the persona input folder
-  - output_folder_dir: separate output per (setting, reasoning)
+  - output_folder_dir: separate output per (setting, reasoning, rep)
   - system_instruction: varies by reasoning strength
 
 Repetitions (3 per cell) are handled at runtime by run_nano_experiment.sh,
-which runs each config with temperatures 0.0, 0.5, and 1.0, writing to
-separate output folders (rep_1, rep_2, rep_3).
+which runs each config 3 times writing to rep_1, rep_2, rep_3 subfolders.
+All repetitions use temperature=1.0 so variance comes from sampling randomness.
 
 Usage (from Digital-Twin-Simulation/):
     python text_simulation/generate_nano_configs.py
@@ -24,7 +25,12 @@ import yaml
 OUT_DIR = Path("text_simulation/configs/nano")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-MODEL = "gpt-4.1-nano-2025-04-14"
+# Remove any old configs first
+for old in OUT_DIR.glob("*.yaml"):
+    old.unlink()
+
+MODEL       = "gpt-5.4-nano"
+TEMPERATURE = 1.0
 
 # 10 persona settings: (config_name, input_folder_dir)
 SETTINGS = [
@@ -40,77 +46,49 @@ SETTINGS = [
     ("skill_v3_raw_end", "text_simulation_input_skill_v3_raw_end"),
 ]
 
-# 4 reasoning strengths: (name, system_instruction)
-REASONING_LEVELS = {
-    "none": (
-        "You are an AI assistant. Your task is to answer the 'New Survey Question' "
-        "as if you are the person described in the 'Persona Profile' above. "
-        "Adhere to the persona and follow all formatting instructions carefully."
-    ),
-    "low": (
-        "You are an AI assistant. Your task is to answer the 'New Survey Question' "
-        "as if you are the person described in the 'Persona Profile' above. "
-        "Before giving your final answer, write one sentence noting the single most "
-        "relevant trait or belief from the persona that drives your answer. "
-        "Then provide the formatted answer."
-    ),
-    "medium": (
-        "You are an AI assistant. Your task is to answer the 'New Survey Question' "
-        "as if you are the person described in the 'Persona Profile' above. "
-        "Before giving your final answer, briefly reason in 2-3 sentences: "
-        "(1) what key background or values are most relevant? "
-        "(2) what does this suggest their likely answer would be? "
-        "Then provide the formatted answer."
-    ),
-    "high": (
-        "You are an AI assistant. Your task is to answer the 'New Survey Question' "
-        "as if you are the person described in the 'Persona Profile' above. "
-        "Before giving your final answer, reason step by step: "
-        "(1) What does the persona's background, education, and demographics suggest? "
-        "(2) Which personality traits or values are most relevant to this question? "
-        "(3) How would this person's decision-making style shape their answer? "
-        "(4) What is the most consistent answer given all of the above? "
-        "Then provide the formatted answer."
-    ),
-}
+# Shared system instruction (same for all reasoning levels — effort is set via API parameter)
+SYSTEM_INSTRUCTION = (
+    "You are an AI assistant. Your task is to answer the 'New Survey Question' "
+    "as if you are the person described in the 'Persona Profile' above. "
+    "Adhere to the persona and follow all formatting instructions carefully."
+)
 
-TEMPERATURES = {
-    "rep_1": 0.0,
-    "rep_2": 0.5,
-    "rep_3": 1.0,
-}
+# 4 reasoning effort levels (passed as reasoning={"effort": ...} in responses API)
+REASONING_LEVELS = ["none", "low", "medium", "high"]
 
 configs_written = []
 
 for setting_name, input_dir in SETTINGS:
-    for reasoning_name, system_instruction in REASONING_LEVELS.items():
-        for rep_name, temperature in TEMPERATURES.items():
-            config_name = f"{setting_name}__{reasoning_name}__{rep_name}"
-            output_dir  = f"text_simulation_output_nano/{setting_name}/{reasoning_name}/{rep_name}"
+    for reasoning_name in REASONING_LEVELS:
+        config_name = f"{setting_name}__{reasoning_name}"
+        # output_folder_dir uses {rep} placeholder; runner fills it in per repetition
+        output_dir_template = f"text_simulation_output_nano/{setting_name}/{reasoning_name}/{{rep}}"
 
-            config = {
-                "provider": "openai",
-                "model_name": MODEL,
-                "temperature": temperature,
-                "max_tokens": 16384,
-                "max_retries": 10,
-                "num_workers": 50,
-                "force_regenerate": False,
-                "max_personas": 100,
-                "input_folder_dir":  input_dir,
-                "output_folder_dir": output_dir,
-                "system_instruction": system_instruction,
-            }
+        config = {
+            "provider": "openai",
+            "model_name": MODEL,
+            "temperature": TEMPERATURE,
+            "max_tokens": 16384,
+            "max_retries": 10,
+            "num_workers": 50,
+            "force_regenerate": False,
+            "max_personas": 5,
+            "input_folder_dir":   input_dir,
+            "output_folder_dir":  output_dir_template,
+            "system_instruction": SYSTEM_INSTRUCTION,
+            "reasoning_effort":   reasoning_name,
+        }
 
-            out_path = OUT_DIR / f"{config_name}.yaml"
-            with open(out_path, "w", encoding="utf-8") as f:
-                yaml.dump(config, f, default_flow_style=False, allow_unicode=True,
-                          sort_keys=False, width=120)
+        out_path = OUT_DIR / f"{config_name}.yaml"
+        with open(out_path, "w", encoding="utf-8") as f:
+            yaml.dump(config, f, default_flow_style=False, allow_unicode=True,
+                      sort_keys=False, width=120)
 
-            configs_written.append(config_name)
+        configs_written.append(config_name)
 
 print(f"Written {len(configs_written)} configs to {OUT_DIR}/")
-print(f"  Settings:          {len(SETTINGS)}")
-print(f"  Reasoning levels:  {len(REASONING_LEVELS)} (none, low, medium, high)")
-print(f"  Repetitions:       {len(TEMPERATURES)} (rep_1=temp0.0, rep_2=temp0.5, rep_3=temp1.0)")
-print(f"  Total:             {len(SETTINGS)} × {len(REASONING_LEVELS)} × {len(TEMPERATURES)} = {len(configs_written)}")
+print(f"  Settings:         {len(SETTINGS)}")
+print(f"  Reasoning levels: {len(REASONING_LEVELS)} (none, low, medium, high) — via responses API reasoning param")
+print(f"  Temperature:      {TEMPERATURE} (fixed for all)")
+print(f"  Repetitions:      3 per config, handled by run_nano_experiment.sh")
+print(f"  Total runs:       {len(SETTINGS)} × {len(REASONING_LEVELS)} × 3 = {len(configs_written) * 3}")

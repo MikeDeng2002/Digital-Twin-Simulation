@@ -28,9 +28,10 @@ class LLMConfig:
     def __init__(
         self,
         model_name: str,
-        temperature: float = 0.7,
+        temperature: float = 1.0,
         max_tokens: Optional[int] = None,
         system_instruction: Optional[str] = None,
+        reasoning_effort: Optional[str] = None,
         max_retries: int = 10, # Max retries for the combined LLM call + Verification
         max_concurrent_requests: int = 5,
         verification_callback: Optional[Callable[..., bool]] = None,
@@ -40,10 +41,46 @@ class LLMConfig:
         self.temperature = temperature
         self.max_tokens = max_tokens
         self.system_instruction = system_instruction or GEMINI_SYSTEM_INSTRUCTION
+        self.reasoning_effort = reasoning_effort  # used with responses API (gpt-5.x models)
         self.max_retries = max_retries
         self.max_concurrent_requests = max_concurrent_requests
         self.verification_callback = verification_callback
         self.verification_callback_args = verification_callback_args if verification_callback_args is not None else {}
+
+@retry(
+    stop=stop_after_attempt(5),
+    wait=wait_exponential(multiplier=1, min=4, max=60),
+    retry=retry_if_exception_type((ConnectionError, TimeoutError, openai.APITimeoutError, openai.APIConnectionError, openai.RateLimitError, openai.APIError)),
+    reraise=True
+)
+async def _get_openai_responses_api(prompt: str, config: LLMConfig) -> Dict[str, Union[str, Dict]]:
+    """Uses client.responses.create() for gpt-5.x models with reasoning effort support."""
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY environment variable not set")
+
+    async with httpx.AsyncClient(timeout=1000.0) as http_client:
+        aclient = openai.AsyncOpenAI(api_key=api_key, http_client=http_client)
+        api_kwargs = {
+            "model": config.model_name,
+            "input": prompt,
+        }
+        if config.system_instruction:
+            api_kwargs["instructions"] = config.system_instruction
+        if config.reasoning_effort and config.reasoning_effort != "none":
+            api_kwargs["reasoning"] = {"effort": config.reasoning_effort}
+        if config.max_tokens:
+            api_kwargs["max_output_tokens"] = config.max_tokens
+
+        response = await aclient.responses.create(**api_kwargs)
+        usage = response.usage
+        usage_details = {
+            "prompt_token_count":     getattr(usage, "input_tokens",  0),
+            "completion_token_count": getattr(usage, "output_tokens", 0),
+            "total_token_count":      getattr(usage, "total_tokens",  0),
+        }
+        return {"response_text": response.output_text, "usage_details": usage_details}
+
 
 @retry(
     stop=stop_after_attempt(5), # Max 5 retries for the direct API call itself
@@ -55,13 +92,21 @@ async def _get_openai_response_direct(prompt: str, config: LLMConfig) -> Dict[st
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
         raise ValueError("OPENAI_API_KEY environment variable not set")
-    
+
     async with httpx.AsyncClient(timeout=1000.0) as client:
         aclient = openai.AsyncOpenAI(api_key=api_key, http_client=client)
         messages = [{"role": "system", "content": config.system_instruction}, {"role": "user", "content": prompt}]
-        response = await aclient.chat.completions.create(
-            model=config.model_name, messages=messages, temperature=config.temperature, max_tokens=config.max_tokens
-        )
+        # Reasoning models (o1, o3, o4 series) use max_completion_tokens and don't support temperature=0
+        is_reasoning_model = config.model_name.startswith("o1") or config.model_name.startswith("o3") or config.model_name.startswith("o4")
+        api_kwargs = {"model": config.model_name, "messages": messages}
+        if is_reasoning_model:
+            if config.max_tokens:
+                api_kwargs["max_completion_tokens"] = config.max_tokens
+        else:
+            api_kwargs["temperature"] = config.temperature
+            if config.max_tokens:
+                api_kwargs["max_tokens"] = config.max_tokens
+        response = await aclient.chat.completions.create(**api_kwargs)
         usage_details = {
             "prompt_token_count": response.usage.prompt_tokens,
             "completion_token_count": response.usage.completion_tokens,
@@ -131,6 +176,9 @@ async def get_llm_response_with_internal_retry(
         if provider.lower() == "gemini":
             return await _get_gemini_response_direct(prompt, config)
         elif provider.lower() == "openai":
+            # gpt-5.x models use the responses API with reasoning effort support
+            if config.model_name.startswith("gpt-5"):
+                return await _get_openai_responses_api(prompt, config)
             return await _get_openai_response_direct(prompt, config)
         else:
             raise ValueError(f"Unsupported provider: {provider}")
