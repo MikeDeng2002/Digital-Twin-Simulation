@@ -206,12 +206,16 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run LLM simulations with integrated verification and retries.")
     parser.add_argument("--config", required=True, help="Path to the YAML configuration file.")
     parser.add_argument("--max_personas", type=int, help="Maximum number of personas to process")
+    parser.add_argument("--nano_rep", type=str, default=None,
+                        help="Repetition label (rep_1/rep_2/rep_3). Substitutes {rep} in output_folder_dir.")
     args = parser.parse_args()
 
     config_values = load_config(args.config)
-    
+
     prompts_root_dir = config_values.get('input_folder_dir', './text_simulation_input_with_context')
     base_output_dir = config_values.get('output_folder_dir', './text_simulation_output_with_context')
+    if args.nano_rep:
+        base_output_dir = base_output_dir.replace("{rep}", args.nano_rep)
     prompts_root_dir = os.path.join("./text_simulation", prompts_root_dir)
     base_output_dir = os.path.join("./text_simulation", base_output_dir)
     provider = config_values.get('provider', 'gemini')
