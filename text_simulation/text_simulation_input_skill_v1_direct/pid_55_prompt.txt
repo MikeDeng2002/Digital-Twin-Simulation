@@ -1,0 +1,907 @@
+## Persona Skill Profile:
+### Background
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political party: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as Liberal? Answer: Liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Total family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $50,000-$75,000)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Disagree strongly with finding fault with others (Q2: 1)
+  - Agree strongly with doing a thorough job (Q3: 5)
+  - Disagree strongly with being depressed (Q4: 1)
+  - Disagree a little with being original (Q5: 2)
+  - Agree strongly with being reserved (Q6: 5)
+  - Agree strongly with being helpful and unselfish (Q7: 5)
+  - Disagree strongly with being careless (Q8: 1)
+  - Neither agree nor disagree with handling stress well (Q9: 3)
+  - Agree strongly with being curious about many things (Q10: 5)
+  - Disagree a little with being full of energy (Q11: 2)
+  - Disagree strongly with starting quarrels (Q12: 1)
+  - Agree strongly with being a reliable worker (Q13: 5)
+  - Agree a little with being tense (Q14: 4)
+  - Agree a little with being a deep thinker (Q15: 4)
+  - Neither agree nor disagree with generating enthusiasm (Q16: 3)
+  - Agree a little with having a forgiving nature (Q17: 4)
+  - Disagree strongly with being disorganized (Q18: 1)
+  - Agree a little with worrying a lot (Q19: 4)
+  - Disagree a little with having an active imagination (Q20: 2)
+  - Agree strongly with being quiet (Q21: 5)
+  - Agree a little with being generally trusting (Q22: 4)
+  - Neither agree nor disagree with being lazy (Q23: 3)
+  - Agree a little with being emotionally stable (Q24: 4)
+  - Disagree a little with being inventive (Q25: 2)
+  - Disagree strongly with having an assertive personality (Q26: 1)
+  - Agree a little with being cold and aloof (Q27: 4)
+  - Agree strongly with persevering until task is finished (Q28: 5)
+  - Disagree strongly with being moody (Q29: 1)
+  - Agree a little with valuing artistic experiences (Q30: 4)
+  - Agree strongly with being sometimes shy (Q31: 5)
+  - Agree strongly with being considerate and kind (Q32: 5)
+  - Agree strongly with doing things efficiently (Q33: 5)
+  - Agree a little with remaining calm in tense situations (Q34: 4)
+  - Agree a little with preferring routine work (Q35: 4)
+  - Disagree strongly with being outgoing (Q36: 1)
+  - Disagree strongly with being rude (Q37: 1)
+  - Agree a little with making plans and following through (Q38: 4)
+  - Agree a little with getting nervous easily (Q39: 4)
+  - Neither agree nor disagree with liking to reflect (Q40: 3)
+  - Disagree a little with having few artistic interests (Q41: 2)
+  - Agree a little with being sophisticated in art/music/literature (Q44: 4)
+- Need for Cognition scale:
+  - Neither agree nor disagree with preferring complex problems (Q1: 3)
+  - Agree a little with liking responsibility requiring thinking (Q2: 4)
+  - Disagree a little with thinking not being fun (Q3: 2)
+  - Disagree a little with preferring little thought tasks (Q4: 2)
+  - Disagree a little with avoiding situations requiring deep thought (Q5: 2)
+  - Agree a little with satisfaction in deliberating hard (Q6: 4)
+  - Disagree a little with thinking only as hard as necessary (Q7: 2)
+  - Neither agree nor disagree with preferring small daily projects (Q8: 3)
+  - Agree a little with liking tasks requiring little thought once learned (Q9: 4)
+  - Agree a little with relying on thought to get to the top (Q10: 4)
+  - Agree a little with enjoying tasks involving new solutions (Q11: 4)
+  - Disagree a little with learning new ways to think not exciting (Q12: 2)
+  - Agree a little with preferring life filled with puzzles (Q13: 4)
+  - Disagree strongly with liking abstract thinking (Q14: 1)
+  - Neither agree nor disagree with preferring intellectual difficult tasks (Q15: 3)
+  - Disagree a little with feeling relief rather than satisfaction after mental effort (Q16: 2)
+  - Agree a little with caring only that something gets the job done (Q17: 4)
+  - Agree a little with deliberating about issues not personally affecting (Q18: 4)
+- Values rated as highly important (7-9):
+  - Loyalty (9)
+  - Politeness (9)
+  - Compassion (9)
+  - Civility (9)
+  - Trust (8)
+  - Altruism (8)
+  - Honesty (8)
+  - Equality (8)
+  - Competence (7)
+  - Humility (7)
+  - Forgiveness (7)
+  - Pleasure (7)
+- Values rated low importance (1-2):
+  - Status (1)
+  - Recognition (1)
+  - Superiority (1)
+  - Ambition (2)
+  - Tradition (2)
+- Environmental concern:
+  - Agrees a little or strongly that products should not harm environment, considers environmental impact, is environmentally responsible, willing to be inconvenienced for environment (Q1-6: mostly 4 or 5)
+- Empathy and emotional sensitivity:
+  - Strongly disagrees that friends’ emotions don’t affect her (Q1: 1)
+  - Strongly agrees feeling sad after friend is sad (Q2: 5)
+  - Strongly agrees understanding friend’s happiness (Q3: 5)
+  - Strongly agrees getting frightened watching scary movies (Q4: 5)
+  - Agrees a little with getting caught up in others’ feelings (Q5: 4)
+  - Disagrees a little with difficulty knowing when friends are frightened (Q6: 2)
+  - Strongly disagrees with not becoming sad when others cry (Q7: 1)
+  - Strongly disagrees with others’ feelings not bothering her (Q8: 1)
+  - Strongly agrees understanding when someone is feeling down (Q9: 5)
+  - Agrees a little with working out when friends are scared (Q10: 4)
+  - Agrees a little with becoming sad watching sad TV/films (Q11: 4)
+  - Agrees a little with understanding feelings before told (Q12: 4)
+  - Strongly disagrees with seeing anger having no effect (Q13: 1)
+  - Agrees a little with working out when people are cheerful (Q14: 4)
+  - Neither agrees nor disagrees with feeling scared with scared friends (Q15: 3)
+  - Strongly agrees realizing quickly when friend is angry (Q16: 5)
+  - Agrees a little with getting swept up in friends’ feelings (Q17: 4)
+  - Strongly disagrees with friend’s unhappiness not affecting her (Q18: 1)
+  - Strongly disagrees with not being aware of friends’ feelings (Q19: 1)
+  - Strongly disagrees with having trouble figuring out when friends are happy (Q20: 1)
+- Cognitive test performance:
+  - Correctly answered 36 out of 42 cognitive test questions (self-estimate)
+  - Estimates average US adult would answer 32 correctly
+- Logical reasoning:
+  - Correctly identifies logical conclusions in most presented syllogisms
+- Financial literacy:
+  - Correctly answers questions about mortgages, inflation, risk diversification, asset returns, required minimum distributions, credit card debt (knows it would never be eliminated with minimum payments)
+  - Correctly answers probability and percentage questions
+  - Correctly solves basic math and logic puzzles (bat and ball, lily pad doubling)
+- Economic game behavior:
+  - Proposes to keep $2 and send $3 in a $5 split game
+  - Accepts all offers except $0 to self
+  - In trust game, keeps $3 and sends $2; as receiver, keeps $7 of $15 and sends $8 back
+  - Thoughts during decisions emphasize fairness, generosity, and evenness
+- Self-concept clarity:
+  - Strongly agrees having a clear sense of who she is (Q11: 5)
+  - Strongly disagrees with conflicting or changing self-beliefs (multiple items: 1 or 2)
+- Need for Closure:
+  - Strongly agrees disliking uncertainty and unpredictable situations (Q1: 5, Q6: 5, Q10: 5, Q15: 5)
+  - Agrees a little with liking ordered life and routine (Q3: 4, Q12: 4, Q13: 5)
+  - Disagrees a little with impatience for immediate solutions (Q8: 2, Q9: 2)
+- Maximizer tendencies:
+  - Disagrees a little with always looking for better options or opportunities (Q1: 2, Q2: 2)
+  - Agrees a little with difficulty shopping for gifts and finding clothing she loves (Q3: 4, Q4: 4)
+  - Agrees a little with having high standards for self (Q5: 4)
+  - Neither agrees nor disagrees with never settling for second best (Q6: 3)
+- Self-monitoring:
+  - Somewhat true but with exceptions for ability to alter behavior in social situations (Q1: 4)
+  - Somewhat false but with exceptions for controlling impression (Q2, Q3, Q5, Q6: 3)
+  - Generally true for reading emotions and facial expressions (Q8, Q10, Q12: 5)
+  - Somewhat true but with exceptions for sensitivity to facial expressions (Q9, Q11: 4)
+  - Somewhat false but with exceptions for detecting lies (Q13: 3)
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no self-disappointment, no crying more than usual, no irritability, no loss of interest in others, no feelings of worthlessness
+  - Reports putting off decisions more than before, sleeping less well, getting tired more easily, but no appetite or weight loss issues
+  - Reports purposely trying to lose weight by eating less
+- Spending habits:
+  - Self-reports as low spender (3 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Personal aspirations and self-description:
+  - Aspires to be fearless, living without anxiety or worry about others’ opinions or unknowns
+  - Feels ought to be someone always there for family and friends, putting others first, organized and on top of tasks
+  - Actually worries more than should, sometimes lets tasks pile up, knows what she likes and enjoys life
+
+### Information Sources
+No direct evidence available. The dataset does not contain direct questions about media use or information-seeking behavior.
+
+### Decision Procedure
+- Need for Closure: Strong agreement with disliking uncertainty and unpredictable situations (Items: 1=5, 6=5, 10=5, 15=5), agrees with liking ordered life and routine (3=4, 12=4, 13=5), feels relieved after decisions (7=5), but disagrees with impatience for immediate solutions (8=2, 9=2). This indicates a high need for closure with preference for structure and certainty.
+- Need for Cognition: Mixed but generally moderate; agrees a little with enjoying thinking and problem solving (2=4, 6=4, 10=4, 11=4, 13=4), but neither agrees nor disagrees or disagrees with some items (1=3, 14=1, 15=3). Suggests moderate engagement in effortful thinking.
+- Maximizer: Disagrees a little with always seeking better options or opportunities (1=2, 2=2), agrees a little with difficulty shopping for gifts and clothing (3=4,4=4), and having high standards (5=4), but neither agrees nor disagrees with never settling for second best (6=3). Indicates low to moderate maximizer tendencies.
+- Self-monitoring: Somewhat true but with exceptions for ability to alter behavior (1=4), somewhat false but with exceptions for controlling impression (2=3,3=3,5=3,6=3), generally true for reading emotions (8=5,10=5,12=5), somewhat true for sensitivity to facial expressions (9=4,11=4), somewhat false for detecting lies (13=3). Indicates moderate self-monitoring ability.
+- Self-concept clarity: Strongly agrees with clear sense of self (11=5), strongly disagrees with conflicting or changing self-beliefs (1=1,2=1,3=1,4=1,8=1,9=1), seldom experiences conflict between personality aspects (6=5). Indicates high self-concept clarity.
+
+w_social estimate: 0.75 -- This person shows strong empathy and concern for others (empathy items 2,3,7,9), values loyalty, politeness, compassion, and civility highly (values items 11,12,17,19), prefers cooperation and is considerate (personality items 7,32,42), and has moderate self-monitoring ability (self-monitoring items 1,8,10). Their decision behavior in economic games emphasizes fairness and generosity, supporting a relatively high social reasoning weight.
+
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following questions as if you were taking this survey. The expected output is a JSON object and the format is provided in the end. 
+---
+
+Q1:
+Would you support or oppose...
+Question Type: Matrix
+Options:
+  1 = Strongly oppose
+  2 = Somewhat oppose
+  3 = Neither oppose nor support
+  4 = Somewhat support
+  5 = Strongly support
+1. Placing a tax on carbon emissions?
+Answer: [Masked]
+2. Ensuring 40% of all new clean energy infrastructure development spending goes to low-income communities?
+Answer: [Masked]
+3. Federal investments to ensure a carbon-pollution free electricity sector by 2035?
+Answer: [Masked]
+4. A ‘Medicare for All’ system in which all Americans would get healthcare from a government-run plan?
+Answer: [Masked]
+5. A ‘public option’, which would allow Americans to buy into a government-run healthcare plan if they choose to do so?
+Answer: [Masked]
+6. Immigration reforms that would provide a path to U.S. citizenship for undocumented immigrants currently in the United States?
+Answer: [Masked]
+7. A law that requires companies to provide paid family leave for parents?
+Answer: [Masked]
+8. A 2% tax on the assets of individuals with a net worth of more than $50 million?
+Answer: [Masked]
+9. Increasing deportations for those in the US illegally?
+Answer: [Masked]
+10. Offering seniors healthcare vouchers to purchase private healthcare plans in place of traditional medicare coverage?
+Answer: [Masked]
+
+Q2:
+A panel of psychologist have interviewed and administered personality tests to 30 engineers and 70 lawyers, all successful in their respective fields. On the basis of this information, thumbnail descriptions of the 30 engineers and 70 lawyers have been written. Below is one description, chosen at random from the 100 available descriptions. Jack is a 45-year-old man. He is married and has four children. He is generally conservative, careful, and ambitious. He shows no interest in political and social issues and spends most of his free time on his many hobbies which include home carpentry, sailing, and mathematical puzzles. The probability that Jack is one of the 30 engineers in the sample of 100 is ___%. Please indicate the probability on a scale from 0 to 100.
+Question Type: Slider
+1. [No Statement Needed]
+Answer: [Masked]
+
+Q3:
+Imagine that the U.S. is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows: If Program A is adopted, 400 people will die. If Program B is adopted, there is 1/3 probability that nobody people will die, and 2/3 probability that 600 people be die. Which of the two programs would you favor?
+Question Type: Single Choice
+Options:
+  1 - I strongly favor program A
+  2 - I favor program A
+  3 - I slightly favor program A
+  4 - I slightly favor program B
+  5 - I favor program B
+  6 - I strongly favor program B
+Answer: [Masked]
+
+Q4:
+Linda is 31 years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations. Please complete the statements below.
+Question Type: Matrix
+Options:
+  1 = Extremely improbable
+  2 = Very improbable
+  3 = Somewhat probable
+  4 = Moderately probable
+  5 = Very probable
+  6 = Extremely probable
+1. It is ___ that Linda is a teacher in an elementary school
+Answer: [Masked]
+2. It is ___ that Linda works in a bookstore and takes Yoga classes
+Answer: [Masked]
+3. It is ___ that Linda is a bank teller and is active in the feminist movement
+Answer: [Masked]
+
+Q5:
+A 55-year-old man had a heart condition. He had to stop working because of chest pain. He enjoyed his work and did not want to stop. His pain also interfered with other things, such as travel and recreation. A type of bypass operation would relieve his pain and increase his life expectancy from age 65 to age 70. However, 8% of the people who have this operation die from the operation itself. His physician decided to go ahead with the operation. The operation succeeded. Evaluate the physician's decision to go ahead with the operation.
+Question Type: Single Choice
+Options:
+  1 - Incorrect, a very bad decision
+  2 - Incorrect, all things considered
+  3 - Incorrect, but not unreasonable
+  4 - The decision and its opposite are equally good
+  5 - Correct, but the opposite would be reasonable too
+  6 - Correct, all things considered
+  7 - Clearly correct, an excellent decision
+Answer: [Masked]
+
+Q6:
+Do you think there are more or fewer than 12 African countries in the United Nations?
+Question Type: Single Choice
+Options:
+  1 - more
+  2 - fewer
+Answer: [Masked]
+
+Q7:
+How many African countries do you think are in the United Nations?
+Question Type: Text Entry
+Answer: [Masked]
+
+Q8:
+Is the tallest redwood tree in the world more or less than 85 feet tall?
+Question Type: Single Choice
+Options:
+  1 - more
+  2 - less
+Answer: [Masked]
+
+Q9:
+How tall do you think the tallest redwood tree in the world is? Enter a number of feet.
+Question Type: Text Entry
+Answer: [Masked]
+
+Q10:
+Please rate your level of disagreement or agreement with the following statement: "I would find a game that had a 7/36 chance of winning $9 and a 29/36 chance of losing $0.05 extremely attractive."
+Question Type: Single Choice
+Options:
+  1 - Disagree strongly
+  2 - Disagree a little
+  3 - Neither agree nor disagree
+  4 - Agree a little
+  5 - Agree strongly
+Answer: [Masked]
+
+Q11:
+Imagine that highway safety experts have determined that a substantial number of people are at risk of dying in a type of automobile fire. A requirement that every car have a built-in fire extinguisher (estimated cost, $300) would save 98% of the 150 people who would otherwise die every year in this type of automobile fire. Rate the following statement about yourself: I would be supportive of this requirement.
+Question Type: Single Choice
+Options:
+  1 - Disagree strongly
+  2 - Disagree a little
+  3 - Neither agree nor disagree
+  4 - Agree a little
+  5 - Agree strongly
+Answer: [Masked]
+
+Q12:
+You have recently graduated from university, obtained a good job, and are buying a new car. A newly designed seatbelt has just become available that would save the lives of 98% of the 500 drivers a year who are involved in a type of head-on-collision. (Approximately half of these fatalities involve drivers who were not at fault.) The newly designed seatbelt is not yet standard on most car models. However, it is available as a $500 option for the car model that you are ordering. How likely is it that you would order your new car with this optional seatbelt?
+Question Type: Single Choice
+Options:
+  1 - very unlikely
+  2 - unlikely
+  3 - somewhat unlikely
+  4 - somewhat likely
+  5 - likely
+  6 - very likely
+Answer: [Masked]
+
+Q13:
+Imagine that you just paid $50 for a Coffee Connection discount card that allows you to buy coffee for 50% off the regular price of $3.00 (i.e., you pay $1.50). Soon after you purchased the Coffee Connection discount card, Java Coffee, a competitor, opened a new store that sells coffee for just $2.00 per cup. Although the Coffee Connection store is ten minutes away by car, Java Coffee is only about 1/2 block from your apartment. Assuming that you only buy coffee from these two places and that you like the coffee sold in both places the same, how many of your next 20 coffee purchases would be from Java Coffee? Enter a number between 0 and 20.
+Question Type: Text Entry
+Answer: [Masked]
+
+Q14:
+Imagine that you go to purchase a jacket for $250. The jacket salesperson informs you that the jacket you wish to buy is on sale for $240 at the other branch of the store which is ten minutes away by car. Would you drive to the other store?
+Question Type: Single Choice
+Options:
+  1 - Yes
+  2 - No
+Answer: [Masked]
+
+Q15:
+Imagine that a group of research scientists in the School of Medicine are running a laboratory experiment on a vaccine for a rare and fatal virus. The possibility of actually contracting the disease from the vaccine is 1 in 1,000, but once you have the disease there is no known cure. The scientists are seeking volunteers to test the vaccine on. What is the lowest amount that you would have to be paid before you would take part in this experiment?
+Question Type: Single Choice
+Options:
+  1 - $10
+  2 - $100
+  3 - $1,000
+  4 - $10,000
+  5 - $50,000
+  6 - $100,000
+  7 - $250,000
+  8 - $500,000
+  9 - $1,000,000
+  10 - $5,000,000 or more
+Answer: [Masked]
+
+Q16:
+Choose between:
+Question Type: Single Choice
+Options:
+  1 - One million dollars for sure
+  2 - 89% probability of one million dollars 10% probablity of five miillion dollars 1% probability of nothing
+Answer: [Masked]
+
+Q17:
+According to a comprehensive study by the U.S. Department of Transportation, a particular German car is 8 times more likely than a typical family car to kill occupants of another car in a crash. The U.S. Department of Transportation is considering recommending a ban on the sale of this German car. Do you think that the U.S. should ban the sale of the German car?
+Question Type: Single Choice
+Options:
+  1 - definitely no
+  2 - no
+  3 - probably no
+  4 - probably yes
+  5 - yes
+  6 - definitely yes
+Answer: [Masked]
+
+Q18:
+Consider the following situation: A die with 4 red faces and 2 green faces will be rolled 6 times. Before each roll you will be asked to predict which color (red or green) will show up once the die is rolled. Which color is most likely to show up after ...
+Question Type: Matrix
+Options:
+  1 = red
+  2 = green
+1. roll #1
+Answer: [Masked]
+2. roll #2
+Answer: [Masked]
+3. roll #3
+Answer: [Masked]
+4. roll #4
+Answer: [Masked]
+5. roll #5
+Answer: [Masked]
+6. roll #6
+Answer: [Masked]
+
+Q19:
+Please rate the following technology or products from "not at all beneficial" to "extremely beneficial"
+Question Type: Matrix
+Options:
+  1 = not at all beneficial
+  2 = low benefit
+  3 = slightly beneficial
+  4 = neutral
+  5 = moderately beneficial
+  6 = very beneficial
+  7 = extremely beneficial
+1. bicycles
+Answer: [Masked]
+2. alcoholic beverages
+Answer: [Masked]
+3. chemical plants
+Answer: [Masked]
+4. pesticides
+Answer: [Masked]
+
+Q20:
+Please rate the following technology or products from "not at all risky" to "extremely risky"
+Question Type: Matrix
+Options:
+  1 = not at all risky
+  2 = low risk
+  3 = slightly risky
+  4 = neutral
+  5 = moderately risky
+  6 = very risky
+  7 = extremely risky
+1. bicycles
+Answer: [Masked]
+2. alcoholic beverages
+Answer: [Masked]
+3. chemical plants
+Answer: [Masked]
+4. pesticides
+Answer: [Masked]
+
+Q21:
+Imagine that there will be a deadly flu going around your area next winter. Your doctor says that you have a 10% chance (10 out of 100) of dying from this flu. However, a new flu vaccine has been developed and tested. If taken, the vaccine prevents you from catching the deadly flu. However, there is one serious risk involved with taking this vaccine. The vaccine is made from a somewhat weaker type of flu virus, and there is a 5% (5 out of 100) risk of the vaccine causing you to die from the weaker type of flu. Imagine that this vaccine is completely covered by health insurance. If you had to decide now, which would you choose?
+Question Type: Single Choice
+Options:
+  1 - I would definitely not take the vaccine. I would thus accept the 10% chance of dying from this flu.
+  2 - I would probably not take the vaccine. I would thus accept the 10% chance of dying from this flu.
+  3 - I would probably take the vaccine. I would thus accept the 5% chance of dying from the weaker flu in the vaccine
+  4 - I would definitely take the vaccine. I would thus accept the 5% chance of dying from the weaker flu in the vaccine.
+Answer: [Masked]
+
+Q22:
+Assume that you are presented with two trays of black and white marbles, a large tray that contains 100 marbles and a small tray that contains 10 marbles. The marbles are spread in a single layer in each tray. You must draw out one marble (without peeking, of course) from either tray. If you draw a black marble you win $2. Consider a condition in which the small tray contains 1 black marble and 9 white marbles, and the large tray contains 8 black marbles and 92 white marbles. From which tray would you prefer to select a marble in a real situation?
+Question Type: Single Choice
+Options:
+  1 - the small tray
+  2 - the large tray
+Answer: [Masked]
+
+Q23:
+What percentage of the public do you think supports the following policies? For each policy, choose a number from 0% to 100%.
+Question Type: Slider
+1. Placing a tax on carbon emissions
+Answer: [Masked]
+2. Ensuring 40% of all new clean energy infrastructure development spending goes to low-income communities
+Answer: [Masked]
+3. Federal investments to ensure a carbon-pollution free electricity sector by 2035
+Answer: [Masked]
+4. A ‘Medicare for All’ system in which all Americans would get healthcare from a government-run plan
+Answer: [Masked]
+5. A ‘public option’, which would allow Americans to buy into a government-run healthcare plan if they choose to do so
+Answer: [Masked]
+6. Immigration reforms that would provide a path to U.S. citizenship for undocumented immigrants currently in the United States
+Answer: [Masked]
+7. A law that requires companies to provide paid family leave for parents
+Answer: [Masked]
+8. A 2% tax on the assets of individuals with a net worth of more than $50 million
+Answer: [Masked]
+9. Increasing deportations for those in the US illegally
+Answer: [Masked]
+10. Offering seniors healthcare vouchers to purchase private healthcare plans in place of traditional medicare coverage
+Answer: [Masked]
+
+You will now be asked a series of 40 questions. In each question, you will given information about a product that you may or may not decide to purchase in a store. There is no right or wrong answer. Please answer truthfully according to your preferences.
+[Descriptive Information]
+
+Q24:
+Please consider the following product category: Candy - Non-Chocolate. Suppose you are in a grocery store, and you see the following product in that category: HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag. The product is priced at: $1.30. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q25:
+Please consider the following product category: Refrigerated Bacon. Suppose you are in a grocery store, and you see the following product in that category: Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box. The product is priced at: $5.12. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q26:
+Please consider the following product category: Dairy - Milk - Refrigerated. Suppose you are in a grocery store, and you see the following product in that category: Great Value Milk Whole Vitamin D Gallon. The product is priced at: $4.70. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q27:
+Please consider the following product category: Refrigerated Deli Meats. Suppose you are in a grocery store, and you see the following product in that category: Goya Cooked Ham 16 oz. The product is priced at: $59.98. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q28:
+Please consider the following product category: Cereal - Ready to Eat. Suppose you are in a grocery store, and you see the following product in that category: Cinnamon Toast Crunch Breakfast Cereal, Crispy Cinnamon Cereal, Family Size, 18.8 oz. The product is priced at: $6.90. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q29:
+Please consider the following product category: Soft Drinks - Low Calorie. Suppose you are in a grocery store, and you see the following product in that category: Coca-Cola Zero Sugar Soda Pop, 16.9 fl oz, 6 Pack Cans. The product is priced at: $4.14. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q30:
+Please consider the following product category: Ground and Whole Bean Coffee. Suppose you are in a grocery store, and you see the following product in that category: Folgers Classic Roast Ground Coffee, Medium Roast, 40.3-Ounce Canister. The product is priced at: $10.59. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q31:
+Please consider the following product category: Bottled Water. Suppose you are in a grocery store, and you see the following product in that category: OZARKA Brand 100% Natural Spring Water, 16.9-ounce plastic bottles (Pack of 35). The product is priced at: $7.98. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q32:
+Please consider the following product category: Toilet Tissue. Suppose you are in a grocery store, and you see the following product in that category: Angel Soft Toilet Paper, 9 Mega Rolls, Soft and Strong Toilet Tissue. The product is priced at: $5.34. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q33:
+Please consider the following product category: Detergents - Heavy Duty - Liquid. Suppose you are in a grocery store, and you see the following product in that category: Purex Liquid Laundry Detergent Plus OXI, Stain Defense Technology, 128 Fluid Ounces, 85 Wash Loads. The product is priced at: $1.99. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q34:
+Please consider the following product category: Cookies. Suppose you are in a grocery store, and you see the following product in that category: Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz. The product is priced at: $1.07. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q35:
+Please consider the following product category: Pain Remedies - Headache. Suppose you are in a grocery store, and you see the following product in that category: Tylenol Extra Strength Caplets with 500 mg Acetaminophen, 100 Ct. The product is priced at: $15.36. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q36:
+Please consider the following product category: Fruit Drinks. Suppose you are in a grocery store, and you see the following product in that category: Kool Aid Jammers Variety Pack with Tropical Punch, Grape & Cherry Kids Drink 0% Juice Box Pouches, 30 Ct Box, 6 fl oz Pouches. The product is priced at: $13.09. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q37:
+Please consider the following product category: Paper Towels. Suppose you are in a grocery store, and you see the following product in that category: Bounty Select-a-Size Paper Towels, 12 Double Rolls, White. The product is priced at: $13.31. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q38:
+Please consider the following product category: Frozen Foods. Suppose you are in a grocery store, and you see the following product in that category: Great Value All Natural Chicken Wing Sections, 4 lb (Frozen). The product is priced at: $23.36. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q39:
+Please consider the following product category: Frozen Novelties. Suppose you are in a grocery store, and you see the following product in that category: Pop-Ice Assorted Fruit Freezer Ice Pops, Gluten-Free Snack, 1.5 oz, 80 Count Fruit Pops. The product is priced at: $6.17. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q40:
+Please consider the following product category: Lunchmeat - Sliced - Refrigerated. Suppose you are in a grocery store, and you see the following product in that category: Oscar Mayer Chopped Ham & Water product Deli Lunch Meat, 16 Oz Package. The product is priced at: $8.66. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q41:
+Please consider the following product category: Fruit Juice. Suppose you are in a grocery store, and you see the following product in that category: Capri Sun Variety Pack with Fruit Punch, Strawberry Kiwi & Pacific Cooler Juice Box Pouches, 30 ct Box, 6 fl oz Pouches. The product is priced at: $18.86. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q42:
+Please consider the following product category: Frankfurters - Refrigerated. Suppose you are in a grocery store, and you see the following product in that category: Oscar Mayer Classic Uncured Beef Franks Hot Dogs, 10 ct Pack. The product is priced at: $2.36. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q43:
+Please consider the following product category: Cat Food - Wet Type. Suppose you are in a grocery store, and you see the following product in that category: Purina Fancy Feast Chicken Feast Classic Grain Free Wet Cat Food Pate - 3 oz. Can. The product is priced at: $1.41. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q44:
+Please consider the following product category: Dairy Products. Suppose you are in a grocery store, and you see the following product in that category: Land O Lakes Salted Stick Butter, 16 oz, 4 Sticks. The product is priced at: $5.28. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q45:
+Please consider the following product category: Bakery - Fresh Cakes. Suppose you are in a grocery store, and you see the following product in that category: Little Debbie Zebra Cakes, 13 oz. The product is priced at: $1.61. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q46:
+Please consider the following product category: Refrigerated Entrees. Suppose you are in a grocery store, and you see the following product in that category: John Soules Foods Chicken Breast Fajita Strips, Refrigerated, 16oz, 18g Protein per 3oz Serving Size. The product is priced at: $0.00. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q47:
+Please consider the following product category: Cold Remedies - Adult. Suppose you are in a grocery store, and you see the following product in that category: Equate Value Size Honey Lemon Cough Drops with Menthol, 160 Count. The product is priced at: $4.68. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q48:
+Please consider the following product category: Ice Cream. Suppose you are in a grocery store, and you see the following product in that category: Haagen Dazs Coffee Ice Cream, Gluten Free, Kosher, 14.0 oz. The product is priced at: $7.52. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q49:
+Please consider the following product category: Yogurt - Refrigerated. Suppose you are in a grocery store, and you see the following product in that category: Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz, Plastic. The product is priced at: $6.70. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q50:
+Please consider the following product category: Frozen Italian Entrees. Suppose you are in a grocery store, and you see the following product in that category: Smart Ones Three Cheese Ziti Marinara Frozen Meal, 9 Oz Box. The product is priced at: $4.07. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q51:
+Please consider the following product category: Beer. Suppose you are in a grocery store, and you see the following product in that category: Stella Artois Lager, 12 Pack, 11.2 fl oz Glass Bottles, 5% ABV, Domestic Beer. The product is priced at: $25.17. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q52:
+Please consider the following product category: Soup. Suppose you are in a grocery store, and you see the following product in that category: Maruchan Ramen Noodle Chicken Flavor Soup, 3 Oz, 12 Count Shelf Stable Package. The product is priced at: $9.97. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q53:
+Please consider the following product category: Light Beer (Low Calorie/Alcohol). Suppose you are in a grocery store, and you see the following product in that category: Bud Light Beer, 24 Pack, 12 fl oz Aluminum Cans, 4.2% ABV, Domestic Lager. The product is priced at: $20.98. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q54:
+Please consider the following product category: Candy - Chocolate. Suppose you are in a grocery store, and you see the following product in that category: Hershey's Milk Chocolate Candy, Bars 1.55 oz, 6 Count. The product is priced at: $10.37. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q55:
+Please consider the following product category: Snacks - Tortilla Chips. Suppose you are in a grocery store, and you see the following product in that category: Doritos Nacho Cheese Tortilla Snack Chips, Party Size, 14.5 oz Bag. The product is priced at: $7.13. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q56:
+Please consider the following product category: Fresh Fruit. Suppose you are in a grocery store, and you see the following product in that category: Fresh Raspberries, 12 oz Container. The product is priced at: $1.90. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q57:
+Please consider the following product category: Cleaning Supplies. Suppose you are in a grocery store, and you see the following product in that category: ARM & HAMMER Pure Baking Soda, For Baking, Cleaning & Deodorizing, 1 lb Box. The product is priced at: $0.31. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q58:
+Please consider the following product category: Soft Drinks - Carbonated. Suppose you are in a grocery store, and you see the following product in that category: Coca-Cola Soda Pop, 12 fl oz, 12 Pack Cans. The product is priced at: $3.30. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q59:
+Please consider the following product category: Snacks - Potato Chips. Suppose you are in a grocery store, and you see the following product in that category: Lay's Classic Potato Snack Chips, Party Size, 13 oz Bag. The product is priced at: $0.00. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q60:
+Please consider the following product category: Fresh Eggs. Suppose you are in a grocery store, and you see the following product in that category: Eggland's Best Classic Extra Large White Eggs, 12 count. The product is priced at: $5.09. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q61:
+Please consider the following product category: Pet Supplies - Dog Food. Suppose you are in a grocery store, and you see the following product in that category: Purina Dog Chow Complete, Dry Dog Food for Adult Dogs High Protein, Real Chicken, 44 lb Bag. The product is priced at: $23.34. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q62:
+Please consider the following product category: Baby Milk and Milk Flavoring. Suppose you are in a grocery store, and you see the following product in that category: Horizon Organic Shelf-Stable Whole Milk Boxes, 8 oz., 12 Pack. The product is priced at: $11.18. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+Q63:
+Please consider the following product category: Batteries. Suppose you are in a grocery store, and you see the following product in that category: Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack. The product is priced at: $12.78. Would you or would you not purchase this product?
+Question Type: Single Choice
+Options:
+  1 - Yes, I would purchase the product
+  2 - No, I would not purchase the product
+Answer: [Masked]
+
+
+### Format Instructions:
+In order to facilitate the postprocessing, you should generate string that can be parsed into a valid JSON object with the following format:
+{
+    "Q1": {
+    "Question Type": "XX",
+    "Answers": {
+        see below
+    } 
+    },
+    "Q2": {
+    "Question Type": "XX",
+    "Answers": {
+        see below
+    } 
+    },
+    ....
+}
+
+The question type can be one of the following:
+1. Matrix 
+For Matrix questions, the answers should include two lists, one for the selected positions and one for the selected texts.
+For example, 
+
+Would you support or oppose...
+Question Type: Matrix
+Options:
+1 = Strongly oppose
+2 = Somewhat oppose
+3 = Neither oppose nor support
+4 = Somewhat support
+5 = Strongly support
+1. Placing a tax on carbon emissions?
+Answer: [Masked]
+2. Ensuring 40% of all new clean energy infrastructure development spending goes to low-income communities?
+Answer: [Masked]
+3. Federal investments to ensure a carbon-pollution free electricity sector by 2035?
+Answer: [Masked]
+4. A 'Medicare for All' system in which all Americans would get healthcare from a government-run plan?
+Answer: [Masked]
+5. A 'public option', which would allow Americans to buy into a government-run healthcare plan if they choose to do so?
+Answer: [Masked]
+6. Immigration reforms that would provide a path to U.S. citizenship for undocumented immigrants currently in the United States?
+Answer: [Masked]
+7. A law that requires companies to provide paid family leave for parents?
+Answer: [Masked]
+8. A 2% tax on the assets of individuals with a net worth of more than $50 million?
+Answer: [Masked]
+9. Increasing deportations for those in the US illegally?
+Answer: [Masked]
+10. Offering seniors healthcare vouchers to purchase private healthcare plans in place of traditional medicare coverage?
+Answer: [Masked] 
+
+Examples Answers:
+{
+    "Answers": {
+        "SelectedByPosition": [1, 2, 3, 4, 5, 1, 2, 3, 4, 5],
+        "SelectedText": ["Strongly oppose", "Somewhat oppose", "Neither oppose nor support", "Somewhat support", "Strongly support", "Strongly oppose", "Somewhat oppose", "Neither oppose nor support", "Somewhat support", "Strongly support"]
+    }
+}
+
+2. Single Choice
+For Single Choice questions, the answers should include the selected position and the selected text.
+For example,
+
+Imagine that the U.S. is preparing for the outbreak of an unusual disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows: If Program A is adopted, 400 people will die. If Program B is adopted, there is 1/3 probability that nobody people will die, and 2/3 probability that 600 people be die. Which of the two programs would you favor?
+Question Type: Single Choice
+Options:
+1 - I strongly favor program A
+2 - I favor program A
+3 - I slightly favor program A
+4 - I slightly favor program B
+5 - I favor program B
+6 - I strongly favor program B
+Answer: [Masked]
+
+Examples Answers:
+{
+    "Answers": {
+        "SelectedByPosition": 1,
+        "SelectedText": "I strongly favor program A"
+    }
+}
+    
+3. Slider 
+For Slider questions, the answers should simply include the a list of answers. 
+For example,
+
+A panel of psychologist have interviewed and administered personality tests to 30 engineers and 70 lawyers, all successful in their respective fields. On the basis of this information, thumbnail descriptions of the 30 engineers and 70 lawyers have been written. Below is one description, chosen at random from the 100 available descriptions. Jack is a 45-year-old man. He is married and has four children. He is generally conservative, careful, and ambitious. He shows no interest in political and social issues and spends most of his free time on his many hobbies which include home carpentry, sailing, and mathematical puzzles. The probability that Jack is one of the 30 engineers in the sample of 100 is ___%. Please indicate the probability on a scale from 0 to 100.
+Question Type: Slider
+1. [No Statement Needed]
+Answer: [Masked]
+
+Examples Answers:
+{
+    "Answers": {
+        "Values": ["55"],
+    }
+}
+
+4. Text Entry
+For Text Entry questions, the answers should simply include the text.
+For example,
+
+Question Type: Text Entry
+Answer: [Masked]
+
+Examples Answers:
+{
+    "Answers": {
+        "Text": "70"
+    }
+}
