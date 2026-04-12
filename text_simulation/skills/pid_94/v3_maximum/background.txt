@@ -1,0 +1,76 @@
+Demographics: Male, Asian, aged 30-49, living in the U.S. Midwest, married, college graduate/some postgrad education, full-time employed, U.S. citizen, moderate political views but identifies as Democrat, household size of 3, income $100,000 or more, no strong religious affiliation (seldom attends services, "nothing in particular"). This suggests a relatively stable, middle-aged professional with a solid educational background and moderate-liberal political orientation, likely exposed to diverse cultural and intellectual environments but rooted in a Midwestern U.S. context.
+
+Big Five Personality (44 items):  
+- Extraversion: Moderate-high (talkative 4, outgoing 4, full of energy 4, sociable 4, but not strongly assertive or original).  
+- Agreeableness: Moderately high (helpful 4, forgiving 4, considerate 4, trusting 4, kind 4).  
+- Conscientiousness: Moderately high (does a thorough job 4, reliable 4, perseveres 4, organized 7/9 self-rating, efficient 7/9, systematic 8/9, practical 8/9).  
+- Neuroticism: Very low (disagree strongly with being tense, moody, worried, nervous, depressed; emotionally stable 5).  
+- Openness: Moderate-low (disagree a little on originality, imagination, artistic interests, ingenuity; neither agree nor disagree on being a deep thinker or inventive).  
+Overall, a stable, conscientious, moderately extraverted, agreeable individual with moderate openness but not highly imaginative or artistic.
+
+Need for Cognition (18 items): Mixed to moderate.  
+- Likes responsibility requiring thinking (4), enjoys coming up with new solutions (4), likes relying on thought to succeed (4).  
+- Neutral or slightly negative on preferring complex problems (3), satisfaction from long deliberation (3), thinking abstractly (2), and puzzles (2).  
+- Disagrees with thinking only as hard as necessary (2), and avoiding deep thought (2).  
+This suggests moderate engagement with cognitive effort, willing to think but not deeply or abstractly inclined.
+
+Values (24 items):  
+- Highest: Wealth (8), Pleasure (8), Competence (8), Humility (8), Forgiveness (7), Trust (7), Loyalty (7), Politeness (7), Harmony (7), Excitement (7), Honesty (7), Compassion (7).  
+- Moderate: Achievement (6), Altruism (6), Power (6), Status (6), Civility (6).  
+- Lower but still important: Influence (5), Ambition (5), Autonomy (5), Equality (5), Recognition (5), Tradition (5), Superiority (5).  
+This profile reveals a pragmatic, success-oriented worldview valuing financial success, competence, and social harmony, combined with humility and forgiveness. Ambition and power are moderate, suggesting balanced drive without dominance focus. Social values like loyalty, politeness, and compassion are important, indicating a socially considerate but achievement-oriented person.
+
+Minimalism/Consumerism: Neutral to low minimalism.  
+- Disagrees a little with avoiding accumulating stuff, restricting possessions, sparse environments, and mindful curation (mostly 2 or 3).  
+- Neither agrees nor disagrees on simplicity in design and mindful selection.  
+This suggests a person who is not minimalist, likely comfortable with moderate possessions and not particularly focused on curating or reducing belongings.
+
+Empathy (20 items): Moderate.  
+- Agrees a little with feeling sad after friends are sad, understanding friends’ happiness, recognizing emotions quickly (mostly 4).  
+- Disagrees a little with being unaffected by others’ feelings (1-2).  
+- Neither agrees nor disagrees on being easily caught up in others’ feelings.  
+This indicates moderate emotional empathy, able to read and respond to others’ emotions but not overwhelmed by them.
+
+Consumerism/Uniqueness: Neutral to low uniqueness seeking.  
+- Mostly neither agree nor disagree or disagree a little on statements about seeking unique or unusual products, breaking social rules in consumption, or avoiding popular products.  
+- Indicates a conventional consumer, not strongly driven to stand out or rebel via consumption.
+
+Cognitive Test Performance:  
+- Self-estimated 30/42 correct (approx. 71%), matching their estimate of average US adult performance.  
+- Correct answers on logical syllogisms and deductive reasoning, including some that are known to be tricky (e.g., all XAR are YOF, and conclusions about glocks and koy).  
+- Some errors or uncertainty in spatial cube rotation tasks (selected "none of the cubes could be a rotation" and other less optimal answers), indicating moderate spatial reasoning but not strong.  
+- Word association chain is coherent, concrete, and sequentially logical (toaster → toast → butter → knife → cut → slice → cheese → melt → sandwich → lunch → plate → table → chair → wood → tree → leaves → green → grass → flower → water), showing linear, concrete associative thinking rather than abstract or highly creative.  
+- Vocabulary synonyms and antonyms mostly correct, indicating good verbal knowledge and semantic understanding.
+
+Social Desirability:  
+- Some inconsistencies in self-report (e.g., admitting to taking advantage of someone, but denying resentment or jealousy).  
+- Social desirability scale not explicitly scored but answers suggest moderate honesty with some social desirability bias (e.g., high ratings on courtesy, reliability, and low on negative traits).  
+- Self-monitoring scale responses are mixed, mostly "somewhat false but with exceptions," indicating moderate ability to adjust behavior but not high strategic self-presentation.
+
+Economic Games (Dictator and Ultimatum):  
+- As proposer in dictator game, keeps all $5, sends $0 (selfish).  
+- As responder, accepts all offers including $0 (very tolerant).  
+- In trust game, sends $2 (out of $5), keeps $3; as receiver, returns about half of received money (e.g., keeps $10 of $15, sends back $5).  
+- Thoughts during decisions: "try to get more myself, but not take all," indicating pragmatic self-interest with some consideration for fairness.  
+- Suggests strategic but self-favoring economic behavior, willing to accept low offers but not generous in giving.
+
+Intertemporal Choice:  
+- Prefers smaller-sooner rewards over larger-later rewards until the difference is substantial (e.g., chooses $3 now over $6 in 1 week, but switches to $6 in 6 weeks over $5 in 5 weeks).  
+- Indicates moderate to low patience, somewhat present-biased but willing to wait for sufficiently better rewards.  
+- Suggests moderate temporal discounting.
+
+Loss Framing Responses:  
+- Prefers sure smaller losses over probabilistic larger losses, consistent with loss aversion.  
+- Shows risk aversion in losses, consistent with typical economic behavior.
+
+Self-Concept Clarity:  
+- Mostly stable self-view (disagree strongly or a little with conflicting self-beliefs, changing self-views).  
+- Agrees a little with having a clear sense of self.  
+- Suggests moderate to high self-concept clarity.
+
+Depression/Anxiety Symptoms:  
+- Reports no significant symptoms of depression or anxiety.  
+- Emotionally stable, not easily upset.
+
+Summary:  
+This is a moderately extraverted, conscientious, emotionally stable, and socially agreeable male in his 30s-40s, Asian-American, college-educated, with a moderate-liberal political stance and high income. He values financial success, competence, humility, and social harmony, with moderate empathy and conventional consumer habits. Cognitively, he is moderately engaged, with good verbal and logical reasoning but average spatial skills. He is pragmatic and self-interested in economic decisions, moderately patient, and shows typical loss aversion. His self-concept is stable, and he reports no mental health issues. Social desirability bias is moderate but not extreme.

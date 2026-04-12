@@ -1,0 +1,34 @@
+- Need for Closure:
+  - Dislikes uncertainty and ambiguous questions (Q1: 4 - Agree a little; Q2: 5 - Agree strongly)
+  - Prefers ordered life and routine (Q3: 5 - Agree strongly; Q12: 5 - Agree strongly; Q13: 5 - Agree strongly)
+  - Feels relief when decisions made (Q7: 4 - Agree a little)
+  - Wants quick solutions (Q8: 5 - Agree strongly)
+  - Some impatience with lack of immediate solutions (Q9: 4 - Agree a little)
+  - Dislikes unpredictable situations (Q15: 4 - Agree a little)
+- Need for Cognition:
+  - Mixed responses, some preference for thinking (Q2: 4 - Agree a little; Q11: 4 - Agree a little; Q14: 4 - Agree a little)
+  - Also some avoidance of deep thinking (Q5: 4 - Agree a little; Q7: 4 - Agree a little; Q8: 4 - Agree a little)
+  - Feels relief after mental effort (Q16: 5 - Agree strongly)
+  - Deliberates about issues even if not personal (Q18: 5 - Agree strongly)
+- Maximizer:
+  - Sometimes checks for better options (Q1: 4 - Agree a little)
+  - On lookout for better opportunities (Q2: 4 - Agree a little)
+  - Finds it difficult to shop for gifts (Q3: 5 - Agree strongly)
+  - Holds high standards for self (Q5: 4 - Agree a little)
+  - Never settles for second best (Q6: 4 - Agree a little)
+- Self-monitoring:
+  - Generally able to alter behavior in social situations (Q1: 5 - Generally true)
+  - Somewhat able to control impression given (Q2: 3 - Somewhat false with exceptions)
+  - Can change image if not working (Q3: 4 - Somewhat true)
+  - Does not have trouble changing behavior to suit situations (Q4: 2 - Generally false)
+  - Can adjust behavior to meet requirements (Q5: 5 - Generally true)
+  - Can tell when said something inappropriate (Q12: 5 - Generally true)
+- Self-concept clarity:
+  - Beliefs about self often conflict a little (Q1: 4 - Agree a little)
+  - Opinions of self vary somewhat day to day (Q2: 4 - Agree a little)
+  - Spend time wondering about true self (Q3: 4 - Agree a little)
+  - Some uncertainty about past self (Q5: 4 - Agree a little)
+  - Clear sense of who they are: Agree a little (Q11: 4 - Agree a little)
+  - Difficulty making up mind about wants: Agree strongly (Q12: 5 - Agree strongly)
+
+w_social estimate: 0.7 -- The person shows moderate to high social reasoning and awareness, indicated by generally high self-monitoring scores (items 1, 5, 12), empathy-related thoughts during economic games, and moderate self-concept clarity with some social sensitivity. The Need for Closure and Need for Cognition scores suggest a preference for order and deliberation, supporting thoughtful social decision-making.

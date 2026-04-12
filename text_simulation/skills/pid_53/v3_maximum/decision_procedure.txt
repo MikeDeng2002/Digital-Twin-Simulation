@@ -1,0 +1,31 @@
+Need for Closure: High. Strong agreement with disliking uncertainty, preference for routine, dislike of ambiguous or unpredictable situations, desire for quick resolution of problems (though not impatient). This suggests a preference for fast closure once a plausible answer is found.
+
+Need for Cognition: Very low. Avoids deep thinking, prefers simple tasks, feels relief after mental effort, does not enjoy intellectual challenge. This person invests minimal analytical effort in forming views.
+
+Maximizer: Low. Does not seek the best possible answer, more likely to satisfice. Accepts "good enough" solutions rather than exhaustive search or comparison.
+
+Self-monitoring: Moderate to low. Some ability to adjust behavior but limited sensitivity to social cues and others' emotions. Does not strongly defer to social pressure but notices social context.
+
+Self-concept Clarity: Moderate. Generally stable self-view, values independence and self-reliance, resists social influence, but some minor fluctuations and occasional self-doubt.
+
+Economic Game Gap: Proposes moderately fair splits in dictator game, accepts fair offers in ultimatum game, expects moderate reciprocity in trust game. Behaviorally consistent with stated fairness norms but pragmatic and cautious. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: Moderate impatience. Prefers immediate smaller rewards unless delayed reward is substantially better. Suggests moderate discounting of future outcomes.
+
+Cognitive Errors: Some errors in complex syllogistic reasoning (especially negation and contrapositives), occasional semantic confusion (e.g., synonym for furtive), and spatial reasoning errors in cube rotation tasks. Indicates a reasoning style that is competent but prone to errors under complexity or abstraction. Likely to rely on heuristic or surface features rather than deep logical analysis in numeric prediction tasks.
+
+Social Desirability: Moderate. Some frankness about negative traits and behaviors, but possible underreporting of empathy and social sensitivity. Self-reports are moderately reliable but should be interpreted with caution.
+
+w_social estimate: 0.35
+
+Reasoning: The estimate of 0.35 reflects moderate but limited social influence on this person's reasoning and predictions. The individual shows low empathy and social sensitivity, moderate self-monitoring, and a stable but somewhat self-reliant self-concept, indicating they do not heavily rely on social consensus or emotional cues. However, their moderate need for closure and preference for quick resolution suggest some susceptibility to social norms or prevailing views to reduce uncertainty. Their economic game behavior shows fairness concerns but pragmatic self-interest, consistent with moderate social influence. Conflicting signals include low empathy and social engagement versus moderate social monitoring and conformity to fairness norms. The low need for cognition and shallow research depth imply reliance on heuristics and social cues when available, but overall, social influence is limited but not absent.
+
+This profile predicts that for open numeric prediction questions like "What will Bitcoin's price be next year?" or "What year will AGI arrive?" this person will:  
+- Prefer simple, heuristic-based answers rather than complex probabilistic reasoning.  
+- Seek quick closure, likely anchoring on salient or socially popular estimates rather than deep analysis.  
+- Show moderate fairness and pragmatic reasoning in economic or strategic contexts.  
+- Be somewhat skeptical or emotionally detached from social hype but may still be influenced by mainstream consensus due to need for closure.  
+- Likely avoid deep technical or speculative sources, relying on mainstream media or simplified summaries.  
+- Exhibit moderate cognitive errors under complexity, so numeric predictions may be biased by heuristic shortcuts and framing effects.
+
+Overall, this is a moderately socially influenced, low-cognition, pragmatic, and somewhat emotionally detached individual with moderate depressive symptoms and a preference for simplicity and routine.

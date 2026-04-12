@@ -1,0 +1,12 @@
+- Need for Closure:
+  - Strong agreement with disliking uncertainty and ambiguous situations (Items: "I don’t like situations that are uncertain" = 5 - Agree strongly; "I dislike questions which could be answered in many different ways" = 5 - Agree strongly; "I find that establishing a consistent routine enables me to enjoy life more" = 5 - Agree strongly; "I enjoy having a clear and structured mode of life" = 5 - Agree strongly; "I do not usually consult many different opinions before forming my own view" = 1 - Disagree strongly)
+- Need for Cognition:
+  - Moderate agreement with enjoying thinking and complex problems (Items: "I would prefer complex to simple problems" = 4 - Agree a little; "I like to have the responsibility of handling a situation that requires a lot of thinking" = 4 - Agree a little; "Thinking is not my idea of fun" = 2 - Disagree a little)
+- Maximizer:
+  - Somewhat moderate maximizer tendencies (Items: "No matter how satisfied I am with my job, it’s only right for me to be on the lookout for better opportunities" = 5 - Agree strongly; "No matter what I do, I have the highest standards for myself" = 4 - Agree a little; "I never settle for second best" = 2 - Disagree a little)
+- Self-monitoring:
+  - Moderate self-monitoring (Items: "I have the ability to control the way I come across to people" = 4 - Somewhat true; "Once I know what the situation calls for, it's easy for me to regulate my actions accordingly" = 5 - Generally true; "I have trouble changing my behavior to suit different people and different situations" = 2 - Generally false)
+- Self-concept clarity:
+  - Somewhat low clarity (Items: "In general, I have a clear sense of who I am and what I am" = 2 - Disagree a little; "My beliefs about myself often conflict with one another" = 2 - Disagree a little; "I spend a lot of time wondering about what kind of person I really am" = 4 - Agree a little; "Sometimes I feel that I am not really the person that I appear to be" = 4 - Agree a little)
+  
+w_social estimate: 0.4 -- This estimate reflects moderate self-monitoring and moderate need for cognition, combined with a strong need for closure and somewhat low self-concept clarity, indicating some social awareness but also preference for certainty and routine (citing Need for Closure items 1,2,12; Self-monitoring items 2,3,7; Self-concept clarity items 11,3,4).

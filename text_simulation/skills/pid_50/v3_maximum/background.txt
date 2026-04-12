@@ -1,0 +1,39 @@
+Demographics: Female, age 65+, White, living in the Southern US, retired, married, Roman Catholic but attends religious services seldomly. Education level is Associate’s degree, family income $50,000-$75,000, politically a liberal Democrat. Household size is two. These demographics suggest a stable, middle-class lifestyle with moderate educational attainment and a likely traditional cultural background tempered by liberal political views. Retirement and age imply more time for reflection and possibly less exposure to fast-paced or trend-driven environments.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagree talkative (1), strongly agree reserved (5), strongly agree quiet (5), strongly disagree outgoing (1).  
+- High Conscientiousness: strongly agree does a thorough job (5), reliable worker (5), perseveres until task finished (5), makes plans and follows through (5), does things efficiently (5), strongly disagree careless (1), disorganized (1), lazy (1).  
+- Moderate Openness: agree a little original (4), ingenious (4), inventive (4), sophisticated in art/music/literature (4), values artistic experiences strongly (5), curious about many things (5).  
+- Low Agreeableness: disagree a little tends to find fault (2), disagree a little forgiving nature (2), disagree a little generally trusting (2), disagree a little cold and aloof (2), but agrees a little helpful and unselfish (4), considerate and kind (4).  
+- Moderate Neuroticism: agrees a little worries a lot (4), can be moody (4), disagrees a little relaxed (2), emotionally stable (2), nervous (2).
+
+Need for Cognition (18 items): High score overall, with strong agreement on preferring complex problems (5), liking responsibility requiring thinking (4), satisfaction in deliberating hard (4), enjoying puzzles (5), thinking abstractly (4), intellectual tasks (4), and disagreeing strongly with preferring little thought or avoiding thinking. This indicates a strong preference for deep analytical thinking and intellectual engagement.
+
+Values (24 items):  
+- Highest: Competence (9), Harmony (9), Honesty (9), Autonomy (9), Loyalty (8), Politeness (8), Excitement (7), Trust (7), Civility (7).  
+- Low: Influence (1), Ambition (1), Power (1), Status (1), Recognition (1), Superiority (1), Equality (2), Tradition (2), Altruism (2), Compassion (3).  
+This profile suggests a worldview valuing personal mastery, integrity, social harmony, and independence, with low emphasis on power, status, or competition. Moderate social values but low emphasis on altruism and equality may reflect a pragmatic, self-reliant orientation.
+
+Minimalism (12 items): Strong disagreement with minimalism items (all 1s on avoiding possessions, simplicity, sparse environments), but strong agreement (5s) on mindfulness and careful curation of possessions. This indicates not minimalist in quantity but highly selective and thoughtful about what is owned, suggesting a curated, meaningful approach to possessions rather than minimalism per se.
+
+Empathy (20 items): High empathy scores, strongly agreeing with feeling others’ emotions (5s on sadness, happiness, fear), understanding friends’ feelings, reading emotions quickly, and being sensitive to others’ emotional states. Some ambivalence on being easily swept up in feelings (3s), but overall a strong emotional attunement to others.
+
+Consumerism/Uniqueness: Strongly agrees with statements about creating a unique personal image (5), challenging social norms in product use (4-5), avoiding common brands (5), and enjoying originality (4-5). Disagrees strongly with actively seeking special brands (1). This suggests a strong drive for uniqueness and nonconformity in consumption, but not necessarily brand-focused.
+
+Cognitive Test Performance:  
+- Correct answers on most logical syllogisms and reasoning tasks, with only one error on a syllogism about China’s communism (incorrectly rejecting the conclusion).  
+- Correct on analogies and pattern completion tasks, except some uncertainty on cube rotation tasks (selected “I do not know” or incorrect options), indicating some difficulty with 3D spatial reasoning or mental rotation.  
+- Word association chain is coherent, thematic, and shows good semantic fluency and associative memory.  
+- Vocabulary synonyms and antonyms mostly correct, indicating good verbal knowledge and semantic understanding.  
+- Self-estimated cognitive test score 38/42, above average estimate of others (35/42), indicating confidence and good metacognitive awareness.
+
+Social Desirability Scale: Mixed signals. Some admissions of negative traits (taking advantage of others, irritation, jealousy denied), but also some socially desirable answers (always courteous, good listener). Social desirability likely moderate; self-reports are somewhat reliable but with some guardedness.
+
+Depression and Mood: Reports feeling sad and discouraged about the future, increased irritability, loss of interest in others, difficulty sleeping (early awakening), tiredness, significant weight loss (>10 pounds), and loss of interest in sex. However, no feelings of worthlessness or failure, and decision-making intact. This suggests mild to moderate depressive symptoms, possibly situational or chronic.
+
+Economic Games:  
+- Dictator game: keeps $3, gives $2 (60% to self), Ultimatum game: accepts all offers including $0, indicating pragmatic acceptance of all offers but moderately selfish in giving.  
+- In trust game, keeps all $5, sends $0, but as receiver returns about half of what is sent, indicating cautious trust but some reciprocity.  
+- Thoughts indicate a guarded, self-protective stance, with some willingness to reciprocate but overall prioritizing self-interest.
+
+Intertemporal Choice: Strong preference for immediate smaller rewards over delayed larger rewards, consistently choosing smaller-sooner options until amounts equalize. Indicates high temporal discounting, low patience for delayed gratification.

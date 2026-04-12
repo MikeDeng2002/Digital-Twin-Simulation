@@ -1,0 +1,59 @@
+Demographics: Female, age 30-49, White, living in the Midwest US, college graduate with some postgraduate education, unemployed but on disability, household size 3, never married, atheist, US citizen, politically Democrat and liberal, family income $100,000 or more. This suggests a relatively well-educated individual with financial resources despite unemployment, likely with access to diverse information sources and a liberal worldview. Midwest residence may imply exposure to both urban and rural cultural influences.
+
+Big Five Personality (44 items):  
+- High Extraversion: Talkative (5), Energetic (5), Outgoing (5), Sociable (5), Enthusiastic (5), Assertive (5)  
+- Very low Neuroticism: Disagree strongly with being tense, worried, nervous, depressed; emotionally stable (4)  
+- High Agreeableness: Helpful, unselfish (5), forgiving (5), considerate (5), trusting (5)  
+- High Conscientiousness: Does a thorough job (5), efficient (5), reliable (4), perseveres (4), organized (7 self-rating), systematic (6), practical (8)  
+- Openness moderate-high: Original (4), ingenious (5), active imagination (5), artistic interests (4), sophisticated (2)  
+Overall, a socially engaged, emotionally stable, conscientious, and agreeable person with moderate openness.
+
+Need for Cognition (18 items): Mixed signals. Disagrees strongly with "thinking is not fun" and "learning new ways to think doesn't excite me," but neither agrees nor disagrees with preference for complex problems or intellectual tasks. Slight preference for tasks requiring less thought once learned, but also enjoys deliberating hard and coming up with new solutions. Overall moderate Need for Cognition, willing to engage in thinking but not strongly driven by it.
+
+Need for Closure (15 items): Mostly low to moderate. Disagrees or disagrees a little with discomfort from uncertainty, impatience for quick solutions, dislike of ambiguous statements, and preference for routine. Does not feel relief upon decision-making, indicating tolerance for ambiguity and deliberation. Suggests a moderate to low Need for Closure, comfortable with uncertainty and complexity.
+
+Maximizer Scale (6 items): Strong disagreement with comparison shopping or seeking the best option. Does not settle for second best (disagree strongly), but also does not seek better opportunities or have highest standards. Overall, low Maximizer tendency, more satisficing or content with good enough.
+
+Self-monitoring (13 items): Generally high ability to adjust behavior (scores 4-6), but also reports difficulty putting up a good front (6 = certainly true difficulty). Poor at reading subtle emotional cues in others (mostly false on detecting lies, facial expressions). Suggests moderate self-monitoring: aware of social context and able to adjust behavior, but limited in emotional intuition.
+
+Self-concept clarity (12 items): Very high clarity and stability. Strongly disagrees with conflicting self-beliefs, changing self-views, or uncertainty about self. Strongly agrees to clear, stable self-concept.
+
+Values (24 items):  
+- Highest: Altruism (9), Compassion (9), Autonomy (9), Equality (9), Honesty (8), Trust (7), Forgiveness (7), Pleasure (7)  
+- Low: Ambition (1), Loyalty (1), Power (2), Excitement (2), Status (1), Recognition (1), Tradition (1), Superiority (1)  
+- Moderate: Competence (6), Achievement (5), Harmony (5), Civility (5), Humility (5)  
+This reveals a worldview focused on social justice, independence, kindness, and honesty, with low emphasis on competition, status, or tradition.
+
+Minimalism/Consumerism (12 items): Disagrees with minimalism statements like "less is more," "visually sparse environments," and "curated belongings." Some agreement with being mindful of possessions and restricting number of things owned. Overall, low minimalism, moderate mindfulness about possessions, no strong anti-consumerism or uniqueness drive.
+
+Empathy (20 items): High empathy. Strongly agrees with feeling others' emotions, sadness, happiness, and fear. Disagrees with statements indicating emotional detachment. Somewhat less confident in detecting subtle fear or anger cues. Overall, emotionally responsive and socially attuned.
+
+Consumerism/Uniqueness: Strong disagreement with statements about seeking uniqueness through products, breaking social rules in consumption, or avoiding popular brands. Indicates conventional consumer behavior, low desire for uniqueness or trendsetting.
+
+Cognitive Test Performance:  
+- Correct answers on 32/42 cognitive questions, self-estimated 32 vs population average 35, indicating slightly below average cognitive test performance.  
+- Logical reasoning: Correct on most syllogisms except some errors on negation and contraposition (e.g., plants not animals conclusion incorrect).  
+- Cube rotation puzzles: Mixed answers, some correct (e.g., cube rotation Q1 and Q2), some errors in synonym/antonym tests (e.g., "furtive" synonym chosen as "flimsy" which is incorrect; "astute" synonym chosen as "lineal" which is incorrect; "indolent" synonym chosen as "impervious" which is incorrect; "disparity" synonym chosen as "despondency" which is incorrect; "indigent" synonym chosen as "refractory" which is incorrect). These errors suggest some semantic confusion or guessing.  
+- Word association chain: Mostly concrete, food-related, and simple associations, with some repetition ("toast" twice), indicating a concrete and somewhat repetitive associative style.  
+- Social desirability scale: Low to moderate, with some false answers on negative traits (e.g., denies jealousy, irritation, spitefulness), but admits giving up on tasks due to low ability and not always courteous. Overall, moderate social desirability bias.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 in dictator game, and accepts all offers except $0 in ultimatum game.  
+- In trust game, sends $3 (out of $5), expects to get back about half (keeps $8 of $15), indicating moderate trust and reciprocity.  
+- Thoughts indicate fairness concerns, desire for equality but pragmatic acceptance of slight inequality.
+
+Intertemporal Choice:  
+- Prefers delayed larger rewards over smaller sooner ones consistently until amounts are equal or better, indicating moderate to high patience and future orientation.
+
+Loss Framing Responses:  
+- More upset by multiple smaller losses than single larger loss of same total, indicating sensitivity to loss framing and mental accounting.
+
+Depression and Mood:  
+- No current sadness, guilt, or irritability; no loss of interest or motivation; some recent weight loss (>5 lbs); trying to lose weight; no sleep or fatigue problems.  
+- Self-report consistent with stable mood and no major depression.
+
+Self-Report on Traits:  
+- High conscientiousness, practical, organized, efficient, accurate.  
+- Low competitiveness, low ambition, low concern for recognition or status.  
+- Moderate to high social concern, but not strongly group-oriented or family loyal.  
+- Prefers rules and obligations, but not independent of others fully.

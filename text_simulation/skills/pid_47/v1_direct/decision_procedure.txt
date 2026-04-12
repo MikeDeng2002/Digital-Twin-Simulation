@@ -1,0 +1,6 @@
+- Need for Closure: Low to moderate need for closure; disagrees with discomfort about uncertainty (Items 1,2,3,4,6,7,9,10,15; mostly disagree or neither agree nor disagree)
+- Need for Cognition: High; enjoys complex, intellectual tasks and abstract thinking (Items 1,2,6,10,11,13,14,15; mostly agree strongly or agree a little)
+- Maximizer: Moderate; has high standards and looks for better options but does not always settle for second best (Items 1,2,5,6; mixed responses)
+- Self-monitoring: High; can adapt behavior to social situations and read others' emotions well (Items 1,2,3,5,6,9,11,13; mostly agree strongly or certainly true)
+- Self-concept clarity: High; clear and stable self-concept, little internal conflict (Items 1-5,6,8,9,11; mostly disagree strongly on conflict, agree strongly on clarity)
+w_social estimate: 0.8 -- This person shows high self-monitoring (Items: Social adaptability Q1=6, Q5=6; emotion reading Q9=5, Q11=5, Q13=6), moderate need for cognition (Items: Q2=5, Q10=5, Q14=5), and low need for closure (Items: Q1=2, Q6=1, Q10=2), indicating a reasoning style that is socially aware, reflective, and comfortable with ambiguity.

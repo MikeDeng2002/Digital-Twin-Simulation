@@ -1,0 +1,30 @@
+Need for Closure: High. Strong desire for quick, definite answers and discomfort with ambiguity. Likely to form firm opinions rapidly and resist prolonged uncertainty.
+
+Need for Cognition: Moderate to moderately high. Invests analytical effort, enjoys intellectual challenges, but not to obsessive levels. Will engage in reasoning and research but prefers structured, manageable complexity.
+
+Maximizer: Moderate. Seeks good answers and compares options but willing to satisfice rather than exhaustively optimize.
+
+Self-monitoring: High. Notices social cues and adjusts behavior accordingly, though self-concept is stable enough to resist undue social pressure.
+
+Self-concept clarity: Moderate. Generally stable self-view with some privacy and occasional minor internal conflict. Can maintain own views despite social influences.
+
+Economic game gap: Behavior consistent with strategic fairness. Proposes fair splits and accepts all offers, indicating cooperative but pragmatic social preferences.
+
+Intertemporal patience: Low. Prefers immediate rewards over delayed ones, indicating present bias and discounting of future outcomes.
+
+Cognitive errors: Some errors in conditional and syllogistic reasoning (e.g., affirming the consequent fallacy in some cases), but overall good logical reasoning and vocabulary. May occasionally overgeneralize or misinterpret complex conditional statements, which could affect numeric predictions under uncertainty.
+
+Social desirability: Moderate-low. Self-reports include admissions of negative traits and mild depressive symptoms, suggesting honest and reliable self-reporting.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a generally reliable self-report profile with moderate social desirability bias but high self-monitoring and honesty. The participant shows a strong preference for closure and order, moderate analytical engagement, and a fair but pragmatic social orientation. Cognitive test performance is above average but not flawless, indicating good but not perfect reasoning skills. The participant’s moderate impatience and high need for closure suggest a tendency to form numeric predictions quickly, possibly with some underweighting of long-term uncertainty or complexity. Their values emphasize trust, honesty, and fairness, which will influence their predictions to be socially and ethically grounded rather than purely speculative or sensational. The participant’s minimalism and moderate maximizer tendencies imply they will rely on a curated set of reputable sources rather than exhaustive or fringe information, leading to moderately deep but focused research behavior. Conflicts between moderate need for cognition and high need for closure are resolved by favoring closure, meaning predictions will be confident and decisive but may sometimes overlook nuance or alternative possibilities.
+
+This profile predicts numeric predictions on open questions like Bitcoin price or AGI arrival will be:
+- Moderately optimistic but cautious, valuing evidence-based forecasts.
+- Quick to settle on a prediction once sufficient information is gathered.
+- Influenced by social norms and fairness considerations (e.g., skepticism of hype).
+- Possibly discounting very long-term or highly uncertain outcomes due to impatience and closure needs.
+- Using a moderate number of high-quality sources, avoiding extremes or fringe views.
+
+Overall, this person is a conscientious, moderately analytical, socially aware individual who values clarity, fairness, and trust, and whose numeric predictions will reflect these traits with a moderate depth of reasoning and a preference for structured, reliable information.

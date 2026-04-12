@@ -1,0 +1,10 @@
+- Need for Closure: Strong agreement with disliking uncertainty, preference for routine, discomfort with ambiguity (items 1,6,15, etc.). This indicates a high need for closure and preference for decisiveness and order.
+- Need for Cognition: Moderate scores (mostly "agree a little" or "disagree a little"), indicating some enjoyment of thinking but not strong or deep engagement.
+- Maximizer: Disagree a little with "never settle for second best" and "highest standards," suggesting a moderate maximizer tendency, not extreme.
+- Self-monitoring: Somewhat flexible in social situations (mostly "somewhat true" but with exceptions), able to read others' emotions well (items 8,11,12), but also somewhat aloof and introverted, indicating moderate self-monitoring.
+- Self-concept clarity: High clarity (disagree strongly with conflicting self-beliefs, agree strongly with stable self-view).
+- Economic games: Proposes to keep 60% ($3/$5) and sends 40% ($2/$5), accepts offers down to 40% but rejects lower, indicating moderate fairness and self-interest balance. Trust game behavior shows cautious reciprocity.
+- Cognitive tests: Moderate performance, solid verbal and logical reasoning, good spatial skills.
+- Cross-scale inference: High Need for Closure aligns with preference for order and structure in values and personality. Moderate Need for Cognition aligns with cognitive test performance and financial literacy. Moderate self-monitoring aligns with social introversion and moderate empathy. Economic game behavior aligns with moderate prosocial values but cautious trust.
+
+w_social estimate: 0.45 -- The respondent shows moderate social engagement and prosocial tendencies, as indicated by moderate agreeableness traits, moderate empathy (emotional contagion and understanding others' feelings), and economic game behavior favoring fairness but with self-interest. However, introversion, aloofness, and some coldness reduce social warmth. High Need for Closure and preference for order suggest some social rigidity. The scales mostly agree on moderate social orientation with some caution and reserve, leading to a mid-range estimate.

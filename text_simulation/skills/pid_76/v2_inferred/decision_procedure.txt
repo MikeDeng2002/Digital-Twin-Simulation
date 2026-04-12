@@ -1,0 +1,15 @@
+Need for Closure: Strong agreement with items indicating discomfort with uncertainty, preference for order, and quick decision-making (e.g., "I don’t like situations that are uncertain" - 5, "I find that a well ordered life with regular hours suits my temperament" - 5, "When I have made a decision, I feel relieved" - 4). This suggests a high need for closure.
+
+Need for Cognition: Mostly low scores, indicating avoidance of complex thinking and preference for simple, routine tasks (e.g., "I would prefer complex to simple problems" - 2, "I like to have the responsibility of handling a situation that requires a lot of thinking" - 2, "Thinking is not my idea of fun" - 4). This aligns with low cognitive test performance.
+
+Maximizer: Low scores on maximization tendencies (e.g., "I never settle for second best" - 1, "No matter what I do, I have the highest standards for myself" - 2), indicating satisficing rather than maximizing behavior.
+
+Self-monitoring: Low self-monitoring indicated by mostly "generally false" responses to items about adjusting behavior to social situations and controlling impressions.
+
+Self-concept Clarity: Moderate clarity with some internal conflict (e.g., "My beliefs about myself often conflict" - 2, "On one day I might have one opinion of myself and on another day I might have a different opinion" - 4, "In general, I have a clear sense of who I am" - 4).
+
+Economic Game Behavior: Proposes to keep $3 and send $2 in the ultimatum game, accepts moderate offers but rejects very generous or very stingy offers, indicating moderate fairness and self-interest balance. In the trust game, she sends $2 (out of $5) and expects to receive back about half of the tripled amount, showing moderate trust and reciprocity.
+
+Cross-scale inference: The high Need for Closure and low Need for Cognition align with her preference for routine, order, and avoidance of complex thinking. Low self-monitoring and moderate self-concept clarity suggest a stable but not highly socially adaptive self-view. Economic game behavior aligns with moderate fairness and cautious trust.
+
+w_social estimate: 0.35 -- The respondent shows moderate social willingness, as indicated by moderate offers in economic games and some empathy in emotional items, but low extraversion, low self-monitoring, and a preference for routine and certainty limit social engagement. The agreement between Need for Closure (high), Need for Cognition (low), and economic game behavior supports a cautious, somewhat reserved social style.

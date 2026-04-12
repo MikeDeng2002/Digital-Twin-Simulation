@@ -1,0 +1,22 @@
+Need for Closure: Moderate to high. Agrees strongly with wanting quick solutions to problems, discomfort with uncertainty, and preference for routine and order. Likely to form opinions relatively quickly once sufficient information is gathered.
+
+Need for Cognition: Moderate but ambivalent. Dislikes complex problems but willing to engage in thinking when necessary. Likely to invest analytical effort selectively, focusing on practical and relevant information rather than abstract or highly complex data.
+
+Maximizer: Strong maximizer. Seeks best possible answers, compares multiple sources, and holds high standards for self and decisions. This drives thorough but possibly time-limited information search.
+
+Self-Monitoring: High. Notices social cues and adjusts behavior accordingly, indicating awareness of social context in forming and expressing opinions.
+
+Self-Concept Clarity: Moderate. Some internal conflict and variability in self-view, but generally stable enough to resist social pressure. Likely to hold personal views firmly once formed but open to reconsideration if new evidence is compelling.
+
+Economic Game Gap: Dictator game shows selfish behavior (keeps all money), but ultimatum game acceptance of all offers and trust game reciprocity indicate strategic social behavior. Suggests pragmatic self-interest balanced with social fairness norms.
+
+Intertemporal Patience: Low. Prefers immediate rewards, indicating present bias. May favor short-term outcomes in predictions and decisions.
+
+Cognitive Errors: Multiple errors in vocabulary and logical reasoning tests, including misunderstanding synonyms/antonyms and logical syllogisms. Indicates potential difficulties with abstract reasoning and verbal comprehension, which may impair precise numeric predictions and probabilistic reasoning.
+
+Social Desirability: Moderate. Some contradictory self-reports and admissions of negative traits suggest partial honesty but some impression management.
+
+w_social estimate: 0.55  
+Reasoning: The estimate balances moderate social desirability bias with evidence of honest self-criticism and high self-monitoring. The participant shows some tendency to present themselves favorably but also admits to flaws and exhibits realistic self-assessment in cognitive tasks and economic games. The moderate empathy and social awareness suggest social context influences their expressed views, but their moderate self-concept clarity and maximizer tendencies indicate a stable core self that can resist social pressure when forming numeric predictions.
+
+Summary: This individual is a conscientious, introverted, moderately intelligent person with moderate analytical engagement and a strong drive for fairness and competence. They prefer routine and simplicity, have moderate impatience for resolution, and show some difficulty with abstract verbal reasoning. Their economic game behavior reveals pragmatic self-interest tempered by social fairness norms. They rely moderately on social networks for information validation but curate their information carefully, avoiding overload. Their numeric predictions on open questions like Bitcoin price or AGI arrival will likely reflect a cautious, moderately optimistic stance, influenced by practical considerations and social consensus rather than deep technical analysis or speculative extremes.

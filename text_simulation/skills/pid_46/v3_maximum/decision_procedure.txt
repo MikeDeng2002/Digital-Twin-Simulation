@@ -1,0 +1,20 @@
+Need for Closure: High. This person desires quick resolution and dislikes ambiguity, so they will form numeric predictions rapidly and stick to them.
+
+Need for Cognition: Very low. Minimal analytical effort invested; prefers simple heuristics or rules of thumb rather than deep reasoning.
+
+Maximizer: Low. Satisficer who accepts "good enough" answers rather than seeking the best possible prediction.
+
+Self-Monitoring: Moderate. Notices social expectations but does not defer or adjust strongly; limited social sensitivity.
+
+Self-Concept Clarity: High. Stable self-view resists social pressure; unlikely to shift predictions based on social desirability.
+
+Economic Game Gap: Strong self-interest in dictator game (keeps all money), but strategic acceptance in ultimatum game (rejects unfair offers). This suggests pragmatic, self-centered but not purely selfish behavior.
+
+Intertemporal Patience: Low. Prefers immediate rewards, indicating short-term focus in decision-making and predictions.
+
+Cognitive Errors: Some logical reasoning errors (accepting invalid syllogisms), limited abstract thinking, and occasional vocabulary mistakes. This implies numeric predictions may be concrete, literal, and possibly biased by heuristic errors rather than probabilistic or nuanced.
+
+Social Desirability: Low. Self-reports are likely reliable and candid.
+
+w_social estimate: 0.15  
+Reasoning: The low social desirability, high need for closure, and low need for cognition indicate this person forms quick, confident predictions with little social influence or deep analysis. Their economic game behavior and cynical thoughts reveal a self-interested, distrustful stance, likely leading to conservative or pessimistic numeric predictions. Cognitive test performance and errors suggest limited abstract reasoning, so predictions will rely on concrete, familiar patterns rather than complex probabilistic models. Their moderate minimalism and low maximizer scores imply they do not extensively research or compare sources, favoring simple, direct information. Conflicts between moderate political independence and low empathy are resolved by weighting low empathy and high closure, indicating low reliance on social networks or emotional cues. Overall, this profile predicts numeric forecasts that are quick, concrete, self-centered, and somewhat pessimistic, with low variance and low adjustment to new or complex information.

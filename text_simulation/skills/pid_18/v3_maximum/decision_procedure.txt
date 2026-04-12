@@ -1,0 +1,20 @@
+Need for Closure: Moderate (agrees a little to dislike uncertainty, wants solutions quickly but not impatiently). This person prefers clarity but tolerates some ambiguity.
+
+Need for Cognition: Moderate to high analytical effort, enjoys intellectual challenges and abstract thinking, but not compulsive.
+
+Maximizer: Low; tends to satisfice rather than exhaustively search for best answer.
+
+Self-monitoring: High (can adjust behavior in social situations, reads others’ emotions well), but self-concept clarity is also high (stable self-view, resists social pressure). This suggests awareness of social context without losing own perspective.
+
+Economic Game Gap: Proposes to keep $3/$5 in dictator game, accepts all offers down to $1, rejects $0 offer, indicating moderate fairness but self-interest. In trust game, sends $3/$5, expects about half back, showing moderate trust and reciprocity. Behavior matches strategic reasoning with some fairness concerns.
+
+Intertemporal Patience: Prefers immediate smaller rewards over delayed larger ones consistently until amounts equalize, indicating relatively high discounting of future rewards (impatience).
+
+Cognitive Errors: Some errors in conditional logic (confusing converse and contrapositive), occasional overgeneralization, but strong spatial and pattern reasoning. This implies numeric predictions may be logically consistent but sometimes biased by heuristic shortcuts.
+
+Social Desirability: Moderate; self-reports balanced with admissions of flaws, so self-report data is reasonably reliable.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by the high social monitoring and empathy scores, indicating this person is socially aware and influenced by social context in reasoning and decision-making. However, the stable self-concept and moderate need for cognition suggest they do not blindly conform but integrate social information thoughtfully. The economic games show strategic fairness and reciprocity, consistent with social reasoning. Some cognitive errors and impatience with delayed rewards temper the estimate, indicating social reasoning is strong but not overriding analytical judgment. Conflicts between high empathy and low maximizer tendencies are resolved by assuming a satisficing but socially attuned approach to information and prediction.
+
+# Summary for simulation: This person will produce numeric predictions that reflect moderate analytical depth, a preference for socially informed and fair outcomes, some impatience for quick resolution, and a stable but flexible self-view. They will likely weigh social consensus and ethical considerations heavily, avoid extreme or sensationalist sources, and prefer moderate, evidence-based forecasts.

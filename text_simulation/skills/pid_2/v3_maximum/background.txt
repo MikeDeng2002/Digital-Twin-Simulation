@@ -1,0 +1,35 @@
+Demographics: Female, age 50-64, White, living in the U.S. Midwest, divorced, retired, some college but no degree, family income $30,000-$50,000, politically very liberal Democrat, no religious affiliation and never attends services. Household size is two. These demographics suggest a middle-aged woman with moderate education and modest income, likely with Midwestern cultural influences but politically progressive and secular. Being retired and divorced may imply more time for reflection but also potential social isolation.
+
+Big Five Personality (44 items):  
+- Openness: High (scores 5 on originality, curiosity, imagination, artistic values; 4 on ingenuity and enthusiasm)  
+- Conscientiousness: Mixed to low (4 on thoroughness and reliability, but 5 on disorganization and laziness, 2 on assertiveness, 2 on calmness, 2 on plan-following)  
+- Extraversion: Low to moderate (4 on talkative, 2 on reserved and quiet, 1 on energy, 3 on sociability)  
+- Agreeableness: Moderate to high (4 on helpfulness, forgiveness, kindness, trust; 1 on coldness and rudeness)  
+- Neuroticism: Moderate (4 on depression, moodiness, some worry; 2-3 on tension and nervousness)  
+Overall, she is imaginative and curious but somewhat disorganized and low energy, with moderate emotional instability and moderate social warmth.
+
+Need for Cognition (18 items): Mixed to low. She disagrees somewhat with preferring complex problems and thinking hard, agrees somewhat with avoiding deep thinking, but also agrees with enjoying puzzles and new solutions. She strongly agrees with "It's enough that something gets the job done; I don't care how or why it works," indicating a pragmatic, satisficing approach rather than deep analytical engagement.
+
+Values (24 items):  
+- Highest: Politeness (9), Compassion (9), Equality (9), Competence (8), Humility (8), Civility (8), Forgiveness (7), Autonomy (7), Trust (6), Loyalty (6), Honesty (6)  
+- Lowest: Influence, Ambition, Power, Status, Recognition, Superiority (all 1)  
+- Wealth and Achievement rated low (2)  
+This reveals a worldview valuing social harmony, kindness, fairness, and modesty, with little interest in power, status, or material success.
+
+Minimalism (12 items): Strong rejection of minimalism. She disagrees strongly with avoiding possessions, restricting number of things owned, sparse aesthetics, mindful curation, and simplicity. She somewhat agrees that her selection of things has been carefully curated, but overall she is a hoarder (confirmed by self-report). This suggests a cluttered, possibly anxiety-driven environment.
+
+Empathy (20 items): High empathy. Strong agreement with feeling others' emotions, understanding friends' feelings, getting caught up in others' sadness, and reading emotions well. Disagrees strongly with being unaffected by others' feelings. This suggests she is socially sensitive and emotionally reactive.
+
+Consumerism/Uniqueness: She strongly disagrees with violating social norms or breaking customs in product use, but strongly agrees with avoiding common products and disliking mainstream brands. She strongly enjoys being original and having unique possessions but does not actively seek to develop uniqueness by buying special brands. This suggests a desire for distinctiveness but within socially acceptable bounds.
+
+Cognitive Test Performance:  
+- Correct answers: 37/42 (high, above average)  
+- Logical reasoning: Mostly correct, except one error on a conditional syllogism (China communist question) and one on the bicycle motor question, indicating some difficulty with negation or contraposition.  
+- Wason selection: Chose "3" (number 3 card) correctly, showing understanding of falsification principle.  
+- Cube rotation puzzles: Mixed answers, some errors, indicating moderate spatial reasoning but some confusion.  
+- Synonym/antonym vocabulary: Mostly correct, except one error on "Indolent" synonym (chose "impervious" instead of "slothful"), indicating some vocabulary gaps or confusion.  
+- Word association chain: Progresses logically from bear to sorrow, with some negative emotional words (herpes zoster, COVID, death, incompetent, destruction, Holocaust, sorrow), indicating a cognitive pattern influenced by anxiety, fear, and negative affect.
+
+Social Desirability: Not explicitly scored, but self-reports show admission of negative traits (hoarding, anxiety, depression, distrust), suggesting low social desirability bias and relatively honest reporting.
+
+Self-Concept Clarity: Mixed. She agrees strongly that her self-beliefs conflict and change from day to day, spends little time wondering about who she is, but is unsure about her self-identity stability. This suggests moderate self-concept clarity with some instability.

@@ -1,0 +1,21 @@
+Given the individual’s high school education and low income, their access to premium or subscription-based information sources is likely limited, favoring free or low-cost platforms. Their low Need for Cognition score, indicating a preference for simple, routine tasks and avoidance of complex thinking, suggests they engage in shallow to moderate research depth, relying on easily digestible and straightforward information rather than in-depth analysis or technical content.
+
+Politically, as a very conservative Republican, they are likely to prefer partisan sources that align with conservative viewpoints, such as Fox News, Breitbart, or talk radio programs like Rush Limbaugh or conservative podcasts. This partisan preference reduces the likelihood of consulting neutral or balanced news outlets, favoring sources that reinforce existing beliefs. Confidence in this inference is high given explicit political self-identification and value emphasis on power and ambition.
+
+Low empathy and social adaptability scores imply limited reliance on social networks or interpersonal channels for information gathering; they are unlikely to seek or trust information through emotionally nuanced or socially mediated sources like Facebook groups or community forums. Instead, they may use more impersonal, one-way communication platforms such as cable news or conservative-leaning websites. Confidence here is moderate, as social media use was not directly assessed but inferred from empathy and self-monitoring scales.
+
+Their low Maximizer tendencies and minimalism attitudes suggest they do not extensively comparison-shop or curate information sources carefully. They likely consume information from a small, familiar set of platforms without actively seeking alternatives or verifying across multiple outlets. This is consistent with their cognitive profile showing difficulties in complex reasoning and logical evaluation, which would limit their ability to critically assess source quality or detect misinformation. Confidence is moderate to high based on cognitive and personality indicators.
+
+Given their cognitive errors—such as misinterpretations in logical syllogisms and semantic tasks—and low self-monitoring, they may be vulnerable to simplistic or emotionally charged messaging and less capable of discerning nuanced or contradictory information. This further supports reliance on straightforward, ideologically consistent sources rather than investigative journalism or academic publications.
+
+Realistic information sources for this individual likely include mainstream conservative news websites (e.g., Fox News online, The Daily Caller), conservative talk radio, YouTube channels with partisan commentary, and possibly local news outlets with conservative slants. They may also use basic social media platforms like YouTube or Twitter for headline news but probably avoid complex or interactive platforms requiring active engagement or critical evaluation.
+
+Sources they would likely avoid include:
+
+1. Public or academic research databases (e.g., JSTOR, Google Scholar) due to low education level and low Need for Cognition.
+2. Neutral or left-leaning news outlets (e.g., NPR, The New York Times, BBC) because of strong partisan identity and value-driven selectivity.
+3. Social media platforms emphasizing peer interaction and emotional content (e.g., Facebook groups, Reddit) due to low empathy and social adaptability.
+
+Confidence in these exclusions is moderate to high, grounded in political identity, cognitive style, and personality traits.
+
+No direct media-use questions were asked, so these inferences rely on triangulating demographic, cognitive, personality, and value data to estimate plausible information source preferences and research behaviors.

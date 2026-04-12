@@ -1,0 +1,17 @@
+- Need for Closure: High (items 1,4,12,13,16,22,23,24 mostly agree strongly) indicating preference for order, predictability, and quick decisions.  
+- Need for Cognition: Low (items 1,2,6,10,11,13,14,15 mostly disagree or neutral), indicating low enjoyment of effortful thinking.  
+- Maximizer: Moderate to low (disagree with "never settle for second best" and "highest standards" items), suggesting satisficing rather than maximizing tendencies.  
+- Self-monitoring: Moderate (items 1-13 mostly "somewhat true but with exceptions"), indicating some ability to adjust behavior but not highly strategic or socially chameleon-like.  
+- Self-concept clarity: Low to moderate (items 1-12 show internal conflict, changing self-beliefs, and low clarity).  
+- Economic game behavior: Highly self-interested, low generosity, low trust, and low prosociality (ultimatum and trust games).  
+- Depression and mood: High depressive symptoms, low energy, high neuroticism, low extraversion, low agreeableness, low conscientiousness.
+
+Cross-scale inference:  
+- High Need for Closure and low Need for Cognition align with preference for routine, order, and avoidance of complex thinking.  
+- Low self-concept clarity and high neuroticism align with depressive symptoms and self-loathing.  
+- Economic games and low agreeableness align with self-interested, low prosocial behavior.  
+- Low conscientiousness and self-reported laziness align with low perseverance and disorganization.
+
+No major contradictions are evident; the scales and self-reports consistently depict a person who is self-focused, struggles with motivation and mood, prefers order and simplicity in decision-making, and is somewhat socially reserved and distrustful.
+
+w_social estimate: 0.2 -- The respondent shows low social engagement and prosociality, as indicated by low extraversion, low agreeableness, and self-interested economic game behavior. Moderate self-monitoring suggests some social awareness but not high social adaptability. High neuroticism and depressive symptoms likely reduce social motivation. The agreement across Big Five, economic games, and self-report scales supports a low social weighting estimate.

@@ -1,0 +1,115 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age range 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race/ethnicity: Hispanic (Question: What is your race or origin? Answer: Hispanic)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Separated (Question: Which of these best describes you? Answer: Separated)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Household size: Lives alone (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: Self-employed)
+- Income: Less than $30,000 annually (Question: Last year, what was your total family income from all sources, before taxes? Answer: Less than $30,000)
+- Personality traits (Big Five, selected items):
+  - Disagree a little that they are talkative (Q1: 2)
+  - Agree strongly that they do a thorough job (Q3: 5)
+  - Agree strongly that they are original and come up with new ideas (Q5: 5)
+  - Agree strongly that they are helpful and unselfish (Q7: 5)
+  - Agree a little that they can be somewhat careless (Q8: 4)
+  - Disagree a little that they are relaxed and handle stress well (Q9: 2)
+  - Agree strongly that they are curious about many different things (Q10: 5)
+  - Disagree strongly that they are full of energy (Q11: 1)
+  - Agree strongly that they are a reliable worker (Q13: 5)
+  - Agree a little that they can be tense (Q14: 4)
+  - Agree strongly that they are ingenious and a deep thinker (Q15: 5)
+  - Agree strongly that they have a forgiving nature (Q17: 5)
+  - Disagree strongly that they can be cold and aloof (Q27: 1)
+  - Agree strongly that they persevere until the task is finished (Q28: 5)
+  - Agree strongly that they value artistic, aesthetic experiences (Q30: 5)
+  - Disagree strongly that they are sometimes shy or inhibited (Q31: 1)
+  - Agree strongly that they do things efficiently (Q33: 5)
+  - Agree strongly that they remain calm in tense situations (Q34: 5)
+  - Disagree strongly that they prefer routine work (Q35: 1)
+  - Disagree a little that they like to cooperate with others (Q42: 2)
+  - Agree a little that they are considerate and kind to almost everyone (Q32: 4)
+- Need for Cognition scale:
+  - Strongly agree to preferring complex problems and thinking (Q1: 5, Q2: 5)
+  - Strongly disagree that thinking is not fun or avoiding thinking (Q3: 1, Q4: 1, Q5: 1, Q7: 1)
+  - Agree a little that they find satisfaction in deliberating hard (Q6: 4)
+  - Strongly agree that they enjoy intellectual, difficult tasks and abstract thinking (Q10: 5, Q11: 5, Q13: 5, Q14: 5, Q15: 5, Q18: 5)
+- Values (rated as guiding principles):
+  - Highly important: Trust (9), Altruism (9), Compassion (9), Equality (9)
+  - Quite important: Pleasure (8), Loyalty (8), Honesty (8), Autonomy (8), Competence (7), Politeness (7), Excitement (7), Humility (5), Harmony (6), Forgiveness (6)
+  - Not important: Influence (1), Achievement (1), Status (1), Recognition (1), Power (2), Ambition (2), Superiority (2)
+- Minimalism and mindful ownership:
+  - Strong agreement with avoiding accumulating stuff, restricting possessions, preferring simplicity and sparse environments, mindful curation of belongings (mostly 4 or 5)
+- Empathy and emotional sensitivity:
+  - Strongly disagree that friends’ emotions don’t affect them (Q1: 1)
+  - Strongly agree that they feel sad after being with a sad friend, understand friends’ happiness, get caught up in others’ feelings, can read emotions well (mostly 5)
+  - Disagree that others’ feelings don’t bother them (Q8: 1)
+  - Agree a little that they get frightened watching scary movies (Q4: 4)
+- Environmental concern:
+  - Agree a little to strongly agree that environmental impact matters in decisions and purchase habits (Q1:4, Q2:5, Q3:4, Q4:5, Q5:4, Q6:5)
+- Cognitive test performance:
+  - Correctly answered various logic, reasoning, and puzzle questions (e.g., cube rotation, syllogisms, synonyms, antonyms)
+  - Estimated self-correct answers: 25/42
+  - Estimated average US adult correct answers: 20/42
+- Financial literacy:
+  - Correctly answered questions about mortgages, inflation, risk diversification, investment returns, required minimum distributions, credit card debt
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum game proposer)
+  - Accepts all offers except $0 to self (Ultimatum game responder)
+  - In trust game, sends all $5 to other person
+  - As receiver in trust game, keeps majority of money sent back (e.g., keeps $8 of $15)
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes resentful when not getting their way (True)
+  - Sometimes give up due to low self-confidence (True)
+  - Sometimes rebel against authority even if authority is right (True)
+  - Sometimes take advantage of others (True)
+  - Sometimes try to get even rather than forgive (True)
+  - Sometimes jealous of others’ good fortune (True)
+  - Disagree that always courteous or good listener
+  - Agree strongly that organized, efficient, systematic, practical, accurate, creative, and like to do things in new ways
+  - Disagree strongly that rules and regulations are helpful and necessary
+  - Definitely true that they carry out obligations placed on them
+  - Definitely true that they try to make work accurate and error-free
+  - Definitely true that they think about what others expect of them
+  - Spending habits: low difficulty limiting spending (3/11), never have trouble limiting or spending money
+  - More similar to "Mr. B" who refrains from spending despite sales
+- Mood and mental health:
+  - Feels sad, discouraged, guilty part of the time, disappointed in self, blames self often, cries more than usual
+  - Has lost most interest in other people
+  - Puts off making decisions more than before
+  - Feels more worthless compared to others
+  - Has to push self very hard to do anything
+  - Sleeps worse than usual, wakes earlier and hard to get back to sleep
+  - Gets tired from doing almost anything
+  - Appetite not as good as before, lost more than 5 pounds
+  - Very worried about physical problems
+  - Much less interested in sex now
+  - Not purposely trying to lose weight
+- Self-concept clarity:
+  - Strongly agrees that beliefs about self often conflict, opinions about self change day to day, wonders about who they really are, feels not really the person they appear to be, unsure about past self
+  - Disagrees strongly that they seldom experience conflict between personality aspects
+  - Neither agrees nor disagrees that beliefs about self change frequently
+  - Disagrees a little that they have a clear sense of who they are
+  - Agrees a little that it is hard to make up mind because unsure what they want
+- Need for Closure:
+  - Disagrees strongly with liking uncertain situations
+  - Agrees a little that dislikes ambiguous questions
+  - Strongly agrees with discomfort when not understanding reasons for events
+  - Strongly agrees with dislike of unpredictable situations and people capable of unexpected actions
+  - Strongly agrees with impatience to find solutions quickly
+  - Agrees a little that prefers well-ordered life and dislikes going into situations without knowing what to expect
+- Maximizer scale:
+  - Strongly agrees with checking for better options even when satisfied
+  - Strongly agrees with being on lookout for better opportunities
+  - Strongly agrees with difficulty finding clothing they really love
+  - Strongly disagrees with having highest standards or never settling for second best
+- Self-monitoring:
+  - Somewhat true that can alter behavior in social situations, control impression, adjust behavior to meet requirements
+  - Generally true that has trouble changing behavior to suit different people and situations
+  - Certainly true that can read others’ emotions well, detect inappropriate jokes, detect lies from mannerisms

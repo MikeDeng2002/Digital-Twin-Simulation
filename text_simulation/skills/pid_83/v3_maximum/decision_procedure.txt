@@ -1,0 +1,22 @@
+Need for Closure: High (scores 5 on “I don’t like uncertainty,” “I want quick solutions,” “I feel relief after deciding”), indicating a preference for fast resolution and discomfort with ambiguity.
+
+Need for Cognition: Moderate, invests analytical effort but not exhaustive. Likes intellectual tasks but avoids deep, prolonged deliberation.
+
+Maximizer: Moderate, seeks good solutions and compares options but willing to settle once a good enough answer is found.
+
+Self-Monitoring: High, notices social cues and adjusts behavior, but self-concept clarity buffers against undue social influence.
+
+Self-Concept Clarity: High, stable and consistent self-view, confident in own identity and values.
+
+Economic Game Gap: Behavior consistent with stated fairness and cooperation. Proposes fair splits, accepts all offers, and expects moderate reciprocity in trust game. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: Moderate patience, prefers delayed rewards but only when sufficiently better, indicating some present bias but overall future orientation.
+
+Cognitive Errors: Some errors in logical deduction tasks, especially in negation and contraposition, indicating occasional reasoning shortcuts or incomplete logical rigor. Good at concrete and familiar problem solving but less so on abstract or counterfactual logic.
+
+Social Desirability: Moderate to high, but self-critical admissions and depressive symptoms suggest honest reporting rather than impression management.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by the high empathy, social attunement, and self-monitoring scores indicating strong social awareness and influence in reasoning. However, high self-concept clarity and moderate need for cognition suggest she balances social input with personal values and analytical thought. The moderate social desirability score and honest self-reporting of mood symptoms reduce concern about biased self-presentation. Cognitive test performance and economic game behavior show a pragmatic, fairness-oriented reasoning style with some cognitive limitations but overall sound judgment. The demographic context (retired, moderate education, Southern US, moderate conservative) supports moderate-depth research habits with preference for mainstream, trusted sources. Conflicts between moderate need for cognition and high need for closure are resolved by assuming she seeks quick but reasonably well-informed answers, relying on trusted social and media sources, and avoids overthinking. This profile predicts numeric predictions that are socially informed, moderately analytical, and value-driven, with some susceptibility to cognitive biases but overall pragmatic and fair-minded.
+
+# Summary for simulation: This person will produce numeric predictions that reflect moderate analytical effort, a preference for clear and quick resolution, strong social and emotional framing, and a fairness-oriented worldview. They will rely on mainstream, moderate-conservative information sources, incorporate social consensus cues, and avoid extreme or fringe views. Predictions will be cautious but optimistic, valuing trust and integrity, and will show moderate patience for future outcomes with some present bias. Cognitive errors may appear in complex abstract reasoning but not in concrete numeric estimation.

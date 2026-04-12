@@ -1,0 +1,28 @@
+- Need for Closure:
+  - Dislikes uncertainty somewhat (Item 1: Agree a little)
+  - Dislikes not understanding reasons for events (Item 4: Agree a little)
+  - Dislikes not knowing what to expect (Item 6: Agree a little)
+  - Feels relieved after decisions (Item 7: Agree a little)
+  - Wants quick solutions (Item 8: Agree a little)
+  - Does not become impatient quickly (Item 9: Disagree a little)
+  - Does not dislike unpredictable people or ambiguous statements strongly (Items 10 and 11: Disagree strongly and Disagree a little)
+  - Likes clear and structured life (Items 12 and 13: Agree a little)
+  - Does not consult many opinions before forming views (Item 14: Disagree a little)
+  - Slightly dislikes unpredictable situations (Item 15: Disagree a little)
+- Need for Cognition:
+  - Enjoys thinking and complex problems (multiple items: mostly Agree a little or Agree strongly)
+  - Finds satisfaction in deliberation (Item 6: Agree strongly)
+  - Enjoys intellectual challenges and abstract thinking (Items 11, 14: Agree strongly)
+  - Does not avoid thinking or prefer easy tasks (Items 3,4,5,7: Disagree strongly)
+- Maximizer:
+  - Disagrees strongly with maximizer behaviors (e.g., checking other radio stations, always looking for better job)
+  - Does not have highest standards for self (Item 5: Agree a little; Item 6: Disagree a little)
+- Self-monitoring:
+  - Mixed evidence, mostly somewhat false or somewhat true with exceptions on ability to alter behavior (Items 1-10: mostly 2-4 on 1-7 scale)
+  - Generally able to read others’ emotions (Items 11-13: Agree a little to generally true)
+- Self-concept clarity:
+  - Clear sense of self (Item 11: Agree strongly)
+  - Little internal conflict or fluctuation (Items 1-5, 8-9: Disagree strongly or Agree a little)
+  - Seldom experiences conflict between personality aspects (Item 6: Agree a little)
+  - Sometimes thinks knows others better than self (Item 7: Agree a little)
+- w_social estimate: 0.7 -- The person shows moderate to high need for cognition and some need for closure, with moderate self-monitoring ability and clear self-concept, combined with cooperative and fair social preferences and empathy, indicating a reasonably socially aware and reflective decision-making style under uncertainty.

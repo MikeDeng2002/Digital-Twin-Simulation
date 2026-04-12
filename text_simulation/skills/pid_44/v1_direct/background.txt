@@ -1,0 +1,126 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Assigned male at birth (Question: "What is the sex that you were assigned at birth?" Answer: 1 - Male)
+- Age group 30-49 (Question: "How old are you?" Answer: 2 - 30-49)
+- Highest education level: Some college, no degree (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 3 - Some college, no degree)
+- Race/Origin: Hispanic (Question: "What is your race or origin?" Answer: 4 - Hispanic)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Marital status: Never been married (Question: "Which of these best describes you?" Answer: 6 - Never been married)
+- Religion: Atheist (Question: "What is your present religion, if any?" Answer: 9 - Atheist)
+- Never attends religious services aside from weddings and funerals (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: 6 - Never)
+- Political affiliation: Independent (Question: "In politics today, do you consider yourself a" Answer: 3 - Independent)
+- Political views: Very liberal (Question: "In general, would you describe your political views as" Answer: 5 - Very liberal)
+- Household size: 4 people (Question: "Including yourself, how many people currently live in your household?" Answer: 4 - 4)
+- Employment status: Unemployed (Question: "What is your current employment status?" Answer: 3 - Unemployed)
+- Income: Less than $30,000 annually (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 1 - Less than $30,000)
+- Personality traits (Big Five, from self-report):
+  - Low talkativeness (Q1: 1 - Disagree strongly)
+  - Very conscientious (Q3: 5 - Agree strongly; Q13: 5 - Agree strongly; Q28: 5 - Agree strongly; Q33: 5 - Agree strongly; Q38: 5 - Agree strongly)
+  - High neuroticism (Q4: 5 - Agree strongly; Q19: 5 - Agree strongly; Q29: 5 - Agree strongly; Q39: 5 - Agree strongly)
+  - High openness to experience (Q5: 5 - Agree strongly; Q10: 5 - Agree strongly; Q15: 5 - Agree strongly; Q20: 5 - Agree strongly; Q25: 5 - Agree strongly; Q30: 5 - Agree strongly; Q40: 5 - Agree strongly; Q44: 5 - Agree strongly)
+  - Very reserved and quiet (Q6: 5 - Agree strongly; Q21: 5 - Agree strongly; Q36: 1 - Disagree strongly)
+  - Very helpful and kind (Q7: 5 - Agree strongly; Q32: 5 - Agree strongly; Q42: 5 - Agree strongly)
+  - Emotionally somewhat stable but worries a lot (Q9: 4 - Agree a little; Q24: 4 - Agree a little)
+  - Not assertive or outgoing (Q26: 1 - Disagree strongly; Q36: 1 - Disagree strongly)
+  - Not cold or aloof (Q27: 1 - Disagree strongly)
+  - Not disorganized or careless (Q8: 1 - Disagree strongly; Q18: 1 - Disagree strongly)
+  - Forgiving nature somewhat low (Q17: 2 - Disagree a little)
+  - Not lazy (Q23: 1 - Disagree strongly)
+  - Not prone to quarrels (Q12: 1 - Disagree strongly)
+  - Not energetic or enthusiastic (Q11: 1 - Disagree strongly; Q16: 1 - Disagree strongly)
+- Need for Cognition (NFC) scale:
+  - Strong preference for complex problems (Q1: 5 - Agree strongly)
+  - Likes responsibility requiring thinking (Q2: 4 - Agree a little)
+  - Dislikes low thought tasks (Q3, Q4, Q5, Q7, Q8, Q9: all 1 - Disagree strongly)
+  - Enjoys deliberating hard and long (Q6: 5 - Agree strongly)
+  - Likes intellectual, difficult tasks (Q10, Q11, Q13, Q14, Q15: all 5 - Agree strongly)
+  - Does not feel relief after mental effort (Q16: 1 - Disagree strongly)
+  - Does not just want to get the job done without understanding (Q17: 1 - Disagree strongly)
+  - Often deliberates about issues even if not personally affected (Q18: 5 - Agree strongly)
+- Values (rated as "A GUIDING PRINCIPLE IN MY LIFE"):
+  - Highly important: Trust (5), Competence (6), Humility (7), Altruism (9), Loyalty (9), Harmony (9), Excitement (9), Honesty (9), Compassion (9), Autonomy (9), Equality (9)
+  - Not important: Wealth (1), Influence (1), Ambition (1), Power (1), Status (1), Civility (1), Recognition (1), Tradition (1), Superiority (1), Politeness (2), Forgiveness (2)
+  - Achievement moderately important (6)
+  - Pleasure quite important (5)
+- Mindful ownership and minimalism:
+  - Strongly agrees with avoiding accumulating lots of stuff (Q1: 5)
+  - Strongly agrees with actively avoiding excess possessions (Q4: 5)
+  - Strongly agrees with being mindful and thoughtful about possessions (Q9, Q10, Q11, Q12: all 5)
+  - Disagrees strongly with preferring sparse or simple design (Q5, Q6, Q7, Q8: all 1)
+- Empathy and emotional sensitivity:
+  - Strongly disagrees that friends' emotions don't affect them (Q1: 1)
+  - Strongly agrees that they feel sad after being with a sad friend (Q2: 5)
+  - Strongly agrees understanding friends' happiness (Q3: 5)
+  - Strongly agrees getting caught up in others' feelings (Q5: 5)
+  - Strongly disagrees with difficulty knowing friends' emotions (Q6, Q19, Q20: 1)
+  - Strongly agrees understanding when friends are scared, cheerful, angry (Q10, Q14, Q16: 5)
+  - Strongly agrees often becoming sad or swept up in friends' feelings (Q7: 1 disagree; Q17: 5 agree)
+  - Strongly disagrees with being unaffected by others' sadness or anger (Q7, Q8, Q13, Q18: mostly 1 or 2)
+- Environmental concern:
+  - Strongly agrees that products should not harm environment (Q1: 5)
+  - Strongly agrees considering environmental impact in decisions (Q2: 5)
+  - Strongly agrees purchase habits affected by environmental concern (Q3: 5)
+  - Strongly agrees concerned about wasting planet resources (Q4: 5)
+  - Strongly agrees self-description as environmentally responsible (Q5: 5)
+  - Strongly agrees willing to be inconvenienced for environment (Q6: 5)
+- Cognitive test self-assessment:
+  - Estimated 20 out of 42 questions answered correctly (self-report)
+  - Estimated average US adult would answer 25 out of 42 correctly
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Understands inflation reduces purchasing power (money in savings with 1% interest and 2% inflation buys less)
+  - Correctly identifies stocks as highest fluctuation asset
+  - Correctly understands stock mutual funds can lose value
+  - Knows diversification reduces risk
+  - Incorrectly identifies bonds as highest return over long term (selected bonds instead of stocks)
+  - Incorrectly believes no required withdrawals after age 70.5 (False)
+  - Knows credit card debt with minimum payment and interest will never be eliminated
+- Logical reasoning:
+  - Correctly answers multiple syllogistic logic questions (mostly "Yes" for valid conclusions, "No" for invalid)
+- Personality self-concept:
+  - Clear and consistent self-concept (Self-concept clarity scale: mostly disagree with conflicting beliefs, agree strongly with clear sense of self)
+- Need for Closure:
+  - Mildly agrees with preference for order, dislike of uncertainty, desire for quick decisions (mostly "Agree a little" on items 1,3,6,7,8,10,12,13,15)
+  - Disagrees strongly with impatience and intolerance of ambiguity
+- Maximizer scale:
+  - Disagrees strongly with behaviors indicating maximizing (e.g., checking other stations, difficulty shopping for gifts)
+  - Agrees strongly with liking to find clothing they love, having high standards, never settling for second best
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and read others' emotions well
+  - Does not have difficulty changing behavior to suit situations
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in $5 split (Ultimatum proposer)
+  - Accepts all offers as receiver, even $0 (Ultimatum responder)
+  - In Trust game, sends all $5 to other person (maximally trusting)
+  - As receiver, keeps about half and sends back about half, but tends to keep more if sent less
+- Spending habits:
+  - Neither tightwad nor spendthrift (middle of scale)
+  - Never has trouble limiting spending
+  - Rarely has trouble spending money
+  - Neutral between impulsive spender and cautious spender
+- Depression and mood:
+  - Feels sad sometimes, has nothing to look forward to, but does not feel like a failure or worthless
+  - Does not feel guilty, punished, disappointed, or worse than others
+  - No increased crying or irritability
+  - No loss of interest in others
+  - Makes decisions as well as ever
+  - Takes extra effort to get started on work
+  - Sleeps less well than usual
+  - Gets tired more easily than before
+  - Appetite normal, no significant weight loss
+  - Worried about physical problems (aches, upset stomach)
+  - Less interested in sex than before
+  - Not purposely trying to lose weight
+- Self-concept clarity:
+  - Strongly agrees with clear, consistent self-concept, no frequent changes or conflicts
+- Personal uniqueness and consumer behavior:
+  - Strongly disagrees with statements about seeking uniqueness or breaking social rules in consumption
+  - Neutral on challenging prevailing tastes
+- Self-monitoring (social adaptability):
+  - Generally true that can control behavior and read others' emotions well
+  - Does not have trouble changing behavior to suit situations
+- Need for Closure:
+  - Mildly agrees with preference for order and dislike of uncertainty
+  - Disagrees with impatience and intolerance of ambiguity
+- Maximizer tendencies:
+  - Disagrees with maximizing behaviors like searching for better options
+  - Agrees with having high standards and not settling for second best

@@ -1,0 +1,84 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female, age 65+ (Questions: Sex assigned at birth: Female; Age: 65+)
+- Highest education level: Postgraduate degree (Question: Highest level of schooling completed? Answer: Postgraduate)
+- Race: White (Question: Race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Divorced (Question: Which best describes you? Answer: Divorced)
+- Religion: Nothing in particular; never attends religious services (Questions: Present religion: Nothing in particular; Frequency of attending religious services: Never)
+- Political affiliation: Democrat, very liberal (Questions: Political party: Democrat; Political views: Very liberal)
+- Household size: 1 person (Question: Number of people in household? Answer: 1)
+- Employment status: Part-time employment (Question: Current employment status? Answer: Part-time)
+- Income: $30,000-$50,000 (Question: Last year total family income? Answer: $30,000-$50,000)
+- Personality traits (Big Five, from self-report):
+  - Highly talkative (Item 1: Agree strongly)
+  - Does thorough job (Item 3: Agree strongly)
+  - Slightly depressed/blue (Item 4: Agree a little)
+  - Highly original and inventive (Items 5, 15, 25: Agree strongly)
+  - Helpful and unselfish (Item 7: Agree a little)
+  - Emotionally stable, relaxed, handles stress well (Items 9, 24, 34: Agree strongly or a little)
+  - Curious and full of energy (Items 10, 11: Agree strongly)
+  - Reliable and persevering (Items 13, 28: Agree strongly)
+  - Assertive personality (Item 26: Agree strongly)
+  - Prefers work that is somewhat routine (Item 35: Agree a little)
+  - Values artistic and aesthetic experiences highly (Items 30, 41, 44: Agree strongly)
+  - Generally trusting (Item 22: Agree strongly)
+  - Sometimes shy/inhibited (Item 31: Agree a little)
+  - Considerate and kind (Item 32: Agree a little)
+  - Does things efficiently (Item 33: Agree a little)
+  - Does not find fault with others, not careless, not lazy, not disorganized (Items 2, 8, 18, 23, 43: Disagree strongly)
+  - Does not start quarrels (Item 12: Disagree strongly)
+  - Does not get nervous easily (Item 39: Disagree a little)
+  - Does not tend to be moody (Item 29: Disagree a little)
+  - Sometimes rude to others (Item 37: Agree a little)
+  - Outgoing/sociable: neutral to slightly sociable (Items 6, 36: Neither agree nor disagree or 3)
+- Need for Cognition:
+  - Strong preference for complex problems and thinking (Items 1, 2, 6: Agree strongly)
+  - Dislikes low-effort thinking (Items 3, 4, 5, 7, 18: Disagree strongly)
+  - Likes intellectual, difficult tasks (Item 15: Agree a little)
+  - Enjoys coming up with new solutions (Item 11: Agree a little)
+  - Mixed or neutral on some items about abstract thinking and puzzles (Items 12, 13, 14: Neither agree nor disagree)
+- Values (rated as guiding principles):
+  - Highly important: Competence (9), Loyalty (9), Harmony (9), Civility (9), Autonomy (9), Equality (9), Trust (8), Honesty (8)
+  - Quite important: Wealth (7), Politeness (7), Excitement (7), Pleasure (5), Humility (5), Achievement (5), Altruism (5), Ambition (5), Compassion (5), Forgiveness (4), Influence (3), Power (2), Recognition (2), Tradition (1), Superiority (1), Status (3)
+- Environmental concern: Strongly agrees that products should not harm environment, considers environmental impact in decisions, purchase habits affected by environmental concern, concerned about wasting resources (Items 1-4: Agree strongly; Item 5: Agree a little)
+- Self-concept clarity: Strongly agrees to having a clear sense of who they are; strongly disagrees with statements indicating conflicting or unstable self-beliefs (Items 1-10: Disagree strongly; Item 11: Agree strongly)
+- Self-reported personality attributes:
+  - Organized, efficient, systematic, practical, accurate, careful (Items 1-4, 7, 8: Extremely accurate; Items 5-6: Extremely inaccurate)
+  - Good listener, courteous, willing to admit mistakes, sometimes took advantage of someone (Items 5-9 in one matrix)
+  - Does not give up easily, does not feel resentful, does not rebel against authority, does not get jealous or irritated easily (Items 1-4, 10-12: False)
+- Self-monitoring: Generally true that can alter behavior to suit situations, control impression, read emotions well (Items 1,2,5,7-10: Generally or certainly true); some difficulty changing behavior (Item 3: Generally false)
+- Maximizer: Does not strongly endorse maximizing behavior; disagrees with "never settle for second best" (Item 6: Neither agree nor disagree; Item 5: Agree a little)
+- Spending habits: Low difficulty limiting spending (Never), low difficulty spending money (Rarely), spending habit rating 3 (on 1-11 scale)
+- Shopping behavior: More similar to Mr. B (hesitant to spend despite sales)
+- Depression and mood: Feels sad and discouraged about future a little; does not feel like a failure, gets as much satisfaction as before, no guilt, no punishment feelings, no disappointment, no self-criticism, no increased crying or irritability, no loss of interest in others, no decision-making problems, no sleep or appetite problems, no weight loss, no health worries, no loss of interest in sex, not purposely trying to lose weight.
+- Cognitive test performance:
+  - Estimated self-correct answers: 15/42 (below average)
+  - Estimated average for US adults: 20/42
+  - Correct answers on logical reasoning, synonym/antonym tests, and puzzles as per transcript
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 (Ultimatum)
+  - Accepts all offers as receiver
+  - In trust game, keeps $4 and sends $1; as receiver, keeps substantial amounts and returns moderate amounts, indicating moderate trust and reciprocity
+  - Thoughts during decisions emphasize fairness and sharing
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest
+  - Understands inflation reduces purchasing power
+  - Recognizes stocks have highest fluctuations and highest long-term returns
+  - Incorrectly believes stock mutual funds cannot lose money (Answer: False to "possible to have less than $1,000")
+  - Knows diversification reduces risk
+  - Knows required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payments at 12% APR will never be eliminated
+  - Correctly answers basic probability and percentage questions mostly correctly except one (disease chance 20/100 answered as 2%)
+  - Some errors in time and logic problems (e.g., time for 100 machines to make 100 widgets answered as 100 minutes, which is incorrect)
+- Decision making under uncertainty (lottery and delayed reward tasks):
+  - Prefers immediate smaller amounts over delayed larger amounts until amounts equalize
+  - Prefers certain money over lotteries with equal or higher expected value, indicating risk aversion
+  - Prefers to keep more money in trust game, but willing to share moderately
+- Self-concept and identity:
+  - Aspires to enjoy each day, be honest and helpful, find joy in being, conscientious about cleanliness and responsibilities, values health and family
+  - Feels already who she ought to be, mainly maintaining health and responsibilities
+  - Describes self as honest, straightforward, less tolerant of foolishness, values honesty and directness
+- Logical reasoning:
+  - Correctly answers syllogistic and conditional logic questions mostly correctly, with some errors (e.g., some "No" answers where "Yes" might be expected)
+- Language skills:
+  - Correctly identifies synonyms and antonyms for a range of words, indicating good vocabulary knowledge

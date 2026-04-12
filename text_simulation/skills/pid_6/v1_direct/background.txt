@@ -1,0 +1,94 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Male, age 50-64 (Questions: Sex assigned at birth: 1 - Male; Age: 3 - 50-64)
+- Some college, no degree (Question: Highest level of schooling completed: 3 - Some college, no degree)
+- White race/origin (Question: Race or origin: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Never been married (Question: Which of these best describes you? Answer: 6 - Never been married)
+- Atheist, never attends religious services (Questions: Present religion: 9 - Atheist; Frequency of attending religious services: 6 - Never)
+- Politically Independent, moderate views (Questions: Political affiliation: 3 - Independent; Political views: 3 - Moderate)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3 - 3)
+- Retired (Question: Current employment status: 7 - Retired)
+- Income $30,000-$50,000 (Question: Last year total family income: 2 - $30,000-$50,000)
+
+Personality (Big Five traits from self-report):
+- Very talkative (5 - Agree strongly)
+- Not fault-finding (1 - Disagree strongly)
+- Thorough and reliable worker (3 & 13: 5 - Agree strongly)
+- Emotionally stable, relaxed, not tense or moody (9, 24, 14, 29: mostly 5 or low disagreement)
+- Curious, original, inventive, imaginative, ingenious, deep thinker (5, 15, 20, 25: mostly 4-5)
+- Helpful, unselfish, considerate, kind, forgiving (7, 17, 32: 4-5)
+- Somewhat reserved and quiet (6, 21, 31: 4 - Agree a little)
+- Not lazy or careless (8, 23, 18, 43: mostly disagree a little)
+- Values artistic/aesthetic experiences highly (30: 5 - Agree strongly)
+- Assertiveness neutral (26: 3 - Neither agree nor disagree)
+- Somewhat cold and aloof (27: 4 - Agree a little)
+- Perseveres until task is finished (28: 5 - Agree strongly)
+- Outgoing/sociable disagreed a little (36: 2 - Disagree a little)
+
+Need for Cognition:
+- Generally low to moderate preference for complex thinking and intellectual challenge (items 1-5 mostly 2 - Disagree a little)
+- Some satisfaction in deliberating hard (6: 4 - Agree a little)
+- Likes tasks requiring little thought once learned (9: 4 - Agree a little)
+- Likes intellectual, difficult, important tasks somewhat (15: 4 - Agree a little)
+- Some tendency to deliberate about issues even if not personally affected (18: 4 - Agree a little)
+
+Values:
+- Pleasure, trust, humility, loyalty, honesty, competence, politeness rated highly important (7-9 range)
+- Wealth, ambition, influence, power, status, superiority rated low importance (1-3 range)
+- Altruism, forgiveness, compassion, autonomy rated moderately important (6-7 range)
+- Harmony, civility, equality rated moderately important (4-5 range)
+- Tradition and recognition rated low (2-3 range)
+
+Self-concept clarity:
+- Clear and stable self-concept (items 1,2,4,5,6,8,9,11: mostly disagree strongly with conflict or change; agree strongly with clarity)
+- Somewhat reluctant to fully disclose true self (item 10: 4 - Agree a little)
+
+Need for Closure:
+- Dislikes uncertainty somewhat (items 1,2,5,6: 2 - Disagree a little)
+- Prefers well-ordered life and routine (3,12,13: 5 - Agree strongly)
+- Feels relieved when decisions are made (7: 5 - Agree strongly)
+- Some impatience with unresolved problems (8: 4 - Agree a little)
+- Does not become impatient quickly (9: 1 - Disagree strongly)
+- Some dislike of unpredictable people (10: 4 - Agree a little)
+
+Maximizer:
+- High standards for self, tries to find best options (items 2,4,5,6: 4-5 Agree)
+- Does not seek influence or recognition (9: 1 - Definitely untrue)
+- Sometimes finds it difficult to shop for gifts or find clothing loved (3,4: 4-5 Agree)
+
+Self-monitoring:
+- Generally able to adjust behavior to social situations (items 1-3,5,7: 5 - Generally true)
+- Sensitive to others' emotions somewhat (items 8-13: 4-5 - Somewhat true to generally true)
+- Can read others' emotions and adjust accordingly
+
+Economic games (Ultimatum and Trust games):
+- When proposer in $5 split, prefers to keep $3 and give $2 (Answer: $3 for self, $2 to other)
+- When responder, accepts all offers except $0 to self (accepts offers down to $1)
+- In trust game, sends $1 (keeps $4) and expects receiver to send back a fair amount (receiver keeps about half or slightly more)
+- Thoughts during decisions focus on fairness, calculations, and reciprocity
+
+Cognitive tests:
+- Estimated 30/42 correct on cognitive tests, matching US adult average
+- Correctly answered logical reasoning, syllogisms, and puzzles
+- Some errors in bat and ball problem (answered $1 for ball, which is incorrect)
+- Good understanding of probability and percentages
+- Financial literacy: understands mortgage, inflation, risk diversification, asset returns, required minimum distributions, credit card debt payoff time (15 years)
+- Lottery and probability estimates accurate
+- Prefers smaller sooner rewards over larger later rewards (discounting future money)
+- Risk preferences: prefers certain money over lotteries with equal expected value, risk averse for gains and losses
+
+Personality and behavior:
+- Honest, polite, kind, generous, dependable, grounded in reality
+- Does not join cults or extreme groups
+- Somewhat less interested in others than before
+- No significant depressive symptoms, but some loss of interest and increased tiredness
+- Purposely trying to lose weight
+- Does not seek uniqueness or break social norms in consumption
+- Prefers to follow social rules and obligations
+- Prefers to work independently but values rules and obligations
+- Organized, efficient, systematic, practical, accurate, and error-free in work
+- Not bothered by conflicting self-beliefs
+- Does not like unpredictable situations but tolerates some uncertainty
+- Sometimes has trouble limiting spending but rarely has trouble spending money
+- Spending habits moderate (8 on 1-11 scale, where 1 is tightwad and 11 spendthrift)
+- No desire for recognition or influence

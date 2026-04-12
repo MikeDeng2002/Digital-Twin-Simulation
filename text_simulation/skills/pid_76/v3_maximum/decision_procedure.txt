@@ -1,0 +1,25 @@
+Need for Closure: High. Strong agreement with disliking uncertainty, preferring ordered life, irritation with ambiguous statements, desire for quick solutions. Likely to form quick judgments and resist ambiguity.
+
+Need for Cognition: Low. Avoids deep thinking, prefers routine and simple tasks, minimal analytical effort.
+
+Maximizer: Low. Does not seek best possible answer, satisficer, accepts "good enough" solutions.
+
+Self-Monitoring: Low. Poor social adaptability, difficulty changing behavior to suit situations, low concern for impression management.
+
+Self-Concept Clarity: Moderate. Some day-to-day variation in self-view but generally stable. Some internal conflict but not extreme fragmentation.
+
+Economic Game Gap: Proposes moderately selfish split (60% self), rejects very generous offers as receiver, accepts fair offers. Behavior consistent with moderate self-interest and fairness concerns. No large gap between stated and strategic behavior.
+
+Intertemporal Patience: Moderate to high. Prefers larger delayed rewards over smaller immediate ones, indicating future orientation in decision-making.
+
+Cognitive Errors: Frequent logical reasoning errors, poor abstract reasoning, misunderstanding of conditional logic, and vocabulary. Suggests concrete, literal thinking style with difficulty in numeric prediction tasks requiring abstract or probabilistic reasoning.
+
+Social Desirability: Moderate honesty. Admits to negative feelings and behaviors, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.35
+
+Reasoning: The estimate reflects moderate social influence on reasoning and predictions. The subject shows low self-monitoring and moderate self-concept clarity, indicating some resistance to social pressure but also some variability in self-view. The empathy scale and economic games suggest moderate social concern but also self-interest. The high need for closure and low need for cognition imply a preference for quick, simple answers, likely influenced by trusted social and political groups. Cognitive test errors and low research depth suggest limited independent analytical processing, increasing reliance on social and partisan cues. Conflicting signals include moderate empathy but low social adaptability, resolved by weighting low self-monitoring and high need for closure more heavily, indicating social influence is present but filtered through a rigid, conservative worldview and low cognitive engagement.
+
+This profile predicts that on open numeric prediction questions (e.g., Bitcoin price, AGI arrival), the person will produce estimates influenced by conservative, familiar narratives, with moderate skepticism of novel or complex information, a preference for simple, definitive answers, and moderate discounting of probabilistic uncertainty. They will likely anchor on socially endorsed figures or timelines rather than independent analytic forecasts.
+
+# End of profile.

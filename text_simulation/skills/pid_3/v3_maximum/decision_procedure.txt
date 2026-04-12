@@ -1,0 +1,25 @@
+Need for Closure: Moderate to high (strong agreement with disliking uncertainty, preference for order and routine, discomfort with ambiguous situations). Wants resolution but not impulsive; tolerates some ambiguity but prefers closure.  
+Need for Cognition: High analytical effort, enjoys intellectual challenge, deliberate thinker.  
+Maximizer: Moderate; seeks good answers but not perfectionistic; willing to settle for "good enough" after some search.  
+Self-monitoring: Moderate; somewhat aware of others’ perceptions, can adjust behavior but not fully flexible or strategic.  
+Self-concept Clarity: Moderate; mostly stable self-view, some minor internal conflicts, not highly influenced by social pressure.  
+Economic Game Gap: Dictator vs Ultimatum shows moderate selfishness but fairness concerns; trust game shows moderate trust and reciprocity; behavior consistent with stated attitudes.  
+Intertemporal Patience: Moderate impatience; prefers sooner smaller rewards unless delayed reward is substantially better.  
+Cognitive Errors: Some heuristic errors in probability and exponential reasoning; moderate spatial reasoning; literal and concrete thinking style; occasional logical missteps in complex syllogisms.  
+Implication: Numeric predictions may be conservative, somewhat risk-averse, and influenced by heuristic biases; may underweight exponential growth or large probabilities.  
+Social Desirability: Moderate; self-reports generally reliable but some social desirability bias present; admits some negative traits.  
+w_social estimate: 0.65  
+Reasoning: The estimate balances the high Need for Cognition and conscientiousness (suggesting deep, deliberate reasoning) against moderate education and some cognitive errors (limiting perfect accuracy). Moderate social desirability and self-monitoring suggest self-reports are fairly trustworthy but not perfect. Economic games and intertemporal choices indicate moderate fairness and patience, with some risk aversion. The demographic context (older, Southern, retired, moderate income) suggests reliance on mainstream, moderate-depth sources rather than niche or partisan media. Conflicting signals on minimalism and consumerism indicate some curation but not strong filtering. Overall, this person is a moderately analytical, conscientious, and socially aware individual who seeks closure and values competence and trust, but with some cognitive limitations and heuristic biases that will shape numeric predictions toward moderate, cautious estimates rather than extremes or highly speculative forecasts.
+
+# Final skill profile summary for simulating numeric predictions:
+
+- Research style: Moderate to deep, deliberate, prefers balanced and trustworthy sources (mainstream news, print, moderate internet use).  
+- Reasoning style: Analytical but concrete, some heuristic biases (underestimates exponential growth, probability errors).  
+- Cognitive capacity: Slightly above average for age, moderate spatial and logical reasoning.  
+- Social influence: Moderate awareness of social norms, moderate empathy, moderate social desirability bias.  
+- Decision style: Prefers closure, moderately impatient, moderately maximizes but satisficing when needed.  
+- Economic preferences: Fair but self-interested, risk averse for gains, risk seeking for losses, moderate trust in others.  
+- Values: Competence, trust, achievement, compassion, civility, autonomy prioritized; low power/status seeking.  
+- Personality: Conscientious, emotionally stable, moderately open, somewhat introverted, agreeable.
+
+This profile predicts numeric predictions will be cautious, moderately optimistic, grounded in conventional wisdom, and influenced by a desire for clear, stable answers rather than speculative extremes.

@@ -1,0 +1,17 @@
+Need for Closure: Moderate (items #1,3,4,5,6,9,12,13,15 all around 3-4), indicating some discomfort with uncertainty but not extreme urgency to resolve ambiguity.
+
+Need for Cognition: Low to moderate (items mostly 2-4, with some neutral), indicating limited enjoyment of deep or prolonged thinking, preferring practical and straightforward tasks.
+
+Maximizer: Moderate (items #2,5,6,9,10 all 2-4), showing some tendency to seek best options but not perfectionistic.
+
+Self-monitoring: High (items #1-3,6-7,9-13 mostly 4-5), indicating good social adaptability and awareness of social cues.
+
+Self-concept Clarity: High (items #1,6,8,11 all 4-5), stable and clear self-identity.
+
+Economic games: Proposes to keep majority ($3 of $5) but sends a fair amount ($2), accepts all offers as receiver, and shows thoughts of fairness and karma, indicating moderate social cooperation and reciprocity.
+
+Cross-scale inference: High conscientiousness (Big Five) aligns with high self-concept clarity and moderate need for closure, supporting organized, reliable behavior. Moderate self-monitoring aligns with social fairness in economic games. Low need for cognition aligns with some errors in abstract cognitive tasks and preference for practical problem-solving.
+
+No major contradictions detected; cognitive test performance is consistent with self-reported traits and financial literacy.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social orientation, evidenced by high self-monitoring, fair and reciprocal behavior in economic games, and values emphasizing trust, politeness, and honesty. However, moderate need for closure and lower need for cognition suggest a preference for structured, practical social interactions rather than highly complex or abstract social reasoning. This balance supports a moderately strong social weighting in decision-making.

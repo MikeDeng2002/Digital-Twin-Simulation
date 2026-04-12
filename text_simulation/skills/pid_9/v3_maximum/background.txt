@@ -1,0 +1,55 @@
+Demographics: Male, age 30-49, White, U.S. citizen living in the Midwest, never married, Roman Catholic with infrequent religious service attendance (a few times a year), politically a liberal Democrat with a family income over $100,000, living in a two-person household, employed full-time. This suggests a middle-aged professional with stable income and moderate social ties, likely exposed to mainstream U.S. cultural and political environments with some religious background but low religious engagement.
+
+Big Five Personality (44 items):  
+- High Conscientiousness: Scores strongly on "does a thorough job" (5), "reliable worker" (5), "perseveres until task is finished" (5), "does things efficiently" (5), "makes plans and follows through" (5), "organized" (8/9), "systematic" (8), "practical" (8), "accurate and error-free" (7), "careful" (2 disagree with careless).  
+- Moderate to High Openness: "Original, comes up with new ideas" (4), "curious about many things" (5), "ingenious, deep thinker" (5), "active imagination" (5), "inventive" (4), "likes to reflect, play with ideas" (4), "sophisticated in art/music/literature" (4), "values artistic experiences" (5).  
+- Moderate Extraversion: "Talkative" (4), "full of energy" (4), "outgoing, sociable" (4), "reserved" (4), "quiet" (4), "sometimes shy" (4). This suggests a balanced social style, neither strongly introverted nor extroverted.  
+- Agreeableness: Generally high, "helpful and unselfish" (5), "considerate and kind" (5), "forgiving nature" (4), "generates enthusiasm" (4), "generally trusting" (4), but some tendency to "tend to find fault with others" (4) and "sometimes rude to others" (4), indicating nuanced social interactions with occasional critical or blunt tendencies.  
+- Neuroticism: Moderate, "worries a lot" (4), "can be tense" (4), "emotionally stable" (4), "disagree with being depressed" (2), "disagree with being lazy" (1), "disagree with being disorganized" (1). Overall, somewhat emotionally reactive but generally stable.
+
+Need for Cognition (18 items): Very high. Strong agreement with enjoying complex, intellectual, and challenging tasks (mostly 4-5), strong dislike for low-effort thinking (1-2), strong satisfaction in deliberating hard and long (5), preference for abstract thinking and puzzles (5). This person is highly analytical and enjoys deep cognitive engagement.
+
+Values (24 items):  
+- Highest values (8-9): Achievement (9), Ambition (9), Trust (9), Harmony (9), Compassion (9), Autonomy (9), Competence (8), Altruism (8), Loyalty (8), Politeness (8), Excitement (8), Honesty (8).  
+- Low values: Tradition (1), Power (2), Superiority (2), Influence (3), Status (3), Recognition (3).  
+This profile reveals a person who values personal achievement and competence but also highly values social harmony, trust, compassion, and autonomy. They reject traditionalism and dominance, preferring ethical, cooperative, and self-directed approaches.
+
+Minimalism (12 items): Moderate to strong minimalism. Strong agreement with avoiding accumulating stuff (5), actively avoiding excess possessions (5), mindful and thoughtful about what is owned (4), some neutrality on aesthetic sparseness. This person curates possessions carefully, likely extends this to information consumption.
+
+Empathy (20 items): High empathy. Strong agreement with understanding and sharing others' emotions (mostly 4-5), disagreeing with emotional detachment (1-2), able to read others' feelings quickly, somewhat emotionally affected by others' sadness or fear. This suggests reliance on social cues and emotional intelligence.
+
+Consumerism/Uniqueness:  
+- Disagrees strongly with accumulating possessions for uniqueness (1), but agrees somewhat with seeking interesting or original products (4), breaking social rules about consumption (4-5), and developing personal uniqueness through products (4).  
+- Disagrees with avoiding popular products (2), indicating moderate trend awareness but not slavish following.  
+This suggests a moderate nonconformist consumer style, valuing originality but not extreme uniqueness or trend avoidance.
+
+Cognitive Test Performance:  
+- Correct answers on most cognitive tests (36/42 estimated correct), above average compared to US adult average (25).  
+- Logical reasoning: Correct on most syllogisms and conditional logic, except one error on a negative premise (China communist question).  
+- Some errors in synonym/antonym tests: e.g., "Furtive" synonym chosen as "flimsy" (incorrect; should be stealthy), "Indolent" synonym chosen as "arduous" (incorrect; indolent means lazy, arduous means difficult).  
+- Word association chain is coherent and semantically connected, showing good semantic fluency and associative thinking.  
+- Cube rotation and pattern recognition tasks mostly correct, indicating good spatial reasoning.  
+- Some minor errors in vocabulary and antonym tasks suggest occasional semantic confusion or less precise vocabulary.
+
+Social Desirability:  
+- Generally moderate to high self-monitoring (5/6), ability to adjust behavior socially.  
+- Social desirability scale not explicitly given, but self-reports show some admission of negative traits (resentment, irritation, jealousy), indicating moderate honesty.  
+- Some contradictory self-criticism (blaming self all the time) but also positive self-view (organized, efficient).  
+- Overall, self-report reliability is moderate to high, with some social desirability bias possible but not extreme.
+
+Mental Health:  
+- No significant depression or anxiety symptoms reported.  
+- Some self-reported difficulty with decision-making and occasional self-criticism.  
+- No major affective disturbances.
+
+Economic Games:  
+- Dictator game: Proposes to keep $3 and send $2 (moderate fairness).  
+- Ultimatum game: Accepts offers down to $1 but rejects $1 offer when receiving only $1 out of $5 (rejects very unfair offers).  
+- Trust game: Sends $2 out of $5 (moderate trust), expects some return but keeps majority.  
+- As receiver, keeps about half or slightly more of the tripled amount, sends back less than half but close to half.  
+- Thoughts indicate balancing self-interest with some trust and fairness considerations.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones until the difference is quite close, indicating moderate patience but some present bias.  
+- Chooses immediate smaller rewards only when the difference is substantial.  
+- Suggests moderate long-term orientation but with some discounting of future rewards.

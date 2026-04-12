@@ -1,0 +1,35 @@
+- Need for Closure:
+  - Disagrees a little with disliking uncertainty (Q1: 2)
+  - Disagrees strongly with disliking ambiguous questions (Q2: 1)
+  - Agrees a little with liking ordered life and routines (Q3: 4)
+  - Disagrees a little with discomfort at not understanding reasons for events (Q4: 2)
+  - Disagrees a little with irritation at dissenting opinions (Q5: 2)
+  - Disagrees a little with dislike of unpredictability (Q15: 2)
+  - Agrees a little with feeling relief after decisions (Q7: 4)
+  - Agrees a little with wanting quick solutions (Q8: 4)
+  - Agrees a little with impatience if no immediate solution (Q9: 4)
+  - Overall, moderate to low need for closure, somewhat comfortable with uncertainty.
+- Need for Cognition:
+  - Mixed responses, some avoidance of deep thinking (Q5: 5 - strongly agrees avoiding deep thinking)
+  - But also enjoys problem solving and intellectual tasks (Q11: 5 - strongly agrees enjoying new solutions)
+  - Prefers puzzles and abstract thinking (Q13: 4, Q14: 4)
+  - Overall, moderate need for cognition with some ambivalence.
+- Maximizer:
+  - Disagrees strongly with searching for better options when satisfied (Q1: 1)
+  - Neither agrees nor disagrees with being on lookout for better opportunities (Q2: 3)
+  - Agrees a little with having high standards and never settling for second best (Q5: 4, Q6: 4)
+  - Overall, moderate maximizer tendencies.
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations (Q1: 5)
+  - Can control impression given (Q2: 5)
+  - Can change image if needed (Q3: 5)
+  - Generally false that has difficulty changing behavior (Q4: 2)
+  - Can adjust behavior to meet situation requirements (Q5: 5)
+  - Can read emotions well (Q8: 5, Q9: 5, Q11: 5)
+  - Overall, high self-monitoring.
+- Self-concept clarity:
+  - Strongly agrees to clear and consistent self-concept (Q6: 5, Q11: 5)
+  - Disagrees strongly with conflicting or changing self-beliefs (Q1-5,8,9: 1)
+  - Overall, high self-concept clarity.
+
+w_social estimate: 0.75 -- This estimate is based on high self-monitoring scores (items 1-3,5,8-11 all rated 5), moderate need for cognition

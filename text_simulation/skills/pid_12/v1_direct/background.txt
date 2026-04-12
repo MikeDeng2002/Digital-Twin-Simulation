@@ -1,0 +1,131 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age group 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Highest education level completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: 6 - Postgraduate)
+- Race/origin is White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status is married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion is Muslim (Question: What is your present religion, if any? Answer: 6 - Muslim)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 2 - Once a week)
+- Political affiliation is Republican (Question: In politics today, do you consider yourself a Republican? Answer: 1 - Republican)
+- Political views are conservative (Question: In general, would you describe your political views as? Answer: 2 - Conservative)
+- Total family income last year was $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: 5 - $100,000 or more)
+- Household size is 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4 - 4)
+- Employment status is full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Personality traits (Big Five) self-reported:
+  - Talkative: Agree a little (Q1: 4)
+  - Finds fault with others: Disagree strongly (Q2: 1)
+  - Does a thorough job: Agree strongly (Q3: 5)
+  - Depressed, blue: Disagree strongly (Q4: 1)
+  - Original, comes up with new ideas: Agree a little (Q5: 4)
+  - Reserved: Agree a little (Q6: 4)
+  - Helpful and unselfish: Agree strongly (Q7: 5)
+  - Careless: Disagree strongly (Q8: 1)
+  - Relaxed, handles stress well: Agree strongly (Q9: 5)
+  - Curious about many things: Agree strongly (Q10: 5)
+  - Full of energy: Agree strongly (Q11: 5)
+  - Starts quarrels: Disagree strongly (Q12: 1)
+  - Reliable worker: Agree strongly (Q13: 5)
+  - Can be tense: Disagree strongly (Q14: 1)
+  - Ingenious, deep thinker: Agree a little (Q15: 4)
+  - Generates enthusiasm: Agree a little (Q16: 4)
+  - Forgiving nature: Agree a little (Q17: 4)
+  - Disorganized: Disagree strongly (Q18: 1)
+  - Worries a lot: Disagree strongly (Q19: 1)
+  - Active imagination: Agree a little (Q20: 4)
+  - Quiet: Disagree a little (Q21: 2)
+  - Generally trusting: Agree strongly (Q22: 5)
+  - Lazy: Disagree strongly (Q23: 1)
+  - Emotionally stable: Agree a little (Q24: 4)
+  - Inventive: Agree a little (Q25: 4)
+  - Assertive personality: Agree a little (Q26: 4)
+  - Cold and aloof: Disagree strongly (Q27: 1)
+  - Perseveres until task finished: Agree strongly (Q28: 5)
+  - Moody: Disagree a little (Q29: 2)
+  - Values artistic experiences: Agree a little (Q30: 4)
+  - Sometimes shy: Agree a little (Q31: 4)
+  - Considerate and kind: Agree strongly (Q32: 5)
+  - Does things efficiently: Agree strongly (Q33: 5)
+  - Remains calm in tense situations: Agree strongly (Q34: 5)
+  - Prefers routine work: Agree strongly (Q35: 5)
+  - Outgoing, sociable: Agree a little (Q36: 4)
+  - Sometimes rude: Disagree strongly (Q37: 1)
+  - Makes plans and follows through: Agree strongly (Q38: 5)
+  - Gets nervous easily: Disagree strongly (Q39: 1)
+  - Likes to reflect, play with ideas: Agree a little (Q40: 4)
+  - Has few artistic interests: Agree a little (Q41: 4)
+  - Sophisticated in art, music, literature: Agree a little (Q44: 4)
+- Need for Cognition scale responses indicate moderate engagement with thinking:
+  - Prefers complex problems: Agree a little (Q1: 4)
+  - Likes responsibility requiring thinking: Agree a little (Q2: 4)
+  - Thinking is not fun: Disagree a little (Q3: 2)
+  - Prefers little thought tasks: Disagree a little (Q4: 2)
+  - Tries to avoid deep thinking: Agree a little (Q5: 4)
+  - Satisfaction in deliberating hard: Agree a little (Q6: 4)
+  - Thinks only as hard as necessary: Disagree a little (Q7: 2)
+  - Prefers small daily projects: Disagree a little (Q8: 2)
+  - Likes tasks requiring little thought once learned: Agree a little (Q9: 4)
+  - Relies on thought to get ahead: Agree a little (Q10: 4)
+  - Enjoys new solutions: Agree a little (Q11: 4)
+  - Learning new ways to think not exciting: Disagree a little (Q12: 2)
+  - Prefers life filled with puzzles: Disagree a little (Q13: 2)
+  - Thinking abstractly appeals: Agree a little (Q14: 4)
+  - Prefers intellectual difficult tasks: Agree a little (Q15: 4)
+  - Feels relief, not satisfaction after mental effort: Disagree a little (Q16: 2)
+  - Cares only that something works, not how: Disagree strongly (Q17: 1)
+  - Deliberates about issues not personally affecting: Agree a little (Q18: 4)
+- Values rated as highly important (7-9 scale):
+  - Wealth: 8
+  - Pleasure: 8
+  - Forgiveness: 8
+  - Influence: 7
+  - Trust: 9
+  - Competence: 9
+  - Humility: 9
+  - Achievement: 9
+  - Altruism: 9
+  - Ambition: 8
+  - Loyalty: 8
+  - Politeness: 9
+  - Power: 7
+  - Harmony: 8
+  - Excitement: 6
+  - Honesty: 9
+  - Compassion: 9
+  - Status: 8
+  - Civility: 9
+  - Autonomy: 9
+  - Equality: 9
+  - Recognition: 6
+  - Tradition: 8
+  - Superiority: 8
+- Environmental concern: Strong agreement with environmental responsibility and mindful consumption (all 5 - Agree strongly)
+- Empathy and emotional sensitivity: Generally agrees with being affected by others' emotions and able to read friends' feelings (mostly 4 - Agree a little, some 5 - Agree strongly, and some 1 - Disagree strongly on opposite statements)
+- Self-reported cognitive test performance: Estimated 12 correct out of 42 (Question: How many of these questions do you think you answered correctly? Answer: 12)
+- Estimated average US adult performance: 18 correct out of 42 (Question: How many of these questions do you think people from a representative sample of the US adult population would answer correctly? Answer: 18)
+- Financial literacy knowledge:
+  - Understands that 15-year mortgage has higher monthly payments but less total interest than 30-year (True)
+  - Understands inflation reduces purchasing power even with positive interest rate (Answer: Less than today)
+  - Recognizes stocks have highest fluctuations and highest long-term returns
+  - Understands possibility of losing money in stock mutual funds
+  - Knows diversification reduces risk
+  - Knows no mandatory withdrawals after age 70.5 from 401(k)/IRA (False)
+  - Knows credit card debt with minimum payments and interest may never be eliminated (Answer: never)
+  - Correctly answers basic probability and percentage questions (e.g., die rolls, disease risk)
+  - Correctly answers basic math and logic problems (e.g., bat and ball cost, lily pad doubling)
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum game)
+  - Accepts all offers except $0 to self (as receiver)
+  - In trust game, sends all $5 to other person (trustor)
+  - As trustee, keeps $7 and sends back $8 when receiving $15 (from $5 sent tripled)
+  - Shows thoughts about fairness, shame, help, friendship, compassion, justice in decisions
+- Self-concept clarity: Strong disagreement with statements indicating confusion or conflict about self; reports clear and stable self-concept (all 1 - Disagree strongly)
+- Need for Closure: Strong agreement with statements indicating dislike of uncertainty, preference for order, dislike of ambiguous situations (mostly 5 - Agree strongly)
+- Maximizer tendencies: Agrees strongly with searching for better options, high standards, but neither strongly agrees nor disagrees with "never settle for second best"
+- Self-monitoring: Generally true that can alter behavior to suit situations, read others' emotions, and control impressions (mostly 4-5)
+- Spending habits: Rates self as 7 on a 1-11 scale (7 = somewhat spendthrift), rarely has trouble limiting spending, never has trouble spending money
+- Depression and mood: Reports no symptoms of depression or anxiety; no sadness, guilt, irritability, or loss of interest; normal sleep, appetite, energy, and decision-making
+- Personal aspirations and self-description:
+  - Aspires to be principled, hardworking, compassionate, honest, and kind
+  - Believes ought to be responsible, dependable, adaptable, ethical
+  - Describes self as dedicated, hardworking, family-oriented, lifelong learner

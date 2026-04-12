@@ -1,0 +1,15 @@
+Inferred realistic information sources:
+
+1. Professional and academic sources: Evidence - Postgraduate education (Demographics), high need for cognition (Need for Cognition scale items 1,2,6,11,13), and high financial literacy suggest use of scholarly articles, professional journals, and educational materials for information and decision-making.
+
+2. Conservative political media: Evidence - Self-identified Republican and conservative (Demographics), values emphasizing tradition, loyalty, and order (Values), and preference for structured, predictable environments (Need for Closure scale) suggest consumption of conservative news outlets and commentary.
+
+3. Financial news and investment resources: Evidence - High financial literacy, understanding of investment risk and returns, and economic game behavior indicate use of financial news websites, investment guides, and economic analyses.
+
+Sources unlikely to be used:
+
+- Highly liberal or progressive media: Due to conservative political identity and values.
+
+- Popular culture or entertainment-focused media: Due to moderate openness and preference for intellectual engagement over artistic or aesthetic experiences.
+
+- Social media as a primary news source: Given preference for structured, reliable information and high need for cognition.

@@ -1,0 +1,52 @@
+Demographics: Male, age 30-49, White, living in the Northeast US, married, Protestant attending services once or twice a month, politically Independent with moderate views, full-time employed, household of 4, family income $75k-$100k, some college but no degree. This suggests a middle-class, moderately educated individual with stable family and work life, likely exposed to a mix of urban and suburban cultural influences typical of the Northeast. Protestant affiliation with moderate political views and independent identity implies openness to diverse perspectives but not strongly partisan.
+
+Big Five Personality (44 items):  
+- High Openness: Strong agreement with originality, curiosity, imagination, artistic interests, and deep thinking (items 5,10,15,20,30,44 all 4-5).  
+- Moderate Conscientiousness: Generally reliable, does a thorough job, perseveres, but some slight carelessness and distractibility (items 3,13,28,33 high; 8,18,43 moderate).  
+- Low Neuroticism but some tension: Disagrees with being lazy or moody, but agrees somewhat with being tense, worried, nervous (items 4,9,14,19,39,21,24 mixed).  
+- Moderate Extraversion: Somewhat talkative, energetic, outgoing but also reserved and shy (items 1,6,11,21,31,36).  
+- High Agreeableness: Very helpful, forgiving, kind, considerate, trusting (items 7,17,32,22).
+
+Need for Cognition (18 items): Very high. Strong preference for complex problems, intellectual challenge, abstract thinking, and deep deliberation (mostly 5s, with only a few 1s on opposite items). Enjoys thinking hard and long, dislikes superficial thinking.
+
+Values (24 items):  
+- Highest: Humility (9), Harmony (9), Compassion (9), Equality (9), Competence (8), Altruism (8), Honesty (8), Excitement (8), Autonomy (8), Trust (6), Ambition (6), Forgiveness (7), Politeness (7), Civility (7).  
+- Low: Wealth (2), Power (2), Status (1), Superiority (1), Tradition (3).  
+This profile reveals a worldview valuing social harmony, fairness, kindness, and personal integrity over material success or dominance.
+
+Minimalism (12 items): Mixed but leaning toward moderate minimalism. Strong preference for simplicity in design and visually sparse environments (items 5,6,8 high), but disagrees with actively avoiding possessions or curating belongings carefully (items 1,2,4,9,12 low). Suggests aesthetic minimalism preference without strict material minimalism.
+
+Consumerism/Uniqueness: Strong desire for uniqueness and nonconformity in consumption. Likes original, unusual products, challenges social norms in buying, avoids mainstream brands (mostly 4-5). Enjoys being distinctive and breaking customs.
+
+Cognitive Test Performance:  
+- Correct answers on 34/42 cognitive questions, self-estimated 34 vs population average 18, indicating above-average cognitive ability.  
+- Logical reasoning: Correct on all syllogistic and conditional logic questions, except a notable error on the Wason selection task (incorrectly answered that "If a glock is a XAR, then it is certain it is NOT a YOF," which contradicts the premise "All XARs are YOFs"). This suggests a specific reasoning bias or misunderstanding of logical implication and contrapositive reasoning.  
+- Spatial reasoning: Mixed performance on cube rotation tasks, with some inconsistent choices, indicating moderate spatial ability but occasional errors in mental rotation or perspective-taking.  
+- Analogies and vocabulary: High synonym and antonym accuracy, indicating strong verbal reasoning and vocabulary.  
+- Word association chain: Progresses logically from snow to cold, wet, white, then shifts to oceanic and warm themes, ending with calm. Shows flexible, associative thinking with some thematic shifts, indicating cognitive flexibility.
+
+Social Desirability: High self-monitoring (6/6 items "certainly true"), high social awareness, but low tendency to lie or fake responses (denies taking advantage, getting even). Suggests reliable self-reporting with awareness of social impression but not excessive distortion.
+
+Depression and Anxiety Indicators:  
+- Strong endorsement of depressive symptoms: "I am sad all the time and can't snap out of it," "I don't get real satisfaction anymore," "I feel guilty a good part of the time," "I cry more than I used to," "I get annoyed more easily," "I put off making decisions more than before," "I feel less worthwhile," "I don't sleep as well," "I get tired more easily," "I am worried about physical problems."  
+- Anxiety symptoms: Moderate to severe nervousness, fear of worst happening, heart pounding.  
+- Despite this, maintains a positive self-view in some respects ("People mostly like me," "I try my best," "I am considerate and kind").
+
+Economic Games:  
+- Dictator game: Proposes to keep $3 and give $2 (60% to self), indicating moderate generosity but self-interest.  
+- Ultimatum game: Accepts all offers, even $0, indicating high tolerance and low rejection of unfair offers.  
+- Trust game: Sends $2 (out of $5), expecting reciprocity; returns about half of received amounts, indicating balanced reciprocity and fairness concerns.  
+- Loss framing: More upset by multiple smaller losses than a single equivalent loss, showing loss aversion and sensitivity to framing effects.
+
+Intertemporal Choice:  
+- Prefers larger delayed rewards over smaller sooner ones consistently until the delayed reward is substantially better, indicating moderate to high patience and future orientation.
+
+Self-Concept Clarity: Moderate. Some internal conflict and fluctuation in self-beliefs, but generally a stable self-view with some reflection and uncertainty.
+
+Need for Closure: Low to moderate. Disagrees with dislike of uncertainty but strongly desires quick resolution and relief after decisions, indicating some impatience with ambiguity but not extreme.
+
+Maximizer Scale: Low. Disagrees with "never settle for second best," but often checks for better options (e.g., radio stations), indicating a moderate maximizer who seeks good but not perfect.
+
+Empathy: Very high. Strong emotional contagion, understanding, and sensitivity to others' feelings.
+
+Consumer Spending: Tends to be a "tightwad" with difficulty spending money, often reluctant to spend even when appropriate.

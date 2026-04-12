@@ -1,0 +1,17 @@
+Need for Closure: Moderate to high (e.g., dislikes uncertainty, likes routine, wants quick solutions, items 1-15 in that scale mostly agree a little to strongly). She prefers order and dislikes ambiguity.
+
+Need for Cognition: Very low (items 1-18 in that scale mostly strongly disagree with enjoying thinking, prefer simple tasks, avoid deep thought).
+
+Maximizer: Moderate (agrees with "never settle for second best" 4, "highest standards" 4, "on lookout for better opportunities" 5, "check other stations for better options" 4). She tries to maximize but within limits.
+
+Self-monitoring: High (items 1-13 in self-monitoring scale mostly 5-6, indicating strong ability to adjust behavior to social situations, read emotions, and control impressions).
+
+Self-concept clarity: High (clear sense of self, little internal conflict).
+
+Economic games: Shows moderate fairness but self-interest. Keeps $3/$5 in dictator game, accepts offers down to $1, rejects $0. In trust game, sends all $5 but keeps large share when receiving. Thought processes emphasize maximizing reward and fairness.
+
+Cross-scale inference: High self-monitoring and high need for closure align with preference for social order and impression management. Low need for cognition contrasts with high originality and imagination, suggesting preference for creative expression without deep cognitive effort. Economic games and values show competitive, achievement-oriented, and self-reliant profile.
+
+No contradictions noted; scales align well.
+
+w_social estimate: 0.7 -- The respondent shows high extroversion, assertiveness, and social adaptability (Self-monitoring scale items 1-13 all high), indicating strong social engagement skills. However, her competitive and somewhat disagreeable traits (e.g., starts quarrels, sometimes rude) and moderate fairness in economic games suggest she is socially active but not always cooperative or warm. Her high need for closure and low need for cognition imply preference for clear social roles and straightforward interactions rather than complex social cognition. Together, these scales suggest a moderately high social engagement and influence capacity, but with some interpersonal friction, leading to a w_social estimate of 0.7.

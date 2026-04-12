@@ -1,0 +1,21 @@
+Need for Closure: Moderate; prefers order and clarity but not impatient or rash. Will seek resolution but tolerates some ambiguity.
+
+Need for Cognition: Moderate; invests some analytical effort but prefers practical, not overly abstract or prolonged thinking.
+
+Maximizer: Satisficer; seeks good enough answers rather than exhaustive best.
+
+Self-monitoring: Moderate; notices social cues but does not strongly alter behavior for impression management.
+
+Self-concept Clarity: High; stable self-view supports resistance to social pressure and consistent reasoning.
+
+Economic Game Gap: Pro-social and consistent; dictator and ultimatum offers align with acceptance behavior, indicating genuine fairness and trust rather than strategic manipulation.
+
+Intertemporal Patience: Moderate to high; prefers delayed rewards when sufficiently better, indicating future-oriented thinking.
+
+Cognitive Errors: Some logical reasoning errors in syllogisms (accepting invalid conclusions), indicating occasional over-reliance on plausibility rather than strict logic. Good visuospatial and pattern recognition skills support complex problem solving.
+
+Social Desirability: Low to moderate; self-reports reliable.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate to high weighting on social and normative information in reasoning and prediction. This individual is socially aware, empathetic to a degree, and values honesty and cooperation, which suggests they incorporate social consensus and ethical considerations into their judgments. However, their moderate need for cognition and satisficing maximizer style indicate they do not exhaustively analyze all data or seek the absolute best answer, instead balancing social input with practical reasoning. Their moderate need for closure and high self-concept clarity allow them to maintain consistent views without undue social conformity, but they still rely on trusted social and informational networks. Cognitive test performance shows solid reasoning but some susceptibility to plausible but incorrect conclusions, suggesting numeric predictions may be influenced by heuristics and social norms rather than purely analytical models. Overall, this profile predicts numeric forecasts that integrate moderate analytical effort with social and ethical considerations, favoring moderate, consensus-aligned estimates rather than extreme or contrarian positions.

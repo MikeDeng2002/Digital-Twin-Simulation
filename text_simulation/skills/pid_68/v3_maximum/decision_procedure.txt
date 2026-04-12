@@ -1,0 +1,22 @@
+Need for Closure: Low to moderate. Dislikes routine and structured life, not impatient for quick answers, comfortable with ambiguity. Willing to tolerate uncertainty in predictions.
+
+Need for Cognition: Moderate. Enjoys complex problems and abstract thinking but also prefers to think only as hard as necessary. Likely to invest analytical effort selectively, balancing effort and payoff.
+
+Maximizer: Somewhat high. Seeks better answers, comparison shops information, but sometimes settles for "good enough" given effort constraints.
+
+Self-monitoring: Moderate-high. Notices social cues and adjusts behavior, but with some inconsistency. Likely aware of social expectations but not overly conformist.
+
+Self-concept clarity: Moderate-low. Self-view somewhat unstable and conflicting, may be influenced by social context but retains some internal consistency.
+
+Economic game gap: Proposes selfish splits but accepts all offers, indicating pragmatic self-interest with tolerance for others' selfishness. Trust game behavior moderate, indicating cautious but not distrustful stance.
+
+Intertemporal patience: Moderate. Mixed preferences for immediate vs delayed rewards, indicating balanced temporal discounting.
+
+Cognitive errors: Some logical reasoning errors in syllogisms and vocabulary tests suggest occasional heuristic shortcuts or misunderstanding of formal logic. Good visual-spatial reasoning and puzzle solving. Word association shows phonological chaining rather than semantic depth.
+
+Social desirability: Moderate. Some self-presentation bias but also admits negative traits and behaviors, suggesting partial reliability of self-report.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate to high self-monitoring and maximizer tendencies, moderate empathy, and political identity suggesting some social awareness and influence. However, moderate self-concept clarity and cognitive errors indicate some internal conflict and imperfect reasoning. Social desirability is moderate, so self-reports are somewhat trustworthy but should be interpreted cautiously. The depressive symptoms and spending ambivalence add complexity, possibly biasing toward pessimistic or risk-averse predictions. Overall, this person is a moderately analytical, socially aware individual who seeks good information but may sometimes shortcut reasoning and is influenced by emotional states.
+
+# Summary for simulation: This person will produce numeric predictions that reflect moderate analytical effort, some social and political bias toward liberal sources, a preference for nuanced and somewhat uncertain answers, and a tendency to balance optimism with caution. They may underweight highly technical or abstract data and rely on a mix of mainstream and niche sources. Their predictions may show moderate consistency but occasional logical slips or heuristic biases, especially under emotional stress.

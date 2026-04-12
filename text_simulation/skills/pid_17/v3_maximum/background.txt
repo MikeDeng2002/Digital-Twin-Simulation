@@ -1,0 +1,83 @@
+Demographics: Female, age 50-64, living in the Western US (likely a state like CA, OR, WA, or nearby). White, US citizen, divorced, atheist with no religious service attendance, politically very liberal Democrat, low family income (<$30,000), part-time employed, living alone. This suggests a middle-aged woman with moderate socioeconomic resources, possibly retired or semi-retired or working part-time by choice or circumstance, with a liberal worldview and secular orientation. Living alone and divorced may imply a degree of independence and self-reliance.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagrees slightly with being talkative and outgoing, somewhat reserved, but not shy.  
+- Very low Neuroticism: Strongly emotionally stable, relaxed, not tense or moody, no worry or nervousness.  
+- High Openness: Strongly agrees with originality, ingenuity, curiosity, imagination, artistic interests, and sophistication in art/music/literature.  
+- High Agreeableness: Helpful, forgiving, kind, trusting, cooperative, considerate.  
+- High Conscientiousness: Reliable, efficient, persevering, does a thorough job, makes plans and follows through, not careless or lazy.  
+Overall, a calm, stable, thoughtful, creative, and conscientious personality with moderate social reserve.
+
+Need for Cognition (18 items):  
+- Very high: Strongly enjoys thinking hard, solving puzzles, coming up with new solutions, abstract thinking, and intellectual challenges. Disagrees strongly with thinking being no fun or avoiding deep thought.  
+- Somewhat mixed on preference for complex vs. simple problems (neutral), and preference for small daily projects vs. long-term ones (neutral).  
+- Enjoys tasks requiring little thought once learned (strongly agrees), indicating efficiency in routine tasks.  
+Overall, a deep thinker who enjoys intellectual engagement but also values efficiency.
+
+Values (24 items):  
+- Highest values: Compassion (9), Equality (9), Harmony (8), Humility (7), Altruism (7), Honesty (7), Civility (7), Trust (6), Autonomy (6), Competence (5).  
+- Lowest values: Wealth, Pleasure, Influence, Achievement, Ambition, Loyalty, Power, Excitement, Status, Recognition, Tradition, Superiority (all 1).  
+This reveals a worldview strongly oriented toward social justice, kindness, fairness, and personal integrity, with little interest in material success, status, or competition.
+
+Minimalism (12 items):  
+- Strongly agrees with avoiding accumulating stuff and actively avoiding excess possessions.  
+- Mixed or neutral on visual sparsity and simplicity in design; disagrees with keeping home very sparse or carefully curated belongings.  
+- Some mindfulness about possessions but not strongly curated.  
+Suggests a moderate minimalist attitude focused on avoiding clutter and excess, but not extreme minimalism or aesthetic minimalism.
+
+Empathy (20 items):  
+- Low emotional contagion: Disagrees strongly with feeling sad or frightened when others are sad or scared, does not get caught up in others’ feelings.  
+- Moderate cognitive empathy: Agrees somewhat with understanding others’ feelings and recognizing emotions like anger or cheerfulness.  
+- Some difficulty in reading friends’ fear or happiness.  
+- Overall, low affective empathy but moderate cognitive empathy, indicating a more detached, rational approach to others’ emotions rather than emotional immersion.
+
+Consumerism/Uniqueness:  
+- Strongly disagrees with seeking uniqueness through products or breaking social norms in buying.  
+- Strongly agrees with avoiding products bought by the general population and disliking common brands.  
+- Strongly agrees with breaking customs and rules in product use.  
+This is somewhat contradictory: she does not seek uniqueness by buying special products but does like to challenge social norms and avoid mainstream products, indicating a nonconformist attitude that is not driven by consumerism but by principle or identity.
+
+Social Desirability:  
+- Low social desirability bias: Admits to sometimes being irritated by favors, sometimes making mistakes, not always courteous, sometimes irritated by others’ ideas, but also willing to admit mistakes.  
+- No evidence of strong impression management or faking good.
+
+Self-monitoring (13 items):  
+- Very low self-monitoring: Cannot easily change behavior to suit situations, difficulty putting up a good front, trouble adjusting behavior, not sensitive to others’ facial expressions or emotions.  
+- Does not try to control impression or read others well.  
+- Suggests a stable, authentic self-presentation with little concern for social image.
+
+Self-concept clarity (12 items):  
+- Very high: Strongly agrees with having a clear, stable self-view, no internal conflicts, no frequent changes in self-beliefs, no confusion about identity.  
+- Stable and coherent self-concept.
+
+Cognitive Test Performance:  
+- High accuracy: Self-estimated 38/42 correct (above average US adult 24/42).  
+- Correct answers on classic trick questions (e.g., "Emily" is the third daughter, 27 cubic feet in hole, passing second place means second place).  
+- Correct logical syllogisms mostly, except one error on plants and animals syllogism (incorrectly said conclusion does not follow).  
+- Correct analogies and Wason selection task (choosing cards A, F, 3, 7).  
+- Some errors in cube rotation tasks, indicating some difficulty with 3D spatial reasoning or mental rotation.  
+- Word association chain shows a linear, somewhat resigned or self-focused pattern ("toaster" → "oven" → "hot" → "food" → "dinner" → "eat" → "you" → "expect" → "too" → "much" → "work" → "for" → "the" → "pay" → "get" → "over" → "your" → "selt" [likely "self"] → "too" → "much"). This suggests a cognitive style focused on effort and reward, possibly with a hint of frustration or resignation.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 in dictator game (60% to self), moderately selfish but not greedy.  
+- Accepts offers down to $1 in ultimatum game, rejects $0 offers.  
+- As receiver in trust game, keeps about half or slightly more of the tripled amount, sends back a fair but self-favoring split.  
+- Thoughts during decisions mention "people are greedy" and "do not share too greedy," indicating a cautious, somewhat distrustful view of others’ fairness.
+
+Intertemporal Choice:  
+- Prefers larger delayed rewards over smaller sooner ones consistently until the delayed reward is substantially better, indicating moderate patience and future orientation.
+
+Loss Framing:  
+- Prefers sure smaller losses over probabilistic larger losses, indicating risk aversion in losses.
+
+Social Desirability Scale:  
+- Low, consistent with honest self-reporting.
+
+Depression and Mood:  
+- No signs of depression or anxiety; reports feeling happy, stable, not sad or discouraged.
+
+Spending Habits:  
+- Neither tightwad nor spendthrift, rarely has trouble limiting or spending money.
+
+Maximizer Scale:  
+- Mixed: Does not comparison shop for gifts or clothing easily, but has high standards for self and tries to avoid settling for second best.

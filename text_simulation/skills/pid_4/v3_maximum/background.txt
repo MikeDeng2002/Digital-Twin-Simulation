@@ -1,0 +1,37 @@
+Demographics: Male, age 50-64, White, living in the Southern US, married, full-time employed, college graduate with some postgraduate education, family income $75,000-$100,000, US citizen, Democrat with very liberal political views, religious affiliation "Other" but never attends services. Household size 2. This profile suggests a stable middle-class lifestyle with moderate to high education and income, likely exposed to diverse information sources but with a regional cultural context of the South. The political and religious profile indicates openness to progressive ideas but low religious engagement.
+
+Big Five Personality (44 items): Extremely high scores on Extraversion (talkative, energetic, outgoing, enthusiastic), Conscientiousness (thorough, reliable, organized, persevering), Openness (original, curious, imaginative, artistic, ingenious), Agreeableness (helpful, forgiving, kind, trusting, polite), and Emotional Stability (relaxed, calm, not tense or moody). No signs of neuroticism or disagreeableness. Assertiveness is neutral (3/5). This person is highly engaged, socially warm, intellectually curious, emotionally stable, and conscientious, indicating a strong capacity for sustained effort and openness to new ideas.
+
+Values (24 items): Highest values (9/9) are Forgiveness, Trust, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Autonomy, and Equality. Wealth, Achievement, Power, Status, Ambition, and Superiority are rated very low (1-2). Pleasure and Tradition are moderate (6). This reveals a worldview centered on social harmony, ethical behavior, egalitarianism, and intrinsic moral values rather than material success or dominance.
+
+Minimalism (12 items): Strong agreement with avoiding excess possessions, preferring simplicity and mindful ownership, but neutral on having carefully curated belongings. This suggests a preference for simplicity and intentionality in possessions, likely extending to information consumption habits.
+
+Empathy (20 items): High empathy overall, with strong sensitivity to others’ emotions, ability to read emotional cues, and tendency to feel others’ feelings moderately. No emotional detachment. This implies reliance on social and emotional cues in processing information and decision-making.
+
+Consumerism/Uniqueness: Neutral to slightly positive on seeking originality and breaking social norms in product use, but no strong drive for uniqueness or trend avoidance. Willing to challenge social norms but not strongly driven by consumer identity.
+
+Cognitive Test Performance: Self-estimated 25/42 correct (above average), believes average is 20/42. Correct answers on logical syllogisms mostly, but some errors in conditional logic (e.g., incorrectly affirming the consequent). Correct on Wason selection task cards A and 3, indicating good but not perfect conditional reasoning. Correct on analogies and spatial puzzles with some hesitation (e.g., chose "I do not know" on one cube rotation). Word synonym and antonym tests mostly correct, except one error on "Furtive" synonym (chose facile instead of stealthy), and disparity synonym (despondency chosen, which is incorrect; disparity means difference, despondency means sadness). This pattern suggests strong verbal and logical reasoning but occasional semantic slips and some overconfidence in reasoning.
+
+Word Association Chain: The chain moves from "candle" to "light," "warmth," "happiness," "family," "caring," "love," "kindness," "smiles," "honest," "generosity," "giving," "help," "aid," "caring," "loving," "nurturing," "rearing," "raising," "connection." This chain reveals a strongly prosocial, relational, and emotionally warm cognitive pattern, emphasizing kindness, generosity, and social bonds.
+
+Social Desirability Scale: No evidence of inflated self-reporting; the participant admits to some negative behaviors (e.g., taking advantage of someone), and does not deny occasional jealousy or irritation. Depression and anxiety symptom scales are all minimal or absent, indicating honest and stable self-reporting.
+
+Self-Concept Clarity: Very high clarity and stability of self-concept, no internal conflict, consistent self-view as kind, generous, honest. This supports resistance to social pressure and stable identity.
+
+Need for Closure: High need for closure on some items (dislikes uncertainty, prefers order and routine, dislikes ambiguous statements), but low on impatience for quick solutions and low irritability when solutions are delayed. This suggests a preference for clear, structured information but with patience for deliberation.
+
+Need for Cognition: Very high; enjoys complex problems, intellectual challenges, abstract thinking, and deep thought. Dislikes shallow thinking and prefers intellectual tasks.
+
+Maximizer Scale: High standards for self, never settles for second best, but neutral on comparison shopping or seeking better options in media or products. This suggests internal maximization (high personal standards) but moderate external maximization behavior.
+
+Self-Monitoring: Very high; can readily adjust behavior to social situations, reads others’ emotions well, sensitive to social cues, but self-concept clarity suggests this is used strategically rather than for conformity.
+
+Economic Games (Dictator and Ultimatum): As proposer, offers $0 to self and $5 to other (fully generous). As responder, rejects low offers ($5, $4, $3) but accepts higher offers ($3, $2, $1, $0 for self). This is inconsistent with pure altruism; the participant is generous when giving but strategic and somewhat punitive when receiving, rejecting offers that are too generous to the other (rejects $5 for self, $0 for other). In the trust game, sends $3 (out of $5) and expects to receive back $5 of $15 (about 33%), showing moderate trust and expectation of reciprocity.
+
+Intertemporal Choice: Strong preference for larger later rewards over smaller sooner ones, consistently choosing delayed rewards even when the immediate reward is close in value. This indicates high patience and long-term orientation.
+
+Economic Game Loss Framing: Prefers person A in lottery happiness and upsetness scenarios, indicating sensitivity to mental accounting and loss framing effects.
+
+Consumerism: Neither tightwad nor spendthrift, moderate spending control, sometimes struggles with spending decisions but not strongly. Neutral on consumerism and uniqueness.
+
+Depression and Anxiety: No symptoms reported, stable mood.

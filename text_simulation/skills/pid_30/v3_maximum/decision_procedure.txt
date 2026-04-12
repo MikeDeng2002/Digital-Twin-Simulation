@@ -1,0 +1,33 @@
+Need for Closure: Moderate to low. Does not rush to quick answers, tolerates ambiguity, prefers well-ordered life but not impatient for resolution. This suggests measured, deliberate decision-making.
+
+Need for Cognition: Moderate to high. Invests analytical effort, enjoys abstract and complex thinking, deliberates even on non-personal issues. Likely to engage deeply with numeric prediction tasks.
+
+Maximizer: Strong. Seeks best possible answers, does not satisfice, holds high standards for self and information quality. Likely to seek comprehensive data before numeric predictions.
+
+Self-monitoring: High. Notices social cues and adjusts behavior, but stable self-concept suggests does not defer to social pressure easily. Likely to integrate social information but maintain independent judgment.
+
+Self-concept Clarity: Very high. Stable self-view, resists social pressure, consistent in beliefs and identity. Supports independent, confident numeric predictions.
+
+Economic Game Gap: Proposer keeps 60% ($3/$5), receiver accepts all offers except zero, trust game shows maximal trust and moderate reciprocity. Behaviorally consistent, indicating pragmatic fairness and trust balanced with self-interest.
+
+Intertemporal Patience: High. Prefers larger delayed rewards consistently, indicating long-term thinking in forming views and predictions.
+
+Cognitive Errors: Some semantic confusion in vocabulary tests (e.g., "furtive" synonym as "ecstatic," "astute" synonym as "ascetic"), occasional logical missteps (e.g., bicycle needing oil syllogism). Suggests occasional inattentiveness or semantic imprecision but overall good logical reasoning and spatial skills. For numeric predictions, this implies generally sound reasoning but occasional lapses in semantic nuance or overgeneralization.
+
+Social Desirability: Low to moderate. Self-reports appear reliable and honest, no evidence of defensive responding.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances the individual's high self-monitoring and social awareness with a very stable self-concept and moderate need for closure, indicating they incorporate social information but do not overly conform. Their empathy profile suggests reliance on cognitive rather than emotional social cues. Economic games show pragmatic fairness and trust, supporting moderate social weighting. Cognitive test performance and maximizer tendencies indicate a strong preference for accuracy and best answers, which tempers social influence. Occasional semantic errors introduce some uncertainty, but overall the profile supports a moderately high social weighting in numeric predictions, especially when social consensus or expert opinion is relevant, but with independent critical evaluation.
+
+# Final skill profile summary for simulating numeric predictions on open questions:
+
+- Likely to research deeply and analytically, consulting multiple moderate and neutral sources.
+- Prefers balanced, data-driven, and reputable platforms (e.g., Bloomberg, NPR, Reuters).
+- Avoids partisan or sensationalist sources.
+- Integrates social information cognitively, with moderate social weighting (w_social=0.65).
+- Exhibits patience and long-term orientation in forming predictions.
+- Holds high standards and seeks best possible answers (maximizer).
+- Reasoning is generally sound but occasionally prone to semantic slips.
+- Social desirability bias is low; self-reports are reliable.
+- Numeric predictions will reflect a blend of independent analysis and moderate social consensus influence, with a tendency to avoid extremes or impulsive judgments.

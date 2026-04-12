@@ -1,0 +1,116 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Divorced (Question: Which of these best describes you? Answer: Divorced)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once a week)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Yes)
+- Political views: Conservative (Question: In general, would you describe your political views as? Answer: Conservative)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: Self-employed)
+- Family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Personality traits (Big Five, selected items):
+  - Very talkative (Item 1: Agree strongly)
+  - Slightly disagree with finding fault with others (Item 2: Disagree a little)
+  - Does a thorough job (Item 3: Agree strongly)
+  - Not depressed (Item 4: Disagree strongly)
+  - Somewhat original and inventive (Items 5, 25: Agree a little)
+  - Helpful and unselfish (Item 7: Agree strongly)
+  - Emotionally stable and relaxed (Items 9, 24, 34: Agree strongly)
+  - Curious about many things (Item 10: Agree strongly)
+  - Reliable and persevering (Items 13, 28: Agree strongly)
+  - Forgiving nature (Item 17: Agree strongly)
+  - Generally trusting (Item 22: Agree strongly)
+  - Somewhat tense and moody (Items 14, 29: Agree a little)
+  - Values artistic/aesthetic experiences (Items 30, 44: Agree strongly/a little)
+  - Outgoing and sociable (Items 1, 36: Agree strongly/a little)
+  - Considerate and kind (Item 32: Agree strongly)
+  - Makes plans and follows through (Item 38: Agree strongly)
+  - Likes to reflect and play with ideas (Item 40: Agree strongly)
+- Need for Cognition (selected items):
+  - Prefers complex problems (Item 1: Agree a little)
+  - Likes responsibility requiring thinking (Item 2: Agree a little)
+  - Thinking is somewhat fun (Item 3: Disagree a little)
+  - Finds satisfaction in deliberating hard (Item 6: Agree a little)
+  - Enjoys coming up with new solutions (Item 11: Agree a little)
+  - Prefers intellectual, difficult tasks (Item 15: Agree a little)
+  - Often deliberates about issues even if not personally affected (Item 18: Agree strongly)
+  - Dislikes learning new ways to think (Item 12: Disagree strongly)
+- Values (selected):
+  - Highly values Influence, Trust, Humility, Altruism, Loyalty, Compassion (rated 8-9)
+  - Moderately values Wealth (4), Pleasure (7), Achievement (7), Ambition (8), Harmony (8), Politeness (7), Honesty (7), Tradition (7)
+  - Low value on Power (3), Status (3), Superiority (3)
+- Environmental concern:
+  - Agrees that products should not harm environment (4)
+  - Strongly considers environmental impact in decisions (5)
+  - Concerned about wasting planet resources (5)
+  - Willing to be inconvenienced for environmentally friendly actions (4)
+- Empathy and social sensitivity:
+  - Strongly affected by friends’ emotions (Items 2,3,5,9,12,14: Agree strongly)
+  - Disagrees strongly that friends’ emotions don’t affect him (Items 1,7,8,13,18: Disagree strongly)
+  - Can read friends’ feelings well (Items 6,10,16,19,20: Agree a little to strongly)
+  - Sometimes gets frightened by scary movies (Item 4: Agree a little)
+- Cognitive test performance:
+  - Estimated self-correct answers: 31/42
+  - Estimated average US adult correct: 33/42
+  - Correct answers on logical reasoning and syllogisms mostly "Yes" except some "No" where appropriate
+  - Some errors in spatial cube rotation tasks (selected "None of the cubes could be a rotation" or incorrect options)
+  - Vocabulary: mostly correct synonyms and antonyms except one error (FURTIVE synonym chosen as "ecstatic" which is incorrect)
+- Financial literacy:
+  - Correctly identifies mortgage interest and payment relationship (True)
+  - Understands inflation effect on savings (money buys less)
+  - Recognizes stocks as highest fluctuation and highest return over long term
+  - Understands diversification reduces risk
+  - Knows required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payments may never be eliminated
+  - Correct answers on probability and percentages
+  - Some errors in simple math problems (e.g., ball cost in bat and ball problem answered 0.1 instead of 0.05)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 in Ultimatum game
+  - Accepts all offers except $5 for self and $0 for other
+  - In Trust game, sends $3 (keeps $2) and as receiver keeps $5 and sends back $10 when receiving $15
+  - Thoughts during decisions: "fair" and "balanced"
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Always a good listener (True)
+  - Sometimes takes advantage of someone (True)
+  - Always willing to admit mistakes (True)
+  - Always courteous (True)
+  - Sometimes jealous of others' good fortune (True)
+  - Does not feel resentful or try to get even (False)
+  - Generally organized, efficient, systematic, practical (7-8 ratings)
+  - Disagrees strongly with being careless, sloppy, inefficient
+  - Prefers to depend on self, personal identity important (Agree a little to strongly)
+  - Values cooperation and family strongly (Agree strongly)
+  - Aspires to be genuine, honest, loyal, kind, humble, hardworking, quick to listen, full of wisdom and compassion
+  - Self-concept clarity: generally clear sense of self, but sometimes wonders about self (mostly agree strongly or agree a little)
+- Need for Closure:
+  - Dislikes uncertainty, prefers order and routine (mostly agree strongly or agree a little)
+  - Likes quick decisions and solutions (agree strongly or a little)
+  - Dislikes ambiguous statements (mixed responses)
+- Maximizer tendencies:
+  - Neither strongly agrees nor disagrees with maximizing statements; some agreement with having high standards and not settling for second best
+- Self-monitoring:
+  - High self-monitoring: can alter behavior, control impression, read emotions well (mostly certainly or generally true)
+- Spending habits:
+  - Describes self as somewhat tightwad (3 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxiety about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Depression and mood:
+  - Does not feel sad, discouraged, guilty, worthless, or disappointed
+  - Somewhat critical of self for weaknesses or mistakes
+  - Has some difficulty starting work, sleeps less well, gets tired more easily
+  - Appetite and weight stable
+  - No increased worry about health or loss of interest in sex
+- Personal uniqueness and consumer behavior:
+  - Disagrees or strongly disagrees with statements about seeking uniqueness or breaking social rules in consumption
+- Self-concept clarity:
+  - Generally clear sense of self, some occasional doubts or changes in self-beliefs
+- Logical reasoning:
+  - Correctly identifies cards to test conditional rule (chooses A)
+- Final Ultimatum game offer: keeps $3, sends $2
+- Thoughts during money split decisions emphasize fairness and equality

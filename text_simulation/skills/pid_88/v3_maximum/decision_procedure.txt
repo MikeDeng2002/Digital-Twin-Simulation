@@ -1,0 +1,32 @@
+Need for Closure: Moderate. Some discomfort with uncertainty (agree a little on discomfort with not understanding reasons, impatience for solutions), but not extreme urgency. Will seek resolution but tolerates some ambiguity.
+
+Need for Cognition: Moderate. Engages in thinking and problem-solving but does not relish deep or prolonged cognitive effort. Will deliberate but not obsess.
+
+Maximizer: Moderate. Seeks good solutions and compares options but willing to satisfice. Shows some standards but not perfectionism.
+
+Self-Monitoring: Moderate. Notices others' perceptions and adjusts behavior somewhat but not fully strategic or manipulative.
+
+Self-Concept Clarity: Moderate. Some internal conflict and uncertainty about self, but generally stable enough to resist social pressure.
+
+Economic Game Gap: Proposer and responder behavior consistent with strategic fairness and reciprocity. No major gap between stated and strategic behavior; shows moderate trust and fairness.
+
+Intertemporal Patience: High. Consistently prefers larger later rewards, indicating long-term thinking in forming views and decisions.
+
+Cognitive Errors: Some errors in visual-spatial cube rotation tasks suggest occasional lapses in spatial reasoning or attention. Logical reasoning mostly intact, with good verbal reasoning. May rely more on verbal and analytical reasoning than on visual-spatial cues.
+
+Social Desirability: Moderate. Admits to negative feelings and behaviors, suggesting reasonable self-report reliability but some possible underreporting of socially undesirable traits.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate social desirability bias. The participant shows some willingness to admit negative emotions and behaviors (depression, irritability, jealousy), which argues against high social desirability. However, some responses (e.g., accepting all ultimatum offers, moderate self-monitoring) suggest some impression management. Cognitive test performance and economic game behavior align with self-reports, supporting reliability. Conflicting signals from moderate self-monitoring and some social desirability tendencies are resolved by weighting behavioral tasks and cognitive performance more heavily, indicating moderate but not low social desirability.
+
+# Final skill profile summary for numeric prediction simulation:
+- Analytical style: Moderate depth, balanced verbal-logical reasoning, some visual-spatial limitations.
+- Information sourcing: Moderate research depth, prefers neutral to conservative-leaning mainstream and financial news, some niche sources.
+- Cognitive biases: Moderate need for closure, moderate maximizer, patient intertemporal preferences, strategic fairness in social decisions.
+- Emotional state: Currently experiencing depressive symptoms, which may bias predictions towards pessimism or risk aversion.
+- Social cognition: Moderate empathy and self-monitoring, some sensitivity to social feedback but stable self-concept.
+- Consumerism: Moderately individualistic, mindful curation of possessions and information.
+- Prediction tendencies: Likely to produce numeric predictions that are cautious, moderately optimistic about achievement and progress, but tempered by current mood and moderate need for closure.
+
+This profile supports simulating numeric predictions with moderate analytical effort, balanced optimism/pessimism, and strategic social reasoning, with some caution due to depressive affect.

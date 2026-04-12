@@ -1,0 +1,17 @@
+- Need for Closure (NFC): Very high (items 1-15 all 5 - Agree strongly), indicating a strong preference for order, predictability, and quick decisions.
+- Need for Cognition (NFCog): Very low (items 1-18 mostly 1 or 5 in direction of low NFCog), indicating avoidance of effortful thinking and intellectual challenges.
+- Maximizer: Low (disagreeing with never settling for second best), indicating satisficing rather than maximizing tendencies.
+- Self-monitoring: High (items 1-13 mostly 5 - Generally true), indicating good social adaptability and awareness.
+- Self-concept clarity: High (items 1-12 mostly 5 or 1 in direction of clarity), indicating stable and consistent self-identity.
+- Economic games: Moderate fairness and reciprocity, willing to share but also keep a fair portion; accepts fair offers but rejects low offers; in trust game, expects moderate reciprocity.
+- Cognitive tests: Below average performance and self-estimate, indicating limited cognitive skill or engagement.
+
+Cross-scale inference:
+- High NFC and low NFCog align with preference for routine, order, and avoidance of complex thinking.
+- High self-monitoring and agreeableness align with social cooperativeness and sensitivity.
+- Economic game behavior supports moderate prosociality but with self-interest.
+- Cognitive test results and low openness support low intellectual curiosity and cognitive engagement.
+
+No major contradictions observed; scales consistently depict a socially agreeable, conscientious, low-openness, high-closure individual with moderate fairness and practical decision-making.
+
+w_social estimate: 0.65 -- This estimate reflects the respondent’s high agreeableness, strong social values (altruism, loyalty, politeness), and high self-monitoring, which support social engagement and cooperation. However, moderate economic game offers and below-average cognitive performance suggest some self-interest and limited strategic social cognition. The high need for closure and low need for cognition indicate preference for clear, predictable social interactions rather than complex social maneuvering, placing the respondent in a moderately socially skilled category.

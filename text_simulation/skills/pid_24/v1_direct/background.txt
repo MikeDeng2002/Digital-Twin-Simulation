@@ -1,0 +1,88 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male, aged 18-29 (Questions: Sex assigned at birth, Age; Answers: Male, 18-29)
+- Highest education completed: High school graduate (Question: Highest level of schooling; Answer: High school graduate)
+- Race: White (Question: Race or origin; Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Protestant, attends religious services once a week (Questions: Present religion, Frequency of attendance; Answers: Protestant, Once a week)
+- Political affiliation: Republican, very conservative (Questions: Political party, Political views; Answers: Republican, Very conservative)
+- Household size: 2 people (Question: How many people live in your household? Answer: 2)
+- Employment status: Unemployed (Question: Current employment status; Answer: Unemployed)
+- Income: Less than $30,000 family income last year (Question: Total family income last year; Answer: Less than $30,000)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly with being talkative, doing a thorough job, assertive, outgoing, organized, making plans and following through (Answers: 1 - Disagree strongly on these items)
+  - Agree a little or strongly with being depressed, finding fault with others, careless, disorganized, worrying a lot, quiet, lazy, artistic interests, shy, nervous, easily distracted, sophisticated in art/music/literature, imaginative (various answers 4 or 5)
+  - Mixed or neutral on helpfulness, reliability, emotional stability, ingenuity, enthusiasm, forgiving nature, moody, cooperation, rudeness, calmness, efficiency, preference for routine (mostly neutral or disagree a little)
+- Need for Cognition:
+  - Disagree strongly with preferring complex problems and responsibility requiring thinking
+  - Agree a little or strongly with preferring tasks requiring little thought, avoiding deep thinking, and relief after mental effort
+  - Mixed feelings about enjoying new solutions or abstract thinking (mostly disagree a little or neither agree nor disagree)
+- Values:
+  - Highly important: Ambition (9), Power (9)
+  - Quite important: Competence (8), Achievement (8), Pleasure (8), Influence (7), Trust (7), Altruism (7), Excitement (7), Tradition (7)
+  - Not important: Forgiveness (1), Status (1), Equality (1), Recognition (1)
+  - Moderate importance: Wealth (5), Honesty (5), Autonomy (5)
+- Spending habits:
+  - Neither agree nor disagree or disagree a little on mindful ownership, preference for simplicity and sparse environments (some strong agreement on simplicity in design and leaving spaces empty)
+- Empathy and emotional sensitivity:
+  - Generally low empathy: mostly disagree a little or strongly on being affected by friends' emotions or understanding them
+- Environmental concern:
+  - Neutral to low concern; mostly neither agree nor disagree or disagree a little on environmental responsibility and impact
+- Cognitive test performance:
+  - Estimated self-correct answers: 35/42
+  - Estimated average US adult correct answers: 40/42
+- Financial literacy:
+  - Correct understanding of mortgage payments, inflation, risk diversification, and investment returns except incorrectly identifying bonds as highest return over long term (selected bonds over stocks)
+  - Correct understanding of required minimum distributions from retirement accounts
+  - Correct answers on credit card payoff time, probability, and logical reasoning tasks
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep all $5 and send $0 to other person (Ultimatum proposer)
+  - Rejects offers of $0 to self as receiver
+  - As receiver in trust game, keeps all money and sends back $0 regardless of amount sent
+- Self-reported personality and behavior:
+  - Admits to being lazy, depressed, lacking attention, compulsive, unhappy with current state
+  - Aspires to be healthy, wealthy, powerful
+  - Believes ought to be dedicated, frugal, determined
+- Self-concept clarity:
+  - Generally clear sense of self, but some uncertainty about past self
+  - Strong agreement with not telling others what really like about self
+- Need for Closure:
+  - Agrees with disliking uncertainty, prefers order and routine, wants quick solutions, dislikes unpredictability
+- Maximizer tendencies:
+  - Disagrees strongly with never settling for second best or having highest standards
+  - Some difficulty shopping for gifts and finding clothing loved
+- Self-monitoring:
+  - Generally low self-monitoring; difficulty altering behavior to suit situations, trouble putting up a good front, difficulty reading others' emotions
+- Depression and mood:
+  - Reports feeling sad, hopeless, worthless, guilty, punished, disgusted with self, blaming self, crying more, irritated, lost interest in others and sex, tired, poor appetite, worried about health
+  - No significant weight loss, no purposeful dieting
+- Spending habits:
+  - Identifies as tightwad (difficulty spending money)
+  - Sometimes has trouble limiting spending, often has trouble spending money
+  - More similar to person who refrains from spending despite sales
+- Decision making and problem solving:
+  - Sometimes gives up due to low self-belief
+  - Sometimes resentful, sometimes tries to get even
+  - Not a good listener, not always courteous
+  - Sometimes irked by differing opinions
+- Social and cooperative attitudes:
+  - Disagrees strongly that well-being of coworkers is important
+  - Disagrees strongly with feeling proud of coworkers' prizes
+  - Disagrees with pleasure from spending time with others or cooperating
+  - Somewhat agrees with family staying together but disagrees strongly with family sticking together no matter what
+- Cognitive style:
+  - Prefers not to work without instructions
+  - Probably tries to solve problems creatively
+  - Not bothered by reviewing or checking things closely
+  - Neither agrees nor disagrees on liking new ways of doing things
+  - Does not try to make work accurate or error-free
+  - Does not like achievements recognized by others
+  - Does not often think about others' expectations
+- Logical reasoning:
+  - Correctly identifies cards to test conditional rules
+  - Correctly answers logical syllogisms mostly
+- Language skills:
+  - Some errors in synonym and antonym selection (e.g., synonym for CONCUR chosen as extricate, antonym for ALOOF chosen as deadly)
+- Thought processes during economic games:
+  - When deciding how much to keep/send: thoughts about trustworthiness, personal need, money management, poverty, desire for more money
+  - When deciding how much to keep/send back: thoughts about personal need, struggle, food, and reciprocity

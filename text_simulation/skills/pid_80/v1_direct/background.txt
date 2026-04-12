@@ -1,0 +1,65 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age 65+ (Question: How old are you? Answer: 65+)
+- Education: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a Republican, Democrat, Independent, or Something else? Answer: Independent)
+- Political views: Very conservative (Question: In general, would you describe your political views as? Answer: Very conservative)
+- Income: Less than $30,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: Less than $30,000)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Personality traits (Big Five, self-report):
+  - Low talkativeness (Q1: Disagree strongly)
+  - Slightly fault-finding (Q2: Agree a little)
+  - Very thorough and reliable (Q3, Q13: Agree strongly)
+  - Emotionally stable, relaxed, not moody (Q9, Q24, Q29: Agree strongly or disagree strongly for moody)
+  - Introverted/reserved and quiet (Q6, Q21, Q36: Agree strongly or disagree strongly for outgoing)
+  - Some originality, ingenuity, and creativity (Q5, Q15, Q20, Q25, Q30, Q44: Agree a little to strongly)
+  - Somewhat organized but admits to some disorganization and carelessness (Q18: Agree a little; Q8: Agree a little)
+  - Generally trusting and forgiving (Q17, Q22: Agree a little)
+  - Prefers efficiency and perseverance (Q28, Q33, Q38: Agree strongly)
+  - Somewhat cold and aloof (Q27: Agree a little)
+  - Somewhat shy and considerate (Q31, Q32: Agree a little)
+- Need for Cognition: Very high (multiple items answered "Agree strongly" to liking complex problems, thinking hard, intellectual tasks, abstract thinking, and problem solving; e.g., Q1, Q2, Q6, Q10, Q11, Q14, Q15, Q16)
+- Need for Closure: Moderate to high (agrees with liking order, disliking uncertainty, wanting quick solutions, relief after decisions; e.g., Q1, Q4, Q6, Q7, Q8)
+- Maximizer tendencies: No direct explicit scale data, but some items suggest high standards for self (Q5 in Maximizer section: Neither agree nor disagree; no direct maximizer scale present)
+- Self-monitoring: Generally high ability to adjust behavior and read others (Q1, Q5, Q7, Q8, Q9, Q10, Q11, Q12, Q13: Mostly "Generally true" or "Somewhat true")
+- Self-concept clarity: High (Q11: Agree strongly; Q3, Q4, Q5, Q7, Q8, Q9: Disagree strongly with statements about confusion or change in self-beliefs)
+- Values:
+  - Highly values forgiveness, competence, loyalty, honesty, autonomy (rated 8 or 9)
+  - Values achievement, tradition, superiority moderately high (8)
+  - Low importance on wealth, power, influence, status, recognition, equality, altruism, compassion (mostly low to moderate)
+  - Prefers simplicity and minimalism in possessions and environment (all items strongly agree or agree a little with avoiding excess possessions, preferring sparse environments)
+- Empathy and emotional contagion: Low (strongly disagrees with being affected by others' emotions, sadness, fear; agrees that others' feelings don't bother him)
+- Environmental concern: None (strongly disagrees with all environmental responsibility items)
+- Cognitive test performance: Estimated 33/42 correct, above average compared to US adult average of 25/42
+- Financial literacy: Correct understanding of mortgage, inflation, risk diversification, investment returns, required minimum distributions, credit card debt (answers consistent with financial knowledge)
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split game
+  - Accepts offers down to $1 sent to self, rejects offers of $0 sent to self
+  - In trust game, keeps all $5 and sends $0
+  - As receiver, returns some money but keeps majority (e.g., keeps $10 of $15, sends back $5)
+- Spending habits: Tightwad, difficulty spending money (self-report)
+- Depression and mood: Generally not depressed but some mild symptoms (e.g., less enjoyment than before, more easily irritated, less interest in others, some tiredness, some sleep difficulties, some worry about physical health)
+- Self-reported personality and behavior:
+  - Does not depend on self without instructions (prefers some guidance)
+  - Values carrying out obligations
+  - Likes accuracy and error-free work
+  - Creative problem solver
+  - Does not like to think about what others expect of him
+  - Does not like unpredictable situations but not extremely intolerant
+  - Does not seek uniqueness or originality in products or possessions
+  - Generally able to read others' emotions and adjust behavior accordingly
+  - Clear and stable self-concept
+  - Moderate need for closure, prefers order and structure
+  - High need for cognition, enjoys intellectual challenges
+  - Prefers to depend on self less (probably not true that prefers to work without instructions)
+  - Competitive and achievement-oriented (strong agreement with winning, competition, tension when others do better)
+  - Family-oriented (agrees with family sticking together and duty to family)
+  - Somewhat less interested in social pleasure
+  - Does not feel sad, guilty, worthless, or like a failure currently
+  - Some mild physical health worries

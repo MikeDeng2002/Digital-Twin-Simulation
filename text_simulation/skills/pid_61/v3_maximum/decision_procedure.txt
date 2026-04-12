@@ -1,0 +1,29 @@
+Need for Closure: Moderate to high (agree strongly with disliking uncertainty, wanting quick solutions, structured life). Likely prefers relatively fast resolution but not impulsive.
+
+Need for Cognition: Moderate to moderately high; invests analytical effort but not obsessively. Enjoys thinking but also values practical outcomes.
+
+Maximizer: Moderate; seeks good solutions but willing to satisfice when appropriate.
+
+Self-monitoring: High; very aware of social context and adjusts behavior accordingly, but self-concept clarity is also high, so not easily swayed by social pressure.
+
+Self-concept clarity: High and stable, with reflective tendencies. This supports consistent reasoning and resistance to social conformity bias.
+
+Economic game gap: Proposer and responder behavior in dictator and ultimatum games is consistent with moderate fairness and reciprocity. Trust game behavior shows balanced reciprocity, not purely selfish or purely altruistic.
+
+Intertemporal patience: Moderate patience with some present bias; prefers sooner smaller rewards when difference is small but switches to larger delayed rewards when difference is meaningful.
+
+Cognitive errors: Some errors in conditional logic and spatial reasoning puzzles suggest occasional reasoning lapses, especially in abstract or 3D spatial tasks. Numeric reasoning is generally good but some underestimation of exponential growth (lily pad problem) and probabilistic reasoning is average.
+
+Social desirability: Moderate; self-reports are generally reliable but some admissions of negative traits (jealousy, taking advantage) indicate honesty.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the high self-monitoring and empathy scores indicating strong social awareness and influence, with a stable self-concept and moderate need for cognition suggesting the person integrates social information but maintains independent judgment. The moderate social desirability and some self-critical admissions reduce the risk of biased self-report. The economic games and intertemporal choices show a pragmatic, fairness-oriented but self-interested decision style. Cognitive test performance and error patterns indicate competent but not expert analytical reasoning, with occasional lapses in abstract or spatial tasks. Overall, this person is likely to produce numeric predictions that are moderately socially informed, conservative in uncertainty tolerance, and grounded in practical, fairness-based heuristics rather than purely analytical or purely intuitive extremes.
+
+# Summary for simulation:  
+- Uses conservative, partisan, and socially validated information sources with moderate depth.  
+- Engages in moderate analytical effort, prefers closure and structured understanding.  
+- Balances fairness and self-interest in judgments.  
+- Shows moderate patience and risk aversion, especially in losses.  
+- Cognitive style is generally logical but with some errors in abstract reasoning and spatial tasks.  
+- Strong social awareness but stable self-concept reduces social conformity bias.  
+- Predictions likely conservative, moderately optimistic, and influenced by social and moral values (trust, loyalty, humility).

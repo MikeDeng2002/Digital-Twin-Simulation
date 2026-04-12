@@ -1,0 +1,57 @@
+Demographics: Female, age 50-64, White, U.S. citizen, living in the Western U.S. (likely a state such as CA, WA, OR, or CO). Married, Protestant attending weekly services, politically Republican and conservative, with a high family income ($100,000+), and full-time employed with a household of three. This suggests a stable, middle-to-upper-middle class lifestyle with traditional family and religious values, likely with access to quality education and resources.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagrees with being talkative, quarrelsome, or outgoing; somewhat reserved and quiet.  
+- High Conscientiousness: strongly agrees with being thorough, reliable, organized, efficient, persevering, and calm under stress.  
+- High Openness: strongly agrees with originality, imagination, artistic appreciation, and ingenuity; likes to reflect and play with ideas.  
+- Low Neuroticism: strongly disagrees with being tense, moody, or worried; emotionally stable and relaxed.  
+- Agreeableness: moderately high, agrees somewhat with being helpful, forgiving, kind, and trusting; disagrees with coldness or aloofness.
+
+Need for Cognition (18 items):  
+- Moderate to high: enjoys complex problems, intellectual challenges, and new solutions; does not find thinking unpleasant; somewhat satisfied with deliberation but not extreme.  
+- Shows a preference for thinking deeply but not obsessively.
+
+Values (24 items):  
+- Highest importance: Competence (9), Honesty (9), Compassion (9), Equality (9), Tradition (9), Achievement (8), Altruism (8), Humility (8), Politeness (8), Forgiveness (8), Civility (8).  
+- Moderate importance: Wealth (5), Influence (5), Excitement (5), Superiority (5).  
+- Low importance: Power (3), Status (2), Recognition (2).  
+This reveals a worldview valuing moral integrity, social harmony, competence, and tradition, with moderate ambition but low desire for dominance or status.
+
+Minimalism and Consumerism:  
+- Slightly minimalist: agrees somewhat with avoiding accumulation, mindful ownership, simplicity in design, and curation of belongings.  
+- Consumerism/Uniqueness: low to moderate uniqueness seeking; disagrees strongly with breaking social norms in consumption, but agrees a little with developing personal uniqueness and challenging prevailing tastes.  
+- Tends to avoid mainstream products somewhat but not strongly.
+
+Cognitive Test Performance:  
+- Correct answers on 35/42 cognitive questions, self-estimated 35 correct vs. population average 25, indicating above-average cognitive ability.  
+- Logical reasoning: mostly correct on syllogisms and conditional reasoning, except for a few errors on negation and converse fallacies (e.g., incorrectly concluding "If a car is a Honda, then it is expensive" but denying the conclusion).  
+- Spatial reasoning: selected plausible answers on analogies and pattern completion, but some uncertainty (e.g., cube rotation task answered "I do not know").  
+- Word associations: chain shows academic and research-related concepts, indicating a structured, knowledge-oriented cognitive style.  
+- Synonym/antonym tests: mostly correct, indicating good vocabulary and verbal reasoning.
+
+Social Desirability:  
+- Moderate to low social desirability bias: admits to some negative traits (e.g., taking advantage of others, sometimes giving up, irritation), denies always being courteous or a good listener, and acknowledges occasional disorganization.  
+- Self-monitoring scale: generally low ability or willingness to alter behavior to suit social situations, but high ability to read others’ emotions and expressions.  
+- Self-concept clarity: mixed signals; agrees strongly with having a clear sense of self but also agrees that self-beliefs change frequently and sometimes knows others better than self.  
+- Indicates some internal conflict or fluidity in self-view but overall stable identity.
+
+Emotional and Mental Health:  
+- No significant depression or sadness; no loss of interest or motivation; some mild guilt and worry about punishment; mild sleep disturbance and increased tiredness; no appetite or weight loss issues.  
+- Anxiety symptoms low to moderate.
+
+Economic Games:  
+- Dictator game: proposes to keep $2-$3 and give $2-$3, showing moderate fairness and generosity.  
+- Ultimatum game: willing to accept offers down to $1 but rejects very low offers, indicating a balance between fairness and self-interest.  
+- In the trust game, sends small amounts ($1) but expects moderate reciprocation, indicating cautious trust and reciprocity expectations.  
+- Overall, behavior suggests moderate altruism tempered by self-protection.
+
+Intertemporal Choice:  
+- Mixed preferences: sometimes prefers immediate smaller rewards, sometimes delayed larger rewards; shows some patience but not extreme.  
+- Discounting is moderate, indicating balanced time preferences.
+
+Loss Framing:  
+- More sensitive to losses than gains, rejecting unfair offers and showing stronger upset when losses are framed as larger or more salient.
+
+Consumer Spending:  
+- Identifies as a spendthrift (score 8/11), rarely has trouble limiting spending, but often has trouble spending money (anxiety about spending).  
+- More similar to impulsive spender (Mr. A) than frugal (Mr. B).

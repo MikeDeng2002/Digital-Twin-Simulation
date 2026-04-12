@@ -1,0 +1,64 @@
+Demographics: Female, age 65+, White, U.S. citizen, living in the Northeast U.S., divorced, atheist with no religious service attendance, retired, low income (<$30,000), politically moderate Democrat. This profile suggests a life experience shaped by older age, likely fixed income constraints, and a moderate political worldview with secular values. Being divorced and living alone may imply a degree of independence and self-reliance.
+
+Big Five Personality (44 items):  
+- High Extraversion facets: Talkative (5), Helpful (5), Reliable (5), Persevering (5), Artistic values (5), Considerate (5).  
+- Moderate Openness: Originality (4), Ingenuity (4), Imagination (4), Inventiveness (4), Curiosity (5).  
+- Moderate Conscientiousness: Does a thorough job (4), Reliable worker (5), Organized (9/9 self-rating), Efficient (8/9), Systematic (8/9), Practical (9/9).  
+- Emotional Stability: Mixed signals; neither strongly stable nor unstable (mostly 3s and 4s), some moodiness (4), some tension (3), worry neutral (3).  
+- Agreeableness: Generally high (helpful 5, considerate 5), but some disagreement on forgiving nature (2), and trust (2), indicating cautiousness in trust but socially kind.
+
+Need for Cognition (18 items): Scores indicate a low to moderate engagement with deep thinking: prefers simple problems (2), avoids heavy thinking responsibility (2), finds relief rather than satisfaction after mental effort (5), prefers small daily projects (4), thinks only as hard as necessary (4), somewhat avoids deep thought (3). Overall, this person tends to avoid complex cognitive challenges and prefers practical, manageable thinking tasks.
+
+Need for Closure (15 items): Moderate need for closure: dislikes uncertainty somewhat (4), prefers ordered life (4), feels relief after decisions (5), wants solutions fairly quickly (4), but not impatient or irritated by lack of immediate solutions (2). Shows preference for structure and clarity but tolerates some ambiguity.
+
+Maximizer Scale (6 items): Scores mostly neutral to low; does not strongly seek the best option or comparison shopping for information (disagrees slightly with checking other stations, neither agrees nor disagrees on highest standards). Likely satisficer rather than maximizer.
+
+Self-monitoring (13 items): Generally moderate to high ability to adjust behavior and read social cues (mostly 4-5), but with some exceptions (3s). Can regulate actions to fit situations, somewhat sensitive to others’ emotions, but not perfectly intuitive.
+
+Self-concept Clarity (12 items): Moderate clarity; mostly stable self-view (disagree strongly with frequent changes), but some minor fluctuations day-to-day (agree a little). Clear sense of identity but open to some reflection.
+
+Values (24 items):  
+- Highest values: Trust (9), Altruism (9), Autonomy (9), Loyalty (8), Tradition (8), Compassion (8), Equality (7), Humility (7), Competence (7), Politeness (7), Honesty (7), Civility (7).  
+- Low values: Influence (1), Status (1), Power (2), Wealth (2), Superiority (3), Ambition (3).  
+- Pleasure moderately important (7).  
+This reveals a worldview valuing social harmony, fairness, independence, and helping others, with low emphasis on power, wealth, or status.
+
+Minimalism (12 items): Mildly minimalist: agrees a little with avoiding accumulation, restricting possessions, drawn to sparse environments and simplicity (mostly 3-4), but less agreement on careful curation or mindful selection (2-3). Suggests moderate minimalism, not extreme.
+
+Consumerism/Uniqueness: Low to moderate uniqueness seeking; disagrees or neutral on breaking social rules with products, avoiding popular brands, or seeking uniqueness aggressively. Some interest in personal image but not strongly countercultural.
+
+Empathy (20 items): Moderate empathy; agrees a little with being affected by friends’ emotions, understanding others’ feelings, and catching others’ moods, but not strongly overwhelmed by emotions. Somewhat balanced emotional resonance.
+
+Social Desirability: Not explicitly scored, but some contradictory self-reports (e.g., denies being always courteous, admits to resentment and jealousy) suggest moderate honesty in self-reporting, not overly socially desirable.
+
+Cognitive Test Performance:  
+- Correct answers: 29/42 (estimated 29, average 25), above average but not expert.  
+- Logical reasoning: Correct on most syllogisms except some errors on negation and contrapositives (e.g., incorrectly accepting invalid conclusions).  
+- Wason selection task: Correctly identifies cards A and 3, showing understanding of falsification principle.  
+- Analogies and cube rotation: Mixed performance, some errors in spatial reasoning (selected incorrect rotations), indicating some difficulty with complex spatial transformations.  
+- Word associations: Logical, sequential, thematic chain from bear to sand, showing organized semantic network.  
+- Vocabulary: Correct synonym and antonym choices, indicating good verbal knowledge.  
+- Cognitive style: Prefers practical, straightforward reasoning over abstract or complex problems.
+
+Economic Games:  
+- Dictator game: Keeps all $5, sends $0.  
+- Ultimatum game (receiver): Accepts all offers except $0, rejects $0 offer.  
+- Trust game: Sends $2 (keeps $3), expects receiver to return about half (keeps $8 of $15, sends back $7).  
+- Thoughts during decisions: Emphasizes fairness and sharing but ultimately self-interested in allocations.  
+- Suggests cautious trust, moderate fairness concerns, but self-protective.
+
+Intertemporal Choice:  
+- Prefers immediate smaller rewards over delayed larger ones until the delayed reward is substantially better (prefers $6 in 6 weeks over $5.75 in 5 weeks, switches at $5.75+).  
+- Indicates moderate impatience, discounting future rewards fairly steeply.
+
+Loss Framing:  
+- Prefers to avoid losses, willing to accept smaller sure losses over risky larger losses.  
+- Risk averse in losses, consistent with moderate loss aversion.
+
+Consumer Spending:  
+- Spending habits: Low spendthrift (3/11), rarely has trouble limiting spending, often has trouble spending money (4/5), similar to a tightwad.  
+- Prefers to save or avoid spending unnecessarily.
+
+Mental Health:  
+- No significant depression or anxiety symptoms reported.  
+- Emotionally stable in recent week, no loss of interest or motivation.

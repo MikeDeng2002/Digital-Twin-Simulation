@@ -1,0 +1,53 @@
+Demographics: Male, Black, age 18-29, living in the Southern US, some college but no degree, student status, unmarried, US citizen, moderate political views, independent politically, household of 4, family income $75k-$100k, no strong religious affiliation and seldom attends services. This suggests a young adult with moderate socioeconomic status, likely urban or suburban, with exposure to diverse cultural and social environments but not strongly tied to traditional religious or political institutions.
+
+Big Five Personality (44 items):  
+- Conscientiousness: High (Does a thorough job 5, reliable worker 5, inventive 5, assertive 5) but some ambivalence on perseverance (3) and efficiency (3-4).  
+- Agreeableness: Mixed to low (somewhat cold and aloof 5, helpful and unselfish 2, forgiving nature 4, considerate 4).  
+- Neuroticism: Moderate (worries a lot 3, can be moody 4, nervous 4, relaxed 2).  
+- Openness: Moderate to low (originality 2, curiosity 3, active imagination 3, artistic interests 4, sophisticated 4).  
+- Extraversion: Moderate (talkative 3, outgoing 4, reserved 3, full of energy 4).  
+Overall, conscientious and assertive, somewhat aloof, moderate emotional reactivity, moderate openness, and moderate extraversion.
+
+Need for Cognition (18 items): Mixed signals. Prefers to avoid deep thinking (item 5: strongly agree to avoiding deep thought), but also enjoys puzzles (item 13: strongly agree), and likes intellectual tasks somewhat (item 14: agree a little). Shows ambivalence: "I only think as hard as I have to" (agree a little), but also "I like to have responsibility for thinking" (agree a little). Suggests moderate but selective engagement with cognitive effort, possibly avoiding sustained deep thinking but enjoying problem-solving in bursts.
+
+Need for Closure (15 items): Moderate. Some preference for order and structure (agree a little to liking clear, structured life, dislike of unpredictability), but not extreme. Shows some impatience for quick solutions (agree a little to wanting quick resolution), but not strongly intolerant of ambiguity.
+
+Maximizer scale (6 items): Mixed to low. Does not strongly seek the best option (never settle for second best: disagree a little), neither strongly maximizes nor satisficies. Some difficulty shopping for gifts (agree a little), but no strong tendency to comparison shop or maximize.
+
+Self-monitoring (13 items): Moderate. Some ability to adjust behavior (somewhat true but with exceptions), but also some difficulty regulating actions. Some sensitivity to others' emotions but not highly attuned. Overall, moderate social awareness but not highly strategic or chameleon-like.
+
+Self-concept clarity (12 items): Moderate to low. Some agreement with stable self-view, but also some uncertainty and occasional conflict in self-beliefs. "Sometimes I feel I am not really the person I appear to be" (agree a little), "I spend time wondering what kind of person I really am" (neutral). Suggests some identity exploration and moderate stability.
+
+Values (24 items): Very high importance (9/9) on wealth, pleasure, forgiveness, influence, trust, competence, humility, achievement, ambition, loyalty, politeness, power, harmony, excitement, honesty, compassion, status, civility, autonomy, equality, tradition, superiority. This is an unusual pattern: simultaneously valuing power, superiority, and humility, forgiveness, and compassion highly. Suggests a complex worldview valuing success, influence, social harmony, and moral virtues. Recognition is somewhat lower (6). Altruism slightly lower (8). Overall, highly achievement- and status-oriented but also values social harmony and moral principles.
+
+Minimalism (12 items): Moderate. Neither strongly minimalist nor consumerist. Some agreement with curating possessions carefully (5 strongly agree), avoiding excess possessions (agree a little), drawn to sparse environments (agree a little). Suggests some preference for simplicity and mindful ownership but not extreme minimalism.
+
+Empathy (20 items): Low to moderate. Disagrees strongly with feeling sad for friends' sadness, not easily caught up in others' feelings, other people's feelings don't bother them (agree strongly). However, can understand others' feelings (agree strongly). Suggests cognitive empathy (understanding others) but low affective empathy (emotional contagion). Likely emotionally detached but socially aware.
+
+Consumerism/Uniqueness: Somewhat nonconformist. Agrees a little with breaking social rules about products, going against social norms, avoiding common brands. Somewhat values uniqueness but not strongly.
+
+Cognitive Test Performance:  
+- Correct answers on cognitive tests: 24/42 (about 57%), self-estimate matches actual.  
+- Errors include classic cognitive biases:  
+  - Math errors: e.g., dirt cubic feet question answered 12 (correct is 27), bat and ball problem answered 3 (correct is 0.05), lily pad doubling question answered 24 (correct is 47).  
+  - Logical syllogisms: some correct, some errors (e.g., incorrectly answered that plants are not animals based on premises).  
+  - Cube rotation puzzles: mixed correct and incorrect answers, indicating moderate spatial reasoning but some confusion.  
+  - Synonym/antonym vocabulary: some errors (e.g., "concur" synonym chosen as "concoct" incorrect; "astute" synonym chosen as "bizarre" incorrect).  
+Overall, cognitive style shows moderate reasoning ability with some typical heuristic errors and occasional misunderstandings of logical or numerical problems.
+
+Word Association Chain: Snow → ice → water → wet → cold → winter → hail → sleet → freeze → heat → warm → car → shovel → back → slippery → wheels → friged (likely typo for "frigid") → house → hot → bed.  
+Shows mostly concrete, weather-related associations with some shifts to objects (car, shovel, house, bed). Suggests concrete, sequential associative thinking with some minor errors (typo).
+
+Social Desirability Scale: Not explicitly scored but self-reports show some inconsistencies (e.g., admitting to taking advantage of someone, not always courteous, some jealousy). Depression and anxiety scales indicate no significant distress or mood disorder.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and send $2 in dictator game (moderate generosity).  
+- Accepts offers down to $2 (rejects $1 or less) in ultimatum game, indicating fairness concerns but some self-interest.  
+- In trust game, keeps $3 and sends $2; as receiver, keeps majority of money sent back, indicating moderate trust but self-protective.  
+- Thoughts during decisions mostly numeric ("4", "5") indicating focus on amounts rather than emotional or social considerations.
+
+Intertemporal Choice: Prefers immediate smaller rewards over delayed larger rewards until the delayed reward is significantly better. Shows moderate impatience, discounting future rewards fairly steeply.
+
+Economic and Financial Literacy: Moderate to good. Correct on many financial literacy questions (mortgage, inflation, risk diversification), but some errors in probability estimation (e.g., die rolls, lottery odds). Some overestimation of probabilities (e.g., 63 winners expected at 1% chance in 1000 tickets). Some confusion on credit card payoff time (5 years plausible). Numeric answers to probability questions often incorrect or inconsistent.
+
+Mental Health: No significant depression or anxiety symptoms reported.

@@ -1,0 +1,24 @@
+Need for Closure: Low to moderate. Disagrees with needing quick resolution or relief after decisions, dislikes certainty but also dislikes ambiguity in statements. Neither impatient nor fast to close issues.
+
+Need for Cognition: High. Enjoys complex problems, intellectual challenges, abstract thinking, and sustained mental effort.
+
+Maximizer: Moderate. Some tendency to seek best answers, but not extreme; willing to settle when sufficiently confident.
+
+Self-monitoring: High. Can adjust behavior to social situations, aware of others’ perceptions, but self-concept clarity is also high, so not easily swayed by social pressure.
+
+Self-concept Clarity: High. Strongly agrees with stable, clear self-view, little internal conflict, consistent personality self-description.
+
+Economic Game Gap: Proposes fair splits ($2-$3 split in dictator game), but as receiver, keeps more for self (e.g., keeps $13 of $15 in trust game). This suggests strategic behavior: fair in giving but self-interested in receiving, consistent with a pragmatic, somewhat competitive mindset.
+
+Intertemporal Patience: Moderate to high patience. Prefers larger delayed rewards over smaller sooner ones, but switches preference when delayed reward is sufficiently better. Shows some discounting but not extreme impulsivity.
+
+Cognitive Errors: Some errors in logical syllogisms and vocabulary tests suggest occasional overconfidence or heuristic shortcuts in reasoning. Mistakes in antonyms/synonyms indicate some semantic confusion or inattentiveness. However, spatial and puzzle reasoning is strong, indicating good visual-analytical skills.
+
+Social Desirability: Moderate honesty. Admits to drinking a lot, occasional irritability, jealousy, and rudeness, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the high self-monitoring and social awareness with a stable self-concept and moderate social desirability bias. The person is socially aware and adjusts behavior accordingly but maintains a consistent internal identity and is not overly influenced by social desirability pressures. The moderate empathy and selective social influence also support this intermediate weighting.
+
+Summary: This individual is a highly conscientious, reserved, and intellectually engaged male in his 30s-40s, living in the Western US, with a conservative political and social outlook. He values influence, humility, loyalty, and honesty, and approaches problems with deep cognitive effort and patience. He is strategic and pragmatic in social-economic interactions, fair but self-interested when it benefits him. His cognitive style is analytical but occasionally prone to semantic and logical errors, likely due to heuristic shortcuts or overconfidence. He curates information carefully, prefers conservative and mainstream sources, and is moderately socially aware but maintains a clear and stable self-concept. This profile predicts numeric predictions that are cautious, well-reasoned, and ideologically filtered, with moderate openness to new information but a preference for structured, consistent narratives.
+
+# End of profile.

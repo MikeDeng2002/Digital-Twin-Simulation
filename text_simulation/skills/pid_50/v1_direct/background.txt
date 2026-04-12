@@ -1,0 +1,182 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 65+ (Question: How old are you? Answer: 65+)
+- Highest education level completed is Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Associate's degree)
+- Race is White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status is Married (Question: Which of these best describes you? Answer: Married)
+- Religion is Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation is Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views are Liberal (Question: In general, would you describe your political views as Liberal? Answer: Liberal)
+- Total family income last year was $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $50,000-$75,000)
+- Household size is 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status is Retired (Question: What is your current employment status? Answer: Retired)
+- Personality traits (Big Five, self-report):
+  - Disagree strongly that self is talkative (Q1: 1)
+  - Disagree a little that self tends to find fault with others (Q2: 2)
+  - Agree strongly that self does a thorough job (Q3: 5)
+  - Disagree a little that self is depressed, blue (Q4: 2)
+  - Agree a little that self is original, comes up with new ideas (Q5: 4)
+  - Agree strongly that self is reserved (Q6: 5)
+  - Agree a little that self is helpful and unselfish with others (Q7: 4)
+  - Disagree strongly that self can be somewhat careless (Q8: 1)
+  - Disagree a little that self is relaxed, handles stress well (Q9: 2)
+  - Agree strongly that self is curious about many different things (Q10: 5)
+  - Neither agree nor disagree on being full of energy (Q11: 3)
+  - Disagree strongly that self starts quarrels with others (Q12: 1)
+  - Agree strongly that self is a reliable worker (Q13: 5)
+  - Neither agree nor disagree on being tense (Q14: 3)
+  - Agree a little that self is ingenious, a deep thinker (Q15: 4)
+  - Disagree a little that self generates a lot of enthusiasm (Q16: 2)
+  - Disagree a little that self has a forgiving nature (Q17: 2)
+  - Disagree strongly that self tends to be disorganized (Q18: 1)
+  - Agree a little that self worries a lot (Q19: 4)
+  - Neither agree nor disagree on having an active imagination (Q20: 3)
+  - Agree strongly that self tends to be quiet (Q21: 5)
+  - Disagree a little that self is generally trusting (Q22: 2)
+  - Disagree strongly that self tends to be lazy (Q23: 1)
+  - Disagree a little that self is emotionally stable, not easily upset (Q24: 2)
+  - Agree a little that self is inventive (Q25: 4)
+  - Disagree a little that self has an assertive personality (Q26: 2)
+  - Disagree a little that self can be cold and aloof (Q27: 2)
+  - Agree strongly that self perseveres until the task is finished (Q28: 5)
+  - Agree a little that self can be moody (Q29: 4)
+  - Agree strongly that self values artistic, aesthetic experiences (Q30: 5)
+  - Agree strongly that self is sometimes shy, inhibited (Q31: 5)
+  - Agree a little that self is considerate and kind to almost everyone (Q32: 4)
+  - Agree strongly that self does things efficiently (Q33: 5)
+  - Disagree a little that self remains calm in tense situations (Q34: 2)
+  - Disagree strongly that self prefers work that is routine (Q35: 1)
+  - Disagree strongly that self is outgoing, sociable (Q36: 1)
+  - Disagree strongly that self is sometimes rude to others (Q37: 1)
+  - Agree strongly that self makes plans and follows through with them (Q38: 5)
+  - Disagree a little that self gets nervous easily (Q39: 2)
+  - Neither agree nor disagree on liking to reflect, play with ideas (Q40: 3)
+  - Disagree a little that self has few artistic interests (Q41: 2)
+  - Disagree a little that self likes to cooperate with others (Q42: 2)
+  - Agree a little that self is sophisticated in art, music, or literature (Q43: 4)
+- Need for Cognition scale (selected items):
+  - Strongly agrees preferring complex to simple problems (Q1: 5)
+  - Agrees liking responsibility requiring a lot of thinking (Q2: 4)
+  - Disagrees that thinking is not fun (Q3: 2)
+  - Disagrees preferring low thought tasks (Q4: 1)
+  - Disagrees avoiding deep thinking (Q5: 1)
+  - Agrees finding satisfaction in deliberating hard (Q6: 4)
+  - Disagrees thinking only as hard as necessary (Q7: 1)
+  - Disagrees preferring small daily projects (Q8: 1)
+  - Disagrees liking tasks requiring little thought once learned (Q9: 1)
+  - Neither agrees nor disagrees that relying on thought to get ahead appeals (Q10: 3)
+  - Agrees enjoying tasks involving new solutions (Q11: 4)
+  - Disagrees that learning new ways to think doesn't excite (Q12: 1)
+  - Strongly agrees preferring life filled with puzzles (Q13: 5)
+  - Agrees that thinking abstractly appeals (Q14: 4)
+  - Agrees preferring intellectual, difficult, important tasks (Q15: 4)
+  - Disagrees feeling relief rather than satisfaction after mental effort (Q16: 1)
+  - Disagrees that it's enough that something just gets the job done (Q17: 1)
+  - Agrees usually deliberating about issues even if not personally affected (Q18: 4)
+- Values rated as highly important (rated 7-9):
+  - Competence (9)
+  - Harmony (9)
+  - Honesty (9)
+  - Autonomy (9)
+  - Loyalty (8)
+  - Politeness (8)
+  - Trust (7)
+  - Excitement (7)
+  - Civility (7)
+  - Pleasure (8)
+- Values rated as not important (rated 1):
+  - Influence (1)
+  - Ambition (1)
+  - Power (1)
+  - Status (1)
+  - Recognition (1)
+  - Superiority (1)
+- Environmental concern: agrees a little that products should not harm environment, considers environmental impact in decisions, concerned about wasting resources, willing to be inconvenienced for environment (all 4)
+- Self-concept clarity: agrees a little that beliefs about self often conflict (4), opinions about self vary day to day (4), spends time wondering about self (4), unsure about past self (4), description of self might vary day to day (4), would not tell someone what really like (4), finds it hard to make up mind because unsure what wants (4), disagrees a little that has clear sense of who self is (2), disagrees a little that beliefs about self change frequently (2), disagrees a little that seldom experiences conflict between personality aspects (6 is "certainly true" but here 2 is disagree a little)
+- Self-monitoring: mostly somewhat false but with exceptions (3) on ability to alter behavior, control impression, change image; somewhat true but with exceptions (4) on trouble changing behavior; generally true (5) on reading emotions, facial expressions, intuition, detecting lies
+- Maximizer: strongly disagrees with looking for better opportunities or checking other stations; strongly agrees having highest standards for self and never settling for second best; strongly agrees difficulty shopping for gifts; agrees a little on hard time finding clothing loved
+- Need for Closure: strongly agrees disliking uncertainty, liking ordered life, disliking not knowing reasons, liking clear structured life, feeling relieved after decisions, dying to reach solutions quickly; agrees a little on impatience if no immediate solution; disagrees strongly on consulting many opinions before forming view
+- Economic games (Ultimatum and Trust games):
+  - When proposer, keeps $3 and sends $2 (Question: How much would you propose to keep/send? Answer: $3/$2)
+  - As receiver, accepts all offers from $0 to $5 sent (accepts all offers)
+  - In trust game, keeps all $5 and sends $0 (Question: How much would you keep/send? Answer: keep $5, send $0)
+  - As receiver in trust game, returns $10 out of $15 when sent $5; returns $8 of $12 when sent $4; returns $6 of $9 when sent $3; returns $4 of $6 when sent $2; returns $2 of $3 when sent $1
+- Cognitive test performance:
+  - Estimated 38 out of 42 correct (self-estimate)
+  - Estimated average US adult correct is 35 out of 42
+  - Correct answers on logical reasoning, syllogisms, and puzzles mostly correct except one cube rotation question answered "I do not know"
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Correctly identifies inflation effect on savings (less buying power)
+  - Correctly identifies stocks as highest fluctuation asset
+  - Correctly identifies possibility of losing money in stock mutual fund
+  - Correctly identifies diversification reduces risk
+  - Incorrectly identifies savings account as highest return over long term (should be stocks)
+  - Correctly identifies required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payment and 12% APR will never be eliminated
+  - Correct numerical answers to probability and math problems mostly correct except one (ACME Publishing Sweepstakes percent winning car answered 10% instead of 0.1%)
+- Depression and mood:
+  - Reports feeling sad and discouraged about future
+  - Does not feel like a failure or worthless
+  - Reports crying more than usual
+  - Reports increased irritability
+  - Reports lost most interest in other people
+  - Reports difficulty starting work (extra effort)
+  - Reports waking up several hours earlier and cannot get back to sleep
+  - Reports getting tired more easily
+  - Reports lost more than 10 pounds recently
+  - Reports lost interest in sex completely
+  - Reports purposely trying to lose weight by eating less
+- Spending habits:
+  - Self-rated spending habit 7 on scale (1 tightwad to 11 spendthrift)
+  - Sometimes has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to Mr. B (hesitant to spend money despite deals)
+- Self-reported personal attributes:
+  - Does not like to depend on others, prefers self-reliance
+  - Values doing job better than others a little
+  - Disagrees that winning is everything
+  - Agrees competition is law of nature a little
+  - Proud if co-worker gets prize
+  - Values well-being of coworkers a little
+  - Disagrees that pleasure is spending time with others
+  - Disagrees that it is important to respect group decisions
+  - Values family loyalty and duty to family
+- Self-reported honesty and interpersonal traits:
+  - Admits sometimes taking advantage of others
+  - Always willing to admit mistakes
+  - Always courteous even to disagreeable people
+  - Sometimes irritated by people asking favors
+  - Does not avoid accumulating possessions, but is mindful and thoughtful about what is owned
+- Self-reported empathy:
+  - Strongly agrees feeling sad after friends are sad
+  - Strongly agrees understanding friends' happiness
+  - Strongly agrees frightened by scary movies
+  - Strongly agrees understanding friends' fear and happiness
+  - Disagrees that friends' emotions don't affect self
+- Self-reported uniqueness and product preferences:
+  - Strongly agrees combining possessions to create unique image
+  - Strongly agrees avoiding products bought by general population
+  - Strongly agrees disliking products customarily bought by everyone
+  - Strongly agrees enjoys challenging prevailing taste by buying unusual products
+  - Disagrees actively seeking to develop uniqueness by buying special brands
+- Self-reported thoughts on decision making and self-identity:
+  - Agrees a little that beliefs about self often conflict and vary
+  - Disagrees a little that has clear sense of self
+  - Agrees a little that it is hard to make up mind because unsure what wants
+- Self-reported need for closure:
+  - Strongly agrees disliking uncertainty and unpredictability
+  - Strongly agrees liking ordered, structured life and quick decisions
+  - Disagrees strongly with consulting many opinions before forming view
+- Self-reported maximizer tendencies:
+  - Strongly agrees having highest standards for self and never settling for second best
+  - Strongly agrees difficulty shopping for gifts
+- Self-reported self-monitoring:
+  - Somewhat false but with exceptions on ability to alter behavior and control impression
+  - Generally true on ability to read emotions and detect lies
+- Self-reported thoughts during economic games:
+  - When deciding how much to keep/send: "I would send some money back because they sent something to me," "I would send half back," "Less apt to send if I didn't get anything," "Anonymity helps"
+  - When deciding how much to keep/send back: "I would always keep more for myself," "Hesitant to give because never given," "Anonymity helps decide to keep more"
+  - When deciding how much to keep/send in ultimatum game: "That person could have more money and need mine less," "Don't know person and don't owe them," "No compelling reason to share"

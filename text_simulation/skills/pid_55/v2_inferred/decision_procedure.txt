@@ -1,0 +1,17 @@
+Need for Closure: High scores on preference for order, predictability, decisiveness (#1=5, #6=5, #7=5, #10=4, #23=5, #25=5, #26=5, #30=5) indicate a desire for structure and quick resolution. However, some items show moderate tolerance (#15=3, #8=2), suggesting not extreme.
+
+Need for Cognition: Moderate to somewhat high (#2=4, #6=4, #10=4, #11=4, #13=4, #18=4), but low on abstract thinking (#14=1), indicating preference for practical, concrete thinking rather than abstract or highly complex cognitive tasks.
+
+Maximizer: Low to moderate (#1=2, #2=2, #3=4, #4=4, #5=4, #6=3), indicating a satisficer tendency rather than maximizing.
+
+Self-monitoring: Moderate (#1=4, #2=3, #3=3, #4=4, #5=3, #6=3, #7=4), indicating some flexibility in social behavior but not high adaptability.
+
+Self-concept clarity: High (#1=1, #2=1, #3=1, #4=1, #6=5, #11=5), indicating a stable and clear self-identity.
+
+Economic games: Proposes fair splits, accepts fair offers, rejects unfair offers, and reciprocates trust moderately. This aligns with high agreeableness and social cooperation.
+
+Cross-scale inference: The high conscientiousness (Big Five) and high need for closure align with her preference for order and structure. Moderate need for cognition aligns with practical problem-solving and good cognitive test performance. Moderate self-monitoring and high empathy align with prosocial economic game behavior.
+
+No contradictions are evident; scales converge on a profile of a conscientious, socially attuned, moderately cognitively engaged, and structured individual with clear self-concept and moderate trust.
+
+w_social estimate: 0.75 -- The respondent shows strong prosocial tendencies (agreeableness, empathy, altruism values), moderate self-monitoring indicating social adaptability, and fair, reciprocal behavior in economic games. Her high need for closure and conscientiousness suggest preference for stable social environments. These scales agree on a socially cooperative and engaged profile, supporting a relatively high social weighting estimate.

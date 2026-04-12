@@ -1,0 +1,173 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age between 50-64 (Question: How old are you? Answer: 50-64)
+- Education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Divorced (Question: Which of these best describes you? Answer: Divorced)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political party: Democrat (Question: In politics today, do you consider yourself a? Answer: Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (4 - Agree a little)
+  - Disagree a little that they find fault with others (2)
+  - Agree a little that they do a thorough job (4)
+  - Agree strongly that they are original and come up with new ideas (5)
+  - Agree strongly that they are curious about many different things (5)
+  - Disagree strongly that they are full of energy (1)
+  - Agree strongly that they are a reliable worker (5)
+  - Agree strongly that they tend to be disorganized (5)
+  - Agree strongly that they tend to be lazy (5)
+  - Agree strongly that they have an active imagination (5)
+  - Agree strongly that they value artistic, aesthetic experiences (5)
+  - Disagree strongly that they can be cold and aloof (1)
+  - Disagree strongly that they start quarrels with others (1)
+  - Disagree a little that they are emotionally stable, not easily upset (2)
+  - Agree a little that they can be somewhat careless (4)
+  - Agree a little that they are helpful and unselfish with others (4)
+  - Agree a little that they have a forgiving nature (4)
+  - Agree a little that they are considerate and kind to almost everyone (4)
+  - Agree a little that they like to cooperate with others (4)
+  - Agree a little that they are sophisticated in art, music, or literature (4)
+- Need for Cognition scale (selected items):
+  - Disagree a little with preferring complex to simple problems (2)
+  - Disagree a little with liking responsibility requiring a lot of thinking (2)
+  - Agree a little that they try to anticipate and avoid situations requiring deep thinking (4)
+  - Agree a little that they like tasks requiring little thought once learned (4)
+  - Agree a little that they enjoy tasks involving new solutions (4)
+  - Agree a little that they prefer puzzles to solve (4)
+  - Agree strongly that "It's enough for me that something gets the job done; I don't care how or why it works" (5)
+  - Agree a little that they usually end up deliberating about issues even if not personally affected (4)
+- Values (selected):
+  - Wealth: 2 (Not important)
+  - Pleasure: 4 (Somewhat important)
+  - Forgiveness: 7 (Important)
+  - Influence: 1 (Not important)
+  - Trust: 6 (Important)
+  - Competence: 8 (Very important)
+  - Humility: 8 (Very important)
+  - Achievement: 2 (Not important)
+  - Altruism: 4 (Somewhat important)
+  - Ambition: 1 (Not important)
+  - Loyalty: 6 (Important)
+  - Politeness: 9 (Highly important)
+  - Power: 1 (Not important)
+  - Harmony: 2 (Not important)
+  - Excitement: 5 (Quite important)
+  - Honesty: 6 (Important)
+  - Compassion: 9 (Highly important)
+  - Status: 1 (Not important)
+  - Civility: 8 (Very important)
+  - Autonomy: 7 (Important)
+  - Equality: 9 (Highly important)
+  - Recognition: 1 (Not important)
+  - Tradition: 2 (Not important)
+  - Superiority: 1 (Not important)
+- Self-reported personality attributes (selected):
+  - Does not avoid accumulating stuff (Disagree strongly)
+  - Does not restrict number of things owned (Disagree strongly)
+  - Disagrees with "less is more" in owning things (Disagree a little)
+  - Does not actively avoid acquiring excess possessions (Disagree strongly)
+  - Does not keep aesthetic in home sparse (Disagree strongly)
+  - Mindful of what they own: Disagree a little
+  - Selection of things owned has been carefully curated: Agree a little
+  - Important to be thoughtful about what they choose to own: Disagree a little
+  - Beliefs about self often conflict: Agree a little
+  - Beliefs about self change from day to day: Agree strongly
+  - Spend a lot of time wondering what kind of person they really are: Disagree strongly
+  - Clear sense of who they are and what they are: Neither agree nor disagree
+- Empathy and social sensitivity:
+  - Disagree a little that friends' emotions don't affect them
+  - Agree a little that after being with a sad friend, they usually feel sad
+  - Agree strongly that they can understand friends' happiness
+  - Agree strongly that they get caught up in others' feelings easily
+  - Disagree strongly that they don't become sad when others cry
+  - Agree a little that they can usually work out when friends are scared or down
+  - Agree strongly that they can usually work out when people are cheerful and angry
+  - Agree a little that they often get swept up in friends' feelings
+  - Disagree strongly that seeing angered person has no effect on their feelings
+- Environmental attitudes:
+  - Neither agree nor disagree that products used should not harm environment
+  - Agree a little that they consider environmental impact in decisions
+  - Agree strongly that they are concerned about wasting planet's resources
+  - Agree strongly willing to be inconvenienced to be environmentally friendly
+- Cognitive test performance:
+  - Estimated self-correct answers: 37/42
+  - Estimated average US adult correct answers: 36/42
+  - Correct answers on logical reasoning, syllogisms, and puzzles as per transcript
+- Financial literacy:
+  - Correctly answered mortgage, inflation, risk diversification, and credit card debt questions
+  - Understands risk and return concepts (stocks have highest fluctuations)
+  - Knows about required minimum distributions from retirement accounts
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 in $5 split (Ultimatum)
+  - Accepts offers down to $1 sent, rejects $1 or $0 sent to self
+  - In trust game, keeps $3 and sends $2; as receiver, keeps about half or more of tripled amount, sends back roughly half or less
+  - Thoughts during economic games indicate suspicion, distrust, and strategic selfishness
+- Personality self-reports on traits and behaviors:
+  - Does not prefer to work without instructions (Probably not true)
+  - Finds rules and regulations neither helpful nor unhelpful
+  - Probably true that they carry out obligations
+  - Generally true that they try to make work accurate and error-free
+  - Probably true that they try different things and are often successful
+  - Definitely true that they think about what others expect of them
+  - Spending habits: 8 on scale (somewhat spendthrift)
+  - Rarely have trouble limiting spending
+  - Sometimes have trouble spending money
+  - Similar to neither Mr. A nor Mr. B in shopping spree scenario (answer 4)
+- Depression and mental health indicators:
+  - Feels sad and discouraged about future
+  - Feels like a complete failure
+  - Does not get real satisfaction from anything
+  - Feels guilty a good part of the time
+  - Feels may be punished
+  - Feels disappointed and disgusted with self
+  - Critical of self for weaknesses or mistakes
+  - Does not cry more than usual
+  - No more irritated than usual
+  - Lost most interest in other people
+  - Puts off making decisions more than before
+  - Feels more worthless compared to others
+  - Can work about as well as before
+  - Wakes up several hours earlier than usual and cannot get back to sleep
+  - Appetite not as good as before
+  - Lost more than 15 pounds
+  - Worried about physical problems (aches, pains, upset stomach)
+  - Lost interest in sex completely
+  - Purposely trying to lose weight by eating less
+- Self-concept clarity:
+  - Beliefs about self often conflict (Agree a little)
+  - Beliefs about self change frequently (Neither agree nor disagree)
+  - Description of self might differ day to day (Agree a little)
+  - Seldom experience conflict between personality aspects (Agree a little)
+  - Generally neither clear nor unclear about who they are (Neither agree nor disagree)
+- Need for Closure:
+  - Strongly agrees with disliking uncertain situations (5)
+  - Dislikes unpredictable people (5)
+  - Likes clear, structured life and routines (mostly agree a little to agree strongly)
+  - Dislikes ambiguous statements (neutral)
+  - Strongly agrees with disliking unpredictable situations (5)
+  - Strongly agrees with not consulting many opinions before forming views (5)
+- Self-monitoring:
+  - Somewhat true that can alter behavior in social situations (4)
+  - Somewhat true that can control impression given (4)
+  - Generally true that can adjust behavior to meet situation requirements (5)
+  - Certainly true that can read others' emotions and detect lies (5-6)
+- Maximizer scale:
+  - Disagrees strongly with never settling for second best (1)
+  - Disagrees strongly with having highest standards for self (1)
+  - Agrees strongly with often checking other radio stations for better options (5)
+  - Neither agrees nor disagrees with being on lookout for better job opportunities (3)
+  - Agrees a little with difficulty finding clothing they really love (4)
+- Logical reasoning:
+  - Correctly answered syllogistic and conditional logic questions
+- Vocabulary:
+  - Correctly identified synonyms and antonyms for various words, with some errors (e.g., answered "impervious" for "indolent" synonym, which is incorrect)
+- Cognitive style:
+  - Prefers to get things done without deep thought (agrees strongly with "It's enough for me that something gets the job done; I don't care how or why it works")
+  - Avoids deep thinking and complex problems (disagree a little with liking complex problems)
+- Self-reported thoughts during economic games indicate distrust and suspicion of others, strategic selfishness, and conditional generosity.

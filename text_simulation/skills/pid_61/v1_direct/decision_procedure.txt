@@ -1,0 +1,24 @@
+- Need for Closure:
+  - Dislikes uncertainty (Item 1: Agree a little)
+  - Dislikes ambiguous questions (Item 2: Agree strongly)
+  - Prefers ordered life and routine (Items 3,12,13: Agree strongly)
+  - Feels relief after decisions (Item 7: Agree strongly)
+  - Wants quick solutions (Item 8: Agree strongly)
+  - Some impatience if no immediate solution (Item 9: Agree a little)
+- Need for Cognition:
+  - Prefers complex problems and intellectual tasks (Items 1,2,6,11,15: Agree a little)
+  - Often deliberates about issues (Item 18: Agree strongly)
+  - Finds thinking somewhat enjoyable (Item 3: Disagree a little)
+- Maximizer:
+  - Somewhat high standards (Items 5,6: Agree a little)
+  - Does not strongly maximize (neutral to slight agreement)
+- Self-monitoring:
+  - High ability to alter behavior and control impressions (Items 1-3: Certainly always true)
+  - Good at reading others’ emotions (Items 8-10: Certainly always true)
+  - Generally true that can adjust behavior to situations (Items 5,7: Generally true)
+- Self-concept clarity:
+  - Generally clear sense of self (Item 11: Agree strongly)
+  - Some occasional doubts or changes (Items 3,5: Agree strongly/a little)
+  - Does not feel conflicted often (Item 1: Disagree a little)
+- Overall, this person reasons with moderate need for closure (prefers order, dislikes ambiguity, wants quick solutions), moderate to high need for cognition (enjoys thinking and problem solving), moderate maximizer tendencies (some high standards but not extreme), high self-monitoring (good social adaptability), and generally clear self-concept.
+- w_social estimate: 0.8 -- The person shows strong social sensitivity and self-monitoring (Self-monitoring Items 1-3, 8-10 rated certainly true), values cooperation and family (values section), and demonstrates fairness and balance in economic games, supporting a high social reasoning weight.

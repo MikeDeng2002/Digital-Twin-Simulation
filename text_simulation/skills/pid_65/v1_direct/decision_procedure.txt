@@ -1,0 +1,25 @@
+- Need for Closure:
+  - Disagrees strongly with liking uncertain situations (Q1: 1)
+  - Strongly agrees with discomfort when not understanding reasons for events (Q4: 5)
+  - Strongly agrees with impatience to find solutions quickly (Q8: 5, Q9: 5)
+  - Strongly agrees with dislike of unpredictable situations and people capable of unexpected actions (Q10: 5, Q15: 5)
+  - Agrees a little with disliking ambiguous questions and preferring well-ordered life (Q2: 4, Q3: 4, Q6: 5)
+- Need for Cognition:
+  - Strongly agrees with preference for complex problems, intellectual tasks, abstract thinking (multiple items at 5)
+  - Strongly disagrees with avoiding thinking or preferring simple tasks (multiple items at 1)
+- Maximizer:
+  - Strongly agrees with checking for better options even when satisfied (Q1: 5)
+  - Strongly agrees with being on lookout for better opportunities (Q2: 5)
+  - Strongly agrees with difficulty finding clothing they really love (Q4: 5)
+  - Strongly disagrees with having highest standards or never settling for second best (Q5: 1, Q6: 1)
+- Self-monitoring:
+  - Somewhat true that can alter behavior and control impression (Q1:4, Q2:4)
+  - Generally true that has trouble changing behavior to suit different people (Q4:5)
+  - Certainly true that can read others’ emotions and detect lies (Q8-13: 6)
+- Self-concept clarity:
+  - Strongly agrees that beliefs about self often conflict and change (Q1-5: 5)
+  - Disagrees strongly that seldom experiences conflict (Q6:1)
+  - Disagrees a little with having a clear sense of self (Q11:2)
+  - Agrees a little that hard to make up mind because unsure what they want (Q12:4)
+
+w_social estimate: 0.7 -- This person shows high empathy and emotional sensitivity (empathy items mostly 5), strong self-monitoring abilities (items 8-13 at 6), but also some difficulty with self-concept clarity and a moderate need for closure (strong dislike of uncertainty and unpredictability). Their decision-making reflects a preference for structured, predictable environments and careful thought (high Need for Cognition), combined with social awareness and emotional attunement, supporting a moderately high social reasoning weight.

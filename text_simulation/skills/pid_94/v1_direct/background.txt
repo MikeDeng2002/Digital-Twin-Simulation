@@ -1,0 +1,146 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race/origin: Asian (Question: What is your race or origin? Answer: Asian)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Moderate (Question: In general, would you describe your political views as Moderate? Answer: Moderate)
+- Total family income last year: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five, self-report):
+  - Somewhat talkative (Q: I see myself as someone who is talkative. Answer: Agree a little)
+  - Neither tends to find fault nor strongly faults others
+  - Does a thorough job (Agree a little)
+  - Not depressed (Disagree strongly)
+  - Slightly disagrees with being original or coming up with new ideas
+  - Slightly disagrees with being reserved
+  - Helpful and unselfish (Agree a little)
+  - Slightly disagrees with being careless
+  - Relaxed, handles stress well (Agree strongly)
+  - Curious about many things (Agree a little)
+  - Full of energy (Agree a little)
+  - Does not start quarrels (Disagree strongly)
+  - Reliable worker (Agree a little)
+  - Not tense (Disagree strongly)
+  - Neither agrees nor disagrees with being a deep thinker
+  - Generates enthusiasm (Agree a little)
+  - Forgiving nature (Agree a little)
+  - Slightly disagrees with being disorganized
+  - Does not worry a lot (Disagree strongly)
+  - Slightly disagrees with having an active imagination
+  - Slightly disagrees with being quiet
+  - Generally trusting (Agree a little)
+  - Neither lazy nor active
+  - Emotionally stable (Agree strongly)
+  - Neither inventive nor uninventive
+  - Neither assertive nor unassertive
+  - Slightly disagrees with being cold and aloof
+  - Perseveres until task is finished (Agree a little)
+  - Not moody (Disagree strongly)
+  - Slightly disagrees with valuing artistic experiences
+  - Slightly disagrees with being shy or inhibited
+  - Considerate and kind (Agree a little)
+  - Does things efficiently (Agree a little)
+  - Remains calm in tense situations (Agree strongly)
+  - Prefers routine work (Agree a little)
+  - Outgoing, sociable (Agree a little)
+  - Slightly disagrees with being rude
+  - Makes plans and follows through (Agree a little)
+  - Not nervous easily (Disagree strongly)
+  - Neither likes nor dislikes reflecting or playing with ideas
+  - Slightly disagrees with having few artistic interests
+  - Likes to cooperate with others (Agree a little)
+  - Slightly disagrees with being easily distracted
+  - Slightly disagrees with being sophisticated in art, music, or literature
+- Need for Cognition (self-report):
+  - Neither prefers complex nor simple problems
+  - Likes responsibility requiring thinking (Agree a little)
+  - Dislikes thinking not much (Disagree a little)
+  - Neither prefers low-thought tasks nor high-thought tasks
+  - Disagrees with avoiding deep thinking situations
+  - Neither satisfied nor dissatisfied with deliberating hard
+  - Disagrees with thinking only as hard as necessary
+  - Neither prefers small daily projects nor long-term ones
+  - Neither likes low-thought tasks nor dislikes them
+  - Likes relying on thought to succeed (Agree a little)
+  - Enjoys tasks involving new solutions (Agree a little)
+  - Disagrees with not liking to learn new ways to think
+  - Disagrees with preferring life without puzzles
+  - Disagrees with liking abstract thinking
+  - Neither prefers intellectual difficult tasks nor not
+  - Neither feels relief nor satisfaction after mental effort
+  - Neither cares how or why something works
+  - Disagrees with deliberating about issues not personally affecting self
+- Values (rated as guiding principles):
+  - Wealth: 8 (Highly important)
+  - Pleasure: 8 (Highly important)
+  - Forgiveness: 7
+  - Influence: 5 (Quite important)
+  - Trust: 7
+  - Competence: 8
+  - Humility: 8
+  - Achievement: 6
+  - Altruism: 6
+  - Ambition: 5 (Quite important)
+  - Loyalty: 7
+  - Politeness: 7
+  - Power: 6
+  - Harmony: 7
+  - Excitement: 7
+  - Honesty: 7
+  - Compassion: 7
+  - Status: 6
+  - Civility: 6
+  - Autonomy: 5 (Quite important)
+  - Equality: 5 (Quite important)
+  - Recognition: 5 (Quite important)
+  - Tradition: 5 (Quite important)
+  - Superiority: 5 (Quite important)
+- Environmental attitudes: Neutral to slightly disagreeing with environmental responsibility and concern (mostly "Neither agree nor disagree" or "Disagree a little")
+- Empathy and emotional awareness:
+  - Mixed responses, generally agrees a little with feeling sad after friends are sad, understanding friends' happiness, recognizing friends' feelings, and being affected by others' emotions to some extent.
+  - Disagrees strongly that others' feelings don't bother them.
+- Cognitive test performance:
+  - Correctly answered various logic, reasoning, and puzzle questions.
+  - Estimated self and population average correct answers: 30 out of 42.
+- Financial literacy:
+  - Correctly understands mortgage payments, inflation effects, risk diversification, and asset returns.
+  - Some errors: Believes it is false that stock mutual funds can lose money.
+  - Knows credit card debt with minimum payments at 12% APR will never be eliminated.
+- Economic game behavior:
+  - Proposes to keep all $5 for self and send $0 to other in the ultimatum game.
+  - Would accept any offer as receiver, even $0.
+  - In the trust game, would keep $3 and send $2; as receiver, would keep majority and send back less than half.
+  - Thoughts during decisions: "try to get more myself, but not take all" and "why split."
+- Spending habits:
+  - Self-rated spending habit: 7 on a 1-11 scale (moderate to somewhat spendthrift).
+  - Sometimes has trouble limiting spending.
+  - Rarely has trouble spending money.
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender).
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no irritability, no worthlessness, no sleep or appetite problems, no weight loss, no health worries, no loss of interest in sex.
+- Self-concept clarity:
+  - Generally agrees to having a clear sense of self.
+  - Disagrees with conflicting or changing self-beliefs.
+- Need for Closure:
+  - Neutral to slightly positive about order and routine.
+  - Disagrees with discomfort about uncertainty.
+  - Likes clear and structured life.
+  - Disagrees with impatience and dislike of unpredictability.
+- Maximizer tendencies:
+  - Disagrees strongly with behaviors indicating maximizer traits (e.g., checking for better options, never settling for second best).
+  - Agrees a little with being on lookout for better opportunities.
+- Self-monitoring:
+  - Mixed responses, mostly "somewhat false but with exceptions" or "somewhat true but with exceptions" about ability to alter behavior and read others.
+- Self-concept clarity (additional):
+  - Mostly disagrees with self-belief conflicts and changes.
+  - Agrees a little with having a clear sense of who they are.
+- Logical reasoning:
+  - Correctly answers all syllogistic and conditional logic questions.
+- Vocabulary:
+  - Correctly identifies synonyms and antonyms for tested words.

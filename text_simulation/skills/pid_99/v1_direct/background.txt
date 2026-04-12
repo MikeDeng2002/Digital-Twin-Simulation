@@ -1,0 +1,143 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level completed: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Associate's degree)
+- Race/origin: Other (Question: What is your race or origin? Answer: Other)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Agnostic (Question: What is your present religion, if any? Answer: Agnostic)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Total family income last year: Less than $30,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: Less than $30,000)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: Self-employed)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly that they are talkative (1)
+  - Agree a little that they do a thorough job (3)
+  - Agree strongly that they are reserved (6)
+  - Agree strongly that they are relaxed and handle stress well (9)
+  - Agree strongly that they are curious about many different things (10)
+  - Agree a little that they are helpful and unselfish with others (7)
+  - Agree a little that they can be somewhat careless (8)
+  - Agree a little that they are a reliable worker (13)
+  - Agree a little that they are ingenious, a deep thinker (15)
+  - Agree strongly that they have a forgiving nature (17)
+  - Agree strongly that they have an active imagination (20)
+  - Agree strongly that they tend to be quiet (21)
+  - Agree a little that they are generally trusting (22)
+  - Agree a little that they are emotionally stable, not easily upset (24)
+  - Agree a little that they are inventive (25)
+  - Disagree a little that they have an assertive personality (26)
+  - Agree a little that they can be cold and aloof (27)
+  - Agree a little that they persevere until the task is finished (28)
+  - Agree a little that they value artistic, aesthetic experiences (30)
+  - Agree a little that they are considerate and kind to almost everyone (32)
+  - Agree a little that they do things efficiently (33)
+  - Agree a little that they prefer work that is routine (35)
+  - Disagree a little that they are outgoing, sociable (36)
+  - Agree strongly that they like to reflect, play with ideas (40)
+  - Disagree a little that they are sophisticated in art, music, or literature (44)
+- Need for Cognition scale responses indicate low to moderate engagement with thinking:
+  - Disagree a little with preferring complex problems (1)
+  - Disagree a little with liking responsibility requiring a lot of thinking (2)
+  - Neither agree nor disagree that thinking is not fun (3)
+  - Agree a little that they prefer tasks requiring little thought (4)
+  - Disagree a little with avoiding situations requiring deep thinking (5)
+  - Disagree a little with satisfaction in deliberating hard and long (6)
+  - Agree a little that they only think as hard as necessary (7)
+  - Strongly agree that they prefer small daily projects to long-term ones (8)
+  - Agree a little that they like tasks requiring little thought once learned (9)
+  - Agree a little that relying on thought to get to the top appeals to them (10)
+  - Agree a little that they enjoy tasks involving new solutions (11)
+  - Agree a little that learning new ways to think doesn't excite them (12)
+  - Disagree a little that they prefer life filled with puzzles (13)
+  - Agree a little that thinking abstractly appeals to them (14)
+  - Neither agree nor disagree on preferring intellectual difficult tasks (15)
+  - Agree a little that they feel relief rather than satisfaction after mental effort (16)
+  - Agree a little that it's enough that something gets the job done (17)
+  - Agree a little that they deliberate about issues even if not personally affected (18)
+- Values rated as highly important (7-9 scale):
+  - Humility (9)
+  - Trust (8)
+  - Achievement (8)
+  - Competence (7)
+  - Ambition (7)
+  - Pleasure (7)
+  - Forgiveness (7)
+  - Compassion (7)
+  - Autonomy (7)
+- Values rated as not important (1):
+  - Power
+  - Status
+  - Recognition
+  - Superiority
+  - Influence (2)
+- Minimal environmental concern:
+  - Disagree strongly that products should not harm environment (1)
+  - Disagree strongly that they consider environmental impact in decisions (1)
+  - Disagree strongly that purchase habits are affected by environmental concern (1)
+  - Disagree strongly that they are willing to be inconvenienced for environment (1)
+  - Agree a little that they are environmentally responsible (4)
+- Self-reported spending habits:
+  - Spending habits rated 4 on a 1-11 scale (1 = tightwad, 11 = spendthrift)
+  - Rarely have trouble limiting spending
+  - Rarely have trouble spending money
+  - More similar to Mr. B (hesitant to spend despite deals) than Mr. A (impulsive spender)
+- Financial literacy:
+  - Correctly understands mortgage, inflation, risk diversification, and stock returns
+  - Correctly identifies that credit card debt with minimum payments at 12% APR will never be eliminated
+  - Correctly answers basic probability and percentage questions
+  - Correctly answers financial literacy questions about 401(k) withdrawals (though incorrectly says false)
+- Cognitive test self-estimate: 25 out of 42 correct, matching US adult average estimate
+- Logical reasoning:
+  - Correctly identifies valid and invalid logical conclusions in most cases
+  - Some errors in logical synonym/antonym questions (e.g., "furtive" synonym chosen as "flimsy" instead of "stealthy")
+- Personality self-concept clarity:
+  - Strongly agrees to having a clear sense of who they are (Item 11)
+  - Disagrees strongly with statements indicating conflicting or changing self-beliefs
+- Self-monitoring:
+  - Generally true that they can alter behavior to suit situations
+  - Generally false that they have trouble changing behavior or putting up a good front
+  - Somewhat true with exceptions that they can regulate actions accordingly
+  - Generally false that they can read others' emotions well
+- Maximizer tendencies:
+  - Disagree strongly with statements indicating maximizing behavior (e.g., seeking unique products)
+  - Agree a little that they never settle for second best and have high standards for themselves
+- Personality traits about competition and cooperation:
+  - Strongly agree that competition is the law of nature
+  - Agree a little that winning is everything and it is important to do job better than others
+  - Agree a little that they feel proud if a co-worker gets a prize
+  - Agree a little that well-being of coworkers is important
+  - Agree a little that pleasure is spending time with others
+  - Neither agree nor disagree that they feel good when cooperating with others
+  - Strongly agree that parents and children must stay together as much as possible
+  - Agree a little that it is duty to take care of family even at personal sacrifice
+  - Disagree a little that family members should stick together no matter what
+  - Disagree a little that it is important to respect group decisions
+- Depression and anxiety symptoms:
+  - Reports no significant symptoms of depression or anxiety in past week
+  - Reports no loss of interest, no fatigue, no appetite or sleep problems
+  - Reports purposely trying to lose weight by eating less
+- Social-emotional empathy:
+  - Mixed responses indicating low to moderate empathy for others' emotions
+  - Some agreement that friends' emotions don't affect them much
+  - Disagree strongly with ability to read others' feelings before told
+  - Agree a little that they can usually realize when a friend is angry or cheerful
+- Decision making in economic games:
+  - Proposes to keep $3 and send $2 in the $5 split game
+  - Accepts all offers except the one where sender keeps $5 and sends $0
+  - In the trust game, would keep all $5 and send $0
+  - As receiver, would keep about half or slightly less of the money sent back
+  - Thoughts during decisions include distrust, fairness, human nature leaning towards greed, and avoiding guilt
+- Self-reported traits about work and creativity:
+  - True that they prefer to work without instructions
+  - True that it is important to carry out obligations
+  - True that they solve problems creatively
+  - True that they try to make work accurate and error-free
+  - Probably true that they are not bothered by reviewing or checking things closely
+  - Probably true that they like trying out different things and are often successful
+  - Probably not true that rules and regulations are helpful and necessary
+  - Probably not true that they like to do things in a new way
+  - Not true that it is important their achievements are recognized by others
+  - Probably not true that they often think about what others expect of them

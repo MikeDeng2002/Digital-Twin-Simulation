@@ -1,0 +1,17 @@
+Need for Closure: Moderate-low (items 1, 2, 4, 5, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100) shows she is somewhat comfortable with ambiguity and does not rush to closure.
+
+Need for Cognition: Moderately high (items 1-18) indicates she enjoys thinking deeply and solving complex problems.
+
+Maximizer: She disagrees with "never settle for second best" and "highest standards" only moderately, indicating a balanced maximizer/satisficer approach.
+
+Self-monitoring: Generally high (items 1-13), indicating good social adaptability and awareness.
+
+Self-concept clarity: Low (items 1-10), indicating some internal conflict and variability in self-view.
+
+Economic games: In the dictator and ultimatum games, she proposes to keep a moderate share ($3 of $5) and sends $2, showing moderate fairness but some self-interest. As a receiver, she accepts all offers, even the least generous, indicating pragmatic acceptance. In the trust game, she sends $1 (keeping $4) but returns a fair amount (e.g., keeps $8 of $15, returns $7), showing moderate trust and reciprocity but cautiousness.
+
+Cross-scale inference: The moderate Need for Cognition and openness align with her cognitive test performance (correctly answering 30/42 questions, slightly below average estimate of 35). Her economic game behavior aligns with moderate altruism and fairness values but also self-protection.
+
+Contradictions: She rates herself as somewhat disorganized and inconsistent but also reliable and hardworking, reflecting internal conflict consistent with low self-concept clarity.
+
+w_social estimate: 0.65 -- The respondent shows moderate social orientation, balancing self-interest and fairness in economic games, high social adaptability (self-monitoring), and values altruism and compassion highly. However, her moderate distrust (disagreeing slightly with "generally trusting") and pragmatic acceptance of offers suggest some guardedness. The agreement between Need for Cognition, openness, and social values supports a socially engaged but cautious profile.

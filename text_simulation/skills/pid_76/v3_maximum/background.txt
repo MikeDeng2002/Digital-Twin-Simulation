@@ -1,0 +1,56 @@
+Demographics: Female, age 65+, White, living alone in the Southern US, widowed, retired, some college but no degree, family income $30k-$50k, identifies as very conservative Republican, attends religious services more than once a week with a non-mainstream religion ("Other"). This suggests a traditional, possibly rural or small-town background with modest economic means and strong community/religious ties. Being widowed and living alone may contribute to a more introspective or cautious worldview.
+
+Big Five Personality (44 items):  
+- Extraversion: Mixed signals; "Is talkative" (4), but "Is outgoing, sociable" (1), "Is reserved" (4), "Tends to be quiet" (2). Overall low-moderate extraversion, somewhat socially cautious or selective.  
+- Agreeableness: Moderate; "Helpful and unselfish" (4), "Forgiving nature" (4), "Considerate and kind" (4), but "Tends to find fault" (4) and "Is generally trusting" (1). Suggests a complex social stance: kind but skeptical/trust issues.  
+- Conscientiousness: Moderate-low; "Does a thorough job" (3), "Reliable worker" (4), "Makes plans and follows through" (2), "Tends to be disorganized" (3). Some ambivalence about organization and follow-through.  
+- Neuroticism: Elevated; "Is depressed, blue" (4), "Can be tense" (4), "Worries a lot" (4), "Can be moody" (4), "Gets nervous easily" (4). Indicates emotional sensitivity and some anxiety.  
+- Openness: Low-moderate; "Is original" (4), "Is curious" (4), "Has an active imagination" (4), but "Is inventive" (2), "Values artistic experiences" (2), "Is sophisticated in art/music" (1). Curious but not highly creative or artistically inclined.
+
+Need for Cognition (18 items): Low. Strong agreement with preferring little thought, avoiding deep thinking, and thinking only as hard as necessary. Disagrees strongly with enjoying intellectual challenges or abstract thinking. This person prefers routine, simple tasks, and avoids complex cognitive effort.
+
+Values (24 items):  
+- Highest: Politeness (9), Honesty (9), Compassion (9), Forgiveness (8), Trust (8), Humility (8), Loyalty (8), Status (8).  
+- Lowest: Achievement (1), Power (1), Recognition (1), Superiority (1).  
+- Moderate: Autonomy (5), Equality (5), Tradition (6), Excitement (6).  
+This profile reveals a strong emphasis on social harmony, moral integrity, and interpersonal kindness, with low ambition for power or status. The high value on politeness and honesty suggests a conventional, rule-respecting worldview.
+
+Minimalism (12 items): Mixed but leaning against strong minimalism. Disagrees with avoiding accumulation or restricting possessions, but agrees somewhat with "less is more," simplicity in design, and mindful curation. Suggests moderate care in possessions but not ascetic.
+
+Empathy (20 items): Mixed and somewhat contradictory. Strong disagreement with statements that friends’ emotions don’t affect her, but also disagreement with some empathy items (e.g., "I often get swept up in my friends’ feelings" strongly disagreed). She reports some difficulty reading friends’ emotions but also some sensitivity to others’ feelings. Overall, moderate empathy with some social perceptiveness but emotional distancing.
+
+Consumerism/Uniqueness: Strong disagreement with all statements about seeking uniqueness or breaking social norms in consumption. Does not seek to stand out or challenge prevailing tastes. Neutral to negative about avoiding common products.
+
+Social Desirability: Low to moderate. Some admissions of jealousy, blaming self, and occasional giving up, suggesting honest self-reporting rather than socially desirable bias.
+
+Cognitive Test Performance:  
+- Self-estimated correct answers: 10/42 (very low) vs. population average 40/42.  
+- Actual test answers show multiple logical errors: e.g., incorrect syllogistic reasoning (believing invalid conclusions follow logically), misunderstanding of basic logic rules (e.g., "All X are Y" but concluding "Glock is not Y" when Glock is X), and poor synonym/antonym knowledge (many incorrect or off-target choices).  
+- Errors suggest concrete, literal thinking with difficulty in abstract, conditional, and logical reasoning.  
+- Puzzle and cube rotation tasks show some correct answers but also some confusion, indicating moderate spatial reasoning but limited abstract pattern recognition.  
+- Word association chain is straightforward, food-related, linear, no unusual leaps, indicating conventional associative thinking.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 (60% to self), moderately selfish but not maximally so.  
+- As receiver, rejects very generous offers ($5, $4) but accepts $3 and $2 offers, indicating a threshold for fairness but some stinginess or distrust.  
+- Thoughts during decisions emphasize fairness, sharing, caring, and selflessness, but behavior is moderately self-protective.  
+- In the trust game, keeps majority of money when receiving, indicating moderate distrust or self-interest.
+
+Intertemporal Choice:  
+- Strong preference for delayed larger rewards over smaller sooner ones in most cases, indicating patience and future orientation.  
+- Exception: prefers immediate smaller amounts over delayed larger amounts when difference is small, showing some discounting but overall moderate to high patience.
+
+Loss Framing:  
+- Strong aversion to losses; consistently prefers sure smaller losses over probabilistic larger losses, indicating risk aversion in loss domain.
+
+Self-Monitoring and Self-Concept Clarity:  
+- Low self-monitoring: generally unable or unwilling to adjust behavior to social situations, difficulty putting up fronts, low social adaptability.  
+- Moderate self-concept clarity: some day-to-day variation in self-view but generally clear sense of self, some internal conflict but not extreme.  
+- Some tendency to keep true self hidden from others.
+
+Depression and Mood:  
+- Reports some depressive symptoms: feeling blue, disappointed in self, blaming self, less enjoyment, tiredness, but no severe sadness or hopelessness.  
+- Some physical worries and fatigue, consistent with mild to moderate depressive mood.
+
+Social Desirability and Honesty:  
+- Admits to jealousy, self-blame, occasional giving up, and irritability, suggesting honest self-reporting rather than defensive or socially desirable responding.

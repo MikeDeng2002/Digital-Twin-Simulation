@@ -1,0 +1,65 @@
+Demographics: Female, age 50-64, White, US citizen living in the Western US (likely a state like CA, WA, OR, or nearby). Widowed, living alone, full-time employed, with some college but no degree, and low family income (<$30,000). Politically a liberal Democrat, atheist, and non-religious (never attends services). These factors suggest a middle-aged woman with modest socioeconomic status, likely facing some life stressors (widowed, low income), but maintaining employment and political engagement. Living alone and widowed may contribute to social isolation or emotional challenges.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagrees slightly with being talkative and outgoing, agrees somewhat with being reserved and quiet.  
+- High Conscientiousness: Strongly agrees with doing a thorough job, being reliable, persevering, making plans and following through, and doing things efficiently.  
+- High Neuroticism: Strongly agrees with being depressed, tense, moody, worrying a lot, nervous, and easily upset; low emotional stability.  
+- High Openness: Strongly agrees with being original, curious, imaginative, inventive, artistic, and a deep thinker.  
+- Moderate Agreeableness: Strongly helpful and unselfish, but disagrees strongly with being forgiving and trusting, and agrees somewhat with being cold and aloof and starting quarrels.  
+Overall, a conscientious, open, but emotionally vulnerable and somewhat socially reserved individual with mixed agreeableness (helpful but guarded).
+
+Need for Cognition (18 items): Very high (mostly 5s), indicating strong preference for complex problems, intellectual challenge, deep thinking, and sustained mental effort. Disagrees strongly with thinking being not fun or avoiding thinking. Enjoys abstract thinking and puzzles.
+
+Values (24 items):  
+Highest values (8-9): Competence, Altruism, Loyalty, Harmony, Honesty, Compassion, Equality, Trust (8), Autonomy (8).  
+Moderate: Achievement (7), Humility (7), Excitement (7), Ambition (6), Politeness (6), Pleasure (5), Civility (5), Superiority (5), Forgiveness (4), Influence (4), Status (4).  
+Low: Wealth (3), Power (3), Recognition (3), Tradition (1).  
+This reveals a worldview valuing moral integrity, social justice, helping others, fairness, and personal effectiveness, with low materialism and low interest in traditional or hierarchical power/status.
+
+Minimalism (12 items): Mixed but leaning slightly toward mindful curation rather than strict minimalism. Disagrees slightly with avoiding accumulation or sparse aesthetics, but agrees somewhat with avoiding excess possessions and being thoughtful about what is owned. Indicates moderate care in possessions but not extreme minimalism.
+
+Empathy (20 items): High emotional contagion and affective empathy (strongly affected by others’ sadness, happiness, fear), but somewhat less cognitive empathy (some disagreement on quickly reading others’ emotions). Overall, emotionally sensitive and caring but with some difficulty in accurately reading subtle social cues.
+
+Consumerism/Uniqueness: Somewhat nonconformist and rule-breaking in consumption (strongly agrees with breaking social rules about products), but only mild interest in uniqueness or avoiding popular products. Likes to challenge norms but not strongly driven by uniqueness-seeking.
+
+Social Desirability: Low to moderate. Some admissions of negative traits (taking advantage, jealousy, irritability), and low self-monitoring (difficulty altering behavior to suit situations), suggesting relatively honest self-reporting but limited social adaptability.
+
+Cognitive Test Performance:  
+- Correct on basic riddles and logic puzzles (e.g., Emily’s name, sheep count, race position).  
+- Correct on analogies and pattern recognition puzzles (selected correct options for complex figure completions).  
+- Some uncertainty or "I don’t know" responses on cube rotation puzzles, indicating occasional difficulty with spatial reasoning or uncertainty in complex 3D mental rotation.  
+- Vocabulary synonyms and antonyms mostly correct, indicating good verbal knowledge.  
+- Logical syllogisms mostly answered correctly, except one error on a conditional syllogism about China’s communism (incorrectly answered "No" when logically it should be "No" that conclusion follows, so correct).  
+- Self-estimated cognitive test score: 25/42 (below average), but believes average is 36/42. This underestimation may reflect low confidence or depressive bias.  
+- Numeric and probabilistic reasoning mostly accurate (mortgage, inflation, stocks, probabilities, lotteries).  
+- Some minor errors in credit card payoff time (8 years is plausible).  
+- Word association chain shows a progression from cold/noisy to calm/beauty, then kindness and grieving, indicating emotional sensitivity and reflective cognition.
+
+Economic Games:  
+- Dictator game: Proposes to keep $2 and give $3 (generous).  
+- Ultimatum game: Accepts all offers, even $0, indicating high tolerance and fairness orientation.  
+- Trust game: Sends full $5 (maximizing joint gain), returns all money received, indicating high trust and generosity.  
+- Thoughts during games emphasize reciprocity and generosity.  
+- Loss framing: More upset by larger single losses than equivalent split losses, consistent with loss aversion.
+
+Intertemporal Choice:  
+- Prefers delayed larger rewards over smaller sooner ones until the delayed reward is significantly better, indicating moderate patience but some present bias.
+
+Self-Concept Clarity:  
+- High clarity and stability of self-concept (disagrees strongly with conflicting self-beliefs or frequent changes).  
+- Identifies as gritty and determined despite emotional struggles.  
+- Self-critical but persevering.
+
+Depression and Emotional State:  
+- Reports chronic sadness, crying, irritability, loss of interest in others and sex, difficulty making decisions, fatigue, poor sleep, appetite loss, and physical worries.  
+- Feels disappointed and critical of self but not worthless or a failure.  
+- Indicates significant depressive symptoms but retains some functional capacity and hope.
+
+Behavioral Traits:  
+- High conscientiousness and organization, low carelessness.  
+- Prefers working independently, values rules and obligations.  
+- Creative problem solver, likes new ways of doing things.  
+- Low social adaptability and self-monitoring; difficulty changing behavior to suit others.  
+- Moderate to low competitiveness; values cooperation and well-being of coworkers.  
+- Rarely spends money impulsively; often reluctant to spend (tightwad tendencies).  
+- Actively avoids consumerism and mainstream trends but not strongly minimalist.

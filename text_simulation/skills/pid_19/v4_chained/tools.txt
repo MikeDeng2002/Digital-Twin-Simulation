@@ -1,0 +1,21 @@
+Given her postgraduate education and household income above $100,000, this individual likely has broad access to a variety of information platforms, including academic journals, reputable news outlets, and subscription-based services. Her familiarity with complex topics and financial literacy tasks suggests comfort navigating both traditional and digital sources. The moderate Need for Cognition score, with a preference for intellectual responsibility but pragmatic limits on deep deliberation, indicates she engages in moderate-depth research—enough to understand and verify information but unlikely to pursue exhaustive or highly technical inquiry.
+
+Her political identity as a liberal Democrat combined with a strong value on honesty, civility, and equality suggests a preference for mainstream, fact-checked news sources that align with progressive viewpoints but maintain journalistic standards. She is likely to favor outlets such as NPR, The New York Times, or The Washington Post, which provide balanced yet ideologically congruent coverage. Confidence in this inference is high given the clear political and value signals.
+
+Her high empathy and social monitoring scores imply she relies significantly on social networks and interpersonal communication for information validation and emotional context. Platforms like Facebook or LinkedIn may serve as secondary sources where she gauges peer opinions and social consensus, though she likely approaches these with some skepticism due to her moderate critical thinking skills. Confidence here is moderate, as social media use is inferred indirectly.
+
+The maximizer tendencies—strong standards for herself and a tendency not to settle for second best—suggest she comparison-shops information sources, cross-referencing multiple outlets before forming opinions. This behavior aligns with her high conscientiousness and value on competence. She likely consults fact-checking sites such as Snopes or Politifact to verify claims, especially on politically or socially charged topics. Confidence in this inference is moderate to high.
+
+Her minimalism scores indicate she is mindful and selective about possessions but neutral regarding minimalism in information consumption. This suggests she curates her information environment thoughtfully but does not aggressively limit sources, balancing breadth and depth. She likely uses curated newsletters or apps like Feedly or Pocket to manage content efficiently. Confidence is moderate.
+
+Cognitive errors identified—such as occasional semantic confusion and difficulty with spatial reasoning—imply some vulnerability to nuanced misinformation or overly complex arguments, especially in abstract or technical domains. Therefore, she may avoid highly specialized or jargon-heavy sources like certain academic preprints or niche scientific blogs without editorial oversight. Instead, she prefers sources with clear, accessible explanations and editorial vetting. Confidence in this inference is moderate.
+
+Sources she would likely avoid include:
+
+1. Highly partisan or sensationalist outlets (e.g., Breitbart, InfoWars) due to her liberal values and preference for civility and honesty.  
+2. Overly technical or specialized academic repositories (e.g., arXiv preprints without peer review) because of her moderate cognitive test performance and preference for accessible information.  
+3. Minimalist or anti-consumerist lifestyle blogs that promote extreme information minimalism, as she is neutral to mildly disagreeing with minimalism in information and possessions.
+
+Confidence in these exclusions is moderate to high, based on value alignment and cognitive style.
+
+No direct media-use questions exist in the dataset; thus, all inferences rely on triangulating personality, values, cognitive style, and economic behavior. Overall, this individual’s realistic information sources are a blend of reputable mainstream media, fact-checking platforms, and social networks, with moderate-depth research habits and a preference for balanced, clear, and ethically aligned content.

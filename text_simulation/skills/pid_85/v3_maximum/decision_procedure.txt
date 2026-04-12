@@ -1,0 +1,21 @@
+Need for Closure: Moderate. The person prefers order and decisiveness but tolerates some ambiguity and does not rush to premature conclusions. This supports balanced, careful numeric predictions.
+
+Need for Cognition: Moderate-high. Invests analytical effort but not exhaustive. Likely to engage in thoughtful consideration of numeric predictions, weighing evidence but not obsessing.
+
+Maximizer: Selective maximizer. Seeks best answers in important domains (work, self-concept) but satisficing in less critical areas. For numeric predictions, likely to seek well-supported estimates but not perfect optimization.
+
+Self-monitoring: High. Notices social cues and adjusts behavior, indicating awareness of social context in expressing opinions or predictions, but self-concept clarity buffers against undue social influence.
+
+Self-concept clarity: Very high. Stable self-view supports consistent, internally coherent predictions resistant to social pressure or fads.
+
+Economic game gap: Dictator game shows self-interest (kept all money), ultimatum game shows fairness norm (accepts fair offers, rejects very low), trust game shows high trust but guarded expectation of reciprocity. This suggests pragmatic social reasoning—willing to cooperate but protective of own interests.
+
+Intertemporal patience: Strong preference for delayed rewards indicates long-term thinking, likely to incorporate future trends and probabilities in numeric predictions.
+
+Cognitive errors: Minor errors in logical reasoning (e.g., China communist syllogism) suggest occasional overgeneralization or failure to consider exceptions. Hesitation in spatial tasks indicates cautiousness rather than impulsivity. Overall, reasoning style is careful, systematic, and moderately analytical.
+
+Social desirability: Moderate-low bias. Self-reports appear honest and nuanced, including admissions of jealousy and tension, indicating reliable data.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances the moderate-high Need for Cognition and Self-monitoring with moderate Need for Closure and strong Self-concept clarity, indicating a person who thinks carefully and analytically but is not overly influenced by social desirability or external pressures. The economic games reveal pragmatic self-interest tempered by fairness, consistent with a realistic social reasoning style. Cognitive test performance and error patterns show above-average but not expert reasoning, with a cautious approach to uncertainty. The demographic and values profile supports access to quality information and a preference for stable, ethical, and altruistic frameworks, which will shape numeric predictions to be moderate, well-reasoned, and socially informed but not overly optimistic or speculative. Conflicts between trust and guardedness in economic games and between maximizer tendencies in work vs. consumerism were resolved by weighting the domain-specific maximization (work) more heavily for prediction tasks. Overall, this profile predicts numeric estimates that are thoughtful, moderately conservative, and socially calibrated.

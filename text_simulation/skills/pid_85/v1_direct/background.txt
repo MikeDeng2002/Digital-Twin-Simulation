@@ -1,0 +1,107 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Male sex assigned at birth (Question: "What is the sex that you were assigned at birth?" Answer: 1 - Male)
+- Age group 50-64 (Question: "How old are you?" Answer: 3 - 50-64)
+- Highest education level: College graduate/some postgrad (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 5 - College graduate/some postgrad)
+- Race: White (Question: "What is your race or origin?" Answer: 1 - White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Marital status: Married (Question: "Which of these best describes you?" Answer: 1 - Married)
+- Religion: Protestant, attends religious services once a week (Questions: "What is your present religion?" Answer: 1 - Protestant; "Aside from weddings and funerals, how often do you attend religious services?" Answer: 2 - Once a week)
+- Political affiliation: Independent, politically conservative (Questions: "In politics today, do you consider yourself a" Answer: 3 - Independent; "In general, would you describe your political views as" Answer: 2 - Conservative)
+- Household size: 2 people (Question: "Including yourself, how many people currently live in your household?" Answer: 2 - 2)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: 1 - Full-time employment)
+- Family income: $100,000 or more (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 5 - $100,000 or more)
+
+- Personality traits (Big Five, from self-report):
+  - Low talkativeness (Q: "Is talkative" Answer: 2 - Disagree a little)
+  - Low tendency to find fault with others (2 - Disagree a little)
+  - Very thorough and reliable worker (3 - Agree strongly; 13 - Agree strongly)
+  - Emotionally stable, not depressed or moody (4 - Disagree strongly; 29 - Disagree a little; 24 - Agree strongly)
+  - Somewhat original, inventive, and curious (5 - Agree a little; 25 - Agree strongly; 10 - Agree strongly)
+  - Reserved and quiet (6 - Agree strongly; 21 - Agree strongly)
+  - Helpful and unselfish (7 - Agree strongly; 32 - Agree strongly)
+  - Relaxed, handles stress well (9 - Agree a little; 34 - Agree strongly)
+  - Not assertive or aggressive (26 - Disagree strongly; 12 - Disagree strongly)
+  - Values artistic and aesthetic experiences (30 - Agree strongly; 44 - Agree a little)
+  - Perseveres until task is finished (28 - Agree strongly)
+  - Generally trusting (22 - Agree a little)
+  - Not lazy or careless (23 - Disagree strongly; 8 - Disagree a little)
+  - Sometimes shy or inhibited (31 - Agree strongly)
+  - Does things efficiently and systematically (33 - Agree strongly)
+
+- Need for Cognition (self-report):
+  - Prefers complex problems and intellectual challenges (1,2,10,11,13,14,15 all Agree a little)
+  - Does not find thinking unpleasant (3,4,5,7,9 Disagree a little)
+  - Somewhat neutral on satisfaction from long deliberation (6 Neither agree nor disagree)
+  - Somewhat indifferent about how things work as long as they get done (17 Agree a little)
+  - Does not usually deliberate about issues not personally affecting them (18 Disagree a little)
+
+- Values (rated as guiding principles):
+  - Highly values altruism and compassion (9,17 rated 9 - Highly Important)
+  - Values humility, loyalty, politeness, honesty, civility (7,11,12,16,19 rated 6-8)
+  - Values competence, achievement, ambition, autonomy moderately high (6,8,10,20 rated 7)
+  - Values pleasure and harmony moderately (2,14 rated 5-6)
+  - Does not value power or superiority (13 rated 1; 24 rated 2)
+  - Wealth and status rated low (1 rated 2; 18 rated 2)
+  - Tradition and equality rated moderately (21,23 rated 5)
+
+- Minimalism and mindful ownership:
+  - Agrees with statements about avoiding excess possessions, preferring simplicity, mindful curation of belongings (items 1-12 mostly Agree a little to Agree strongly)
+
+- Empathy and social sensitivity:
+  - Somewhat empathic, can understand friends' feelings (3,9,10,12,14,16 Agree a little to strongly)
+  - Does not easily get caught up in others' feelings (5,17 Disagree a little; 1,6,18,19,20 Disagree a little or Neither agree nor disagree)
+  - Sensitive to emotional cues but not overwhelmed
+
+- Environmental concern:
+  - Neutral to somewhat positive about environmental responsibility and impact (1 Neither agree nor disagree; 2-5 Agree a little; 6 Neither agree nor disagree)
+
+- Cognitive test performance:
+  - Estimated self and population average correct answers: 30/42
+  - Correct answers on logical reasoning and syllogistic reasoning questions
+  - Some uncertainty or "I do not know" answers on cube rotation tasks
+  - Good vocabulary knowledge (synonyms and antonyms)
+  - Correct understanding of logical implications and syllogisms
+
+- Economic game behavior:
+  - In ultimatum game as proposer, tends to keep all money ($5) and send $0 (Answer: $5 for self, $0 to other)
+  - As receiver, accepts offers of $1 or more, rejects $1 offer when proposer keeps $4 (rejects low offers)
+  - In trust game, sends all money ($5) to other person (maximizing total), but expects to keep about half of tripled amount when receiving
+  - Thoughts during decisions: "Greed" when deciding how much to keep; "Fair" when deciding how much to return
+
+- Financial literacy:
+  - Correctly answers questions about mortgages, inflation, risk diversification, investment returns, required minimum distributions
+  - Understands credit card debt implications ("never" payoff with minimum payments)
+  - Correct answers on probability and expected values
+  - Correct answers on cognitive reflection test items (bat and ball, lily pads)
+  - Prefers immediate smaller amounts over delayed larger amounts until amounts are equal or better (consistent with some delay discounting)
+  - Risk preferences: prefers certain amounts over lotteries with equal expected value (risk averse)
+  - Loss aversion: prefers smaller sure losses over risky larger losses
+
+- Spending habits:
+  - Self-reports as a tightwad (3 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+
+- Self-concept and identity:
+  - Clear and stable self-concept (all items about clarity strongly disagreed with conflict or instability; item 11 "I have a clear sense of who I am" Agree strongly)
+  - Prefers to depend on self, values independence and competition
+  - Values family duty and loyalty strongly
+  - Does not experience sadness, guilt, or feelings of failure currently
+  - Somewhat less interested in sex than before
+  - Intentionally trying to lose weight by eating less
+
+- Self-monitoring:
+  - Generally able to adjust behavior to social situations (items mostly "Generally true")
+  - Sensitive to others' emotions and social cues
+
+- Need for Closure:
+  - Somewhat dislikes uncertainty and unpredictability (items mostly Agree a little to Agree strongly)
+  - Prefers order, routine, and structure
+  - Does not consult many opinions before forming views (Disagree strongly)
+  - Some impatience with ambiguous or unclear situations
+
+- Maximizer tendencies:
+  - Does not seek to maximize options in shopping or media (Disagree strongly on checking other stations)
+  - Has high standards for self and job performance (Agree strongly)
+  - Does not settle for second best (Agree a little to strongly)

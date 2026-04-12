@@ -1,0 +1,20 @@
+Need for Closure: Moderate to high (items 1,2,4,6,8,9,12,13,14,15 all agree a little or strongly) — indicates preference for order, quick decisions, discomfort with ambiguity.
+
+Need for Cognition: Moderate to low (items 1,5,6,11,14,15 show mixed or low agreement) — does not enjoy prolonged deep thinking, prefers simpler or routine tasks once learned.
+
+Maximizer: Moderate (items 5 and 6 agree strongly or a little) — holds high standards but not extreme perfectionism.
+
+Self-monitoring: Very high (items 1-7 mostly 6 or 5) — excellent social adaptability and awareness.
+
+Self-concept clarity: Moderate to high (item 11 agree strongly, items 1,2,6 agree a little) — generally clear self-view with some internal conflict.
+
+Economic games: Moderate fairness and reciprocity — proposes to keep majority but sends meaningful amounts; as receiver, accepts fair offers and reciprocates moderately.
+
+Cross-scale inference:  
+- High self-monitoring aligns with moderate need for closure (both favor structured social environments).  
+- Moderate need for cognition and moderate maximizer suggest balanced cognitive engagement without overthinking or perfectionism.  
+- Economic game behavior aligns with moderate altruism and fairness values.
+
+No major contradictions detected.
+
+w_social estimate: 0.7 -- The respondent shows high social perceptiveness and adaptability (Self-monitoring scale), moderate altruism and fairness in economic games, and values harmony, civility, and cooperation highly. However, some self-focus in economic offers and moderate need for closure suggest a balanced but not extreme social orientation. The scales agree on moderate to high social engagement and concern for others, supporting a w_social estimate around 0.7.

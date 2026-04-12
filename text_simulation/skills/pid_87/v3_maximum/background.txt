@@ -1,0 +1,27 @@
+Demographics: Female, age 50-64, White, living in the U.S. Midwest, divorced, self-employed, Protestant (seldom attends services), Democrat with liberal political views, family income $30,000-$50,000, lives alone. This suggests a middle-aged, moderately lower-middle income individual with some college education but no degree, likely with experience balancing independence and social responsibility. Self-employment implies autonomy and possibly variable income, which may influence risk attitudes and decision-making.
+
+Big Five Personality (44 items): High Extraversion (talkative 5, outgoing 4), very high Conscientiousness (does thorough job 5, reliable 5, organized 9/9/8, perseveres 5), high Openness (original 5, curious 5, inventive 5, active imagination 5, artistic interests 4), low Neuroticism (emotionally stable 5, not tense 4 but some tension 4, low worry 2), and very low Agreeableness fault-finding (2) but very high helpfulness and kindness (5). Overall, a socially warm, energetic, highly organized, creative, and emotionally stable individual.
+
+Need for Cognition (18 items): Strong preference for complex problems, intellectual challenge, and deep thinking (mostly 4-5), enjoys abstract thinking and problem solving, dislikes thinking lightly or superficially. This indicates a high engagement with analytical tasks and intellectual curiosity.
+
+Need for Closure (15 items): Moderate need for closure (mostly 4s, some 2s), prefers order and predictability but not rigidly so, somewhat comfortable with ambiguity but prefers to resolve uncertainty reasonably quickly.
+
+Maximizer scale (6 items): Low to moderate maximizer tendencies; does not frequently comparison shop or seek the absolute best, but holds moderately high standards for self (4-5), indicating a balance between satisficing and maximizing.
+
+Self-monitoring (13 items): Mixed signals, mostly low to moderate self-monitoring (2-4), some difficulty changing behavior to suit situations, but some ability to read social cues (5 on detecting inappropriate jokes). Suggests moderate awareness of social impression but not highly strategic or adaptive.
+
+Self-concept clarity (12 items): High clarity and stability of self-concept (mostly 5s, some 4s), little internal conflict or fluctuation in self-view, confident in identity and values.
+
+Values (24 items): Highest values are Forgiveness (9), Altruism (9), Compassion (9), Equality (9), Trust (8), Humility (8), Loyalty (8), Harmony (8), Civility (8), Tradition (8), Autonomy (7), Pleasure (7), Politeness (7), Honesty (7). Low importance on Power (1), Superiority (1), Status (2), Recognition (2), Wealth (3), Achievement (3), Ambition (4), Excitement (4). This reveals a worldview centered on social harmony, kindness, fairness, and community, with low emphasis on dominance or material success.
+
+Minimalism (12 items): Strong agreement with minimalism and simplicity (mostly 4-5), avoids excess possessions, prefers sparse and simple environments, but only moderate curation of belongings (2 on careful selection). Suggests a preference for low clutter and mindful consumption but not obsessive.
+
+Empathy (20 items): Very high empathy (mostly 4-5), strongly affected by others’ emotions, good at reading others’ feelings, emotionally responsive, socially attuned.
+
+Consumerism/Uniqueness: Low consumerism, low desire to break social norms or be unique via products (mostly 1-2), but some moderate interest in originality and interesting products (4). Does not follow trends but appreciates some personal expression.
+
+Cognitive Test Performance: Self-estimated 20/42 correct (below average estimate of 30/42 for US adults). Actual test answers show some logical errors: e.g., incorrect answers on syllogistic reasoning (often affirming the consequent or denying the antecedent incorrectly), some confusion on antonyms and synonyms (e.g., choosing "ascetic" for "astute" synonym, "flimsy" for "furtive" synonym), and some numeric errors (e.g., die roll estimate 50 instead of 500). However, good performance on spatial rotation and pattern recognition puzzles (correct answers on cube rotation and figure completion). This suggests a reasoning style that is better on visual-spatial and pattern tasks than on verbal-logical or abstract reasoning, with some systematic reasoning errors typical of heuristic or intuitive rather than formal logic.
+
+Word Association Chain: Logical, concrete, and thematic progression from "table" to "room" to "kitchen" to "food" to "comfort" and "bedroom," indicating organized, goal-directed associative thinking with a focus on practical and comforting concepts.
+
+Social Desirability Scale: Low to moderate social desirability bias; self-reports are consistent and not overly idealized, with honest admissions of occasional impatience and guilt.

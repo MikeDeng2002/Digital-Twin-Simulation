@@ -1,0 +1,30 @@
+- Need for Closure:
+  - Dislikes uncertain situations (Item 1: Agree a little, 4)
+  - Strongly prefers well-ordered life and routines (Items 3, 12, 13: Agree strongly, 5)
+  - Strongly dislikes going into situations without knowing what to expect (Item 6: Agree strongly, 5)
+  - Strongly desires quick solutions (Item 8: Agree strongly, 5)
+  - Some impatience if no immediate solution (Item 9: Agree a little, 4)
+  - Overall, moderate to high need for closure
+- Need for Cognition:
+  - Strongly enjoys complex problems and abstract thinking (Items 1, 14, 15: Agree strongly, 5)
+  - Strongly disagrees with avoiding thinking or preferring simple tasks (Items 3,4,5,7,12,13: Disagree strongly, 1)
+  - Somewhat enjoys deliberating hard (Item 6: Agree a little, 4)
+  - Overall, high need for cognition
+- Maximizer:
+  - Disagrees strongly with behaviors indicating maximizer tendencies (e.g., checking for better options, always seeking better job) (Items 1,2: Disagree strongly or a little)
+  - Finds it somewhat difficult to shop for gifts or clothing (Items 3,4: Agree a little)
+  - Does not hold highest standards or never settle for second best (Items 5,6: Disagree a little)
+  - Overall, low maximizer tendency
+- Self-monitoring:
+  - Generally low self-monitoring; difficulty altering behavior to suit situations (Items 1-3: Generally false, 2)
+  - Has trouble putting up a good front (Item 6: Generally true, 5)
+  - Sensitive to others' facial expressions (Items 9,11,12: Generally true, 5)
+  - Poor at detecting lies (Item 13: Certainly always false, 1)
+  - Overall, low self-monitoring with some social sensitivity
+- Self-concept Clarity:
+  - Strongly agrees to having clear, stable self-concept (Item 11: Agree strongly, 5)
+  - Disagrees strongly with conflicting or changing self-beliefs (Items 1,2,3,4,7,8,9,10: Disagree strongly)
+  - Somewhat agrees it is sometimes hard to make up mind due to uncertainty (Item 12: Agree a little, 4)
+  - Overall, high self-concept clarity
+
+w_social estimate: 0.7 -- This person shows moderate to high need for closure (Items 1,3,6,8), high need for cognition (Items 1,14,15), low maximizer tendencies (Items 1,2,5), low self-monitoring but good social sensitivity (Items 1-3,6,9,11,12), and high self-concept clarity (Item 11), indicating a balanced but socially aware decision-making style.

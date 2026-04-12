@@ -1,0 +1,12 @@
+- Need for Closure: Generally high need for closure indicated by agreement with items such as disliking uncertainty (Item 1: Agree a little), preference for well-ordered life (Item 3: Agree strongly), discomfort with not understanding reasons for events (Item 4: Agree a little), irritation when others disagree with group (Item 5: Agree a little), dislike of ambiguous statements (Item 11: Agree strongly), and impatience for quick solutions (Item 9: Agree strongly).
+- Need for Cognition: Very low need for cognition, indicated by strong disagreement with enjoying complex problems and thinking (Items 1,2: Disagree strongly), strong agreement that thinking is not fun (Item 3: Agree strongly), preference for tasks requiring little thought (Items 4,5,7,8,9: Agree strongly), and indifference to how or why things work (Item 17: Agree strongly).
+- Maximizer: Moderate maximizer tendencies, agreeing somewhat with having high standards (Item 5: Agree a little), never settling for second best (Item 6: Agree a little), and being on lookout for better opportunities (Item 2: Agree strongly).
+- Self-monitoring: High self-monitoring, with strong agreement on ability to alter behavior to suit situations (Items 1-3,5,7: Generally to certainly true), good at reading others' emotions (Items 8,10,13: Certainly true), and detecting lies (Item 13: Certainly true).
+- Self-concept clarity: Generally clear self-concept, agreeing strongly with having a clear sense of who they are (Item 11: Agree strongly), disagreeing strongly with frequently changing self-beliefs or self-descriptions (Items 2,3,4,5,8,9: Disagree strongly), but some slight difficulty making up mind (Item 12: Agree a little).
+- Specific item references:
+  - Need for Closure: Items 1 (4), 3 (5), 6 (6), 9 (9), 11 (11), 13 (not present), 14 (not present)
+  - Need for Cognition: Items 1-9, 11, 15-18 (all from Need for Cognition section)
+  - Maximizer: Items 1-6 (from Maximizer section)
+  - Self-monitoring: Items 1-13 (from Self-monitoring section)
+  - Self-concept clarity: Items 1-12 (from Self-concept clarity section)
+- w_social estimate: 0.7 -- This estimate reflects the participant's high self-monitoring scores indicating social awareness and adaptability (Self-monitoring Items 1-13), combined with a moderate need for closure (Need for Closure Items 1,3,6,9,11) and low need for cognition, suggesting reliance on social cues and structured decision-making rather than deep analytical thought.

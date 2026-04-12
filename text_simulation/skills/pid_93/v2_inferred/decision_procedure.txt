@@ -1,0 +1,17 @@
+Need for Closure: Mixed but generally low; dislikes uncertainty somewhat (item 6=5), but does not strongly dislike ambiguity or unpredictability (items 1,2,5 mostly disagree). This suggests moderate tolerance for ambiguity.
+
+Need for Cognition: Very high (items 1-18 mostly strongly agree), indicating strong preference for effortful thinking and problem solving.
+
+Maximizer: Low (disagrees strongly with uniqueness-seeking and breaking social norms in consumption), indicating satisficing tendencies.
+
+Self-monitoring: Moderate (items mostly 4-5), able to adjust behavior but not excessively.
+
+Self-concept clarity: Very high (items 1-11 mostly disagree strongly with conflicting self-beliefs), indicating stable and clear self-identity.
+
+Economic games: Proposes fair but slightly self-favoring splits ($3/$2), accepts all fair offers, fully generous in trust game sending, and reciprocates moderately as receiver. This pattern indicates fairness combined with pragmatic self-interest.
+
+Cross-scale inference: High Need for Cognition aligns with high conscientiousness and openness, supporting a profile of deliberate, thoughtful decision-making. Moderate Need for Closure and high self-concept clarity suggest comfort with some uncertainty but a stable identity guiding decisions. Low maximizing aligns with pragmatic, satisficing economic behavior.
+
+No contradictions noted; scales align well.
+
+w_social estimate: 0.65 -- The respondent shows moderate social weighting: he is empathetic and responsive to others' emotions (empathy items 3,5,9,14,16,17 rated 4-5), values family and cooperation (values items 9,10,14,42), and behaves fairly in economic games, but also maintains some self-interest and critical interpersonal traits (finding fault strongly, some quarrelsomeness). His moderate self-monitoring and social adaptability support social engagement but not high social conformity. The agreement between empathy, economic fairness, and moderate self-monitoring supports a social weighting above average but not maximal.

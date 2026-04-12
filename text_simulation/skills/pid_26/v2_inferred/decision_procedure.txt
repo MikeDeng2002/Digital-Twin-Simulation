@@ -1,0 +1,17 @@
+Need for Closure: Moderate to low need for closure (items mostly neutral or disagree on intolerance of ambiguity), indicating openness to complexity and uncertainty.
+
+Need for Cognition: High (items 1,2,6 = 5; items 3-5 = 1), indicating enjoyment of thinking and problem solving.
+
+Maximizer: Low to moderate (items 5,6 = 2-3), indicating she does not compulsively seek the best option.
+
+Self-monitoring: Moderate to high (items 1,2,5,7 = 5-6), able to adjust behavior socially but not excessively.
+
+Self-concept clarity: Very high (all items strongly disagree with instability), indicating a stable and clear self-identity.
+
+Economic games: Proposes fair but slightly self-favoring splits; accepts all offers; in trust game keeps majority but returns some, indicating moderate social trust and fairness.
+
+Cross-scale inference: High conscientiousness, high NFC, and high self-concept clarity align with deliberate, thoughtful decision-making and moderate social engagement. Economic games show moderate social cooperation but also self-interest.
+
+No contradictions noted; scales consistently indicate a thoughtful, conscientious individual with moderate social trust and fairness, low impulsivity, and stable self-identity.
+
+w_social estimate: 0.6 -- The respondent shows moderate social orientation, as indicated by moderate agreeableness, willingness to cooperate in economic games, and moderate self-monitoring. High conscientiousness and self-concept clarity support deliberate social behavior rather than impulsive or highly social extroversion. Economic game behavior and empathy items suggest she values fairness but maintains personal boundaries, consistent with a social engagement level around 0.6.

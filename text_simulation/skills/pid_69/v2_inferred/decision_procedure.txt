@@ -1,0 +1,15 @@
+Need for Closure: Moderate (items mostly 3-5), with some discomfort with uncertainty and desire for order (e.g., "I find that a well ordered life with regular hours suits my temperament" 5, "I would quickly become impatient and irritated if I would not find a solution immediately" 5). This suggests a preference for clear, structured environments but some tolerance for ambiguity.
+
+Need for Cognition: Moderate to high (items 4-5), enjoys responsibility and problem-solving but also shows some ambivalence ("I only think as hard as I have to" 4). Indicates engagement with cognitive tasks but not extreme.
+
+Maximizer: Mixed signals; does not strongly endorse "never settle for second best" (3), and "I have the highest standards for myself" is disagreed a little (2). Suggests moderate maximizing tendencies, possibly satisficing in some domains.
+
+Self-monitoring: Moderate (items 4-5), can adjust behavior somewhat but also reports difficulty changing behavior to suit different people (5). Indicates some social adaptability but not high.
+
+Self-concept Clarity: Moderate to low; some internal conflict ("My beliefs about myself often conflict" 4), changing self-beliefs (4), and difficulty making up mind (5). Suggests some instability in self-view.
+
+Economic Game Behavior: Highly self-interested in ultimatum game (keeps all money, rejects unfair offers), moderate reciprocity in trust game (sends minimal, expects to keep most). Suggests cautious trust, low generosity.
+
+Cross-scale inference: The moderate Need for Closure and moderate Self-monitoring align with cautious social behavior and preference for order. The moderate Need for Cognition aligns with cognitive engagement but not high openness. The economic games and personality traits (high fault-finding, quarrelsome) suggest a somewhat critical, self-focused social style.
+
+w_social estimate: 0.35 -- The respondent shows moderate social engagement (agreeing somewhat with being talkative and outgoing) but also strong tendencies toward quietness and reservation. His economic game behavior indicates low generosity and trust, and his self-monitoring is moderate but with difficulty adapting fully. The moderate Need for Closure and moderate Self-concept clarity suggest some social caution and internal conflict. Together, these scales indicate a somewhat socially cautious, self-focused individual with moderate social skills but limited social warmth or generosity.

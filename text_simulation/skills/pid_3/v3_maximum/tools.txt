@@ -1,0 +1,24 @@
+Education + Income: Some college, no degree, income $30k-$50k, retired. Likely moderate digital literacy, limited formal training in advanced research or data analysis. Access to mainstream media, possibly local news, TV, and print. Moderate internet use, possibly Facebook or similar social media for news and social contact. Confidence: Moderate (0.7).
+
+Need for Cognition: High (strong agreement with intellectual engagement), indicating deep research and analytical effort when motivated. Likely to read detailed articles, think through problems, and enjoy puzzles. Confidence: High (0.9).
+
+Political Identity: Independent, moderate views, low partisan bias. Likely to prefer neutral or balanced news sources, avoid extreme partisan outlets. May consult multiple sources but not aggressively partisan. Confidence: Moderate (0.8).
+
+Empathy Scale: Moderate to low emotional empathy, some cognitive empathy. Likely relies on close social network for information but not heavily influenced by emotional contagion. Confidence: Moderate (0.7).
+
+Maximizer Scale: Mixed signals; neither strongly maximizer nor satisficer. Some effort to find good options but not perfectionistic. Likely to compare some sources but not obsessively. Confidence: Moderate (0.7).
+
+Consumerism/Uniqueness: Low desire for uniqueness, conventional consumer. Likely to follow mainstream trends in information sources, not seeking niche or alternative media. Confidence: High (0.8).
+
+Minimalism Scale: Aesthetic minimalism but not behavioral minimalism. Likely to curate information environment somewhat, preferring clarity and simplicity but not heavy filtering. Confidence: Moderate (0.7).
+
+Likely Information Platforms and Source Types:  
+- Mainstream TV news (e.g., local network news, CNN, PBS)  
+- Print newspapers or magazines (local or national)  
+- Moderate use of internet news portals (e.g., Yahoo News, Google News)  
+- Possibly Facebook or similar social media for social updates and news sharing  
+- Avoids highly partisan or niche ideological sites (e.g., Breitbart, Daily Kos)  
+- Avoids heavy academic or technical sources due to education level and cognitive style  
+Research Depth: Moderate to deep when motivated (due to high Need for Cognition), but limited by education and digital literacy.  
+Sources NOT used: Highly technical journals, partisan blogs, complex financial analysis platforms, heavy social media influencers.  
+Confidence: Moderate to high (0.8).

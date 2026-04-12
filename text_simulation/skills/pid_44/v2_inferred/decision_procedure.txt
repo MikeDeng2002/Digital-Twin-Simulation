@@ -1,0 +1,14 @@
+- Need for Closure: Moderate low need for closure (items mostly agree a little or neutral), indicating tolerance for ambiguity and less urgency to resolve uncertainty.
+- Need for Cognition: Very high (items 1,6,10,11,13,14,15,18 agree strongly), indicating enjoyment of thinking and problem-solving.
+- Maximizer: Low (items mostly disagree strongly), indicating satisfaction with good enough rather than always seeking the best.
+- Self-monitoring: Moderate (items 1,2,7 agree generally true; others disagree strongly), indicating some ability to adjust behavior but not excessively.
+- Self-concept clarity: High (items 1,6,11 agree strongly; others disagree strongly), indicating a stable and clear self-identity.
+- Economic games: Proposes to keep $3 and send $2 in ultimatum game (moderate fairness), accepts all offers as receiver (high acceptance), sends all $5 in trust game but expects about half back (high trust but cautious reciprocity).
+- Cognitive tests: Average to below average performance (20/42 correct vs. 25/42 average), with some logical reasoning errors and vocabulary mistakes.
+- Financial literacy: Moderate, understands basic financial concepts but some errors (e.g., bonds as highest return over long term).
+
+Cross-scale inference: High need for cognition and high conscientiousness (Big Five) align with high self-concept clarity and moderate self-monitoring, supporting a profile of a thoughtful, organized, and self-aware individual who is not impulsive or overly competitive. Low maximizer scores align with moderate economic game fairness and acceptance of offers, indicating pragmatic social decision-making.
+
+No major contradictions detected; some mild tension between high neuroticism (worry, moodiness) and moderate emotional stability, but this is consistent with reported stress and desire for peace.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social trust and empathy (empathy items agree strongly), cooperates moderately in economic games (ultimatum offer of $2 to other, accepts all offers), and values altruism and loyalty highly. However, he is socially reserved and not outgoing (Big Five), and shows moderate self-monitoring rather than high social adaptability. The agreement between empathy, economic game behavior, and values supports a moderately high social orientation, but reserved personality and moderate self-monitoring temper this estimate.

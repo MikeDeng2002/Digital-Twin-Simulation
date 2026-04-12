@@ -1,0 +1,95 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Male, aged 50-64 (Questions: Sex assigned at birth: 1 - Male; Age: 3 - 50-64)
+- Highest education level completed: High school graduate (Question: Highest level of schooling or degree completed? Answer: 2 - High school graduate)
+- Race: White (Question: Race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Protestant, attends religious services a few times a year (Questions: Present religion: 1 - Protestant; Frequency of attendance: 4 - A few times a year)
+- Political affiliation: Democrat, but self-described political views are conservative (Questions: Political party: 2 - Democrat; Political views: 2 - Conservative)
+- Family income last year: $50,000-$75,000 (Question: Last year, total family income? Answer: 3 - $50,000-$75,000)
+- Household size: 4 people (Question: Including yourself, how many people live in your household? Answer: 4 - 4)
+- Employment status: Full-time employment (Question: Current employment status? Answer: 1 - Full-time employment)
+- Personality traits (Big Five, self-report):
+  - Low talkativeness (1. Disagree a little)
+  - Very low tendency to find fault with others (2. Disagree strongly)
+  - Very thorough and reliable worker (3 & 13. Agree strongly)
+  - Emotionally stable, not easily upset (24. Agree strongly)
+  - Somewhat original and curious (5 & 10. Agree a little to strongly)
+  - Helpful and kind to others (32. Agree strongly)
+  - Forgiving nature (17. Agree strongly)
+  - Calm under stress (9 & 34. Agree a little)
+  - Assertive personality (26. Agree a little)
+  - Perseveres until task is finished (28. Agree strongly)
+  - Values artistic/aesthetic experiences moderately (30. Agree a little)
+  - Generally trusting (22. Agree strongly)
+  - Does things efficiently (33. Agree a little)
+  - Somewhat relaxed, handles stress well (9. Agree a little)
+  - Not shy or outgoing (6, 21, 31, 36. Mostly neutral or neither agree nor disagree)
+  - Does not start quarrels, not rude, not careless, not lazy (12, 37, 8, 23. Disagree strongly)
+- Need for Cognition:
+  - Likes complex problems and thinking (1,2,6,10,11,13,14,18. Mostly agree a little)
+  - Does not find thinking unpleasant (3. Disagree strongly)
+  - Does not avoid thinking (5,7. Disagree strongly)
+  - Somewhat neutral on preference for intellectual tasks (15,16,17. Mixed answers)
+- Values (rated as guiding principles):
+  - Highly important: Achievement, Altruism, Honesty, Compassion, Tradition (8,9,16,17,23 rated 9)
+  - Important: Forgiveness, Humility, Politeness, Civility, Equality, Loyalty, Harmony, Excitement, Trust, Competence (3,7,12,19,21,11,14,15,5,6 rated 7-8)
+  - Moderately important: Pleasure, Autonomy, Ambition, Wealth, Status, Recognition (2,20,10,1,18,22 rated 4-6)
+  - Not important: Power, Superiority (13,24 rated 1)
+- Self-reported spending habits:
+  - Prefers some simplicity and mindfulness about possessions (3,5,9,11,12. Agree a little)
+  - Does not strongly avoid accumulation or restrict possessions (1,2,4,6,7,8,10. Neutral or disagree a little)
+- Empathy and social sensitivity:
+  - Strongly affected by friends' emotions (1,5,8,18,19,20. Disagree strongly that unaffected)
+  - Usually feels sad when friends are sad (2. Agree a little)
+  - Understands friends' happiness and fear well (3,6,9,10,14,16. Agree a little to strongly)
+  - Can read emotions quickly and accurately (10,14,16. Agree strongly)
+  - Sometimes gets caught up in others' feelings (5,11,15,17. Agree a little)
+- Environmental attitudes:
+  - Neutral to slightly disagree on environmental responsibility and concern (1,2,3,5,6. Neither agree nor disagree or disagree a little)
+  - Slightly agrees with concern about wasting resources (4. Agree a little)
+- Cognitive test performance:
+  - Correctly answered logical reasoning and puzzle questions with some uncertainty (e.g., answered "I do not know" on cube rotation once)
+  - Estimated self-performance on cognitive tests as 10/42 correct, much lower than estimated average of 35/42
+- Financial literacy:
+  - Correctly understands mortgage payment and interest trade-offs (True)
+  - Understands inflation reduces purchasing power (Less than today)
+  - Does not know which asset has highest fluctuations or returns (Do not know)
+  - Correctly understands stock mutual fund risk (True)
+  - Incorrectly believes spreading money among assets does not decrease risk (Stays the same)
+  - Correctly knows about required minimum distributions after age 70.5 (True)
+  - Estimates credit card payoff time as 10 years
+  - Correctly estimates probabilities and percentages in lottery and disease questions mostly
+  - Some errors in math problems (e.g., hole volume answer 9 instead of 27)
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split (both as proposer and in a tripling game)
+  - Accepts all offers as receiver, even $0 for self
+  - When receiving tripled amounts, keeps a substantial portion but sends back a fair amount (e.g., keeps $8 of $15, sends $7 back)
+  - Thoughts during decisions: fairness, amount, need
+- Self-concept and personality clarity:
+  - Generally clear sense of self, little internal conflict (11. Agree a little; 1,4,5,8,9. Disagree or neither agree nor disagree on conflict)
+  - Prefers to depend on self but also values cooperation and family (Self-concept clarity and social orientation)
+- Need for Closure:
+  - Neutral to slight agreement on liking order and routine (3,6,7,8,12,13. Agree a little)
+  - Does not strongly dislike uncertainty or unpredictability (1,2,4,5,9,10,11,14,15. Mostly neutral or disagree a little)
+- Maximizer tendencies:
+  - Has high standards for self (5. Agree strongly)
+  - Does not often seek better options when satisfied (1. Disagree a little)
+  - Sometimes finds it difficult to shop for gifts (3. Agree a little)
+- Self-monitoring:
+  - Some ability to alter behavior in social situations but with exceptions (1. Somewhat true; 2-7. Somewhat false or neutral)
+  - Good at reading others' emotions and social cues (8-13. Generally true to certainly true)
+- Depression and mood:
+  - Reports no significant sadness, discouragement, or feelings of failure
+  - No loss of interest or motivation
+  - Some increased tiredness and worry about physical health problems
+  - No significant sleep or appetite problems
+- Self-reported traits about personal attributes:
+  - Does not give up easily, not resentful easily, good listener, sometimes takes advantage of others, willing to admit mistakes, courteous, sometimes jealous or irritated
+- Spending habits:
+  - Neither tightwad nor spendthrift, rarely has trouble limiting or spending money
+  - Neutral about impulsive spending behavior
+- Aspiration and self-description:
+  - Aspires to be famous, possibly a musician, to leave a mark on the world
+  - Believes ought to be hardworking, ordinary, living day to day
+  - Describes self as quiet, loving family man, helpful to family, somewhat quiet

@@ -1,0 +1,45 @@
+Demographics: Female, age 50-64, White, living in the Southern US, widowed, retired, Roman Catholic but does not attend services, US citizen, politically independent with moderate views, household size 1, family income $75,000-$100,000, postgraduate education. This profile suggests a well-educated, financially stable older adult with life experience including loss (widowed), living alone, and moderate political views. The South location may imply some cultural conservatism but political independence and moderate self-placement suggest openness and nuanced views.
+
+Big Five Personality (44 items):  
+- High Conscientiousness: "Does a thorough job" (5), "Organized" (8), "Systematic" (8), "Practical" (9), "Disorganized" (1), "Careless" (1), "Efficient" (6), "Perseveres until task finished" (4), "Makes plans and follows through" (4).  
+- Moderate Openness: "Original, comes up with new ideas" (4), "Curious about many things" (5), "Inventive" (4), "Likes to reflect, play with ideas" (4), "Sophisticated in art/music/literature" (4), "Values artistic experiences" (4), but "Has few artistic interests" (1).  
+- Moderate Extraversion: "Talkative" (4), "Outgoing, sociable" (4), "Reserved" (4), "Quiet" (4), "Full of energy" (2).  
+- Low Neuroticism/Emotional Stability: Mixed signals, "Worries a lot" (4), "Moody" (4), but "Relaxed, handles stress well" (4), "Emotionally stable" (3).  
+- Agreeableness: Generally positive, "Helpful and unselfish" (4), "Forgiving nature" (4), "Considerate and kind" (3), but "Tends to find fault" (2), "Sometimes rude" (4) (somewhat contradictory, possibly context-dependent).
+
+Need for Cognition (18 items): High engagement with thinking, enjoys complex problems, intellectual challenge, and new solutions. Scores mostly 4-5 on items like "I really enjoy a task that involves coming up with new solutions" (5), "I like to have responsibility of handling situations requiring thinking" (4), "I find satisfaction in deliberating hard" (4). Disagrees strongly with "Thinking is not my idea of fun" and "I only think as hard as I have to." This indicates a preference for deep analytical processing and intellectual engagement.
+
+Values (24 items):  
+- Highest values: Autonomy (9), Influence (8), Achievement (8), Harmony (8), Equality (8), Loyalty (7), Competence (7), Trust (7), Wealth (7), Pleasure (7), Compassion (7).  
+- Low values: Power (1), Superiority (2), Ambition (3), Recognition (3), Tradition (4), Altruism (4).  
+This suggests a worldview valuing independence, competence, social harmony, fairness, and personal influence, but not dominance or competition. Moderate wealth and pleasure orientation indicate material comfort is important but not overriding.
+
+Minimalism (12 items): Moderate to high minimalism, with strong mindfulness about possessions ("I am mindful of what I own" 5, "My belongings are mindfully selected" 5), preference for simplicity and sparse environments (mostly 4s), but some disagreement on restricting number of things owned (2). This suggests careful curation of possessions, valuing simplicity but not extreme minimalism.
+
+Empathy (20 items): Generally high empathy, with strong agreement on being affected by friends' emotions, understanding others' feelings, and sensitivity to emotional cues (mostly 4s and 5s). Disagrees strongly with statements indicating emotional detachment. This implies reliance on social and emotional information in decision-making.
+
+Consumerism/Uniqueness: Low to moderate uniqueness seeking, some agreement with breaking social rules about products (4), but generally low interest in following or rejecting trends, and low desire to be highly unique or to avoid common products. This suggests moderate openness to social norms with some mild nonconformity.
+
+Social Desirability: Moderate to somewhat high social desirability, with some items indicating willingness to admit faults and mistakes, but also some guardedness ("Even if I wanted to, I don't think I would tell someone what I'm really like" 4). This suggests self-reports are fairly reliable but may be somewhat moderated by impression management.
+
+Cognitive Test Performance:  
+- High accuracy on logical reasoning and syllogisms (correctly answered most logical deduction questions, including tricky ones).  
+- Good performance on spatial rotation and pattern recognition puzzles (correctly identified cube rotations and pattern completions).  
+- Strong vocabulary and verbal reasoning (correct synonym and antonym choices, including challenging words like "furtive," "astute," "oscillate").  
+- Minor errors in some abstract reasoning (e.g., some "neither agree nor disagree" on abstract thinking items), but overall strong cognitive ability.  
+- Self-estimated 40/42 correct on cognitive tests, slightly above average estimate for US adults (38/42).  
+- Word association chain shows coherent, contextually linked words progressing from "bear" to "son," indicating associative fluency and grounded thinking.
+
+Economic Games:  
+- Dictator game: Proposes to keep $3 and give $2 (60% to self), indicating moderate fairness but self-interest.  
+- Ultimatum game: Accepts all offers except $0, indicating pragmatic acceptance of fairness but rejection of total unfairness.  
+- Trust game: Sends $3 (out of $5) to other, expecting some return; as receiver, returns about half or more depending on generosity of sender, showing conditional reciprocity and fairness orientation.  
+- Loss framing: More upset by multiple smaller losses than single larger loss of same total, indicating sensitivity to loss framing and mental accounting.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones consistently until amounts are very close, indicating moderate to high patience and future orientation.
+
+Depression and Mood:  
+- No current sadness or discouragement, but reports lack of satisfaction and some guilt and self-criticism.  
+- Some difficulty with motivation ("It takes extra effort to get started," "I have to push myself very hard"), but no major sleep or appetite problems.  
+- Mild worry about health but no major anxiety or irritability.

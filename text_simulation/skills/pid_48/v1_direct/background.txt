@@ -1,0 +1,132 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: 1 - Northeast)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age group 65+ (Question: How old are you? Answer: 4 - 65+)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: 5 - College graduate/some postgrad)
+- Race/origin: Black (Question: What is your race or origin? Answer: 2 - Black)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: 2 - Living with a partner)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 5 - Seldom)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: 3 - Independent)
+- Political views: Conservative (Question: In general, would you describe your political views as? Answer: 2 - Conservative)
+- Family income last year: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: 5 - $100,000 or more)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2 - 2)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: 4 - Self-employed)
+- Personality traits (Big Five, selected items):
+  - Talkative: Agree a little (Item 1: 4)
+  - Finds fault with others: Disagree strongly (Item 2: 1)
+  - Does a thorough job: Agree strongly (Item 3: 5)
+  - Depressed, blue: Disagree strongly (Item 4: 1)
+  - Original, comes up with new ideas: Agree a little (Item 5: 4)
+  - Reserved: Agree a little (Item 6: 4)
+  - Helpful and unselfish: Agree a little (Item 7: 4)
+  - Relaxed, handles stress well: Agree strongly (Item 9: 5)
+  - Curious about many things: Agree strongly (Item 10: 5)
+  - Full of energy: Agree strongly (Item 11: 5)
+  - Reliable worker: Agree strongly (Item 13: 5)
+  - Forgiving nature: Agree strongly (Item 17: 5)
+  - Emotionally stable: Agree strongly (Item 24: 5)
+  - Assertive personality: Agree strongly (Item 26: 5)
+  - Can be cold and aloof: Agree strongly (Item 27: 5)
+  - Perseveres until task is finished: Agree strongly (Item 28: 5)
+  - Considerate and kind: Agree strongly (Item 32: 5)
+  - Does things efficiently: Agree strongly (Item 33: 5)
+  - Remains calm in tense situations: Agree strongly (Item 34: 5)
+  - Outgoing, sociable: Agree strongly (Item 36: 5)
+  - Makes plans and follows through: Agree strongly (Item 38: 5)
+  - Likes to reflect, play with ideas: Agree strongly (Item 40: 5)
+  - Likes to cooperate with others: Agree strongly (Item 42: 5)
+  - Sophisticated in art, music, or literature: Agree a little (Item 44: 4)
+- Need for Cognition scale (selected items):
+  - Prefers complex problems: Agree a little (Item 1: 4)
+  - Likes responsibility requiring thinking: Agree strongly (Item 2: 5)
+  - Thinking is not fun: Disagree strongly (Item 3: 1)
+  - Prefers little thought tasks: Disagree strongly (Item 4: 1)
+  - Anticipates and avoids deep thinking: Disagree strongly (Item 5: 1)
+  - Satisfaction in deliberating hard: Agree strongly (Item 6: 5)
+  - Only thinks as hard as necessary: Agree strongly (Item 7: 5)
+  - Prefers small daily projects: Disagree a little (Item 8: 2)
+  - Likes tasks requiring little thought once learned: Disagree a little (Item 9: 2)
+  - Relies on thought to get ahead: Agree strongly (Item 10: 5)
+  - Enjoys coming up with new solutions: Agree strongly (Item 11: 5)
+  - Learning new ways to think doesn't excite: Disagree strongly (Item 12: 1)
+  - Prefers life filled with puzzles: Agree a little (Item 13: 4)
+  - Thinking abstractly appeals: Agree a little (Item 14: 4)
+  - Prefers intellectual, difficult tasks: Agree a little (Item 15: 4)
+  - Feels relief rather than satisfaction after mental effort: Disagree a little (Item 16: 2)
+  - It's enough that something gets the job done: Agree a little (Item 17: 4)
+  - Usually deliberates about issues not personally affecting: Disagree strongly (Item 18: 1)
+- Values rated as highly important (7-9 scale):
+  - Wealth: 8
+  - Forgiveness: 8
+  - Trust: 9
+  - Competence: 8
+  - Humility: 9
+  - Achievement: 8
+  - Altruism: 8
+  - Loyalty: 9
+  - Politeness: 9
+  - Honesty: 8
+  - Compassion: 8
+  - Civility: 9
+  - Autonomy: 9
+  - Equality: 9
+  - Recognition: 7
+- Values rated low (2-3 scale):
+  - Influence: 3
+  - Ambition: 2
+  - Tradition: 2
+  - Superiority: 2
+- Spending habits:
+  - Prefers to avoid accumulating stuff: Agree strongly (Item 1: 5)
+  - Restricts number of things owned: Agree a little (Item 2: 4)
+  - Prefers simplicity in possessions and environment (multiple items mostly agree or agree strongly)
+- Empathy and emotional sensitivity:
+  - Friends’ emotions affect me: Disagree strongly (Item 1: 1)
+  - Usually feel sad after friend is sad: Agree a little (Item 2: 4)
+  - Understand friend’s happiness: Agree strongly (Item 3: 5)
+  - Don’t become sad when others cry: Disagree strongly (Item 7: 1)
+  - Can usually understand how others feel: Agree strongly (Item 9: 5)
+  - Can usually work out when friends are scared or angry: Agree a little to strongly (Items 10, 16)
+  - Often get swept up in friends’ feelings: Neither agree nor disagree (Item 17: 3)
+- Environmental concern:
+  - Agrees a little that products should not harm environment and is willing to be inconvenienced for environment (Items 1-6: 4)
+- Cognitive test performance:
+  - Estimated correct answers: 38 out of 42 (Question: How many questions do you think you answered correctly? Answer: 38)
+  - Estimated average correct in US adult population: 20 (Question: How many do you think others would answer correctly? Answer: 20)
+- Financial literacy:
+  - Correctly understands mortgage, inflation, risk diversification, and investment returns (multiple true/false and multiple choice questions answered correctly)
+  - Knows about required minimum distributions after age 70.5 (True)
+  - Knows stocks have highest fluctuations and returns over long term
+  - Correctly calculates credit card payoff time (19 years)
+  - Correctly answers probability and percentage questions
+  - Correctly solves cognitive reflection test questions (bat and ball cost, lily pad doubling)
+- Logical reasoning:
+  - Correctly answers syllogistic and conditional logic questions (mostly "Yes" for valid conclusions, "No" for invalid)
+- Personality self-concept:
+  - Aspires to be a person shaped by experience and wisdom
+  - Believes ought to be judicious, trustworthy, and a leader
+  - Currently regarded as a good leader, striving to be great, mostly levelheaded, not gossiping, treats others equally
+- Self-reported personality and behavior:
+  - Does not give up easily, not resentful, good listener, sometimes takes advantage, courteous, admits to some rebellion against authority
+  - Organized, efficient, practical, systematic, not careless or sloppy
+  - Prefers to depend on self, values competition but not tense about others doing better, proud of coworkers, values cooperation and family duty
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and read others’ emotions
+- Self-concept clarity:
+  - Generally clear sense of self, some minor fluctuations, but overall stable and clear (Items 11: Agree strongly)
+- Need for Closure:
+  - Somewhat dislikes uncertainty and ambiguous situations, prefers clear decisions and routines, but not extremely intolerant
+- Maximizer tendencies:
+  - Somewhat tries to find best options, dislikes settling for second best, but not extreme
+- Spending habits:
+  - Rarely has trouble limiting or spending money, moderate spender (3 on 1-11 scale)
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no guilt, no irritability, no loss of interest, no sleep or appetite problems except slight weight loss (over 5 pounds)
+- Social preferences:
+  - Does not feel emotionally affected strongly by others’ emotions but can understand them well
+- Economic games:
+  - In dictator game, proposes to keep $3 and send $2
+  - As receiver, accepts offers of $2 or more, rejects very generous offers ($5) and $4 offers
+  - In trust game, keeps $4 and sends $1; as receiver, keeps majority but returns some money, aiming for near 50/50 split
+  - Thought process during economic games: aims for even split or close to even, prefers slight advantage to self if uneven

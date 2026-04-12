@@ -1,0 +1,17 @@
+Need for Closure (NFClo) is moderate to low: she neither strongly dislikes uncertainty nor strongly seeks quick closure (items mostly neutral or disagree a little on intolerance of ambiguity). She is somewhat patient with ambiguity (items 1, 2, 6, 9, 12: mostly neutral or disagree a little). This aligns with her moderate deliberation style.
+
+Need for Cognition (NFCog) is moderate: she does not strongly enjoy deep thinking or complex problems but does engage in deliberation and reflection (item 18: strongly agree on deliberating about issues even if not personally affected). This suggests a thoughtful but not highly intellectualized decision style.
+
+Maximizer scale items show moderate standards but not perfectionism: she agrees a little to having high standards (item 5 in maximizer section), but does not strongly seek uniqueness or special products (items 1-3 in maximizer section mostly disagree or neutral). This suggests satisficing tendencies rather than maximizing.
+
+Self-monitoring is moderate to low: she reports some difficulty changing behavior to suit situations (items 1-7 in self-monitoring section mostly "somewhat true with exceptions" or "somewhat false"), indicating moderate social adaptability but not high impression management.
+
+Self-concept clarity is moderate: she has a somewhat clear and stable self-view (items 11, 1-4 in self-concept clarity section), with low internal conflict.
+
+Economic game behavior shows moderate social preferences: in the dictator game, she keeps 60% ($3 of $5) and gives 40%, indicating moderate generosity but self-interest. She accepts offers down to $1 but rejects $0, showing fairness expectations. In the trust game, she sends 40% ($2 of $5) and expects to receive back about half or slightly more, indicating moderate trust and reciprocity.
+
+Cross-scale inference: The moderate Need for Cognition and moderate Need for Closure align with her moderate social preferences and fairness in economic games. Self-monitoring and self-concept clarity suggest a stable but not highly socially strategic personality.
+
+No major contradictions are evident; depressive symptoms may slightly influence decision-making but do not contradict other scales.
+
+w_social estimate: 0.55 -- The respondent shows moderate social orientation, balancing self-interest with fairness and cooperation in economic games, moderate empathy (strong agreement on understanding others' feelings), and moderate social adaptability (self-monitoring). Her values emphasize compassion and altruism, supporting a socially engaged but not highly extroverted or maximizing profile. The agreement between Need for Cognition, economic games, and self-monitoring scales supports this moderate social weighting.

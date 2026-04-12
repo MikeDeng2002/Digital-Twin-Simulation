@@ -1,0 +1,65 @@
+Demographics: Male, age 50-64, White, living in the U.S. Midwest, college graduate with some postgraduate education, part-time employed, low income (<$30,000), never married, atheist, politically very liberal Democrat, lives alone. This suggests a middle-aged, educated individual with modest financial means, likely with a stable but limited economic environment, possibly valuing intellectual pursuits over material wealth or traditional family structures.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagrees with being talkative and outgoing, agrees with being reserved and quiet, somewhat shy and inhibited.  
+- Moderate Agreeableness: disagrees slightly with faultfinding, somewhat helpful and forgiving, but also agrees a little with being somewhat rude and cold/aloof, and disagrees a little with being considerate and kind to almost everyone.  
+- Conscientiousness: agrees a little to doing a thorough job, strongly agrees to being a reliable worker, perseveres until task completion, makes plans and follows through, disagrees a little with carelessness and disorganization. Moderate conscientiousness with some ambivalence about efficiency.  
+- Neuroticism: mixed; agrees a little with being depressed/blue, neither agrees nor disagrees on being relaxed or tense, disagrees a little with being moody, worries moderately.  
+- Openness: agrees a little with originality, curiosity, imagination, ingenuity, inventiveness, and artistic values, but disagrees a little with sophistication in art/music/literature. Overall, moderate openness with intellectual curiosity but limited engagement with high culture.
+
+Need for Cognition (18 items):  
+- Generally agrees a little with preferring complex problems, responsibility requiring thinking, intellectual tasks, abstract thinking, and new solutions.  
+- Disagrees a little with thinking being fun, satisfaction in long deliberation, and thinking more than necessary.  
+- Strongly disagrees with preferring puzzles and deliberating about issues not personally affecting them.  
+This indicates moderate but not high intrinsic motivation for deep thinking; prefers intellectual engagement when relevant but not for its own sake.
+
+Values (24 items):  
+- Highest values: Equality (9), Competence (8), Autonomy (8), Civility (7), Humility (7), Harmony (6), Honesty (6), Forgiveness (5), Trust (5), Altruism (5), Loyalty (5), Compassion (5).  
+- Low values: Power (1), Status (1), Influence (2), Recognition (2), Tradition (2), Superiority (2).  
+- Moderate values: Wealth (4), Achievement (4), Ambition (4), Excitement (4), Politeness (4), Pleasure (3).  
+This profile reveals a worldview emphasizing social equality, personal competence, independence, and ethical interpersonal relations, with low interest in dominance or status.
+
+Minimalism (12 items):  
+- Disagrees a little with avoiding accumulation and excess possessions, drawn to sparse environments, and restricting owned items.  
+- Agrees a little with preferring simplicity in design, leaving spaces visually empty, mindfulness and careful curation of belongings.  
+This suggests a moderate minimalist attitude focused on thoughtful ownership and simplicity rather than strict minimalism or accumulation.
+
+Empathy (20 items):  
+- Generally agrees a little to strongly with understanding and sharing friends’ emotions, recognizing subtle emotional cues, and being affected by others’ feelings.  
+- Disagrees strongly with not being aware of or affected by others’ emotions.  
+- Mixed on becoming easily caught up in others’ feelings (neutral).  
+This indicates a fairly high empathic sensitivity and social attunement.
+
+Consumerism/Uniqueness:  
+- Agrees a little with seeking personal uniqueness through products, buying special or interesting items, and creating a distinctive image.  
+- Disagrees or neutral on breaking social rules about consumption or rejecting popular products.  
+- Disagrees strongly with avoiding common products or brands.  
+This suggests moderate interest in personal expression through consumption but within social norms, not rebellious consumerism.
+
+Cognitive Test Performance:  
+- Self-estimated correct answers: 22/42 (below average estimate of 25/42).  
+- Logical reasoning: Correct on most syllogistic and conditional logic problems, but errors on some (e.g., denying the antecedent fallacy, affirming the consequent).  
+- Spatial reasoning: Mixed performance on cube rotation tasks, selecting plausible but not always correct rotations, indicating moderate spatial ability with some errors.  
+- Pattern and analogy puzzles: Correct answers on pattern completion tasks, indicating decent abstract reasoning.  
+- Word associations: Chain shows mostly concrete, associative links with some abstract jumps (e.g., "lawyer" to "legal" to "trouble" to "double" to "mint" to "gum"), indicating flexible but somewhat concrete associative thinking.  
+- Vocabulary: Correct synonym and antonym choices for moderately difficult words, indicating good verbal knowledge.  
+- Social desirability scale: Not explicitly scored, but some disagreement with socially desirable responses (e.g., admits to sometimes taking advantage of others, feeling resentful, jealousy), suggesting moderate honesty in self-report.
+
+Social Desirability:  
+- Some admissions of negative traits (resentment, jealousy, irritation, taking advantage), and moderate self-monitoring (some ability to adjust behavior but not always), indicating moderate social desirability bias but generally reliable self-report.
+
+Mood and Mental Health:  
+- Reports feeling sad and discouraged about the future, more crying and irritability than before, but no feelings of worthlessness, failure, or guilt.  
+- Sleep somewhat worse, appetite and energy normal.  
+- No purposeful weight loss.  
+Suggests mild depressive symptoms but functional.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 in dictator game (60% to self), moderately selfish but not extreme.  
+- As receiver, accepts offers down to $2 (40%) but rejects $1 (20%) and $0 offers, indicating some fairness sensitivity and willingness to punish unfairness.  
+- In trust game, sends $2 (out of $5), keeps $3, expecting some reciprocity but cautious.  
+- As receiver, returns about half of received amounts, indicating moderate reciprocity and fairness norms.  
+- Thoughts during decisions reveal distrust ("They would probably screw me over"), tempered by desire to be nice and fair, but also some cynicism about humanity.
+
+Intertemporal Choice:  
+- Prefers larger later rewards consistently over smaller sooner ones, even when delays are short, indicating high patience and long-term orientation.

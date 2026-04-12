@@ -1,0 +1,23 @@
+Need for Closure: Moderate. Prefers resolution and structure but tolerates some ambiguity. Will seek answers reasonably quickly but not impulsively.
+
+Need for Cognition: Moderate. Invests analytical effort when motivated or when task is important, but avoids excessive mental effort. Likely to use heuristics and satisficing strategies.
+
+Maximizer: Low to moderate. Seeks good enough answers rather than exhaustive best answers, consistent with moderate maximizer scale and economic game behavior.
+
+Self-monitoring: High. Notices social cues and others’ opinions, adapts behavior accordingly, but self-concept clarity is high enough to resist undue social pressure.
+
+Self-concept Clarity: Very high. Stable self-view, consistent identity, likely to maintain own beliefs despite social influence.
+
+Economic Game Gap: Proposer keeps 60% ($3 of $5), receiver accepts all offers except zero, returns roughly half when in receiver role. Behavior is consistent with moderate fairness and pragmatic self-interest, no large discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: Moderate patience. Prefers immediate rewards when difference is small, switches to delayed rewards when difference is larger. Suggests balanced temporal discounting.
+
+Cognitive Errors: Some heuristic errors and impulsive intuitive mistakes (e.g., cubic feet question, race position question), moderate logical reasoning skills. Likely to rely on intuitive shortcuts in numeric prediction tasks, with occasional errors in probabilistic or logical reasoning.
+
+Social Desirability: Moderate social desirability bias, but presence of negative self-admissions and consistent responses suggest self-reports are generally reliable.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate to high reliance on social and heuristic cues in reasoning and prediction. The individual shows moderate Need for Cognition and moderate Need for Closure, indicating a preference for reasonably quick, structured answers but with some tolerance for ambiguity. High self-monitoring and empathy suggest social information and others’ opinions influence their judgments, but high self-concept clarity and moderate maximizer tendencies indicate they do not slavishly follow social pressure or exhaustively seek the best answer. Cognitive test performance and error patterns reveal a tendency to rely on intuitive heuristics, which may lead to occasional errors in numeric predictions, especially under uncertainty or complexity. Their moderate intertemporal patience and economic game behavior suggest pragmatic, balanced decision-making rather than extreme risk aversion or impulsivity. Overall, this person is likely to produce numeric predictions that are socially informed, moderately analytical, and satisficing rather than optimally calibrated, with some vulnerability to heuristic biases.
+
+# Summary for simulation: When simulating this person’s numeric predictions on open questions like Bitcoin price or AGI arrival, expect moderate research depth, reliance on mainstream and balanced sources, moderate analytical effort, some social influence, and heuristic shortcuts leading to plausible but not perfectly calibrated numeric estimates.

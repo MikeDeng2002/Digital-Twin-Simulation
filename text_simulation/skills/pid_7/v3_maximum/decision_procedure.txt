@@ -1,0 +1,20 @@
+Need for Closure: Moderate to high (strong dislike of uncertainty, preference for ordered life, discomfort with ambiguous statements), but not impulsive; willing to deliberate but wants eventual resolution.
+
+Need for Cognition: High analytical effort, enjoys complex problems and abstract thinking, deliberate reasoning style.
+
+Maximizer: High personal standards, seeks best answers but may accept "good enough" if overwhelmed.
+
+Self-Monitoring: High social awareness, able to read social cues and adjust behavior, but self-concept clarity moderate with some internal conflict.
+
+Self-Concept Clarity: Moderate; some day-to-day variability in self-view, occasional uncertainty about identity, but overall stable enough to resist social pressure.
+
+Economic Game Gap: Proposes fully selfish offers but accepts all offers as receiver; in trust game, keeps all money and sends nothing back. Indicates strategic self-interest, low trust, and low reciprocity despite high empathy. Possibly a protective stance due to unemployment and financial stress.
+
+Intertemporal Patience: Moderate to low patience; prefers immediate rewards in many cases, indicating present bias.
+
+Cognitive Errors: Some logical reasoning errors, especially in syllogistic and conditional reasoning, indicating occasional difficulty with abstract logical validity. However, strong vocabulary and analogy skills suggest good verbal intelligence.
+
+Social Desirability: Moderate to high; self-reports likely reliable but with some positive bias.
+
+w_social estimate: 0.75  
+Reasoning: The estimate reflects a person with high cognitive engagement and analytical ability, strong empathy and social awareness, but also significant emotional reactivity and anxiety. Their economic game behavior shows strategic self-interest and low trust, likely influenced by current unemployment and financial concerns. They prefer deep, credible, and somewhat partisan-leaning information sources but also value uniqueness and originality, suggesting they incorporate diverse perspectives. Their moderate need for closure and high need for cognition imply they invest effort in forming numeric predictions but may be influenced by emotional states and present bias. Social desirability and self-monitoring scores indicate generally honest self-reporting with some social impression management. Conflicts between high empathy and low trust were resolved by weighting current economic behavior and financial context more heavily, suggesting cautious social trust in predictions.

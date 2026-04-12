@@ -1,0 +1,96 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level completed: High school graduate (Question: What is the highest level of schooling or degree that you have completed? Answer: High school graduate)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Atheist (Question: What is your present religion, if any? Answer: Atheist)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Total family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $50,000-$75,000)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Agree strongly to being original and coming up with new ideas (Q5: 5)
+  - Agree strongly to being reserved (Q6: 5)
+  - Agree strongly to being helpful and unselfish (Q7: 5)
+  - Agree strongly to being a reliable worker (Q13: 5)
+  - Agree strongly to being sometimes shy, inhibited (Q31: 5)
+  - Agree strongly to being considerate and kind to almost everyone (Q32: 5)
+  - Agree strongly to having an active imagination (Q20: 5)
+  - Disagree a little to having an assertive personality (Q26: 2)
+  - Agree a little to persevering until task is finished (Q28: 4)
+  - Agree a little to valuing artistic, aesthetic experiences (Q30: 4)
+  - Disagree a little to being outgoing, sociable (Q36: 2)
+- Need for Cognition scale (selected items):
+  - Agree a little to preferring complex to simple problems (Q1: 4)
+  - Agree a little to liking responsibility requiring a lot of thinking (Q2: 4)
+  - Disagree a little that thinking is not fun (Q3: 2)
+  - Agree strongly to enjoying tasks involving new solutions (Q11: 5)
+  - Agree a little to preferring intellectual, difficult tasks (Q15: 4)
+  - Disagree a little to feeling relief rather than satisfaction after mental effort (Q16: 2)
+- Values (selected):
+  - Moderately important: Wealth (6), Pleasure (7), Forgiveness (8), Trust (8), Competence (7), Humility (8), Achievement (6), Altruism (7), Loyalty (8), Politeness (8), Honesty (8), Compassion (8), Civility (8), Autonomy (7), Equality (8), Tradition (6)
+  - Less important: Influence (4), Power (3), Status (3), Recognition (2), Superiority (3)
+- Environmental concern:
+  - Agree a little or strongly that products should not harm environment, mindful of environmental impact, willing to be inconvenienced for environment (Q1-6: 4-5)
+- Empathy and social sensitivity:
+  - Generally agrees a little to understanding friends’ emotions and feelings (Q2,3,9,10,11,14,15,16: 4)
+  - Disagrees or disagrees a little that friends’ emotions don’t affect him (Q1,5,6,7,8,12,13,18,19: 1-2)
+- Self-reported personality and behavior:
+  - Does not give up easily but has given up on some things due to low self-belief (Q3: TRUE)
+  - Good listener (Q5: TRUE)
+  - Has taken advantage of someone (Q6: TRUE)
+  - Willing to admit mistakes (Q7: TRUE)
+  - Courteous even to disagreeable people (Q9: TRUE)
+  - Never irked by differing ideas (Q10: TRUE)
+  - Not resentful, not jealous, not irritated by favors (Q2,11,12: FALSE)
+  - Has deliberately hurt someone’s feelings (Q13: FALSE)
+- Self-concept clarity:
+  - Generally agrees to having a clear sense of who he is (Q11: Agree a little)
+  - Disagrees a little or strongly with statements about conflicting or changing self-beliefs (Q1,2,3,4,5,7,8,9,10,12: mostly disagree a little or strongly)
+- Need for Closure:
+  - Agrees a little to disliking uncertainty, unpredictability, and ambiguity (Q1,2,3,4,6,7,8,10,11,12,13: mostly agree a little or strongly)
+  - Disagrees a little with impatience or irritation when no immediate solution (Q9: disagree a little)
+- Maximizer tendencies:
+  - Agrees a little to being on lookout for better opportunities, never settling for second best (Q1,2: agree a little or strongly)
+  - Disagrees a little to difficulty shopping for gifts or finding clothing he loves (Q3,4)
+- Spending habits:
+  - Self-rated spending habit: 5 (mid-scale) (Q: Which of the following best describes your spending habits? Answer: 5)
+  - Sometimes has trouble limiting spending (Q: How well does the first description fit you? Answer: Sometimes)
+  - Rarely has trouble spending money (Q: How well does the second description fit you? Answer: Rarely)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender) (Q: Who are you more similar to? Answer: 2)
+- Depression and mood indicators:
+  - Does not feel sad, but feels discouraged about the future (Q: I feel discouraged about the future)
+  - Feels he has failed more than average person, disappointed in self, critical of self (Q: Failed more than average, disappointed, critical)
+  - Does not feel guilty or punished
+  - Does not cry more than usual, but gets irritated more easily
+  - Less interested in other people and sex than before
+  - Makes decisions as well as before
+  - Takes extra effort to get started on work, gets tired more easily, sleeps less well, worried about physical problems
+  - No significant appetite or weight loss, not purposely trying to lose weight
+- Cognitive ability:
+  - Correctly answered various logic, reasoning, and spatial rotation tasks (e.g., cube rotation, syllogisms)
+  - Estimated self-correct answers: 30/42; estimated average for US adults: 28/42
+  - Correctly answered financial literacy questions (e.g., mortgage, inflation, risk diversification)
+- Economic game behavior:
+  - In ultimatum game, proposes to keep $3 and send $2 (Question: How much would you propose to keep/send? Answer: Keep $3, send $2)
+  - Accepts offers down to $1 sent to self, rejects offers of $0 (as receiver)
+  - In trust game, sends $2 (tripled to $6), keeps $3; as receiver, keeps $8 of $15, sends back $7; shows fairness and reciprocity considerations
+  - Thoughts during decisions: "be fair," "be honest," "be nice," "wanted to split but not an option"
+- Logical reasoning:
+  - Correctly identifies logical conclusions in syllogistic reasoning tasks (e.g., "All XARs are YOFs" questions)
+- Language skills:
+  - Correctly identifies synonyms and antonyms for various words (e.g., concur = acquiesce, furtive = stealthy, sated opposite = famished)
+- Self-monitoring:
+  - Somewhat true but with exceptions in ability to alter behavior in social situations (Q1: 4)
+  - Somewhat false but with exceptions in controlling impression (Q2: 3)
+  - Generally true in ability to regulate actions once situation is known (Q7: 5)
+  - Generally true in detecting lies and inappropriate statements (Q12,13: 5)
+  - Somewhat true but with exceptions in reading emotions (Q8,11: 4)
+- Self-reported creativity and originality:
+  - Disagrees or disagrees a little with statements about seeking uniqueness or breaking social rules in product choices (mostly 1 or 2)
+  - Does not actively avoid common products or brands

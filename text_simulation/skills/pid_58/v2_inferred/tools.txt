@@ -1,0 +1,15 @@
+Inferred realistic information sources:
+
+1. Traditional news media (e.g., newspapers, TV news): Inferred from age 65+, moderate political engagement (Democrat, moderate), and moderate need for cognition (dislikes complex thinking but values rules and order). Older adults often rely on traditional media.
+
+2. Family and close social networks: Inferred from high value on loyalty, family, and altruism, and self-description emphasizing family importance. Likely to trust and use information from family and close friends.
+
+3. Public radio or educational programming: Inferred from moderate openness, moderate cognitive engagement, and interest in learning (curious about many things). May prefer accessible, less complex sources.
+
+Sources unlikely to be used:
+
+- Social media platforms: Inferred from age 65+, low maximizing tendencies, and preference for simplicity and order, plus low income, making heavy social media use less likely.
+
+- Tabloid or sensationalist media: Inferred from high value on honesty, trust, and dislike of influence/power/status, suggesting preference for credible, less sensational sources.
+
+- Highly technical or academic journals: Inferred from associate degree and moderate need for cognition, suggesting less engagement with highly technical sources.

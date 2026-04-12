@@ -1,0 +1,107 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Highest education level completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: 6 - Postgraduate)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Protestant, attends religious services once a week (Questions: What is your present religion? Answer: 1 - Protestant; Aside from weddings and funerals, how often do you attend religious services? Answer: 2 - Once a week)
+- Political affiliation: Republican, conservative (Questions: In politics today, do you consider yourself a? Answer: 1 - Republican; In general, would you describe your political views as? Answer: 2 - Conservative)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3 - 3)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Family income last year: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: 5 - $100,000 or more)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly with being talkative, fault-finding, careless, tense, moody, lazy, rude, nervous, disorganized, quarrelsome, and worry (Items 1,2,8,12,18,19,23,29,37,39)
+  - Agree strongly with doing a thorough job, being original, relaxed, reliable, emotionally stable, full of energy, having an active imagination, doing things efficiently, making plans and following through, remaining calm in tense situations, liking to reflect and play with ideas, valuing artistic experiences (Items 3,5,9,13,24,11,20,33,38,34,40,30)
+  - Agree a little with being reserved, helpful, ingenious, enthusiastic, forgiving, quiet, trusting, inventive, assertive, persevering, outgoing, cooperative, sophisticated in art/music/literature (Items 6,7,15,16,17,21,22,25,26,28,36,42,44)
+  - Disagree a little with being cold and aloof, sometimes shy (Items 27,31)
+  - Neither agree nor disagree with being curious and preferring routine work (Items 10,35)
+- Need for Cognition scale:
+  - Generally agrees with liking complex problems, responsibility requiring thinking, satisfaction in deliberating, enjoying problem solving, thinking abstractly, preferring puzzles, and deliberating about issues (Items 1,2,6,11,13,14,18)
+  - Disagrees strongly with thinking not fun, preferring little thought tasks, avoiding thinking, feeling relief after mental effort, not caring how things work, and preferring small daily projects (Items 3,4,5,7,8,9)
+  - Neither agrees nor disagrees with the idea of relying on thought to get to the top and preferring intellectual difficult tasks (Items 10,15)
+- Values (rated as "A GUIDING PRINCIPLE IN MY LIFE" or highly important):
+  - Highly important: Competence (9), Honesty (9), Compassion (9), Equality (9), Tradition (9)
+  - Quite important: Wealth (5), Influence (5), Excitement (5), Superiority (5)
+  - Important: Forgiveness (8), Humility (8), Achievement (8), Altruism (8), Politeness (8), Civility (8)
+  - Moderate importance: Trust (7), Ambition (7), Loyalty (7), Harmony (7), Autonomy (7)
+  - Low importance: Power (3), Status (2), Recognition (2)
+- Environmental concern:
+  - Strongly agrees that products should not harm the environment, considers environmental impact in decisions, purchase habits affected by environmental concern, concerned about wasting resources, describes self as environmentally responsible (Items 1-5)
+  - Agrees a little willing to be inconvenienced for environmentally friendly actions (Item 6)
+- Empathy and emotional contagion:
+  - Disagrees a little or neither agree nor disagree with statements indicating being affected by others' emotions, understanding friends' feelings, or being caught up in others' feelings (Items 1-20 in empathy section mostly 2 or 3)
+- Self-reported personality and behavior:
+  - Has given up on tasks due to low self-belief (TRUE)
+  - Has taken advantage of someone (TRUE)
+  - Sometimes tries to get even rather than forgive (TRUE)
+  - Sometimes irritated by people asking favors (TRUE)
+  - Does not always admit mistakes, not always courteous, sometimes irritated by differing ideas, not always a good listener (FALSE on those items)
+- Self-description:
+  - Aspires to be likeable, intentional, detail-oriented, and loves relating with people
+  - Ought to be calm, straightforward, likeable, and goal-completing
+  - Actually a bit disorganized and sometimes struggles to get things done
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Understands inflation reduces purchasing power (chooses less than today)
+  - Knows stocks have highest fluctuations
+  - Knows stock mutual funds can lose money
+  - Knows diversification decreases risk
+  - Incorrectly believes savings accounts give highest return over long term (chooses savings account over stocks)
+  - Incorrect about required minimum distributions after age 70.5 (answers False)
+  - Calculates credit card payoff time as 11.5 years
+  - Estimates die rolls, lottery winners, disease probabilities with some inaccuracies (e.g., 600 even rolls out of 1000, 525 winners out of 1000 at 1% chance, 5% disease chance for 20/100, 59% car winning chance for 1/1000)
+  - Correctly solves basic logic and math problems (e.g., bat and ball cost, lily pad doubling)
+- Cognitive test performance:
+  - Self-estimates 35/42 correct, believes average is 25/42
+  - Correctly solves logical syllogisms mostly
+  - Correctly solves puzzles involving rotations and pattern completions (answers mostly consistent)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 in $5 split game
+  - Accepts offers down to $2 for self, rejects $1 or $0 offers
+  - In trust game, keeps $4 and sends $1; as receiver, keeps majority and sends back varying amounts depending on amount sent
+  - Thoughts during decisions include bills, family, fairness, reciprocity, needs, convenience
+- Spending habits:
+  - Rates self as 8 on spending scale (closer to spendthrift)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. A who spends despite not needing items
+- Self-monitoring:
+  - Generally low ability to alter behavior in social situations (mostly "not true" or "somewhat true with exceptions")
+  - Can read emotions well through eyes and facial expressions
+  - Can tell when said something inappropriate or when someone is lying (mostly true)
+- Self-concept clarity:
+  - Disagrees a little that beliefs about self conflict, but agrees a little that opinions of self vary day to day
+  - Neither agrees nor disagrees on spending time wondering about self
+  - Strongly disagrees with feeling not like self or unsure about past self
+  - Agrees strongly that sometimes knows others better than self and that beliefs about self change frequently
+  - Has a clear sense of who they are generally
+  - Agrees a little that it is sometimes hard to make up mind because unsure what they want
+- Need for Closure:
+  - Agrees a little that dislikes uncertainty and likes ordered life
+  - Disagrees strongly with disliking ambiguous questions or unpredictable situations
+  - Feels relieved when making decisions
+  - Neither agrees nor disagrees with impatience for immediate solutions
+  - Likes clear and structured life and consistent routines
+  - Disagrees with consulting many opinions before forming views
+- Maximizer scale:
+  - Agrees strongly with always looking for better job opportunities and having highest standards for self
+  - Disagrees with difficulty shopping for gifts or finding clothing loved
+  - Disagrees with settling for second best
+- Depression and mood:
+  - Does not feel sad, discouraged, or like a failure
+  - Feels guilty a good part of the time and may feel punished sometimes
+  - Does not feel disappointed or worthless
+  - No increased crying or irritability
+  - No loss of interest in others or sex
+  - Can work as well as before but wakes up 1-2 hours earlier and gets tired more easily
+  - Appetite not as good as before but no significant weight loss
+  - Not worried about health
+  - Not purposely trying to lose weight
+- Consumer uniqueness:
+  - Disagrees or neither agrees nor disagrees with statements about seeking uniqueness or breaking social rules in consumption
+  - Agrees a little with actively seeking personal uniqueness by buying special products and challenging prevailing tastes
+  - Disagrees with avoiding common products or brands
+- Summary of logical reasoning:
+  - Correctly identifies cards to test conditional rules
+  - Correctly answers syllogistic reasoning questions mostly

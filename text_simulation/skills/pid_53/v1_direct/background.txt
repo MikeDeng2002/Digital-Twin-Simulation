@@ -1,0 +1,231 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age group 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: 5 - College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: 6 - Never been married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 6 - Never)
+- Political party: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: 2 - Democrat)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: 3 - Moderate)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1 - 1)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: 2 - Part-time employment)
+- Income: Less than $30,000 last year (Question: Last year, what was your total family income from all sources, before taxes? Answer: 1 - Less than $30,000)
+- Personality traits (Big Five, selected items):
+  - Very low talkativeness (Q1: Disagree strongly)
+  - Slightly disagree with finding fault with others (Q2: Disagree a little)
+  - Slightly agree to doing a thorough job (Q3: Agree a little)
+  - Strongly agree feeling depressed, blue (Q4: Agree strongly)
+  - Slightly agree being original and coming up with new ideas (Q5: Agree a little)
+  - Strongly agree being reserved (Q6: Agree strongly)
+  - Neither agree nor disagree on being helpful/unselfish (Q7)
+  - Slightly agree being somewhat careless (Q8)
+  - Neither agree nor disagree on handling stress well (Q9)
+  - Strongly agree being curious about many things (Q10)
+  - Strongly disagree being full of energy (Q11)
+  - Slightly disagree starting quarrels (Q12)
+  - Strongly agree being a reliable worker (Q13)
+  - Slightly agree being tense (Q14)
+  - Slightly agree being a deep thinker (Q15)
+  - Slightly disagree generating enthusiasm (Q16)
+  - Neither agree nor disagree on forgiving nature (Q17)
+  - Slightly agree being disorganized (Q18)
+  - Slightly disagree worrying a lot (Q19)
+  - Slightly agree having an active imagination (Q20)
+  - Strongly agree being quiet (Q21)
+  - Strongly disagree being generally trusting (Q22)
+  - Slightly agree being lazy (Q23)
+  - Neither agree nor disagree on emotional stability (Q24)
+  - Slightly agree being inventive (Q25)
+  - Slightly disagree having an assertive personality (Q26)
+  - Slightly agree being cold and aloof (Q27)
+  - Slightly agree persevering until task is finished (Q28)
+  - Strongly agree being moody (Q29)
+  - Slightly agree valuing artistic experiences (Q30)
+  - Strongly agree being shy, inhibited (Q31)
+  - Neither agree nor disagree being considerate and kind (Q32)
+  - Slightly agree doing things efficiently (Q33)
+  - Neither agree nor disagree remaining calm in tense situations (Q34)
+  - Strongly agree preferring routine work (Q35)
+  - Strongly disagree being outgoing, sociable (Q36)
+  - Slightly agree sometimes rude to others (Q37)
+  - Slightly agree making plans and following through (Q38)
+  - Slightly disagree getting nervous easily (Q39)
+  - Neither agree nor disagree liking to reflect and play with ideas (Q40)
+  - Slightly disagree having few artistic interests (Q41)
+  - Neither agree nor disagree liking to cooperate with others (Q42)
+  - Slightly agree being easily distracted (Q43)
+  - Slightly agree being sophisticated in art, music, or literature (Q44)
+- Need for Cognition scale:
+  - Strongly disagree preferring complex problems (Q1)
+  - Strongly disagree liking responsibility requiring much thinking (Q2)
+  - Slightly disagree thinking is not fun (Q3)
+  - Strongly agree preferring low thought tasks (Q4)
+  - Slightly disagree avoiding situations requiring deep thought (Q5)
+  - Strongly disagree finding satisfaction in long deliberation (Q6)
+  - Slightly disagree thinking only as hard as necessary (Q7)
+  - Strongly agree preferring small daily projects (Q8)
+  - Slightly agree liking tasks requiring little thought once learned (Q9)
+  - Slightly disagree liking to rely on thought to get to the top (Q10)
+  - Strongly disagree enjoying tasks involving new solutions (Q11)
+  - Slightly agree learning new ways to think doesn't excite (Q12)
+  - Strongly disagree preferring life filled with puzzles (Q13)
+  - Neither agree nor disagree liking abstract thinking (Q14)
+  - Strongly disagree preferring intellectual difficult tasks (Q15)
+  - Strongly agree feeling relief after mental effort (Q16)
+  - Slightly disagree caring how or why something works as long as it gets job done (Q17)
+  - Strongly disagree deliberating about issues not personally affecting (Q18)
+- Values (rated as guiding principles):
+  - Wealth: Not important (1)
+  - Pleasure: Quite important (5)
+  - Forgiveness: Highly important (9)
+  - Influence: Not important (1)
+  - Trust: Highly important (9)
+  - Competence: Moderately important (6)
+  - Humility: Highly important (9)
+  - Achievement: Low importance (2)
+  - Altruism: Highly important (9)
+  - Ambition: Low importance (2)
+  - Loyalty: Important (7)
+  - Politeness: Highly important (9)
+  - Power: Not important (1)
+  - Harmony: Important (8)
+  - Excitement: Moderate (4)
+  - Honesty: Highly important (9)
+  - Compassion: Important (8)
+  - Status: Not important (1)
+  - Civility: Important (8)
+  - Autonomy: Highly important (9)
+  - Equality: Important (8)
+  - Recognition: Low importance (2)
+  - Tradition: Important (7)
+  - Superiority: Not important (1)
+- Minimalism and simplicity preferences:
+  - Neither agree nor disagree on avoiding accumulating stuff (Q1)
+  - Slightly agree restricting number of things owned (Q2)
+  - Strongly agree "less is more" in owning things (Q3)
+  - Slightly agree actively avoiding excess possessions (Q4)
+  - Slightly agree drawn to visually sparse environments (Q5)
+  - Strongly agree preferring simplicity in design (Q6)
+  - Neither agree nor disagree keeping home aesthetic sparse (Q7)
+  - Slightly agree preferring empty spaces over filling (Q8)
+  - Slightly agree mindful of what is owned (Q9)
+  - Slightly disagree selection of things owned carefully curated (Q10)
+  - Slightly agree importance of being thoughtful about choices (Q11)
+  - Slightly agree belongings mindfully selected (Q12)
+- Empathy and emotional contagion:
+  - Slightly agree friends' emotions don't affect much (Q1)
+  - Neither agree nor disagree usually feel sad after friend is sad (Q2)
+  - Slightly agree understanding friend's happiness (Q3)
+  - Strongly disagree getting frightened by scary movies (Q4)
+  - Strongly disagree getting caught up in others' feelings (Q5)
+  - Slightly disagree finding it hard to know when friends are frightened (Q6)
+  - Neither agree nor disagree not becoming sad when others cry (Q7)
+  - Neither agree nor disagree others' feelings don't bother (Q8)
+  - Slightly agree usually understand when someone is down (Q9)
+  - Neither agree nor disagree usually work out when friends are scared (Q10)
+  - Strongly disagree often become sad watching sad TV/films (Q11)
+  - Strongly disagree often understand feelings before told (Q12)
+  - Slightly agree seeing angered person affects feelings (Q13)
+  - Strongly agree can usually tell when people are cheerful (Q14)
+  - Slightly disagree feeling scared when friends are afraid (Q15)
+  - Slightly agree can realize quickly when friend is angry (Q16)
+  - Strongly disagree often get swept up in friends' feelings (Q17)
+  - Slightly agree friend's unhappiness doesn't make feel anything (Q18)
+  - Neither agree nor disagree usually aware of friends' feelings (Q19)
+  - Slightly disagree trouble figuring out when friends are happy (Q20)
+- Environmental concern:
+  - Strongly agree importance that products do not harm environment (Q1)
+  - Strongly agree consider environmental impact in decisions (Q2)
+  - Slightly agree purchase habits affected by environmental concern (Q3)
+  - Slightly agree concerned about wasting planet resources (Q4)
+  - Slightly agree describes self as environmentally responsible (Q5)
+  - Strongly agree willing to be inconvenienced for environmentally friendly actions (Q6)
+- Cognitive test performance:
+  - Estimated self-correct answers: 31/42
+  - Estimated average US adult correct answers: 27/42
+- Financial literacy:
+  - Correctly answered mortgage, inflation, asset fluctuation, investment risk, required withdrawals, credit card debt questions
+- Logical reasoning:
+  - Correctly identified valid and invalid logical conclusions in multiple syllogisms
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 in $5 split (Ultimatum)
+  - Accepts offers down to $1 sent, rejects $1 or $0 sent
+  - In trust game, keeps $3 and sends $2; as receiver, keeps $8 of $15 and sends $7 back
+- Personality self-reports on personal attributes:
+  - Admits sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful when doesn't get way (True)
+  - Has given up on tasks due to low self-belief (True)
+  - Has felt like rebelling against authority even when authority was right (True)
+  - Denies always being a good listener (False)
+  - Admits taking advantage of someone (True)
+  - Denies always admitting mistakes (False)
+  - Sometimes tries to get even rather than forgive (True)
+  - Denies always courteous even to disagreeable people (False)
+  - Denies never being irked by differing ideas (False)
+  - Admits jealousy of others' good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Denies never deliberately hurting feelings (False)
+- Self-concept clarity:
+  - Generally agrees to having a clear sense of self (Q11: Agree a little)
+  - Slightly disagrees with conflicting self-beliefs (Q1: Disagree a little)
+  - Slightly disagrees with frequent changes in self-beliefs (Q8: Disagree a little)
+  - Slightly agrees difficulty making up mind due to unclear wants (Q12: Agree a little)
+- Need for Closure:
+  - Strongly agrees disliking uncertainty (Q1: Agree strongly)
+  - Strongly agrees liking ordered life and routine (Q3, Q6, Q12, Q13, Q15: Agree strongly)
+  - Strongly agrees disliking unpredictable people and situations (Q10, Q15: Agree strongly)
+  - Slightly agrees disliking ambiguous statements (Q2, Q4, Q5, Q11: Agree a little)
+  - Slightly disagrees impatience for immediate solutions (Q8, Q9: Disagree a little)
+- Maximizer scale:
+  - Disagrees or neutral on always seeking best options or never settling (Q5: Disagree a little; Q6: Disagree strongly)
+  - Strongly agrees difficulty shopping for gifts (Q3: Agree strongly)
+  - Slightly agrees difficulty finding clothing loved (Q4: Agree a little)
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations (Q1: Generally true)
+  - Somewhat true or false on controlling impression (Q2: Somewhat true; Q3: Generally false)
+  - Generally true and somewhat true on trouble changing behavior (Q4: Generally true; Q6: Somewhat true)
+  - Generally false on reading emotions from eyes or facial expressions (Q8, Q9, Q10, Q13)
+  - Somewhat true on detecting inappropriate jokes or statements (Q11, Q12)
+- Economic spending habits:
+  - Spending habits rated 3 (on 1-11 scale, closer to tightwad)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant to spend even on needed items)
+- Depression and mood:
+  - Feels sad and discouraged about future
+  - Feels failed more than average person
+  - Does not get real satisfaction from anything anymore
+  - Does not feel particularly guilty or punished
+  - Feels disappointed in self but not worse than others
+  - Cries all the time now
+  - Feels irritated all the time now
+  - Has lost all interest in other people
+  - Has greater difficulty making decisions
+  - Does not feel worthless
+  - Has to push self very hard to do anything
+  - Sleeps as well as usual
+  - Gets tired more easily than before
+  - Appetite no worse than usual
+  - Has not lost much weight
+  - Not worried about health more than usual
+  - Much less interested in sex now
+  - Not purposely trying to lose weight
+- Self-concept clarity statements:
+  - Disagrees with conflicting self-beliefs and frequent changes
+  - Slightly agrees clear sense of self but some difficulty making decisions
+- Thought process during economic games:
+  - When deciding how much to keep/send: "be fair," "don't short-change yourself," "half should be an option"
+  - When deciding how much to keep/send back: "I shouldn't be greedy," "I'll share fairly equally"
+- Cognitive style:
+  - Prefers working without instructions (Definitely true)
+  - Believes rules and regulations are probably helpful
+  - Values carrying out obligations (True)
+  - Probably solves problems creatively
+  - Not bothered by reviewing/checking things closely (Not true)
+  - Does not like to do things in new ways (Not true)
+  - Tries to make work accurate and error-free (True)
+  - Not often successful trying lots of different things (Probably not true)
+  - Does not care about recognition by others (Not true)
+  - Does not often think about others' expectations (Not true)

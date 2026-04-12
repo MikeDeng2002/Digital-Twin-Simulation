@@ -1,0 +1,27 @@
+- Need for Closure: Low (disagrees strongly with discomfort with uncertainty, impatience for quick solutions, and need for order). This suggests openness to ambiguity and less rigid decision-making.
+
+- Need for Cognition: Low to moderate (prefers simple tasks, avoids deep thinking, but agrees a little with intellectual tasks). This indicates a preference for straightforward, practical decisions rather than complex deliberation.
+
+- Maximizer: Low (disagrees strongly with maximizing behaviors, no interest in unique or best products). This aligns with satisficing rather than exhaustive search or optimization.
+
+- Self-monitoring: Moderate (generally able to adjust behavior but low emotional sensitivity). Suggests some social adaptability but limited emotional attunement.
+
+- Self-concept clarity: High (strongly agrees with clear, stable self-concept). Indicates consistent identity and confidence in self-knowledge.
+
+- Economic games: Moderately self-interested but fair. Keeps a majority in ultimatum game but accepts fair offers; in trust game, keeps all when sending but returns about half when receiving. Reflects cautious trust and reciprocity.
+
+- Cognitive tests: Average performance with some errors in logical reasoning and vocabulary, indicating moderate cognitive ability.
+
+Cross-scale agreement:
+
+- Low Need for Closure and low Need for Cognition agree on preference for simplicity and tolerance for ambiguity.
+
+- Low Maximizer and low interest in uniqueness align with moderate conscientiousness but not perfectionism.
+
+- Moderate self-monitoring and high self-concept clarity suggest stable but adaptable social behavior.
+
+- Economic game behavior aligns with moderate social trust but guardedness.
+
+No major contradictions observed.
+
+w_social estimate: 0.35 -- The respondent shows moderate social trust and reciprocity in economic games but is cautious and self-protective (trust game behavior). Personality scales indicate introversion, low emotional sensitivity, and moderate self-monitoring, suggesting limited social engagement. Low Need for Closure and moderate self-concept clarity support stable but not highly socially driven behavior. Overall, the profile suggests a somewhat socially reserved individual with moderate willingness to engage cooperatively but with guardedness, leading to a below-average social weighting estimate.

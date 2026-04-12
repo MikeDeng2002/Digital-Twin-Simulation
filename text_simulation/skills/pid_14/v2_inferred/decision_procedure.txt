@@ -1,0 +1,12 @@
+- Need for Closure: Low (disagrees with discomfort with uncertainty, impatience for quick solutions, and need for order). This suggests openness to ambiguity and deliberation.
+- Need for Cognition: Moderate (mixed responses, some enjoyment of thinking but also preference for simpler tasks). Indicates balanced cognitive engagement.
+- Maximizer: Low (disagrees with maximizing behavior, no high standards or never settling for second best). Suggests satisficing rather than maximizing.
+- Self-monitoring: Moderate (can adjust behavior but not highly sensitive to subtle social cues). Suggests some social adaptability but not high social vigilance.
+- Self-concept Clarity: High (strong agreement on stable, clear self-identity). Indicates confidence in self-knowledge.
+- Economic Games: Proposes moderately fair splits (keeps 60%, sends 40%), accepts all but the lowest offers, and reciprocates trust moderately. Indicates fairness, reciprocity, and moderate social trust.
+- Cognitive Tests: Good but slightly below average performance, indicating solid but not exceptional cognitive ability.
+- Cross-scale inference: Low need for closure and moderate need for cognition align with high openness and curiosity. Low maximizer and moderate self-monitoring align with moderate fairness and reciprocity in economic games. High self-concept clarity aligns with emotional stability and low neuroticism.
+
+No contradictions are evident.
+
+w_social estimate: 0.7 -- The respondent shows high extraversion, agreeableness, and empathy (Big Five), moderate self-monitoring, and fair reciprocity in economic games, indicating a socially engaged and cooperative orientation. Low need for closure and moderate need for cognition support thoughtful social interaction rather than impulsive or rigid behavior. The moderate but not maximal trust and reciprocity suggest a balanced social approach rather than extreme social risk-taking or withdrawal.

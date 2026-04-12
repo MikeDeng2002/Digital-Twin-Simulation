@@ -1,0 +1,15 @@
+Inferred realistic information sources:
+
+- Given conservative Republican identity, Southern US residence, and moderate to low need for cognition, likely sources include:
+  - Conservative-leaning news outlets (e.g., Fox News, talk radio) — inferred from political identity and moderate need for cognition (NFC items mostly neutral or low).
+  - Mainstream cable news and local news — inferred from full-time employment, family size, and moderate education.
+  - Social media platforms with conservative networks — inferred from extraversion and sociability.
+  - Financial news or advice websites — inferred from moderate financial literacy and high income.
+
+Sources unlikely to be used:
+
+- Highly academic or scientific journals — due to moderate NFC and no postgraduate education.
+- Liberal or progressive media outlets — due to conservative political views.
+- Minimalist or anti-consumerist lifestyle blogs or media — due to strong disagreement with minimalism and preference for possessions.
+
+This section is inferred as no direct media-use questions were asked.

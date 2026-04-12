@@ -1,0 +1,22 @@
+Need for Closure: Moderate to high. Strong agreement with discomfort with uncertainty, desire for quick solutions, irritation with disagreement, preference for structured life and routines. Wants clear, definitive answers but tolerates some ambiguity.
+
+Need for Cognition: Moderate. Enjoys intellectual challenges and abstract thinking but avoids prolonged mental effort and deep deliberation. Likely to invest analytical effort up to a point, then rely on heuristics or trusted sources.
+
+Maximizer: Moderate. Holds high standards and seeks good quality answers but does not compulsively search for the absolute best. Likely to satisfice once a credible, coherent answer is found.
+
+Self-Monitoring: Very high. Notices social cues and adjusts behavior accordingly, indicating awareness of social context in forming and expressing opinions.
+
+Self-Concept Clarity: Moderate to high. Generally stable self-view with some minor fluctuations, able to resist social pressure but also somewhat sensitive to social evaluation.
+
+Economic Game Gap: Keeps more in dictator game than ultimatum game, indicating some strategic self-interest. Rejects unfair offers as receiver, showing fairness concerns. Self-reports of thoughts emphasize generosity and reciprocity, consistent with behavior.
+
+Intertemporal Patience: High. Prefers larger delayed rewards consistently, indicating long-term thinking in decision-making.
+
+Cognitive Errors: Some errors in logical deduction and conditional reasoning, especially in negation and invalid inference detection. Occasional vocabulary misinterpretation (FURTIVE synonym). Suggests moderate reasoning ability with occasional lapses, possibly due to cognitive fatigue or overconfidence.
+
+Social Desirability: Moderate. Admits to some negative traits and behaviors, suggesting reasonable honesty but some social desirability bias cannot be ruled out.
+
+w_social estimate: 0.65  
+Reasoning: The estimate is driven by the participant’s high self-monitoring, moderate to high empathy, and social values emphasizing harmony, civility, and altruism, indicating a significant influence of social context on their reasoning and predictions. However, moderate Need for Cognition and some cognitive errors suggest they do not rely solely on social cues but integrate analytical thinking. The moderate social desirability and some admission of negative feelings indicate a balanced self-presentation rather than strong impression management. Conflicts between high ambition and strong social values, as well as between desire for closure and moderate cognitive effort, were resolved by weighting social sensitivity and empathy higher, given the participant’s explicit concern for social harmony and fairness in economic games.
+
+Summary: This person is a moderately analytical, socially attuned individual with a strong value system emphasizing fairness, altruism, and social harmony. They prefer clear, structured information and are moderately patient and strategic in decision-making. Their numeric predictions will likely reflect a blend of analytical reasoning and social-contextual considerations, with moderate confidence and some susceptibility to cognitive biases in complex logical tasks.

@@ -1,0 +1,17 @@
+Need for Closure: High (e.g., "I don’t like situations that are uncertain" 5, "I don’t like to go into a situation without knowing what to expect" 5). This suggests preference for clear, stable social environments and discomfort with ambiguity.
+
+Need for Cognition: Moderately high (e.g., "I like to have responsibility of handling situations that require a lot of thinking" 5, "The notion of thinking abstractly appeals to me" 5), indicating engagement with complex problems but some ambivalence about prolonged deliberation.
+
+Maximizer: Moderate to low (neutral on "never settle for second best" and "highest standards" items), indicating a balanced approach to decision-making without excessive perfectionism.
+
+Self-monitoring: Moderate (mostly 3-4), indicating some social adaptability but not high strategic impression management.
+
+Self-concept clarity: Moderate to high (disagrees with conflicting self-beliefs, agrees somewhat to clear self-identity), indicating stable self-knowledge.
+
+Economic game behavior: Proposes to keep $3/$5 and send $2/$5; as responder, rejects offers less than $2, accepts $2 offer. In the trust game, sends $2 and expects some return but is skeptical. This pattern shows moderate social trust and fairness concerns but also self-protectiveness and some distrust.
+
+Cross-scale inference: High Need for Closure aligns with moderate self-monitoring and moderate fairness in economic games, suggesting a preference for predictable, fair social exchanges and discomfort with uncertainty in social interactions. Moderate Need for Cognition supports engagement with complex reasoning tasks but not excessive rumination, consistent with average cognitive test performance.
+
+No major contradictions detected; cognitive test performance and self-reports align with moderate intellectual engagement and average to slightly above average reasoning ability.
+
+w_social estimate: 0.55 -- The respondent shows moderate social trust and fairness (economic games), moderate self-monitoring, and a high need for closure that favors predictable social environments. His moderate agreeableness and conscientiousness support cooperative behavior, but some skepticism and self-interest temper full social openness. The agreement between Need for Closure, economic game behavior, and self-monitoring scales supports a moderate social engagement level rather than very high or low.

@@ -1,0 +1,17 @@
+Need for Closure: Moderate discomfort with uncertainty (items mostly 3-5), indicating some desire for order but not extreme rigidity.
+
+Need for Cognition: Very high (items mostly 5), indicating strong preference for effortful thinking and problem solving.
+
+Maximizer: Moderate; high standards for self but not extreme maximizing behavior (e.g., "never settle for second best" 3, "highest standards" 5).
+
+Self-monitoring: Low to moderate; difficulty adjusting behavior to social situations (mostly disagree or somewhat false), indicating low social adaptability.
+
+Self-concept clarity: Moderate; some clarity about self but some minor conflicts (mostly disagree with identity confusion items, but only "agree a little" to clear sense of self).
+
+Economic games: Highly prosocial and trusting; sends full amount in trust game, returns all money, accepts all offers in ultimatum game, proposes fair split.
+
+Cross-scale agreement: High conscientiousness, competence values, and perseverance items align with self-description of grit and determination. High neuroticism and depressive symptoms align with mood and anxiety reports. High need for cognition aligns with cognitive test engagement and enjoyment of puzzles.
+
+Contradictions: Emotional stability items are contradictory (disagree strongly with "emotionally stable" but also high on "depressed, blue" and "worries a lot"), but overall indicate emotional instability and distress.
+
+w_social estimate: 0.7 -- The respondent shows moderate to high social trust and cooperation in economic games, values altruism and loyalty highly, and reports empathy for others' feelings. However, low extraversion, low self-monitoring, and some social withdrawal (living alone, widowed) suggest limited social engagement. The agreement between prosocial economic behavior and values supports a moderately high social orientation despite some social reticence.

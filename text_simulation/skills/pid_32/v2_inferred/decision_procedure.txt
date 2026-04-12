@@ -1,0 +1,29 @@
+Need for Closure: Very high (items 1-6, 8-15 all strongly agree with intolerance of ambiguity, desire for order, quick decisions). This suggests a preference for certainty and structure.
+
+Need for Cognition: Very low (disagree strongly with enjoying thinking, prefer to avoid deep thought). This aligns with low openness and low cognitive engagement.
+
+Maximizer: Low (disagree with seeking better options, but high personal standards). This suggests a tendency to avoid complex choice but still hold high self-expectations.
+
+Self-monitoring: Mixed but tending toward low. Difficulty putting up a good front (item 6=6 "certainly always true" difficulty), but high sensitivity to others' emotions (items 8-13=6). This suggests emotional attunement but low behavioral flexibility.
+
+Self-concept clarity: Very low (strong agreement with conflicting self-beliefs, changing self-opinions, lack of clear identity).
+
+Economic games: Dictator game shows moderate generosity (keeps $2/$5, gives $3), but trust game shows no trust or reciprocity (keeps all money, sends nothing back). This indicates social generosity but low trust, possibly due to insecurity or past experiences.
+
+Cross-scale inference: High need for closure and low self-concept clarity together suggest discomfort with ambiguity and internal conflict. Low need for cognition and low openness reinforce low engagement with abstract or complex thinking. Economic game behavior aligns with this profile: generosity without trust.
+
+Contradictions: The respondent values altruism and loyalty highly but shows low trust and reciprocity in economic games, possibly reflecting a conflict between ideals and lived experience or mental health effects.
+
+w_social estimate: 0.3 -- The respondent shows moderate social concern and empathy (high altruism, loyalty, emotional sensitivity), but low trust and reciprocity in economic games, combined with social withdrawal and depressive symptoms. High need for closure and low self-concept clarity suggest difficulty navigating social ambiguity. These factors together indicate limited but present social engagement and concern.
+
+# Direct evidence citations:
+- Values: Values scale items 9 (Altruism=8), 11 (Loyalty=9), 21 (Equality=9), 16 (Honesty=8), 5 (Trust=7), 17 (Compassion=7), 7 (Humility=6), 1 (Wealth=1), 13 (Power=1), 18 (Status=1), 22 (Recognition=1), 23 (Tradition=1), 24 (Superiority=1)
+- Big Five: Big Five items 1-44 (e.g., Extraversion items 1=2, 6=5, 31=5; Neuroticism items 4=5, 14=5, 19=5, 24=1; Openness items 5=2, 15=2, 25=1; Conscientiousness mixed items 3=4, 8=4, 18=4)
+- Need for Cognition: Items 1-18 (e.g., 2=1, 5=5, 6=1, 12=5)
+- Need for Closure: Items 1-15 (all 5 except 7=1)
+- Self-monitoring: Items 1-13 (e.g., 6=6, 7=1, 8-13=6)
+- Self-concept clarity: Items 1-12 (mostly 5, item 11=1)
+- Economic games: Dictator game offer (keep $2, give $3), trust game (keep all, send none)
+- Depression and mental health: Multiple items indicating severe symptoms (e.g., sadness, hopelessness, guilt, worthlessness, fatigue, sleep disturbance)
+- Financial literacy: Mixed correct/incorrect answers on financial questions
+- Demographics: Hispanic male, 30-49, high school education, unemployed, low income, very liberal, Southern US

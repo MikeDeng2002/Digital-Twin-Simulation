@@ -1,0 +1,23 @@
+Need for Closure: Moderate. Disagrees strongly with uncertainty but neither extremely impatient nor extremely fast to resolve. Wants clarity but tolerates some ambiguity.
+
+Need for Cognition: Very high. Invests significant analytical effort, enjoys complex problems, puzzles, and abstract thinking.
+
+Maximizer: Low to moderate. High standards for self but not for external options or exhaustive search. Likely satisficer in information gathering.
+
+Self-monitoring: Low. Difficulty adjusting behavior to social situations, limited concern for impression management, but not socially oblivious.
+
+Self-concept Clarity: High. Stable and clear self-view, resistant to social pressure, grounded in personal grit and determination.
+
+Economic Game Gap: Behavior consistent across dictator and ultimatum games; generous and trusting, no strategic deception. High prosocial orientation.
+
+Intertemporal Patience: Moderate patience, prefers larger delayed rewards but shows some present bias.
+
+Cognitive Errors: Occasional uncertainty in spatial rotation tasks, but strong logical reasoning and verbal knowledge. Underestimates own cognitive performance, possibly due to depressive bias. Likely to be cautious and reflective in numeric predictions, avoiding overconfidence.
+
+Social Desirability: Moderate to low. Honest self-reporting with admissions of negative traits and emotional struggles.
+
+w_social estimate: 0.35
+
+Reasoning: The estimate reflects moderate social influence on this person's reasoning. High empathy and prosocial behavior suggest some reliance on social context and emotional information. However, low self-monitoring and high self-concept clarity indicate resistance to social pressure and a preference for independent judgment. The person’s depressive symptoms and low confidence may increase reliance on trusted social networks for emotional support but not necessarily for factual beliefs. Conflicts between high Need for Cognition and low Maximizer tendencies suggest deep but selective information processing, with moderate social influence. The economic games and trust behaviors show strong prosociality, but the low social adaptability tempers social conformity. Overall, social factors matter but are balanced by strong internal standards and analytical thinking.
+
+# Summary for prediction simulation: This person will produce numeric predictions that are thoughtful, cautious, and grounded in evidence, with moderate social influence primarily through empathetic and moral considerations rather than conformity. They will avoid overconfidence, show moderate patience in updating beliefs, and prefer sources aligned with liberal, scientific, and altruistic values. Emotional state may bias toward pessimism or cautious estimates, especially under uncertainty.

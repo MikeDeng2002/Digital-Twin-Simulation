@@ -1,0 +1,154 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education completed: High school graduate (Question: What is the highest level of schooling or degree that you have completed? Answer: High school graduate)
+- Race/Origin: Hispanic (Question: What is your race or origin? Answer: Hispanic)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Other (Question: What is your present religion, if any? Answer: Other)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a Republican, Democrat, Independent, or Something else? Answer: Independent)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Total family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Unemployed (Question: What is your current employment status? Answer: Unemployed)
+- Personality traits (Big Five and related):
+  - Disagree a little with being talkative (Q: I see myself as someone who is talkative. Answer: Disagree a little)
+  - Agree a little that they tend to find fault with others
+  - Agree a little that they do a thorough job
+  - Agree strongly that they are depressed, blue
+  - Disagree a little that they are original, come up with new ideas
+  - Agree strongly that they are reserved
+  - Agree strongly that they are helpful and unselfish with others
+  - Agree a little that they can be somewhat careless
+  - Disagree strongly that they are relaxed, handle stress well
+  - Agree a little that they are curious about many different things
+  - Disagree a little that they are full of energy
+  - Disagree a little that they start quarrels with others
+  - Disagree a little that they are a reliable worker
+  - Agree strongly that they can be tense
+  - Disagree a little that they are ingenious, a deep thinker
+  - Disagree a little that they generate a lot of enthusiasm
+  - Disagree strongly that they have a forgiving nature
+  - Agree a little that they tend to be disorganized
+  - Agree strongly that they worry a lot
+  - Agree a little that they have an active imagination
+  - Agree a little that they tend to be quiet
+  - Disagree a little that they are generally trusting
+  - Agree a little that they tend to be lazy
+  - Disagree strongly that they are emotionally stable, not easily upset
+  - Disagree strongly that they are inventive
+  - Agree a little that they have an assertive personality
+  - Agree a little that they can be cold and aloof
+  - Disagree a little that they persevere until the task is finished
+  - Agree strongly that they can be moody
+  - Agree a little that they value artistic, aesthetic experiences
+  - Agree strongly that they are sometimes shy, inhibited
+  - Agree a little that they are considerate and kind to almost everyone
+  - Agree a little that they do things efficiently
+  - Disagree strongly that they remain calm in tense situations
+  - Agree a little that they prefer work that is routine
+  - Disagree strongly that they are outgoing, sociable
+  - Agree a little that they are sometimes rude to others
+  - Agree a little that they make plans and follow through with them
+  - Agree strongly that they get nervous easily
+  - Agree a little that they like to reflect, play with ideas
+  - Neither agree nor disagree that they have few artistic interests
+  - Disagree a little that they are sophisticated in art, music, or literature
+- Need for Cognition scale responses indicate low enjoyment of thinking:
+  - Disagree a little preferring complex to simple problems
+  - Disagree strongly liking responsibility requiring a lot of thinking
+  - Agree a little that thinking is not fun
+  - Agree a little preferring low thought tasks
+  - Agree strongly avoiding situations requiring deep thinking
+  - Disagree strongly not finding satisfaction in deliberating hard
+  - Agree a little thinking only as hard as necessary
+  - Agree a little preferring small daily projects to long-term ones
+  - Agree a little liking tasks requiring little thought once learned
+  - Disagree a little that relying on thought to get ahead appeals
+  - Disagree a little enjoying tasks involving new solutions
+  - Agree strongly that learning new ways to think doesn't excite
+  - Disagree strongly preferring life filled with puzzles
+  - Disagree a little that thinking abstractly appeals
+  - Disagree strongly preferring intellectual difficult tasks
+  - Agree strongly feeling relief after mental effort
+  - Agree a little that getting the job done is enough
+  - Agree a little deliberating about issues even if not personal
+- Values rated as highly important (7-9 scale):
+  - Loyalty (9)
+  - Equality (9)
+  - Altruism (8)
+  - Honesty (8)
+  - Trust (7)
+  - Compassion (7)
+  - Humility (6)
+  - Autonomy (6)
+  - Politeness (5)
+  - Competence (5)
+  - Harmony (5)
+  - Civility (5)
+  - Wealth, Power, Status, Recognition, Tradition, Superiority, Excitement rated low (1)
+- Self-concept clarity:
+  - Strongly agree that beliefs about self often conflict
+  - Strongly agree opinions of self change day to day
+  - Strongly agree spending time wondering about who they really are
+  - Strongly agree feeling not really the person they appear to be
+  - Strongly agree unsure about past self
+  - Strongly disagree seldom experiencing conflict between personality aspects
+  - Strongly agree sometimes think they know others better than self
+  - Strongly agree beliefs about self change frequently
+  - Strongly agree descriptions of self might differ day to day
+  - Strongly agree would not tell someone what they are really like
+  - Strongly disagree having a clear sense of who they are
+  - Strongly agree often hard to make up mind because unsure what they want
+- Need for Closure:
+  - Strongly agree disliking uncertainty, unpredictable situations, ambiguous statements
+  - Strongly agree liking well-ordered life, clear routines, structured life
+  - Strongly agree feeling irritated when others disagree with group
+  - Strongly agree wanting quick solutions, feeling impatient if no immediate solution
+  - Strongly agree disliking people capable of unexpected actions
+  - Strongly disagree consulting many opinions before forming views
+  - Strongly agree rules and regulations are helpful and necessary
+  - Strongly agree important to carry out obligations
+- Maximizer scale:
+  - Strongly disagree behaviors indicating maximizing (e.g., checking other stations, looking for better job opportunities)
+  - Strongly agree having highest standards for self and never settling for second best
+  - Strongly agree difficulty shopping for gifts and finding clothing they love
+- Self-monitoring:
+  - Somewhat true but with exceptions for ability to alter behavior and control impression
+  - Somewhat false but with exceptions for trouble changing behavior to suit situations
+  - Certainly always true that have difficulty putting up a good front
+  - Certainly always true for ability to read others' emotions and facial expressions
+  - Certainly always true for intuition about others' emotions and motives
+  - Certainly always true for knowing when said something inappropriate or detecting lies
+- Economic games:
+  - Proposes to keep $2 and send $3 in a $5 split game (Ultimatum Game)
+  - Accepts all offers except $0 to self in Ultimatum Game as receiver
+  - In a trust game with tripling, keeps all $5 and sends $0; as receiver, keeps all money and sends back $0
+  - Thoughts during decisions: "I'm poor and shouldn't be giving away money." and "Same as above."
+- Cognitive tests:
+  - Correctly answered various logic, reasoning, and synonym/antonym questions with some errors (e.g., incorrectly answered "FURTIVE" synonym as "ecstatic")
+  - Estimated 21 out of 42 cognitive questions correct, matching population average
+- Financial literacy:
+  - Correctly identifies 15-year mortgage payments and interest relationship
+  - Understands inflation effect on savings
+  - Identifies stocks as highest fluctuation asset
+  - Incorrectly believes risk stays the same when diversifying assets
+  - Incorrectly believes bonds give highest return over long periods (instead of stocks)
+  - Correct on 401(k) withdrawal age
+  - Knows credit card debt with minimum payment will never be eliminated
+- Mental health:
+  - Strongly agrees with being depressed, blue, moody, tense, nervous, worried
+  - Reports severe symptoms of anxiety (e.g., trembling, fear of worst, terrified)
+  - Reports multiple severe depressive symptoms: sadness, hopelessness, guilt, self-criticism, irritability, loss of interest, difficulty making decisions, worthlessness, fatigue, poor sleep, appetite loss, weight loss
+  - Does not report loss of interest in sex
+  - Not purposely trying to lose weight
+- Spending habits:
+  - Identifies as a tightwad (difficulty spending money)
+  - Never has trouble limiting spending
+  - Always has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Self-description:
+  - Aspires to be feminine and confident in self without changing body
+  - Feels expected to be "the man," big, burly, macho, head of household
+  - Describes self as "a broken doll," full of mental illness and insecurity, barely functioning

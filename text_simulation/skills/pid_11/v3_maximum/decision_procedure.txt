@@ -1,0 +1,12 @@
+Need for Closure: Moderate-low; tolerates ambiguity, dislikes unpredictability only slightly, not impatient for quick answers.  
+Need for Cognition: Moderate-low; avoids heavy cognitive effort but engages in reflection and some abstract thought.  
+Maximizer: Low; satisficer rather than exhaustive searcher.  
+Self-monitoring: Moderate-high; socially perceptive and adjusts behavior but maintains own views.  
+Self-concept clarity: Moderate-high; stable, clear self-view, somewhat guarded.  
+Economic game gap: Behavior consistent with fairness and moral motivation; moderate generosity and reciprocity.  
+Intertemporal patience: Low; strong present bias, prefers immediate rewards.  
+Cognitive errors: Good verbal logic but poor numeric/probabilistic reasoning and overconfidence in cognitive ability; likely to misestimate numeric predictions.  
+Social desirability: Moderate; self-reports somewhat reliable but with some impression management.
+
+w_social estimate: 0.65  
+Reasoning: This estimate reflects moderate social desirability balanced by honest admissions and good social perceptiveness. The individual’s stable self-concept and moderate self-monitoring suggest self-reports are fairly reliable but should be interpreted cautiously. Cognitive test results and economic game behavior indicate a reasoning style that is reflective but limited in numeric sophistication, with a moral and social filter on information. Conflicts between moderate Need for Cognition and low maximizer tendencies resolved by assuming moderate-depth, satisficing research behavior. Low intertemporal patience and numeric reasoning deficits imply cautious, near-term, and conservative numeric predictions with potential biases in probabilistic estimation.

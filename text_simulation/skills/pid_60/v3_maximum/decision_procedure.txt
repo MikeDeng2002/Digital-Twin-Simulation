@@ -1,0 +1,31 @@
+Need for Closure: Very high. This person wants quick, definite answers, dislikes ambiguity, and prefers structured, predictable environments. This drives a preference for clear, simple numeric predictions and resistance to uncertainty.
+
+Need for Cognition: Very low. Avoids deep analytical effort, prefers simple heuristics or rules of thumb. This limits engagement with complex probabilistic reasoning or abstract forecasting.
+
+Maximizer: Low. Satisficer who accepts "good enough" answers rather than exhaustively searching for best. This suggests numeric predictions will be conservative, anchored on familiar or socially accepted values rather than optimized.
+
+Self-monitoring: High. Aware of social impressions and adjusts behavior accordingly, but self-concept clarity is also high, so social pressure influences presentation but not core beliefs. This suggests predictions may be socially normative or aligned with in-group expectations.
+
+Self-concept clarity: Very high. Stable self-view resists social pressure, so predictions reflect genuine beliefs rather than mere conformity.
+
+Economic game gap: Proposer keeps 60%, gives 40%; receiver accepts offers down to 40%, rejects lower. This matches strategic behavior, indicating consistency between stated fairness and strategic decisions.
+
+Intertemporal patience: Moderate impatience. Prefers sooner smaller rewards unless later rewards are substantially better. Suggests numeric predictions may discount long-term uncertainty and favor nearer-term, concrete outcomes.
+
+Cognitive errors: Several logical errors in syllogisms and vocabulary tests indicate limited abstract reasoning and some misunderstanding of logical relations. This implies numeric predictions may be prone to heuristic biases, over-simplicity, and errors in probabilistic reasoning.
+
+Social desirability: Moderate. Some admissions of negative behavior but overall positive self-presentation. Self-reports are somewhat reliable but may understate negative traits.
+
+w_social estimate: 0.65  
+Reasoning: The estimate reflects moderate to high weight on social and normative cues in prediction formation, driven by high self-monitoring and empathy, but tempered by strong self-concept clarity and low need for cognition. The person is socially aware and fair-minded but cognitively avoids complexity, leading to reliance on social norms and heuristics rather than deep analysis. Conflicts between low cognitive ability and high social awareness are resolved by assuming social norms guide predictions more than analytical rigor.
+
+# Summary for simulation of numeric predictions (e.g., Bitcoin price, AGI year):  
+- Prefers concrete, simple, socially normative numeric estimates.  
+- Avoids abstract or highly uncertain forecasts; prefers near-term, routine, and stable outcomes.  
+- Likely to anchor on familiar or socially accepted values rather than novel or extreme predictions.  
+- May discount long-term or highly uncertain events due to impatience and need for closure.  
+- Predictions will be influenced by conservative political worldview and traditional values, possibly skeptical of radical technological change or speculative financial bubbles.  
+- Will use heuristic reasoning, possibly underestimating complexity and uncertainty.  
+- Socially influenced but with stable personal beliefs, so predictions reflect genuine but simplified worldview.
+
+This profile supports simulating numeric predictions as moderate, conservative, socially normative, and heuristic-driven rather than deeply analytical or speculative.

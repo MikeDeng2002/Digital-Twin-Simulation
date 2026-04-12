@@ -1,0 +1,22 @@
+Need for Closure: Very low need for closure; disagrees strongly with discomfort from uncertainty and ambiguity; enjoys routine and order but not urgency to resolve complex problems quickly. However, contradictory high scores on impatience to find solutions quickly (NFC section) suggest moderate urgency to resolve practical problems. Overall, moderate need for closure focused on practical matters, low tolerance for ambiguity in daily life but not in abstract domains.
+
+Need for Cognition: Low to moderate analytical effort; avoids deep thinking and abstract problems; prefers routine and simple tasks; does not enjoy intellectual challenges. Likely to rely on heuristics and social cues rather than deep analysis.
+
+Maximizer: Strong satisficer; does not seek best possible answer; avoids extensive comparison or searching; settles for good enough.
+
+Self-monitoring: Moderate to high; aware of social impressions and able to adjust behavior; likely to consider others’ views but primarily to maintain social harmony rather than defer.
+
+Self-concept Clarity: Very high; stable and coherent self-view; resists social pressure; confident in identity and values.
+
+Economic Game Gap: Dictator game behavior (keeping all money) conflicts with ultimatum game acceptance (accepting all offers), indicating self-interest when proposer but pragmatic acceptance when responder. Trust game shows minimal trust but expectation of high return, indicating cautious but strategic behavior. Overall, behavior is self-centered but pragmatic.
+
+Intertemporal Patience: Low patience; strong preference for immediate rewards; discounting future gains steeply.
+
+Cognitive Errors: Multiple fundamental reasoning errors in syllogisms, logic, probability, and numeracy; poor understanding of logical implications and basic math; suggests difficulty with numeric prediction tasks requiring abstract or probabilistic reasoning.
+
+Social Desirability: High; self-reports likely biased toward positive self-presentation; however, behavioral tasks reveal more self-interested and pragmatic tendencies.
+
+w_social estimate: 0.35  
+Reasoning: The estimate reflects moderate weighting of social and emotional information in reasoning, driven by very high empathy and social monitoring, but tempered by low cognitive ability and satisficing tendencies. The individual relies heavily on social cues and practical heuristics rather than analytical depth, and shows self-centered strategic behavior in economic games despite socially desirable self-presentation. Conflicts between low NFC and moderate impatience for quick solutions were resolved by emphasizing practical, routine-focused cognition over abstract reasoning. The low education and income levels further constrain access to complex information, reinforcing reliance on social networks and mainstream sources. This profile predicts numeric predictions on open questions will be conservative, socially influenced, and heuristic-driven rather than analytically derived or probabilistically calibrated.
+
+# Summary for simulation: Expect numeric predictions to be anchored on social consensus or familiar narratives, with limited adjustment for abstract or probabilistic information. Predictions will be conservative, risk-averse, and influenced by social/emotional factors rather than deep analysis.

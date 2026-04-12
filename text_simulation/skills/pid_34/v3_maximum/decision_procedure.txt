@@ -1,0 +1,20 @@
+Need for Closure: Moderate. Agrees a little with discomfort in uncertainty and desire for quick solutions, but not extreme impatience. Likely to seek resolution but tolerates some ambiguity. Confidence: moderate.
+
+Need for Cognition: Moderate analytical effort. Enjoys problem solving and abstract thinking somewhat but avoids deep prolonged deliberation. Likely to engage in analytical thinking when motivated but prefers practical, actionable conclusions. Confidence: moderate-high.
+
+Maximizer: Strong. Seeks best possible answers, compares options thoroughly, does not satisfice easily. This drives deeper search for information and careful evaluation. Confidence: high.
+
+Self-monitoring: High. Good at reading social cues and adjusting behavior, aware of others' perceptions but maintains own standards. Confidence: high.
+
+Self-concept clarity: Moderate-low. Reports conflicting self-beliefs, frequent changes in self-view, some identity confusion. This may cause some susceptibility to social influence but also internal reflection. Confidence: moderate.
+
+Economic game gap: Proposes to keep all money in dictator game and rejects unfair offers in ultimatum game, indicating self-interested but strategic behavior. As receiver, keeps all money, showing low trust or reciprocity. This gap suggests pragmatic, self-protective social strategy. Confidence: high.
+
+Intertemporal patience: Prefers larger later rewards over smaller sooner ones consistently, indicating patience and long-term thinking in financial decisions. Confidence: high.
+
+Cognitive errors: Some errors in spatial reasoning and complex logical negations, but strong verbal and conditional reasoning. May struggle with multi-dimensional or highly abstract numeric predictions but good with verbal and logical framing. Confidence: moderate.
+
+Social desirability: Moderate honesty, admits negative traits and mood symptoms, suggesting self-reports are reasonably reliable. Confidence: moderate-high.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the participant’s high self-monitoring and empathy (which increase social awareness and influence) against moderate self-concept clarity and a strong maximizer tendency that drives independent, thorough information processing. The participant’s strategic economic game behavior and moderate need for closure suggest a pragmatic, somewhat cautious approach to social information. Cognitive test performance and moderate NFC indicate analytical capacity but not extreme depth. The participant’s demographic context (young, Black female, Southern, self-employed, high school education) suggests practical, experience-based knowledge acquisition rather than academic or elite sources. Conflicts between desire for autonomy and social sensitivity are resolved by weighting maximizer and self-monitoring traits higher, indicating a person who is socially aware but prioritizes personal goals and careful evaluation over social conformity.

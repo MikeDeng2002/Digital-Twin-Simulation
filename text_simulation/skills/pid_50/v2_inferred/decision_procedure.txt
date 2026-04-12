@@ -1,0 +1,17 @@
+Need for Closure: High (e.g., "I don’t like situations that are uncertain" 5 - Agree strongly; "I like a well-ordered life" 5 - Agree strongly; "When I have made a decision, I feel relieved" 5 - Agree strongly). This indicates a preference for decisiveness and structure.
+
+Need for Cognition: High (e.g., "I would prefer complex to simple problems" 5 - Agree strongly; "I like to have responsibility of handling situations that require a lot of thinking" 4 - Agree a little). This suggests engagement with complex cognitive tasks and enjoyment of thinking.
+
+Maximizer: High on personal standards (e.g., "I never settle for second best" 5 - Agree strongly; "No matter what I do, I have the highest standards for myself" 5 - Agree strongly), but low on social maximization (e.g., "It is important to me that my achievements are recognized" 1 - Definitely untrue). She strives for personal excellence but not social comparison.
+
+Self-monitoring: Low to moderate (mostly "somewhat false" or "somewhat true" with exceptions), indicating limited behavioral adjustment to social contexts.
+
+Self-concept clarity: Moderate to low (e.g., "I have a clear sense of who I am" 2 - Disagree a little; "My beliefs about myself often conflict" 4 - Agree a little), suggesting some internal conflict or fluidity in self-views.
+
+Economic games: In the dictator game, she keeps a majority share ($3 of $5) but accepts all offers as receiver, indicating pragmatic fairness. In the trust game, she keeps all money for herself but returns a substantial portion when receiving, indicating cautious trust and reciprocity.
+
+Cross-scale inference: High Need for Closure and high Need for Cognition together suggest a person who likes to resolve uncertainty through thoughtful analysis and prefers clear, structured decisions. High conscientiousness and maximizer traits reinforce this. Low social monitoring and moderate self-concept clarity suggest she is less concerned with social impression management and more focused on internal standards.
+
+Contradictions: She reports some depressive symptoms (sadness, loss of interest, sleep disturbance) which may conflict with her high conscientiousness and cognitive engagement, but these do not appear to impair her decision-making or cognitive performance.
+
+w_social estimate: 0.3 -- The respondent shows low extraversion and social monitoring, indicating limited social engagement or concern with social impression. However, her high empathy scores and willingness to reciprocate in economic games suggest some social sensitivity and cooperative tendencies. The moderate self-concept clarity and preference for solitude further reduce social orientation. The agreement between Big Five (low extraversion), empathy measures, and economic game behavior supports a low to moderate social weighting.

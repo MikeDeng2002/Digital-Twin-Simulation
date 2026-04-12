@@ -1,0 +1,96 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- White race (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Married (Question: Which of these best describes you? Answer: Married)
+- Protestant religion (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once a week)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a Republican, Democrat, Independent, or something else? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly with being talkative, fault-finding, depressed, original, careless, quarrelsome, disorganized, lazy, moody, assertive, cold, rude, easily distracted, inventive, outgoing, and rude (Big Five items 1,2,4,5,8,12,18,23,29,26,27,37,43,25,36,37)
+  - Agree strongly with being thorough, reserved, helpful, reliable, forgiving, quiet, trusting, emotionally stable, persevering, valuing artistic experiences, shy, considerate, efficient, preferring routine, making plans and following through, polite, cooperative (Big Five items 3,6,7,13,17,21,22,24,28,30,31,32,33,35,38,42)
+  - Somewhat agree or agree a little with being curious, ingenious, tense, calm in tense situations, and some enthusiasm (items 10,15,14,34,16)
+- Need for Cognition:
+  - Strongly agrees with preferring complex problems, liking responsibility requiring thinking, satisfaction in deliberating hard, preferring intellectual tasks, and thinking abstractly (items 1,2,6,15)
+  - Strongly disagrees with thinking not fun, preferring little thought tasks, avoiding thinking, and only thinking as hard as necessary (items 3,4,5,7,8,9,12)
+  - Somewhat agrees with enjoying problem solving and relying on thought to get ahead (items 10,11)
+- Values (rated as highly important, 9):
+  - Forgiveness, Trust, Competence, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Autonomy, Equality
+- Values rated as not important (1):
+  - Influence, Power, Status, Recognition, Superiority
+- Values rated moderately important (4-6):
+  - Wealth (4), Pleasure (6), Achievement (4), Ambition (4), Excitement (6), Tradition (6)
+- Self-concept clarity:
+  - Strongly agrees with having a clear sense of who they are and what they are, seldom experiencing conflict between personality aspects, and disagreeing strongly with beliefs about self changing frequently or conflicting (items 6,11,1-5,7-10)
+- Self-reported personality attributes:
+  - Does a thorough job, is a reliable worker, perseveres until task is finished, does things efficiently, makes plans and follows through, prefers routine work (Big Five items 3,13,28,33,38,35 all agree strongly)
+  - Is shy, reserved, quiet, helpful, considerate, kind, trusting, emotionally stable (items 6,21,7,32,22,24 all agree strongly)
+  - Disagrees strongly with being talkative, fault-finding, careless, quarrelsome, moody, rude, lazy, disorganized (items 1,2,8,12,29,37,23,18)
+- Empathy and emotional contagion:
+  - Strongly agrees with feeling sad after a friend is sad, understanding friends' happiness, feeling sad watching sad things on TV, and generally being affected by others' emotions (items 2,3,11)
+  - Disagrees strongly with being unaffected by others' feelings (items 1,7,8,13,18,19,20)
+  - Somewhat agrees with getting frightened watching scary movies, getting caught up in others' feelings, understanding when friends are scared or cheerful, realizing when friends are angry, and getting swept up in friends' feelings (items 4,5,9,10,14,16,17)
+- Environmental concern:
+  - Strongly agrees with importance of products not harming environment, considering environmental impact in decisions, environmentally responsible, willing to be inconvenienced for environment (items 1-6)
+- Cognitive test performance:
+  - Estimated self-correct answers: 30/42
+  - Estimated average US adult correct answers: 22/42
+- Logical reasoning:
+  - Correctly identifies logical conclusions in all provided syllogisms (all answered "Yes" to logical validity questions)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Correctly identifies inflation effect on savings (money buys less)
+  - Correctly identifies stocks as highest fluctuation asset
+  - Correctly identifies possibility of losing money in stock mutual fund
+  - Incorrectly believes risk stays the same when diversifying (answered "Stays the same" instead of "Decreases")
+  - Incorrectly believes savings account normally gives highest return over long term (answered "Savings account" instead of "Stocks")
+  - Correctly knows about required minimum distributions after age 70.5
+  - Estimates credit card payoff time as 17 years
+  - Correctly estimates expected outcomes for dice rolls, lottery winners, disease probabilities, and percentages
+  - Correctly solves math and logic puzzles (bat and ball cost, lily pad doubling, etc.)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 in $5 split (Ultimatum proposer)
+  - Rejects offers of $5 and $4 to self, accepts $3 and $2, rejects $1 and $0 (Ultimatum responder)
+  - In trust game, keeps $2 and sends $3 as sender
+  - As receiver, keeps $7 of $15 and sends back $8; keeps $6 of $12 and sends back $6; keeps $4 of $9 and sends back $5; keeps $3 of $6 and sends back $3; keeps $2 of $3 and sends back $1 (trust game responder)
+  - Thought processes emphasize fairness, even splits, honesty, and being viewed as fair and honest
+- Personality self-ratings:
+  - Organized (7/9 scale), Efficient (9), Systematic (9), Practical (9), Disorganized (1), Sloppy (1), Inefficient (1), Careless (1)
+  - Avoids accumulating stuff, prefers simplicity and minimalism strongly (all 5/5 agreement)
+  - Does not seek uniqueness or originality in products (all strongly disagree)
+- Self-monitoring:
+  - Generally low self-monitoring: difficulty altering behavior to suit situations, trouble putting up a good front, difficulty reading others' emotions (mostly "Generally false" or "Certainly always false")
+  - Agrees with having trouble changing behavior to suit different people and situations
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty, preferring order and routine, disliking ambiguous questions, liking clear and structured life, feeling relieved after decisions, disliking unpredictable situations
+  - Disagrees with impatience for immediate solutions
+- Maximizer:
+  - Disagrees strongly with behaviors indicating maximizing (checking other stations, looking for better job opportunities, difficulty shopping for gifts or clothes)
+  - Agrees a little with having high standards and never settling for second best
+- Self-concept clarity:
+  - Strongly agrees with clear, stable self-concept, no internal conflict, no frequent changes in self-beliefs
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no guilt, no disappointment, no irritability, no loss of interest in others, no difficulty making decisions
+  - Reports waking 1-2 hours earlier than usual and difficulty returning to sleep
+  - Reports getting tired more easily than before
+  - Reports some physical worries (aches, pains, upset stomach)
+  - Reports purposely trying to lose weight by eating less
+- Spending habits:
+  - Identifies as a tightwad (difficulty spending money)
+  - Never has trouble limiting spending or spending money
+  - Neither similar to impulsive spender nor extreme tightwad in shopping spree scenario
+- Social values and attitudes:
+  - Strongly agrees with being kind, patient, friendly, respectful of elders, trying to see others' points of view, being a good father, grandfather, and husband
+  - Strongly agrees with being courteous, forgiving, helpful, polite, cooperative, and valuing family loyalty and harmony
+  - Disagrees strongly with competitiveness, winning is everything, and competition as law of nature
+  - Agrees with valuing cooperation and pleasure from spending time with others
+- Logical reasoning and cognitive style:
+  - Correctly answers logical syllogisms and conditional reasoning questions
+  - Correctly identifies cards to test conditional rules
+  - Shows moderate to high cognitive reflection and reasoning ability

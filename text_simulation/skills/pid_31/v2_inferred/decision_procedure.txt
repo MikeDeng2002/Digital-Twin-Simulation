@@ -1,0 +1,17 @@
+Need for Closure scale: Strong agreement with items indicating discomfort with uncertainty, preference for order, quick decisions, and dislike of ambiguity (items 1,2,4,5,6,8,9,10,11 all agree strongly or agree a little). This indicates a high need for closure.
+
+Need for Cognition scale: Strong disagreement with items indicating preference for complex problems and intellectual challenge (items 1,2,4,5,10,13,15 all disagree strongly or disagree a little), and agreement with preferring little thought and routine tasks (items 3,7,8,9,16,17). This indicates low need for cognition.
+
+Maximizer scale: Disagrees strongly with "never settle for second best" and "highest standards for myself" (items 5 and 6), indicating low maximizer tendencies.
+
+Self-monitoring scale: Mixed but generally moderate ability to adjust behavior; some difficulty changing behavior to suit situations (items 3,4,5 disagree somewhat), but some ability to control impression (items 1,2,7,8,9,10,11,12 mostly agree a little). Overall moderate self-monitoring.
+
+Self-concept clarity: Mostly low conflict and good clarity (items 1,2,4,5,6,7,8,9,10 mostly disagree a little or neither agree nor disagree, with item 11 "In general, I have a clear sense of who I am" agreeing a little). Indicates moderate self-concept clarity.
+
+Economic game behavior: Proposes to keep majority ($3 of $5) and sends $2, accepts offers down to $1 for self, rejects very unfair offers. In trust game, sends $2 (tripled to $6), expects to receive back about half ($8 kept, $7 returned on $15), indicating moderate trust and reciprocity expectations.
+
+Cross-scale inference: High need for closure and low need for cognition align with preference for routine, dislike of ambiguity, and avoidance of complex thinking. Economic game behavior aligns with moderate fairness and reciprocity concerns, consistent with values emphasizing equality and civility. Self-monitoring and self-concept clarity moderate, consistent with some social sensitivity but limited flexibility.
+
+No major contradictions noted.
+
+w_social estimate: 0.55 -- The respondent shows moderate social orientation, as indicated by moderate trust and reciprocity in economic games, values emphasizing equality, civility, and compassion, and moderate self-monitoring. However, high need for closure and low need for cognition suggest some preference for routine and less engagement in complex social strategizing. The moderate empathy and social sensitivity support a middling social weighting.

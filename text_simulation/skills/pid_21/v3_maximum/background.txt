@@ -1,0 +1,33 @@
+Demographics: Female, age 50-64, White, living in the Southern US, married, Roman Catholic (though does not attend services), full-time employed, US citizen, postgraduate education, family income $100,000+, politically Republican but moderate in views. This suggests a stable, middle-to-upper-middle class lifestyle with access to high-quality education and resources, likely with traditional family and social values but moderate political openness.
+
+Big Five Personality (44 items): Scores indicate moderately high conscientiousness (e.g., "does a thorough job" 5, "organized" 8, "systematic" 9, "practical" 9), moderate extraversion ("talkative" 4, "outgoing" 4), moderate openness ("original" 4, "curious" 4, "inventive" 4), moderate agreeableness ("helpful" 4, "considerate" 4, but "forgiving nature" 2), and moderate emotional stability ("relaxed" 4, "worries a little" 2, "tense" 4). Overall, a conscientious, moderately sociable, somewhat emotionally stable individual with balanced openness and agreeableness.
+
+Need for Cognition (18 items): Mostly "agree a little" (4) on items indicating preference for complex problems, intellectual challenge, and thinking deeply, with some neutral or slight disagreement on enjoying puzzles or relief after mental effort. This suggests moderate to moderately high engagement in analytical thinking and intellectual curiosity.
+
+Need for Closure (15 items): Strong agreement with items indicating discomfort with uncertainty, preference for order, dislike of ambiguity, and desire for quick resolution (mostly 4-5 on "I don’t like situations that are uncertain," "I find that a well ordered life suits me," "I feel irritated when one person disagrees with the group," "I dislike unpredictable situations"). This indicates a high need for closure, preferring clear, structured, and predictable environments.
+
+Maximizer Scale (6 items): Mixed but tending toward moderate maximizer tendencies. Some agreement with being on lookout for better opportunities (5), but disagreement or neutrality on never settling for second best (2) and highest standards (3). Suggests a moderate maximizer who seeks good options but is not perfectionistic.
+
+Self-monitoring (13 items): Generally high self-monitoring ("ability to alter behavior" 5, "control impression" 5, "adjust behavior" 5), but some exceptions. Sensitive to social cues and able to regulate behavior to fit situations, indicating social awareness and adaptability.
+
+Self-concept clarity (12 items): Mostly stable self-view with low internal conflict ("disagree a little" on conflicting self-beliefs), some uncertainty ("neither agree nor disagree" on clear sense of self). Slight tendency to keep private self ("would not tell someone what I’m really like" 4). Overall, moderately clear but somewhat private self-concept.
+
+Values (24 items): Highest rated values (9) are Wealth, Trust, Loyalty, Harmony, Honesty, and Equality. High importance also on Competence, Humility, Civility, and Autonomy. Low importance on Recognition, Status, and Tradition. This reveals a worldview valuing financial success, reliability, social harmony, fairness, and personal integrity, with moderate ambition but low desire for fame or dominance.
+
+Minimalism (12 items): Strong agreement with minimalist attitudes ("prefer simplicity in design" 5, "prefer leaving spaces visually empty" 5, "curate belongings carefully" 4). Indicates a preference for simplicity, order, and mindful consumption.
+
+Empathy (20 items): Moderate to high empathy, especially for close others ("extremely compassionate for husband and children," "can usually work out when friends are scared or angry" 5, "often get swept up in friends’ feelings" 4), but less so for strangers ("not a psychopath but sometimes don’t feel sorry for others"). Suggests selective empathy focused on close social network.
+
+Consumerism/Uniqueness: Disagrees with statements about seeking uniqueness through products or breaking social norms in consumption (mostly 2s), but slightly agrees with avoiding popular products (4). Indicates low consumerist uniqueness drive, tending to avoid mainstream products but not actively seeking to stand out.
+
+Cognitive Test Performance: Self-estimated 38/42 correct (above average), actual answers show good logical reasoning with some errors in syllogistic reasoning (e.g., rejecting invalid conclusions correctly, but some errors in conditional logic). Good performance on spatial and analogical puzzles, with some difficulty in cube rotation tasks (mixed answers). Word association chain shows logical, finance-related progression ending in "poor," indicating focus on economic concepts. Synonym and antonym tests show strong vocabulary and semantic knowledge.
+
+Social Desirability: Moderate to low social desirability bias. Some admissions of negative traits (e.g., "I sometimes try to get even," "I have taken advantage of someone," "I feel resentful," "I feel jealous"), indicating honest self-reporting.
+
+Mood and Mental Health: Reports mild depressive symptoms (feeling sad, discouraged, guilty, disappointed, critical of self), but no severe impairment in decision-making or daily functioning. Appetite slightly reduced, some weight loss, but no major sleep or energy problems.
+
+Economic Games: Proposes fair splits in dictator and ultimatum games (keeps $2-$3, sends $2-$3), accepts all offers as receiver, indicating fairness and generosity. Thoughts during decisions emphasize kindness, compassion, fairness, and caring.
+
+Intertemporal Choice: Prefers immediate smaller rewards over delayed larger rewards consistently, indicating impatience or high discounting of future rewards.
+
+Loss Framing: Strong aversion to losses, prefers sure smaller losses over risky larger losses.

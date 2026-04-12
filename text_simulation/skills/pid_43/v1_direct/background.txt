@@ -1,0 +1,83 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 18-29 (Question: How old are you? Answer: 18-29)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: Black (Question: What is your race or origin? Answer: Black)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Household size: 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4)
+- Employment status: Student (Question: What is your current employment status? Answer: Student)
+- Personality traits (Big Five, selected items):
+  - Does a thorough job (Q3): Agree strongly (5)
+  - Is a reliable worker (Q13): Agree strongly (5)
+  - Is inventive (Q25): Agree strongly (5)
+  - Has an assertive personality (Q26): Agree strongly (5)
+  - Can be cold and aloof (Q27): Agree strongly (5)
+  - Tends to find fault with others (Q2): Agree a little (4)
+  - Is depressed, blue (Q4): Disagree a little (2)
+  - Is helpful and unselfish with others (Q7): Disagree a little (2)
+  - Is relaxed, handles stress well (Q9): Disagree a little (2)
+  - Is outgoing, sociable (Q36): Agree a little (4)
+  - Makes plans and follows through with them (Q38): Agree a little (4)
+  - Gets nervous easily (Q39): Agree a little (4)
+  - Values artistic, aesthetic experiences (Q30): Neither agree nor disagree (3)
+- Need for Cognition scale (selected items):
+  - Likes responsibility requiring thinking (Q2): Agree a little (4)
+  - Thinking is not fun (Q3): Disagree a little (2)
+  - Prefers little thought tasks (Q4): Agree a little (4)
+  - Tries to avoid deep thinking (Q5): Agree strongly (5)
+  - Likes tasks requiring little thought once learned (Q9): Agree strongly (5)
+  - Enjoys solving puzzles (Q13): Agree strongly (5)
+  - Likes abstract thinking (Q14): Agree a little (4)
+  - Feels relief rather than satisfaction after mental effort (Q16): Agree a little (4)
+  - Usually deliberates about issues even if not personally affected (Q18): Agree a little (4)
+- Values (all rated as highly important unless otherwise noted):
+  - Wealth, Pleasure, Forgiveness, Influence, Trust, Competence, Humility, Achievement, Ambition, Loyalty, Politeness, Power, Harmony, Excitement, Honesty, Compassion, Status, Civility, Autonomy, Equality, Tradition, Superiority: Rated 9 (Highly Important)
+  - Altruism: 8
+  - Recognition: 6
+- Minimal environmental concern:
+  - Environmentally responsible: Agree a little (4)
+  - Other environmental concern items mostly neutral or disagree a little
+- Empathy and emotional response:
+  - Does not get sad after friends are sad (Q2): Disagree strongly (1)
+  - Can understand friends' happiness (Q3): Agree strongly (5)
+  - Other people’s feelings don’t bother me at all (Q8): Agree strongly (5)
+  - Can usually work out when friends are scared or down (Q9, Q10): Agree strongly (5)
+  - Often does not become sad when seeing others cry (Q7): Neither agree nor disagree (3)
+  - Generally low emotional contagion or empathy for sadness
+- Cognitive test performance:
+  - Correctly answered logical reasoning, spatial rotation, and pattern recognition tasks with some errors
+  - Self-estimated correct answers: 24/42
+  - Estimated average correct answers for US adults: 24/42
+- Financial literacy:
+  - Correct understanding of mortgage payments, risk diversification, stock volatility, and investment returns
+  - Some incorrect or inconsistent answers on inflation and retirement withdrawal rules
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split game
+  - Accepts offers down to $1 sent to self, rejects offers of $1 or $0 to self
+  - In trust game, keeps $3 and sends $2; as receiver, keeps majority and sends back small amounts
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Has taken advantage of someone (True)
+  - Sometimes rebels against authority even when authority is right (True)
+  - Always courteous even to disagreeable people (True)
+  - Never irked by differing ideas (True)
+  - Sometimes jealous of others' good fortune (True)
+  - Does not admit mistakes readily (False)
+  - Does not try to get even (False)
+  - Self-rated organized and systematic (6/9), but also somewhat inefficient (7/9)
+  - Does not feel sad, discouraged, or guilty; no signs of depression or anxiety
+  - Self-concept clarity mixed: sometimes feels not really self, beliefs about self change somewhat, but generally neither agree nor disagree on clarity
+  - Need for closure: neither high nor low, some discomfort with uncertainty but not extreme
+  - Maximizer tendencies: neither strong nor weak; sometimes has difficulty shopping for gifts, does not always seek best options
+  - Self-monitoring: moderate; can alter behavior somewhat but with exceptions
+  - Spending habits: neither tightwad nor spendthrift; often has trouble limiting spending; sometimes has trouble spending money
+  - Aspires to be disciplined, resilient, innovative; values leadership, integrity, lifelong learning
+  - Acknowledges struggles with procrastination and managing responsibilities but is improving
+  - Values responsibility, dependability, adaptability, ethical decision-making, and effective communication
+  - Values family duty and cooperation but also personal achievement and competition

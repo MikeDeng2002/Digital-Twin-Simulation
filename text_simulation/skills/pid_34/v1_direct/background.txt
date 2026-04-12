@@ -1,0 +1,150 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 18-29 (Question: How old are you? Answer: 18-29)
+- Highest education completed: High school graduate (Question: What is the highest level of schooling or degree that you have completed? Answer: High school graduate)
+- Race/origin: Black (Question: What is your race or origin? Answer: Black)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Other (Question: What is your present religion, if any? Answer: Other)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Total family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $50,000-$75,000)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: Self-employed)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Agree a little to finding fault with others (Q2: 4)
+  - Agree a little to doing a thorough job (Q3: 4)
+  - Agree strongly to being original and coming up with new ideas (Q5: 5)
+  - Agree strongly to being reserved (Q6: 5)
+  - Agree strongly to being curious about many different things (Q10: 5)
+  - Agree strongly to being ingenious, a deep thinker (Q15: 5)
+  - Agree strongly to having an active imagination (Q20: 5)
+  - Agree strongly to being inventive (Q25: 5)
+  - Agree strongly to persevering until the task is finished (Q28: 5)
+  - Agree strongly to valuing artistic, aesthetic experiences (Q30: 5)
+  - Agree strongly to being considerate and kind to almost everyone (Q32: 5)
+  - Agree a little to being quiet (Q21: 4)
+  - Agree a little to being generally trusting (Q22: 4)
+  - Disagree strongly to having an assertive personality (Q26: 1)
+  - Agree a little to being moody (Q29: 4)
+  - Agree a little to being sometimes shy, inhibited (Q31: 4)
+  - Agree strongly to being sophisticated in art, music, or literature (Q44: 5)
+- Need for Cognition scale (selected items):
+  - Neither agree nor disagree to preferring complex to simple problems (Q1: 3)
+  - Neither agree nor disagree to liking responsibility requiring thinking (Q2: 3)
+  - Agree a little that thinking is not fun (Q3: 4)
+  - Disagree a little to finding satisfaction in deliberating hard and long (Q6: 2)
+  - Agree a little to enjoying tasks involving new solutions (Q11: 4)
+  - Disagree a little to learning new ways to think not exciting (Q12: 2)
+  - Disagree strongly to preferring life filled with puzzles (Q13: 1)
+  - Agree a little to liking abstract thinking (Q14: 4)
+  - Agree a little to usually deliberating about issues even if not personally affected (Q18: 4)
+- Values rated as highly important (9):
+  - Wealth (Q1: 9)
+  - Status (Q18: 9)
+  - Autonomy (Q20: 9)
+  - Superiority (Q24: 9)
+- Values rated quite or highly important (7-8):
+  - Pleasure (8)
+  - Achievement (8)
+  - Politeness (8)
+  - Recognition (8)
+  - Influence (7)
+  - Competence (7)
+  - Ambition (7)
+  - Loyalty (7)
+  - Excitement (7)
+  - Honesty (7)
+  - Compassion (7)
+  - Civility (7)
+- Values rated lower or moderate:
+  - Tradition (4)
+  - Equality (5)
+- Environmental concern: Strongly disagrees or disagrees a little with environmental responsibility and concern (Q1-Q6: mostly 1 or 2)
+- Self-reported empathy and emotional sensitivity:
+  - Disagrees that friends’ emotions don’t affect them much (Q1: 2)
+  - Agrees a little to feeling sad after being with a sad friend (Q2: 4)
+  - Agrees a little to understanding friends’ happiness (Q3: 4)
+  - Disagrees a little to getting frightened by scary movies (Q4: 2)
+  - Agrees a little to getting caught up in others’ feelings (Q5: 4)
+  - Agrees a little to finding it hard to know when friends are frightened (Q6: 4)
+  - Disagrees a little to not becoming sad when seeing others cry (Q7: 4)
+  - Disagrees strongly that others’ feelings don’t bother them (Q8: 1)
+  - Agrees a little to usually working out when friends are scared (Q10: 4)
+  - Agrees a little to often becoming sad watching sad things on TV (Q11: 4)
+  - Agrees a little to understanding people’s feelings before they tell (Q12: 4)
+  - Agrees a little to working out when people are cheerful (Q14: 4)
+  - Agrees a little to realizing quickly when a friend is angry (Q16: 4)
+  - Agrees a little to often getting swept up in friends’ feelings (Q17: 4)
+  - Disagrees strongly to not being aware of friends’ feelings (Q19: 1)
+  - Disagrees strongly to having trouble figuring out when friends are happy (Q20: 1)
+- Self-reported behavior and attitudes:
+  - Sometimes hard to continue work without encouragement (TRUE) (Q1: 2)
+  - Sometimes feel resentful when not getting own way (TRUE) (Q2: 2)
+  - Sometimes given up on something due to low self-belief (TRUE) (Q3: 2)
+  - Taken advantage of someone on occasion (TRUE) (Q6: 2)
+  - Willing to admit mistakes (TRUE) (Q7: 2)
+  - Sometimes try to get even rather than forgive (TRUE) (Q8: 2)
+  - Always courteous even to disagreeable people (TRUE) (Q9: 2)
+  - Sometimes jealous of others’ good fortune (TRUE) (Q11: 2)
+  - Sometimes irritated by people asking favors (TRUE) (Q12: 2)
+  - Never deliberately said something to hurt feelings (FALSE) (Q13: 1)
+- Self-concept clarity:
+  - Beliefs about self often conflict (Agree strongly, 5)
+  - Opinions of self vary day to day (Agree strongly, 5)
+  - Spend some time wondering about who they really are (Agree a little, 4)
+  - Beliefs about self change frequently (Agree strongly, 5)
+  - Clear sense of who they are (Agree a little, 4)
+  - Sometimes unsure what they want (Neither agree nor disagree, 3)
+- Need for Closure:
+  - Dislikes uncertainty and ambiguous questions (Agree a little to strongly on multiple items)
+  - Feels relief when making decisions (Agree strongly)
+  - Likes clear, structured life (mixed responses)
+  - Dislikes unpredictable situations (Agree a little)
+- Maximizer tendencies:
+  - Strongly agrees with checking for better options, looking for better opportunities, high standards, never settling for second best (mostly Agree a little to strongly)
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations (mostly 4-6)
+  - Sensitive to others’ emotions and facial expressions (mostly 5-6)
+- Cognitive test performance:
+  - Correctly answered various logic, reasoning, and synonym/antonym questions
+  - Estimated self-correct answers: 35/42
+  - Estimated average US adult correct answers: 25/42
+- Financial literacy:
+  - Correctly answered mortgage, inflation, investment risk, and withdrawal rules questions
+  - Some uncertainty about risk diversification and long-term returns (answered "do not know")
+  - Correctly answered credit card debt question (debt never eliminated with minimum payment)
+- Economic game behavior:
+  - Proposes to keep all $5 and send $0 in ultimatum game as proposer
+  - Rejects any offer of $0 to self as receiver
+  - In trust game, keeps all $5 and sends $0
+  - As receiver in trust game, keeps all money and sends back $0
+  - Thoughts during decisions emphasize self-need, lack of loyalty, and skepticism about others
+- Spending habits:
+  - Moderate spending habits (5 on 1-11 scale)
+  - Sometimes has trouble limiting spending
+  - Rarely has trouble spending money
+  - More similar to cautious shopper (Mr. B) than impulsive (Mr. A)
+- Depression and mood:
+  - Does not feel sad or discouraged
+  - Does not feel like a failure or worthless
+  - Somewhat less enjoyment in things than before
+  - Feels guilty and disappointed in self a good part of the time
+  - Critical of self for weaknesses or mistakes
+  - No increased crying or irritation
+  - Less interested in others and sex than before
+  - Takes extra effort to start work
+  - Sleeps and appetite normal
+  - Worried about physical problems somewhat
+  - Purposely trying to lose weight by eating less
+- Consumer uniqueness and identity:
+  - Agrees to statements indicating desire for personal uniqueness and breaking social norms in product use and ownership
+  - Disagrees with avoiding common products or brands
+- Logical reasoning:
+  - Correctly identifies cards to test conditional rule (cards A and 3)
+- Aspirations and self-description (text entries):
+  - Aspires to be self-sufficient, carefree, generous, financially secure, and caring for loved ones
+  - Feels ought to be hardworking, struggling mentally due to trauma and abuse, with low expectations from others
+  - Actually worries a lot but works hard, somewhat comfortable, striving for more and closer to goals

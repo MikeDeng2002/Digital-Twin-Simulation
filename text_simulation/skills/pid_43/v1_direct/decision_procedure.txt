@@ -1,0 +1,28 @@
+- Need for Closure:
+  - Disagree somewhat with liking uncertainty (Q1: Neither agree nor disagree (3))
+  - Dislike going into situations without knowing what to expect (Q6: Agree a little (4))
+  - Feel relieved after making decisions (Q7: Agree a little (4))
+  - Desire quick solutions to problems (Q8: Agree a little (4))
+  - Impatient if no immediate solution (Q9: Agree a little (4))
+  - Dislike ambiguous statements (Q11: Agree a little (4))
+  - Prefer consistent routines (Q12: Agree a little (4))
+  - Dislike unpredictable situations (Q15: Agree a little (4))
+- Need for Cognition:
+  - Mixed responses, some avoidance of deep thinking (Q5: Agree strongly (5))
+  - Likes some intellectual challenge (Q13: Agree strongly (5))
+  - Prefers tasks requiring little thought once learned (Q9: Agree strongly (5))
+  - Some ambivalence about thinking as fun (Q3: Disagree a little (2))
+- Maximizer:
+  - Does not strongly maximize; sometimes has difficulty shopping for gifts (Agree a little (4))
+  - Does not always seek best opportunities (Neither agree nor disagree (3))
+  - Does not settle for second best: Disagree a little (2)
+- Self-monitoring:
+  - Some ability to alter behavior in social situations (Somewhat true but with exceptions (4))
+  - Some difficulty controlling impression (Somewhat false but with exceptions (3))
+- Self-concept clarity:
+  - Mixed clarity; sometimes feels not really self (Agree a little (4))
+  - Beliefs about self change somewhat (Neither agree nor disagree (3))
+  - Sometimes unsure about past self (Neither agree nor disagree (3))
+  - Sometimes thinks knows others better than self (Agree a little (4))
+  - Sometimes finds it hard to make up mind (Agree a little (4))
+- w_social estimate: 0.5 -- The person shows moderate need for closure with some discomfort about uncertainty (items 6,7,8,9), moderate need for cognition with some avoidance of deep thinking (items 5,9,13), moderate self-monitoring (items 1,2,3), and mixed self-concept clarity (items 4,7,9,12). These combined suggest a balanced but cautious reasoning style under uncertainty with moderate social awareness.

@@ -1,0 +1,15 @@
+- Need for Closure:
+  - Neutral to slight agreement with preference for order and routine (Items: 3 - Agree a little; 6 - Agree a little; 7 - Agree a little; 8 - Agree a little; 12 - Agree a little; 13 - Agree a little)
+  - Does not strongly dislike uncertainty or unpredictability (Items: 1,2,4,5,9,10,11,14,15 - Mostly neutral or disagree a little)
+- Need for Cognition:
+  - Likes complex problems and thinking (Items: 1,2,6,10,11,13,14,18 - Agree a little)
+  - Does not avoid thinking or find it unpleasant (Items: 3,5,7 - Disagree strongly)
+- Maximizer:
+  - Has high standards for self (Item: 5 - Agree strongly)
+  - Does not often seek better options when satisfied (Item: 1 - Disagree a little)
+- Self-monitoring:
+  - Some ability to alter behavior in social situations but with exceptions (Items: 1 - Somewhat true; 2-7 - Somewhat false or neutral)
+  - Good at reading others' emotions and social cues (Items: 8-13 - Generally true to certainly true)
+- Self-concept clarity:
+  - Generally clear sense of self, little internal conflict (Items: 11 - Agree a little; 1,4,5,8,9 - Disagree or neither agree nor disagree on conflict)
+- w_social estimate: 0.7 -- The person shows moderate to high social awareness and empathy (Self-monitoring items 8-13 agree strongly), values fairness in economic games, and has a generally clear self-concept, but also some reserved and quiet personality traits and moderate need for closure, indicating balanced social reasoning.

@@ -1,0 +1,20 @@
+Need for Closure: Moderate. Wants resolution fairly quickly (agree a little to impatience for solutions), but tolerates some ambiguity. Not impulsive but prefers closure within reasonable time.
+
+Need for Cognition: Moderate but selective. Avoids deep, sustained thinking but enjoys puzzles and problem-solving. Likely to invest analytical effort when motivated or when task is concrete and solvable.
+
+Maximizer: More satisficer than maximizer. Does not seek perfect answers, accepts "good enough" solutions, especially in social and consumer contexts.
+
+Self-monitoring: Moderate. Notices social cues and others' emotions to some extent but does not strongly adjust behavior or defer to social pressure.
+
+Self-concept Clarity: Moderate. Some identity exploration and occasional uncertainty, but generally stable enough to resist social pressure.
+
+Economic Game Gap: Proposes moderately fair splits but keeps more when in receiver role, indicating some self-interest and strategic behavior. Behavior matches strategic expectations with moderate fairness.
+
+Intertemporal Patience: Moderate impatience, prefers sooner smaller rewards unless delayed rewards are significantly better. Likely to discount future outcomes fairly steeply.
+
+Cognitive Errors: Typical heuristic errors in numeric and logical reasoning (bat and ball, lily pad, probability estimates). Some confusion in abstract logic (syllogisms). Suggests numeric prediction tasks may be biased by heuristic shortcuts and occasional misinterpretation of probabilities.
+
+Social Desirability: Moderate trustworthiness. Some admissions of negative traits and behaviors, no strong impression management.
+
+w_social estimate: 0.55  
+Reasoning: The estimate balances moderate social awareness and self-monitoring with a somewhat aloof empathy profile and moderate self-concept clarity. The participant shows moderate conscientiousness and assertiveness, moderate need for closure and cognition, and satisficing tendencies. Cognitive test performance and economic game behavior indicate practical reasoning with heuristic biases. Social desirability is moderate, with some honest admissions. Conflicting signals (e.g., high values on both humility and superiority) suggest a complex self-view but overall moderate social engagement and strategic thinking. This profile predicts numeric predictions that are moderately analytical but prone to heuristic biases, with moderate impatience and a preference for practical, concrete information sources.

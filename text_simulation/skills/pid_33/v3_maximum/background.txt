@@ -1,0 +1,54 @@
+Demographics: Female, age 30-49, White, living in the U.S. Midwest, college graduate with some postgraduate education, full-time employed, never married, Protestant with infrequent religious attendance, identifies as a liberal Democrat with a family income of $30,000-$50,000, living alone. This suggests a middle-class, educated, politically liberal woman with moderate economic means and a likely urban or suburban lifestyle in the Midwest. Being unmarried and living alone may imply greater independence and self-reliance.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagrees with being talkative and outgoing, strongly agrees with being reserved and quiet.  
+- Moderate Agreeableness: Strongly helpful and kind, but also somewhat fault-finding and less forgiving.  
+- High Conscientiousness: Strongly agrees with being thorough, reliable, organized, efficient, persevering, and making plans.  
+- High Neuroticism: Strongly agrees with being moody, worried, nervous, tense, and easily upset; low emotional stability.  
+- Moderate Openness: Somewhat original, curious, imaginative, values artistic experiences but neither strongly inventive nor enthusiastic.
+
+Need for Cognition (18 items): Scores mostly around "agree a little" with some neutrality; enjoys complex problems and thinking but also prefers some routine and simpler tasks. Shows moderate engagement with thinking, not extreme. Some ambivalence about deep thinking satisfaction.
+
+Values (24 items):  
+- Highest importance: Trust (9), Compassion (9), Recognition (9), Superiority (9), Forgiveness (8), Humility (8), Politeness (8), Honesty (8), Civility (8), Autonomy (8), Equality (8), Tradition (8).  
+- Moderate importance: Pleasure (7), Loyalty (7), Excitement (7), Status (7), Achievement (5), Harmony (5).  
+- Low importance: Wealth (3), Influence (2), Power (2), Altruism (3).  
+This profile reveals a person who values social trust, kindness, fairness, and personal integrity highly, but also desires recognition and a sense of superiority, indicating ambition balanced with social conscience. Low emphasis on wealth and power suggests less materialistic drive.
+
+Minimalism/Consumerism: Generally disagrees with minimalist tendencies (disagreeing with avoiding possessions, restricting ownership, sparse environments), but agrees somewhat with simplicity in design and mindful curation of belongings. This suggests moderate consumerism with some selective curation, not strongly minimalist or maximalist.
+
+Empathy (20 items): Very high empathy, strongly affected by others' emotions, easily caught up in feelings of friends, good at reading emotions, strongly disagrees with being unaffected by others' feelings. This indicates strong social sensitivity and emotional attunement.
+
+Social Desirability: Moderate to somewhat high (some items show admitting to negative traits like taking advantage, jealousy, irritation, but also some denial of always being courteous or admitting mistakes). Self-reports appear fairly candid with some social desirability bias but not extreme.
+
+Cognitive Test Performance:  
+- Correctly answered simple logic and reasoning questions but made errors on more complex syllogisms (e.g., incorrectly rejecting valid conclusions).  
+- Failed to identify any valid rotation of a cube in a spatial reasoning task, choosing "none of the cubes could be a rotation" twice, indicating difficulty with 3D spatial transformations.  
+- Word synonym/antonym tests mostly correct but with some errors (e.g., choosing "facile" as synonym for "furtive" is incorrect; "impervious" as synonym for "indolent" is incorrect).  
+- Logical reasoning: Correct on most but failed on some syllogistic logic (e.g., concluding "Poodles do not have four legs" is invalid but answered "No" correctly).  
+- Self-estimated 15/42 correct on cognitive tests, above average estimate of 11/42 for general population, indicating moderate metacognitive awareness but modest actual performance.  
+- Word association chain is coherent and linear, showing associative fluency without unusual jumps.
+
+Economic Games:  
+- Dictator game: Keeps all money ($5 for self, $0 to other), indicating selfish initial offer.  
+- Ultimatum game as receiver: Accepts all offers except $0, indicating rational acceptance of any positive offer.  
+- In the trust game, sends $2 (out of $5) and expects moderate return (keeps $3, sends $2), and as receiver returns roughly half to sender, indicating moderate trust and reciprocity but cautious self-interest.  
+- Lottery and loss framing responses show risk aversion, especially in losses, and preference for sure smaller gains over risky larger gains, consistent with loss aversion.
+
+Intertemporal Choice:  
+- Prefers smaller-sooner rewards over larger-later rewards consistently until the delayed reward is significantly better, indicating impatience and present bias.
+
+Self-Monitoring and Self-Concept Clarity:  
+- Moderate self-monitoring: Can adjust behavior somewhat but not fully flexible.  
+- Self-concept clarity is low to moderate: Some internal conflict, changing self-views, uncertainty about self, but also some stable identity elements.  
+- High need for closure: Strong dislike of uncertainty, desire for quick resolution, discomfort with ambiguity.
+
+Consumerism/Uniqueness:  
+- Strongly disagrees with uniqueness-seeking consumerism, breaking social rules in consumption, or challenging norms via products.  
+- Slightly dislikes common products but not strongly.  
+- Indicates conventional consumer behavior, not trend-seeking or rebellious.
+
+Mental Health Indicators:  
+- Reports moderate depressive symptoms: sadness, discouragement, disappointment in self, increased irritability, difficulty making decisions, loss of interest in others, increased crying, but no severe hopelessness or worthlessness.  
+- Some anxiety symptoms: nervousness, worry, tension.  
+- No major sleep or appetite disturbances reported.

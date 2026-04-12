@@ -1,0 +1,79 @@
+Demographics: Female, age 65+, White, living in the Southern United States, divorced, retired, Protestant (no current religious service attendance), US citizen, low income (<$30,000), politically independent but self-identifies as liberal, lives alone. Education level is high school graduate only. This suggests a modest socioeconomic background with limited formal education, likely limited exposure to high-education environments but with life experience shaped by Southern culture and liberal political views. Being retired and living alone may imply more time for reflection but possibly less daily social interaction.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Talkative (2), Outgoing (2), Reserved (4), Quiet (4), Shy (4) → overall somewhat introverted but not extremely so.  
+- High Conscientiousness: Does a thorough job (5), Reliable (5), Perseveres (5), Organized (4), Efficient (8/9 on self-rating), Careless (1), Sloppy (1), Inefficient (1) → very conscientious, diligent, and careful.  
+- Low Neuroticism: Depressed (1), Worries (1), Moody (1), Nervous (1), Relaxed (4), Emotionally stable (4) → emotionally stable, low anxiety or moodiness.  
+- Moderate Openness: Original (4), Curious (4), Imaginative (4), Artistic interests (4-5), Ingenious (2), Inventive (2) → somewhat open but not highly inventive or deeply abstract.  
+- High Agreeableness: Helpful (5), Forgiving (5), Trusting (5), Considerate (4), Kind (4), Not cold or aloof (1) → very agreeable, warm, and socially cooperative.
+
+Need for Cognition (18 items): Mostly agree a little (4) on liking complex problems, thinking hard, intellectual tasks, and puzzles, but not strongly enthusiastic (no 5s or 6s). Disagrees with thinking being no fun or avoiding thinking. Indicates moderate engagement with cognitive effort, willing to think but not deeply passionate about it.
+
+Values (24 items):  
+- Highest (9): Forgiveness, Trust, Humility, Altruism, Loyalty, Harmony, Honesty, Compassion, Autonomy, Equality  
+- Low (1): Wealth, Influence, Power, Status, Recognition, Superiority  
+- Moderate: Pleasure (8), Competence (8), Achievement (5), Excitement (5), Politeness (6), Tradition (3)  
+This reveals a worldview strongly oriented toward social harmony, altruism, fairness, and moral integrity, with little interest in power, status, or material wealth. Autonomy and equality are also highly valued, indicating a strong sense of personal freedom and social justice.
+
+Minimalism (12 items): Mostly agree a little to strongly agree (4-5) on avoiding excess possessions, preferring simplicity and sparse environments, mindful curation of belongings. Indicates a preference for simplicity and thoughtful consumption, not materialistic.
+
+Empathy (20 items): Very high empathy, strongly agrees (4-5) with feeling others’ emotions, understanding friends’ feelings, getting sad when others are sad, and being sensitive to emotional cues. Disagrees strongly with emotional detachment. Suggests strong social sensitivity and emotional attunement.
+
+Consumerism/Uniqueness: Strongly disagrees (1) with all statements about seeking uniqueness through products, breaking social norms in consumption, or avoiding popular products. This person is not a trendsetter or consumer individualist; rather, they conform to social norms in consumption and do not seek to stand out via products.
+
+Social Desirability: Moderate to somewhat high social desirability implied by some self-reports of high agreeableness and empathy, but also admits to some negative feelings (resentment, jealousy, irritation) and does not overclaim perfection. Self-monitoring is moderate (4s), indicating some awareness of social impression but not extreme.
+
+Cognitive Test Performance:  
+- Correctly answered 35/42 cognitive questions, slightly below estimated average (40/42).  
+- Logical syllogisms: answered all 8 correctly, including some with invalid conclusions accepted as valid (e.g., "All eastern countries are communist; China is not eastern; conclusion: China is not communist" answered Yes, which is logically invalid). This suggests a tendency to accept conclusions that fit premises superficially without deeper logical scrutiny.  
+- Wason selection task: correctly identified cards A and 3, showing understanding of conditional logic.  
+- Analogies and cube rotation tasks: mostly correct, but some errors in spatial reasoning (e.g., rejecting all rotations in one cube task).  
+- Word associations: responses show good vocabulary and semantic knowledge, with correct synonyms and antonyms chosen.  
+- Numeric reasoning: good grasp of basic math and probability, but some minor errors (e.g., hole volume question answered 27 cubic feet, which is correct; bat and ball cost answered 0.1 instead of 0.05, indicating a common heuristic error).  
+- Overall, cognitive style is moderately analytical but with some heuristic shortcuts and occasional logical oversights.
+
+Word Association Chain:  
+Starts with "snow" → "cold" → "winter" → "freeze" → "ice" → "Christmas" → "skate" → "slide" → "wind" → "strom" (likely typo for "storm") → "fire" → "cozy" → "chestnuts" → "blanket" → "singing" → "family" → "laughter" → "holidays" → "chocolate" → "marshmallows".  
+This chain shows a coherent thematic progression from cold/winter to warmth/family/comfort, indicating associative thinking grounded in familiar, concrete experiences and positive social-emotional themes.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 in dictator game, a moderately selfish but not stingy split.  
+- Accepts all offers in ultimatum game except $0, showing pragmatic acceptance of any nonzero offer.  
+- In trust game, sends $2 (out of $5), expecting some reciprocity, and as receiver returns a fair share (e.g., keeps $8 of $15, sends back $7), indicating moderate trust and reciprocity.  
+- Overall, behavior is fair but self-protective, balancing fairness with self-interest.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones until amounts get very close, indicating moderate patience but some discounting of future rewards.  
+- Consistently chooses to wait for larger delayed rewards until the immediate reward equals or exceeds the delayed one.  
+- Suggests moderate future orientation but not extreme patience.
+
+Loss Framing Responses:  
+- More risk-averse in loss lotteries, preferring sure smaller losses over probabilistic larger losses.  
+- Consistently prefers to avoid losses even at cost of smaller sure losses, indicating loss aversion.
+
+Self-Concept Clarity:  
+- Strongly agrees with stable, clear self-concept, no internal conflicts, no frequent changes in self-view.  
+- High self-concept clarity supports resistance to social pressure and consistent decision-making.
+
+Need for Closure:  
+- Strongly agrees with preference for order, dislike of ambiguity, desire for quick resolution, discomfort with uncertainty and unpredictability.  
+- Indicates a fast closure style, preferring clear, certain answers and structured environments.
+
+Maximizer Scale:  
+- Disagrees strongly with behaviors indicating maximization (e.g., checking multiple options, seeking best deals).  
+- Agrees a little with having high standards and not settling for second best.  
+- Suggests a satisficer with moderate standards, not a compulsive maximizer.
+
+Self-Monitoring:  
+- Somewhat true but with exceptions on ability to adjust behavior socially.  
+- Moderate self-monitoring, aware of social cues but not highly strategic or manipulative.
+
+Depression and Anxiety Scales:  
+- No signs of depression or anxiety; reports no sadness, no guilt, no irritability, normal sleep with slight decrease, no appetite or weight loss, no loss of interest.  
+- Emotionally stable and mentally healthy.
+
+Spending Habits:  
+- Moderate spendthrift tendencies (7/11), sometimes has trouble limiting spending, rarely has trouble spending money.  
+- More similar to impulsive spender (Mr. A) than frugal (Mr. B).
+
+Summary: This is a retired, older white female from the US South with modest education and income, politically independent but liberal, emotionally stable, conscientious, agreeable, moderately open, and empathetic. She values social harmony, altruism, honesty, and equality, and prefers simplicity and minimalism. Cognitively, she is moderately analytical with some heuristic shortcuts and occasional logical oversights. She is moderately patient, loss averse, and prefers quick closure and certainty. She is a satisficer with moderate standards, moderately self-monitoring, and socially fair but self-protective in economic games. She is emotionally healthy and moderately impulsive in spending.

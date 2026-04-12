@@ -1,0 +1,121 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age range 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race/origin: Black (Question: What is your race or origin? Answer: Black)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Attends religious services a few times a year (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: A few times a year)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a Republican, Democrat, Independent, or Something else? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Total family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $50,000-$75,000)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: Part-time employment)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly with being talkative (1)
+  - Agree strongly with doing a thorough job (3)
+  - Agree a little with originality and coming up with new ideas (5)
+  - Agree a little with being reserved (6)
+  - Agree a little with being helpful and unselfish (7)
+  - Disagree strongly with being careless (8)
+  - Agree a little with handling stress well (9)
+  - Agree a little with curiosity about many things (10)
+  - Agree a little with being a deep thinker (15)
+  - Agree a little with generating enthusiasm (16)
+  - Agree a little with having a forgiving nature (17)
+  - Disagree strongly with being disorganized (18)
+  - Disagree strongly with worrying a lot (19)
+  - Agree strongly with being inventive (25)
+  - Disagree a little with having an assertive personality (26)
+  - Agree strongly with persevering until task is finished (28)
+  - Agree strongly with valuing artistic, aesthetic experiences (30)
+  - Agree strongly with being shy, inhibited (31)
+  - Agree strongly with being considerate and kind (32)
+  - Agree strongly with doing things efficiently (33)
+  - Agree strongly with remaining calm in tense situations (34)
+  - Agree strongly with preferring routine work (35)
+  - Agree a little with liking to cooperate with others (42)
+  - Agree a little with being easily distracted (43)
+  - Agree a little with being sophisticated in art, music, or literature (44)
+- Need for Cognition scale responses indicate ambivalence or low preference for complex thinking:
+  - Disagree strongly with preferring complex to simple problems (1)
+  - Agree a little with liking responsibility requiring thinking (2)
+  - Agree a little with thinking not being fun (3)
+  - Agree a little with preferring little thought tasks (4, 8, 9)
+  - Agree a little with trying to avoid deep thinking (5)
+  - Agree a little with satisfaction in deliberating hard (6)
+  - Agree a little with only thinking as hard as necessary (7)
+  - Disagree a little with liking abstract thinking (14)
+  - Disagree a little with preferring intellectual difficult tasks (15)
+  - Agree a little with feeling relief after mental effort (16)
+  - Disagree a little with caring only that something gets the job done (17)
+  - Disagree a little with deliberating about issues not personally affecting (18)
+- Values rated highly important (7-9 scale):
+  - Trust (9)
+  - Wealth, Pleasure, Forgiveness, Influence, Competence, Ambition, Loyalty, Politeness, Power, Honesty, Compassion, Status, Civility (all 8)
+  - Humility, Achievement, Altruism, Excitement, Autonomy, Equality, Recognition, Tradition, Superiority (7)
+  - Harmony (6)
+- Minimal direct evidence of knowledge domains beyond demographics and self-reports.
+- Cognitive test performance self-estimate: 10 correct out of 42 (Question: How many of these questions do you think you answered correctly? Answer: 10)
+- Estimate of average US adult performance: 25 correct out of 42 (Question: How many do you think people from a representative sample of the US adult population would answer correctly? Answer: 25)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Understands inflation reduces purchasing power (money in account will buy less)
+  - Correctly identifies stocks as highest fluctuating asset
+  - Incorrectly answers that it is false that investing $1,000 in stock mutual fund could result in less than $1,000 (Answer: False)
+  - Correctly identifies diversification decreases risk
+  - Incorrectly identifies bonds as highest return over long term (Answer: Bonds, correct answer is stocks)
+  - Correctly knows about required minimum distributions after age 70.5
+  - Estimates credit card payoff time as 4 years
+  - Correctly answers probability and percentage questions mostly, except some errors (e.g., 10% disease expected 100 people out of 1,000)
+- Cognitive reasoning:
+  - Correctly answers logical syllogisms about certainty and logical conclusions in most cases, but some errors (e.g., incorrectly answers "No" to some valid conclusions)
+- Personality self-concept:
+  - Aspires to be less selfish, more patient, more self-controlled
+  - Believes ought to be more helpful, but sometimes lazy and overwhelmed
+  - Describes self as generous, loving, funny, putting others' needs first
+- Economic game behavior:
+  - Proposes to keep all $5 for self and send $0 to other in dictator game
+  - Accepts all offers as receiver, even $0
+  - In trust game, keeps $3 and sends $2; as receiver, returns substantial amounts but keeps majority
+  - Thoughts during decisions include fairness, not greedy, thoughtful, wanting more
+- Spending habits:
+  - Self-identifies as spendthrift (difficulty controlling spending)
+  - Sometimes has trouble limiting spending and sometimes trouble spending money
+  - More similar to Mr. B (hesitant to spend despite good deals)
+- Emotional and mental health:
+  - Does not feel sad but feels discouraged about the future
+  - Does not feel like a failure or worthless
+  - Feels disappointed in self
+  - Does not cry more than usual
+  - No loss of interest in others
+  - Makes decisions as well as before
+  - Takes extra effort to start work
+  - Sleeps worse than usual
+  - Gets tired more easily and from almost anything
+  - Appetite much worse now
+  - Has not lost much weight
+  - Worried about physical problems
+  - Less interested in sex than before
+  - Purposely trying to lose weight by eating less
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and control impressions
+  - High ability to read others' emotions and facial expressions
+- Self-concept clarity:
+  - Somewhat agrees that beliefs about self often conflict and change
+  - Generally agrees to having a clear sense of self
+  - Disagrees with frequent changes or uncertainty about self
+- Need for Closure:
+  - Agrees a little to disliking uncertainty, unpredictability, and ambiguous statements
+  - Strongly agrees with wanting quick solutions and relief after decisions
+- Maximizer tendencies:
+  - Strongly agrees with never settling for second best
+  - Strongly agrees with having highest standards for self
+  - Strongly agrees with difficulty finding clothing loved and difficulty shopping for gifts
+- Consumer uniqueness:
+  - Disagrees or neutral on seeking uniqueness or breaking social rules in consumption
+  - Agrees a little with disliking common products and avoiding popular brands
+- Logical reasoning:
+  - Correctly identifies card A to test rule "If A then 3"
+- Synonym and antonym tests show multiple incorrect answers, indicating limited vocabulary knowledge or misunderstanding.

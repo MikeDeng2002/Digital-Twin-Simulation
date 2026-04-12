@@ -1,0 +1,8 @@
+- Need for Closure: Generally low need for closure, indicated by disagreement with discomfort in uncertainty and impatience for quick solutions (Items 1,2,4,5,6,7,8,9,10,11,12,13,14,15 all answered mostly 1 or 2, indicating low need for closure)
+- Need for Cognition: Moderate to low; some ambivalence about complex problems and intellectual tasks, but generally enjoys thinking and problem-solving (Items 3,5,6,7,11,12,13,16,17,18 show mixed responses, with some agreeing to enjoy thinking but also some preference for less thought)
+- Maximizer: Low maximizer tendencies; strongly disagrees with maximizing behaviors such as always seeking better options or never settling for second best (Items 1-6 all answered 1 or 2)
+- Self-monitoring: Moderate self-monitoring; generally able to adjust behavior in social situations but low sensitivity to subtle social cues or lies (Items 1-7 mostly 4-6, Items 8-13 mostly 1-3)
+- Self-concept clarity: High clarity and consistency; strongly agrees to clear and stable self-concept (Items 1-12 mostly 1 or 5, with 5 indicating strong agreement to clarity)
+- Overall, this person reasons with moderate cognitive engagement, low urgency for closure, low maximizing tendencies, moderate social adaptability, and high self-concept clarity.
+
+w_social estimate: 0.7 -- The person shows strong empathy and concern for others (e.g., altruism, compassion, fairness in economic games), moderate self-monitoring, and values cooperation, supporting a moderately high social reasoning weight.

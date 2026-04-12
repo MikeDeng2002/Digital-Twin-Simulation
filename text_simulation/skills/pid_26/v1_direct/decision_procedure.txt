@@ -1,0 +1,18 @@
+- Need for Closure:
+  - Mixed responses; neither strongly agrees nor disagrees with discomfort about uncertainty (Item 1: Neither agree nor disagree)
+  - Dislikes ambiguous questions (Item 2: Disagree strongly)
+  - Prefers some order and routine (Items 3, 6, 7, 12, 13: Agree a little to agree strongly)
+  - Does not become impatient quickly (Item 9: Disagree a little)
+  - Overall moderate need for closure, tolerates some uncertainty but prefers structure (Items 1-15)
+- Need for Cognition:
+  - High need for cognition: strongly prefers complex problems, enjoys thinking, dislikes low-effort thinking (Items 1,2,3,4,5,6,7,8: mostly agree strongly or disagree strongly as appropriate)
+  - Likes intellectual challenges and problem solving
+- Maximizer:
+  - Does not strongly endorse maximizing; neither agrees nor disagrees with "never settle for second best" (Item 6: Neither agree nor disagree)
+  - Slight agreement with having high standards (Item 5: Agree a little)
+- Self-monitoring:
+  - Generally high self-monitoring: can alter behavior, control impressions, read emotions well (Items 1,2,5,7-10: Generally or certainly true)
+  - Some difficulty changing behavior (Item 3: Generally false)
+- Self-concept clarity:
+  - Very high clarity: strongly disagrees with conflicting or unstable self-beliefs, strongly agrees with clear sense of self (Items 1-11)
+- w_social estimate: 0.7 -- This estimate is based on the participant's high self-monitoring scores (Items 1,2,5,7-10), moderate need for closure with preference for structure (Items 3,6,7), and high need for cognition indicating thoughtful decision-making, combined with fair and reciprocal behavior in economic games and emphasis on fairness and cooperation in their thoughts.

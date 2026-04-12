@@ -1,0 +1,17 @@
+Need for Closure: Low to moderate. Disagrees strongly with liking a well-ordered life (1), dislikes predictable routines (1), but only slightly dislikes uncertainty (2-4). He does not rush to solutions (2-3) and is somewhat tolerant of ambiguity.
+
+Need for Cognition: Moderate to high. Strongly prefers complex problems (5), enjoys intellectual challenges (4-5), but also agrees strongly with "I only think as hard as I have to" (7), indicating some cognitive economy or selective engagement.
+
+Maximizer: Mixed. He agrees strongly with "I never settle for second best" (5), but only somewhat agrees with having the highest standards (2), and sometimes finds it hard to shop for gifts (4). He shows some maximizer tendencies but not extreme.
+
+Self-monitoring: Moderate. He reports high ability to alter behavior in social situations (6), but also some difficulty changing behavior (3-5), indicating situational flexibility with some limits.
+
+Self-concept clarity: Low to moderate. He agrees strongly that his self-beliefs conflict (4), change frequently (4), and that he sometimes feels not like the person he appears to be (5). He also disagrees somewhat with having a clear sense of self (2). This suggests some identity confusion or fluidity.
+
+Economic games: He proposes to keep $4 of $5 in the ultimatum game (selfish), but accepts all offers as receiver (pragmatic). In the trust game, he sends $2 and expects fair returns but keeps majority for himself, indicating moderate trust but self-protective behavior.
+
+Cross-scale inference: The combination of moderate need for cognition, low need for closure, and moderate self-monitoring suggests a person who is thoughtful but not rigid, flexible socially but with some internal conflict about self. The economic game behavior aligns with a pragmatic, somewhat self-interested but not exploitative social strategy.
+
+Contradictions: Cognitive test self-rating is very high (40/42), but vocabulary synonym and antonym answers show multiple errors, indicating possible overconfidence or misunderstanding in verbal knowledge.
+
+w_social estimate: 0.45 -- The respondent shows moderate social engagement and concern for others (agreeing with helpfulness, forgiveness, cooperation), but also significant self-focus and self-protectiveness in economic games. Self-monitoring is moderate, and self-concept clarity is low, suggesting some social uncertainty. The depressive symptoms and anxiety may reduce social motivation. The scales on empathy and social sensitivity are mixed, with some disagreement on trusting others. Overall, the moderate prosocial values and behaviors balanced with self-interest and emotional difficulties yield a mid-range social weighting.

@@ -1,0 +1,22 @@
+Need for Closure: High. This person prefers quick resolution, dislikes ambiguity, and seeks structured, predictable answers. This drives a preference for clear, confident numeric predictions rather than open-ended uncertainty.
+
+Need for Cognition: Low to moderate. Will invest analytical effort when necessary but prefers practical, straightforward reasoning over abstract or prolonged deliberation. This suggests numeric predictions will be based on heuristic reasoning combined with some factual knowledge rather than deep modeling.
+
+Maximizer: Moderate. Seeks best available information and compares alternatives but will settle once a satisfactory answer is found. This implies predictions will be well-considered but not exhaustively optimized.
+
+Self-Monitoring: High. Aware of social expectations and likely to moderate expressed views accordingly, but self-concept clarity is moderate, so some resistance to social pressure exists. Predictions may be calibrated to social norms and perceived credibility.
+
+Self-Concept Clarity: Moderate. Some internal conflict but generally stable self-view. This supports consistent prediction patterns over time.
+
+Economic Game Gap: Dictator game shows moderate selfishness (keeps 60%), ultimatum game acceptance threshold is rational (rejects very low offers), trust game shows high trust and generosity as receiver. This suggests pragmatic fairness: willing to be generous if reciprocated, but self-interested when unilateral. Predicts numeric estimates will balance optimism with caution.
+
+Intertemporal Patience: Moderate impatience. Prefers sooner smaller rewards unless delayed rewards are significantly better. This implies predictions may discount long-term outcomes somewhat, favoring nearer-term or more certain events.
+
+Cognitive Errors: Occasional semantic confusion (e.g., furtive=heinous), spatial reasoning uncertainty (cube rotations), but strong logical reasoning and numeric literacy. This suggests numeric predictions will be logically consistent but may occasionally misinterpret nuanced or abstract concepts.
+
+Social Desirability: Moderate to high. Self-reports likely somewhat biased toward socially acceptable answers, but not extreme. Behavioral tasks and cognitive tests provide more reliable signals.
+
+w_social estimate: 0.7  
+Reasoning: The estimate is driven by the high social desirability scores, high self-monitoring, and moderate self-concept clarity, indicating the person is socially aware and likely to moderate their expressed views to align with social norms. However, the presence of some internal conflict and moderate empathy suggests they do not fully conform or suppress personal beliefs. The cognitive test performance and economic game behavior support a pragmatic, balanced approach rather than purely socially driven responses. Conflicts between moderate Need for Cognition and high Need for Closure are resolved by assuming the person seeks quick, clear answers but with some analytical consideration, leading to socially calibrated but reasoned numeric predictions.
+
+# Summary for simulation of numeric predictions: This person will produce numeric forecasts that are moderately analytical but favor clarity and closure, balancing optimism with caution, discounting long-term uncertainty moderately, and influenced by social norms and fairness considerations. They will avoid extreme or fringe predictions, prefer mainstream consensus with some personal adjustment, and rely on heuristic reasoning supported by factual knowledge.

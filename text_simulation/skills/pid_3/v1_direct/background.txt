@@ -1,0 +1,145 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Male, age 65+ (Questions: Sex assigned at birth: 1 - Male; Age: 4 - 65+)
+- Some college education, no degree (Question: Highest level of schooling completed? Answer: 3 - Some college, no degree)
+- White race (Question: Race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Protestant religion, seldom attends religious services (Questions: Religion: 1 - Protestant; Frequency of attendance: 5 - Seldom)
+- Political identification: Independent, moderate views (Questions: Political party: 3 - Independent; Political views: 3 - Moderate)
+- Family income last year: $30,000-$50,000 (Question: Total family income? Answer: 2 - $30,000-$50,000)
+- Household size: 2 people (Question: Number of people in household? Answer: 2 - 2)
+- Employment status: Retired (Question: Current employment status? Answer: 7 - Retired)
+
+Personality (Big Five traits from self-report):
+- Low talkativeness (2 - Disagree a little)
+- Very low tendency to find fault with others (1 - Disagree strongly)
+- Very conscientious (3. Does a thorough job: 5 - Agree strongly; 13. Reliable worker: 5 - Agree strongly; 28. Perseveres until task finished: 5 - Agree strongly)
+- Emotionally stable (4. Is depressed, blue: 1 - Disagree strongly; 24. Emotionally stable: 5 - Agree strongly; 29. Can be moody: 1 - Disagree strongly)
+- Somewhat original and creative (5. Original, new ideas: 4 - Agree a little; 15. Ingenious, deep thinker: 4 - Agree a little; 25. Inventive: 5 - Agree strongly; 20. Active imagination: 5 - Agree strongly)
+- Somewhat reserved (6. Is reserved: 2 - Disagree a little; 31. Sometimes shy, inhibited: 5 - Agree strongly)
+- Helpful and unselfish (7. Helpful and unselfish: 4 - Agree a little; 32. Considerate and kind: 4 - Agree a little)
+- Relaxed, handles stress well (9. Relaxed: 4 - Agree a little; 34. Remains calm in tense situations: 4 - Agree a little)
+- Curious and intellectually engaged (10. Curious about many things: 5 - Agree strongly; 40. Likes to reflect, play with ideas: 5 - Agree strongly)
+- Assertiveness low to moderate (26. Assertive personality: 2 - Disagree a little)
+- Not cold or aloof (27. Can be cold and aloof: 2 - Disagree a little)
+- Values artistic/aesthetic experiences moderately (30. Values artistic experiences: 4 - Agree a little; 44. Sophisticated in art/music/literature: 4 - Agree a little)
+- Does things efficiently (33. Does things efficiently: 4 - Agree a little)
+- Prefers less routine work (35. Prefers routine work: 2 - Disagree a little)
+- Sociability moderate (36. Outgoing, sociable: 3 - Neither agree nor disagree)
+
+Need for Cognition:
+- Prefers complex problems (1. Prefer complex to simple: 4 - Agree a little)
+- Likes responsibility requiring thinking (2. Likes responsibility requiring thinking: 5 - Agree strongly)
+- Dislikes low thought tasks (4. Rather do something requiring little thought: 1 - Disagree strongly)
+- Does not avoid thinking (5. Avoid situations requiring deep thought: 1 - Disagree strongly)
+- Enjoys intellectual challenge (11. Enjoys new solutions: 4 - Agree a little; 13. Prefers puzzles: 4 - Agree a little; 14. Thinking abstractly appeals: 5 - Agree strongly; 15. Prefers intellectual, difficult tasks: 5 - Agree strongly)
+- Does not just think as little as possible (7. Only think as hard as have to: 2 - Disagree a little)
+- Finds satisfaction in mental effort (16. Feels relief after mental effort: 5 - Agree strongly)
+- Dislikes ignorance about how things work (17. Enough that something gets job done: 1 - Disagree strongly)
+
+Need for Closure:
+- Dislikes uncertainty (1. Don’t like uncertain situations: 5 - Agree strongly)
+- Dislikes ambiguous questions (2. Dislike questions with many answers: 4 - Agree a little)
+- Likes ordered life (3. Well ordered life suits temperament: 4 - Agree a little)
+- Dislikes not knowing what to expect (6. Don’t like to go into situation without knowing: 5 - Agree strongly)
+- Likes clear and structured life (12. Establishing consistent routine helps enjoy life: 4 - Agree a little; 13. Enjoys clear and structured mode of life: 4 - Agree a little)
+- Dislikes unpredictable situations (15. Dislike unpredictable situations: 4 - Agree a little)
+- Some impatience with unresolved problems (8. Dying to reach solution quickly: 4 - Agree a little)
+
+Maximizer:
+- Does not strongly endorse maximizing tendencies (1. Check other radio stations even if satisfied: 2 - Disagree a little)
+- Somewhat agrees with looking for better opportunities (2. On lookout for better opportunities: 4 - Agree a little)
+- Some difficulty shopping for gifts and finding loved clothing (3. Hard time finding clothing I love: 4 - Agree a little; 4. Hard time shopping for gift: 4 - Agree a little)
+- Neutral on having highest standards and never settling for second best (5. Highest standards for self: 3 - Neither agree nor disagree; 6. Never settle for second best: 3 - Neither agree nor disagree)
+
+Self-monitoring:
+- Moderate ability to alter behavior in social situations (1. Can alter behavior if needed: 4 - Somewhat true)
+- Moderate ability to control impression (2. Can control impression: 4 - Somewhat true)
+- Some difficulty changing behavior when image not working (3. Can change image readily: 3 - Somewhat false)
+- Generally does not have trouble changing behavior to suit situations (4. Trouble changing behavior: 2 - Generally false)
+- Mixed ability to adjust behavior to meet requirements (5. Can adjust behavior: 3 - Somewhat false)
+- Mixed ability to put up a good front (6. Difficulty putting up good front: 3 - Somewhat false)
+- Generally able to regulate actions once situation known (7. Easy to regulate actions: 4 - Somewhat true)
+- Some difficulty reading true emotions (8. Read emotions through eyes: 3 - Somewhat false)
+- Sensitive to facial expression changes (9. Sensitive to facial expression changes: 5 - Generally true)
+- Good intuition about others’ emotions and motives (10. Powers of intuition good: 5 - Generally true)
+- Usually can tell when joke is in bad taste (11. Can tell joke in bad taste: 5 - Generally true)
+- Can tell when said something inappropriate (12. Can tell when inappropriate: 5 - Generally true)
+- Mixed ability to detect lies (13. Know when someone lying: 3 - Somewhat false)
+
+Self-concept clarity:
+- Beliefs about self rarely conflict (1. Beliefs conflict: 2 - Disagree a little)
+- Opinions of self do not vary much day to day (2. Opinions vary day to day: 2 - Disagree a little)
+- Does not spend much time wondering who they really are (3. Spend time wondering who I am: 1 - Disagree strongly)
+- Sometimes feels not really the person they appear to be (4. Feel not really self: 3 - Neither agree nor disagree)
+- Usually sure about past self (5. Unsure about past self: 2 - Disagree a little)
+- Seldom experiences conflict between personality aspects (6. Seldom conflict: 4 - Agree a little)
+- Sometimes thinks knows others better than self (7. Know others better than self: 4 - Agree a little)
+- Beliefs about self do not change frequently (8. Beliefs change frequently: 1 - Disagree strongly)
+- Description of personality fairly stable (9. Description might differ day to day: 2 - Disagree a little)
+- Would likely tell others what really like (10. Would not tell others what really like: 2 - Disagree a little)
+- Generally has clear sense of who they are (11. Clear sense of self: 4 - Agree a little)
+- Sometimes hard to make up mind because unsure what want (12. Hard to make up mind: 3 - Neither agree nor disagree)
+
+Values (rated as guiding principles):
+- Pleasure: 8 (high)
+- Trust: 8 (high)
+- Competence: 8 (high)
+- Achievement: 8 (high)
+- Compassion: 8 (high)
+- Civility: 8 (high)
+- Loyalty: 7
+- Politeness: 7
+- Harmony: 7
+- Excitement: 7
+- Honesty: 7
+- Autonomy: 7
+- Forgiveness: 6
+- Altruism: 6
+- Equality: 6
+- Tradition: 6
+- Humility: 5
+- Ambition: 5
+- Wealth: 4
+- Influence: 3
+- Status: 3
+- Recognition: 3
+- Power: 2
+- Superiority: 2
+
+Financial literacy and economic understanding:
+- Correctly understands mortgage payments and interest (True)
+- Understands inflation reduces purchasing power (Answer: Less than today)
+- Recognizes stocks have highest fluctuations
+- Understands stock mutual funds can lose money
+- Knows diversification reduces risk
+- Incorrectly believes bonds give highest return over long term (Answer: Bonds)
+- Knows required minimum distributions after age 70.5
+- Knows credit card debt with minimum payment and interest will never be eliminated
+- Some errors in probability estimates (e.g., die rolls 50 times out of 1000, lottery winners 50 out of 1000, which are underestimates)
+- Correctly converts probabilities to percentages
+- Some errors in time and math problems (e.g., 100 machines take 20.1 minutes to make 100 widgets, which is incorrect)
+- Correctly solves bat and ball problem (ball costs $0.10)
+- Incorrectly answers lily pad doubling problem (answers 24 days instead of 47)
+- Correctly answers logical syllogisms mostly, but some errors (e.g., denies valid conclusions)
+
+Economic games (Ultimatum and Trust games):
+- Proposes to keep $3 and send $2 in $5 split (Ultimatum proposer)
+- Rejects offers that are very generous to self but low to other (rejects $0 for self, $5 for other; rejects $1 for self, $4 for other; rejects $2 for self, $3 for other)
+- Accepts offer of $3 for self, $2 for other
+- Rejects offers of $4 for self, $1 for other and $5 for self, $0 for other
+- As receiver in trust game, keeps some money and sends back a fair amount (e.g., keeps $4 and sends back $11 when sent $5; keeps $4 and sends back $8 when sent $4; keeps $3 and sends back $6 when sent $3)
+- Thoughts during decisions include confusion, fairness, generosity, feelings of dishonesty and unfairness when receiving
+
+Mental health and well-being:
+- No signs of depression or sadness (multiple items indicate no sadness, no guilt, no feelings of failure, no loss of interest)
+- Slightly more easily irritated than before
+- No loss of interest in others or sex
+- No purposeful weight loss
+- No increased worry about health
+- No increased tiredness or sleep problems
+- Can work as well as before
+
+Spending habits:
+- Moderate spending control (rated 7 on scale, sometimes has trouble limiting spending, rarely has trouble spending money)
+- Neither like Mr. A (impulsive spender) nor Mr. B (frugal spender), about the same or neither

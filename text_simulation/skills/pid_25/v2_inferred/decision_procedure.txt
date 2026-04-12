@@ -1,0 +1,9 @@
+Need for Closure: Low (disagree strongly with discomfort about uncertainty, impatience with ambiguity, and preference for quick solutions; agrees strongly with liking order and routine)  
+Need for Cognition: Low (disagrees strongly with preference for complex problems, intellectual challenges, and abstract thinking; prefers routine and simple tasks)  
+Maximizer: Low (disagrees strongly with seeking better options, dissatisfaction with current choices, or high standards for self beyond "doing a good job")  
+Self-monitoring: Moderate to high (answers indicate ability to adjust behavior to social situations, control impressions, and read others’ emotions well)  
+Self-concept Clarity: High (disagrees strongly with self-concept confusion, agrees strongly with clear sense of self)  
+Economic Game Behavior: Selfish and low trust (keeps all money in dictator game, accepts all offers as receiver, returns minimal amounts in trust game)  
+Cross-scale inference: Low need for cognition and low maximizer tendencies align with preference for routine, simple tasks, and low engagement in complex decision-making. High self-monitoring contrasts with low assertiveness and low ambition for power, indicating social sensitivity without dominance. Economic games confirm self-interest and low trust, consistent with low social risk-taking.
+
+w_social estimate: 0.3 -- The respondent shows moderate social sensitivity and empathy (high self-monitoring, emotional attunement), but her economic game behavior reveals low trust and a strong self-interest orientation. Her personality is socially cooperative and kind but not assertive or dominant. The low need for cognition and maximizer scores suggest limited engagement in complex social strategizing. Together, these scales indicate moderate social engagement but cautious and self-protective social behavior, leading to a below-average but not minimal social weighting.

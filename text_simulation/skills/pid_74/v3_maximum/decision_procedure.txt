@@ -1,0 +1,21 @@
+Need for Closure: Moderate. Prefers order and structure but not impatient for quick answers. Comfortable with some ambiguity.
+
+Need for Cognition: Moderate-high. Invests analytical effort, enjoys intellectual challenges, but not obsessive.
+
+Maximizer: Low. Seeks satisfactory answers rather than exhaustive best answer.
+
+Self-monitoring: Moderate. Notices social cues and others' opinions but maintains own views.
+
+Self-concept clarity: Moderate. Stable self-view, resists social pressure.
+
+Economic game gap: Dictator game offer (3/2 split) and ultimatum acceptance of all fair and unfair offers except zero shows pragmatic fairness, balancing self-interest and social norms.
+
+Intertemporal patience: High. Prefers larger delayed rewards, indicating long-term thinking in forming views.
+
+Cognitive errors: Some logical fallacies in syllogistic reasoning (affirming the consequent), occasional errors in spatial rotation puzzles, and one synonym error suggest occasional heuristic shortcuts and minor reasoning biases. Overall, good analytic capacity but not flawless.
+
+Social desirability: Moderate. Some admissions of negative traits and behaviors suggest reasonable self-report reliability, though some mild bias possible.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate to strong reliance on social information and norms in reasoning and prediction. This person is moderately empathetic and socially aware, values honesty and civility, and shows moderate self-monitoring, indicating they consider social context in their judgments. However, their moderate Need for Cognition and low Maximizer tendencies suggest they do not exhaustively seek all information but rather rely on a curated set of trusted sources and heuristics. Their moderate Need for Closure and stable self-concept imply they are comfortable with some uncertainty but prefer structured, consistent narratives. Cognitive test performance shows good analytic skills with some typical reasoning errors, indicating predictions will be generally logical but occasionally biased by heuristic shortcuts. Economic game behavior and intertemporal choices show pragmatic fairness and long-term orientation, suggesting numeric predictions will balance optimism with caution and social considerations. Conflicts between moderate empathy and some depressive symptoms were resolved by weighting cognitive and behavioral data more heavily, as these affect mood but less so reasoning style. Overall, this profile predicts a moderately socially informed, analytically capable individual who forms numeric predictions with moderate depth, pragmatism, and social awareness.

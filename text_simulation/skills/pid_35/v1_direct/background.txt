@@ -1,0 +1,98 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: 1 - Northeast)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 30-49 (Question: How old are you? Answer: 2 - 30-49)
+- Highest education level: Postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: 6 - Postgraduate)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: 2 - Roman Catholic)
+- Attends religious services more than once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 1 - More than once a week)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: 1 - Republican)
+- Political views: Very conservative (Question: In general, would you describe your political views as? Answer: 1 - Very conservative)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 4 - $75,000-$100,000)
+- Household size: 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4 - 4)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: 2 - Part-time employment)
+- Personality traits (Big Five, selected items):
+  - Highly talkative (Item 1: 5 - Agree strongly)
+  - Somewhat fault-finding (Item 2: 4 - Agree a little)
+  - Somewhat thorough and reliable (Items 3 and 13: 4 - Agree a little)
+  - Not depressed (Item 4: 1 - Disagree strongly)
+  - Somewhat reserved (Item 6: 4 - Agree a little)
+  - Helpful and unselfish (Item 7: 4 - Agree a little)
+  - Somewhat curious (Item 10: 5 - Agree strongly)
+  - Somewhat worried (Item 19: 4 - Agree a little)
+  - Somewhat imaginative (Item 20: 4 - Agree a little)
+  - Somewhat shy (Item 31: 4 - Agree a little)
+  - Generally trusting (Item 22: 4 - Agree a little)
+  - Somewhat lazy (Item 23: 4 - Agree a little)
+  - Emotionally stable (Item 24: 4 - Agree a little)
+  - Prefers routine work (Item 35: 4 - Agree a little)
+  - Outgoing and sociable (Item 36: 4 - Agree a little)
+  - Makes plans and follows through (Item 38: 4 - Agree a little)
+  - Likes to reflect and play with ideas (Item 40: 4 - Agree a little)
+  - Sophisticated in art, music, or literature (Item 44: 4 - Agree a little)
+- Need for Cognition (selected items):
+  - Disagrees somewhat with preference for complex problems and thinking (Items 1,2,3,4: mostly 2 - Disagree a little)
+  - Prefers small daily projects (Item 8: 4 - Agree a little)
+  - Likes abstract thinking and intellectual tasks somewhat (Items 14,15: 4 - Agree a little)
+  - Feels relief rather than satisfaction after mental effort (Item 16: 4 - Agree a little)
+  - Usually deliberates about issues even if not personally affected (Item 18: 4 - Agree a little)
+- Values (selected):
+  - Forgiveness: Highly important (9)
+  - Trust: Highly important (9)
+  - Competence: Important (7)
+  - Humility: Important (8)
+  - Altruism: Important (7)
+  - Ambition: Not important (1)
+  - Loyalty: Highly important (9)
+  - Honesty: Highly important (9)
+  - Compassion: Highly important (9)
+  - Tradition: Highly important (9)
+  - Wealth, Influence, Power, Status, Recognition, Superiority: Low importance (mostly 1 or 2)
+- Minimal materialism / preference for simplicity (all items 4 - Agree a little)
+- Empathy and emotional sensitivity:
+  - Generally agrees to being affected by friends' emotions (mostly 4 - Agree a little)
+  - Disagrees strongly with statements denying emotional impact (items 7,13: 1 - Disagree strongly)
+  - Can usually detect friends' emotions (items 9,14,16: 4 or 5)
+- Environmental concern moderate to low:
+  - Agrees a little that products should not harm environment (4)
+  - Disagrees a little that purchase habits are affected by environment (2)
+  - Neither agrees nor disagrees about concern for wasting resources (3)
+- Cognitive test performance:
+  - Estimated 35/42 correct answers (self-report)
+  - Correct answers on logical reasoning and puzzles indicate good logical reasoning skills
+- Financial literacy:
+  - Correctly identifies mortgage, inflation, risk, and investment concepts (e.g., 15-year mortgage, stocks risk and return)
+  - Correct answers on probability and percentages
+- Economic games:
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum Game)
+  - Accepts all offers as receiver, including unfair ones (accepts $0 for self)
+  - In Trust Game, keeps $3 and sends $2; as receiver, keeps about half and returns about half
+  - Thoughts during decisions emphasize fairness, mutual benefit, generosity
+- Self-reported personality and behavior:
+  - Does not give up easily, willing to admit mistakes, courteous, sometimes resentful and jealous, sometimes irritated by favors
+  - Organized, efficient, practical (7/9 ratings)
+  - Prefers rules and obligations, carries out duties seriously
+  - Not highly original or creative
+  - Low maximizer tendencies (disagrees with maximizing statements)
+  - Low self-monitoring (somewhat false to true on items)
+  - Self-concept clarity moderate (mostly disagrees with conflicting self-beliefs, agrees a little to clear sense of self)
+  - Need for closure moderate (agrees a little with preference for order, dislikes uncertainty)
+- Spending habits:
+  - Somewhat tight with money (4 on 1-11 scale)
+  - Rarely has trouble limiting or spending money
+  - Does not identify strongly with impulsive spending or extreme saving
+- Mood and mental health:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no irritability, no worthlessness
+  - Reports some physical worries (aches, upset stomach)
+  - Actively trying to lose weight by eating less
+- Consumer uniqueness and identity:
+  - Disagrees strongly with statements about seeking uniqueness or breaking social rules in consumption
+- Self-monitoring:
+  - Somewhat variable ability to adjust behavior in social situations (mostly 3-5 on 7-point scale)
+- Self-concept clarity:
+  - Mostly stable self-concept, little internal conflict, clear sense of self (items mostly 1-4)
+- Need for closure:
+  - Moderate preference for order, dislike of uncertainty, impatience with ambiguity (items mostly 4-5)
+- Maximizer tendencies:
+  - Disagrees with maximizing behavior, does not seek best options strongly

@@ -1,0 +1,22 @@
+Need for Closure: Moderate to high. Dislikes uncertainty, prefers well-ordered life and clear solutions, feels relief after decisions, and wants quick resolution to problems. However, some ambivalence about ambiguous situations. This suggests a preference for closure but with some tolerance for complexity.
+
+Need for Cognition: Moderate. Engages in thinking but avoids excessive mental effort, prefers manageable cognitive challenges, and sometimes feels relief after thinking hard. Likely to invest analytical effort when motivated but may avoid deep or prolonged analysis.
+
+Maximizer: Moderate. Has high standards and tries not to settle for second best but also shows satisficing tendencies ("I only think as hard as I have to"). Likely to seek good enough answers rather than perfect ones.
+
+Self-monitoring: Moderate to high. Can adjust behavior to social situations, notices others' emotions, but not always defers to social pressure. Shows some social awareness but maintains personal identity.
+
+Self-concept clarity: Moderate. Some internal conflict and frequent reflection on self, but generally stable self-view. Can resist social pressure but sometimes uncertain.
+
+Economic Game Gap: Proposes moderately fair splits, accepts fair offers, rejects low offers, and reciprocates moderately in trust games. Behavior aligns with strategic fairness and self-interest balance.
+
+Intertemporal Patience: Moderate to high patience, prefers larger delayed rewards, indicating long-term thinking in decision-making.
+
+Cognitive Errors: Some errors in vocabulary and abstract reasoning, occasional uncertainty in spatial tasks, and below-average self-estimated cognitive test performance. This implies some vulnerability to reasoning biases and errors in complex numeric prediction tasks, especially those requiring abstract or probabilistic reasoning.
+
+Social Desirability: Moderate. Self-reports show some social desirability bias but also admit to irritability and worry. Self-reports are generally reliable but should be interpreted with some caution.
+
+w_social estimate: 0.65  
+Reasoning: The estimate is driven by moderate to high conscientiousness and agreeableness, moderate need for closure, and moderate self-monitoring, indicating a person who is socially aware and motivated to present themselves well but also maintains personal standards and some independence. Cognitive test performance and vocabulary errors lower confidence in deep analytical reasoning, but moderate need for cognition and patience suggest some analytical effort. Economic game behavior shows strategic fairness but self-interest. The moderate minimalist and consumerism profiles suggest selective information curation and moderate research depth. Political and demographic context imply reliance on mainstream liberal-leaning sources and social networks for information. Conflicts between moderate cognitive engagement and desire for closure were resolved by weighting behavioral economic and personality signals more heavily, indicating a person who seeks closure but with some analytical depth and social awareness.
+
+This profile predicts numeric predictions on open questions will be moderately analytical but influenced by social and emotional factors, with a tendency to prefer clear, structured, and morally consistent narratives over highly uncertain or abstract probabilistic forecasts.

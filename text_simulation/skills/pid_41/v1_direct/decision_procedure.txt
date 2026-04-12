@@ -1,0 +1,25 @@
+- Need for Closure:
+  - Disagree a little with disliking questions with many answers (Q2: 2)
+  - Agree a little with preferring well-ordered life (Q3: 4)
+  - Agree a little with discomfort when not understanding reasons (Q4: 4)
+  - Agree strongly with feeling relieved after decision (Q7: 5)
+  - Agree strongly with desire to reach solution quickly (Q8: 5)
+  - Agree a little with impatience if no immediate solution (Q9: 4)
+  - Mixed on dislike of unpredictable situations (mostly neutral)
+- Need for Cognition:
+  - Generally agrees with enjoying thinking, complex problems, intellectual tasks (multiple items mostly 4)
+  - Disagrees with avoiding thinking or preferring simple tasks (mostly 2)
+- Maximizer:
+  - Highest standards for self (5 - Agree strongly)
+  - Never settle for second best (4 - Agree a little)
+  - Some difficulty shopping for gifts and clothing (4 - Agree a little)
+- Self-monitoring:
+  - Somewhat true that can alter behavior and control impression (mostly 4)
+  - Somewhat false that has trouble changing behavior (3)
+  - Generally true in reading emotions and facial expressions (mostly 5)
+- Self-concept clarity:
+  - Somewhat variable self-beliefs (mostly 4)
+  - Clear sense of self (4)
+  - Some conflict in self-beliefs (4)
+- Overall, this person shows moderate to high need for closure (wants order, quick decisions), moderate to high need for cognition (enjoys thinking), moderate maximizer tendencies (high standards), moderate self-monitoring (can adjust behavior somewhat), and moderate self-concept clarity (some variability but generally clear).
+- w_social estimate: 0.65 -- The person shows moderate social reasoning and awareness, as indicated by moderate self-monitoring (items 1-13, mostly 4s and 5s), empathy (agreement with understanding others’ feelings), and a balanced need for closure and cognition supporting thoughtful but socially aware decision-making.

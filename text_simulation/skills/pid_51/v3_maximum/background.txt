@@ -1,0 +1,59 @@
+Demographics: Male, age 50-64, White, living in the Southern US, married, full-time employed, high school graduate, family income $50,000-$75,000, atheist, politically independent with moderate views, household size 2. This suggests a middle-aged, stable family man with moderate socioeconomic status and a secular worldview. The Southern US location may imply exposure to a mix of traditional and moderate cultural influences but with a personal secular stance.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Talkative (2), Reserved (5), Quiet (5), Outgoing (2)  
+- Low Agreeableness: Tends to find fault (2), Cold/Aloof (2), Forgiving (4), Helpful (5), Considerate (5) — overall moderately high agreeableness with some nuance.  
+- Conscientiousness: Does a thorough job (4), Reliable (5), Perseveres (4), Organized (4), Efficient (6 self-report), but also some disorganization (4) and laziness (4) self-reported, indicating moderate conscientiousness with some inconsistency.  
+- Neuroticism: Worries a lot (4), Somewhat tense (2), Relaxed (4), Moody (2), Nervous (2), emotionally stable (4) — moderate emotional stability with some worry.  
+- Openness: Original (5), Curious (5), Imaginative (5), Inventive (4), Artistic interests (4), Sophisticated (4) — high openness to experience.
+
+Need for Cognition (18 items): Mostly agree a little to strongly with enjoying thinking, complex problems, intellectual tasks, and abstract thinking. Some ambivalence about deliberating long hours (3). Overall moderate to moderately high Need for Cognition.
+
+Values (24 items): Highest values include Forgiveness (8), Trust (8), Humility (8), Loyalty (8), Politeness (8), Honesty (8), Compassion (8), Civility (8), Equality (8), Family/Tradition (6), Wealth (6), Achievement (6). Low values on Power (3), Status (3), Recognition (2), Superiority (3). This reveals a worldview emphasizing social harmony, morality, fairness, and family loyalty over dominance or status.
+
+Minimalism (12 items): Generally agrees with avoiding excess possessions, restricting number of things, preferring simplicity, mindful ownership, but less agreement on sparse aesthetics or carefully curated belongings. Indicates moderate minimalism with some practical flexibility.
+
+Empathy (20 items): Mixed signals. Strong agreement on being helpful, kind, understanding friends’ emotions, but also some disagreement on being easily caught up in others’ feelings or sensing emotions before told. Suggests moderate empathy, more cognitive than emotional.
+
+Consumerism/Uniqueness: Strong disagreement with statements about seeking uniqueness via products, breaking social rules in consumption, or avoiding popular products. Indicates low consumer uniqueness drive, likely pragmatic and conventional in consumption.
+
+Social Desirability: Moderate to somewhat low. Some admissions of taking advantage of others, occasional jealousy denied, admits to some irritability and critical self-view. Self-monitoring scores moderate (some ability to adjust behavior but with exceptions). Self-concept clarity moderate (mostly stable self-view, little internal conflict).
+
+Cognitive Test Performance:  
+- Correctly answered 30/42 cognitive questions, slightly above average (self-estimated 30 vs population 28).  
+- Logical reasoning: Correct on many syllogisms but some errors on negation and converse fallacies (e.g., incorrectly concluding "Plants are not animals" from premises).  
+- Wason selection task: Chose F (incorrect card) instead of correct cards (A and 7), indicating some difficulty with conditional logic and falsification principle.  
+- Analogies and cube rotation tasks: Mostly correct, but some errors in spatial reasoning (selected E and G in cube rotation tasks, some of which were incorrect).  
+- Word associations: Synonym and antonym choices mostly correct, but some errors (e.g., ASTUTE synonym chosen as "lineal" which is incorrect; disparity synonym chosen as "assiduity" which is incorrect).  
+- Cognitive style: Tends to prefer concrete, practical thinking but also enjoys abstract and complex problems moderately.
+
+Word Association Chain: Starts with "bear" and quickly moves to "naked," "women," "boobs," "dummies," "dolls," "guys," "fellows," "girls," "women," "teens," "young," "old," "world," "federation," "government," "leader," "follower," "buddy," "friend." This chain shows a social and relational focus, with some repetition and a mix of concrete and abstract concepts. The early sexualized terms may indicate a spontaneous or associative style, but the chain settles into social and political terms, suggesting a mind that moves from concrete to social-political themes.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and send $2 (40% to other) as proposer.  
+- As responder, accepts offers down to $2 (40%) but rejects $1 (20%) and $0 offers.  
+- In trust game, sends $2 (out of $5), expects fair return, and returns about half of received money.  
+- Thoughts emphasize fairness, honesty, and niceness.  
+- Behavior indicates moderate fairness, pragmatic self-interest, and some social concern.
+
+Intertemporal Choice:  
+- Prefers smaller-sooner rewards over larger-later rewards until the difference is substantial.  
+- Shows moderate impatience but willing to wait for better offers.  
+- Indicates moderate temporal discounting, not extremely impulsive.
+
+Loss Framing:  
+- More sensitive to losses than gains, rejecting some offers involving losses even when expected value is better.  
+- Shows typical loss aversion.
+
+Depression and Anxiety Indicators:  
+- Reports some discouragement about the future, feelings of failure, disappointment in self, increased irritability, less interest in others and sex, more tiredness, and sleep difficulties.  
+- No severe depression or guilt.  
+- Reports severe physical symptoms like numbness and indigestion, and high worry about health.  
+- Suggests mild to moderate depressive symptoms with somatic concerns.
+
+Self-Concept and Self-Monitoring:  
+- Self-concept clarity moderate (mostly stable self-view).  
+- Self-monitoring moderate with some ability to adjust behavior but not highly flexible.  
+- Social desirability moderate; some admissions of faults and mistakes.
+
+Overall, the profile is of a moderately intelligent, moderately analytical, socially fair-minded, somewhat reserved middle-aged man with moderate cognitive reflection, moderate need for closure, moderate empathy, and a pragmatic but fair approach to social and economic decisions. He is somewhat cautious, values social harmony and family, and has mild depressive symptoms that may affect motivation and outlook.

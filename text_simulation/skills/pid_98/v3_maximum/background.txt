@@ -1,0 +1,37 @@
+Demographics: Female, age 30-49, White, U.S. citizen living in the Northeast, never married, full-time employed, household size 1, income $75,000-$100,000, politically liberal but identifies as "something else" rather than Democrat or Republican, religiously unaffiliated and seldom attends services. This suggests a relatively independent, urban or suburban professional with moderate to high socioeconomic status and exposure to diverse, liberal cultural environments.
+
+Big Five Personality (44 items): Scores cluster mostly at "Agree a little" (4) with few extremes. High on traits like talkative (4), original (4), helpful (4), curious (4), energetic (4), ingenious (4), forgiving (4), imaginative (4), considerate (4), calm (4), efficient (4), sociable (4), and sophisticated in arts (4). Some ambivalence on assertiveness (3), carelessness (3), tension (3), moodiness (4), laziness (4), rudeness (3), nervousness (3), and disorganization (2). Overall, this profile suggests a moderately extraverted, open, agreeable, and emotionally stable individual with a slight tendency toward moodiness and some self-perceived laziness.
+
+Need for Cognition (18 items): Mixed signals. The respondent agrees a little (4) with liking complex problems, responsibility requiring thinking, deliberating hard, and intellectual tasks, but also agrees a little (4) with avoiding deep thinking and only thinking as hard as necessary. This suggests moderate engagement with cognitive effort, with some ambivalence or fatigue toward sustained deep thinking.
+
+Values (24 items): Highest rated values (7-8) include Competence (7), Autonomy (7), Equality (7), and moderately high scores (6) on Achievement, Trust, Humility, Altruism, Loyalty, Politeness, Harmony, Excitement, Honesty, Compassion, Recognition. Lower importance on Influence (4), Tradition (4), and Superiority (4). Wealth, Pleasure, Ambition, Power, Status, Civility rated moderately (5-6). This indicates a worldview valuing personal effectiveness, independence, fairness, social harmony, and ethical behavior, with less emphasis on dominance or traditionalism.
+
+Minimalism (12 items): Strong disagreement with minimalism statements (mostly 1-2), except for a strong agreement (5) on having carefully curated possessions and moderate agreement (4) on being thoughtful about what is owned. This suggests the person is not minimalist in quantity but is selective and intentional about possessions, indicating a curated consumerism rather than accumulation or austerity.
+
+Empathy (20 items): Mostly "Agree a little" (4) on emotional contagion, understanding others' feelings, and social sensitivity, with some disagreement on emotional detachment. This indicates moderate to high empathy, with good social attunement and emotional responsiveness.
+
+Consumerism/Uniqueness: Strong agreement (5) on statements about seeking uniqueness through products, buying special or unusual items, and disliking common brands. Moderate agreement (4) on avoiding popular products and challenging social norms in consumption. This person values distinctiveness and personal expression through consumption, likely rejecting mass trends.
+
+Social Desirability: Not directly scored but some self-reports indicate honesty about negative traits (e.g., admitting to taking advantage of others, jealousy, irritation), suggesting moderate social desirability bias but overall reasonable self-report reliability.
+
+Cognitive Test Performance: Self-estimated 32/42 correct (above average), actual test answers show good logical reasoning (correct syllogistic and conditional logic answers), but some errors in simple riddles (e.g., "Emily’s father has three daughters" answer "June" instead of "Emily"), and a wrong answer on the cubic feet in a hole question (answered 18 instead of 0). This pattern suggests strong formal reasoning skills but occasional lapses in attention to question wording or overthinking simple problems.
+
+Word Association Chain: The chain moves logically and semantically from "paper" to "rain" through office supplies, furniture, room features, and natural elements, indicating coherent, associative thinking without tangents or unusual jumps.
+
+Economic Games: Proposes to keep $3 and give $2 in dictator game, accepts all offers except $0 in ultimatum game, and in the trust game keeps about half and returns about half, indicating moderate fairness, strategic generosity, and reciprocity.
+
+Intertemporal Choice: Prefers larger delayed rewards over smaller sooner ones consistently until amounts are equal or better, indicating moderate patience and future orientation.
+
+Loss Framing: More upset by multiple smaller losses than a single equivalent loss, indicating sensitivity to loss framing and mental accounting effects.
+
+Self-Monitoring: Scores mostly 5 (Generally true) on ability to adjust behavior, read emotions, and control impressions, indicating high self-monitoring and social perceptiveness.
+
+Self-Concept Clarity: Mixed responses with some agreement on fluctuating self-views and internal conflicts, but also some disagreement with instability, suggesting moderate self-concept clarity with some internal variability.
+
+Need for Closure: Moderate agreement with preference for order, dislike of uncertainty, desire for quick solutions, but not extreme impatience.
+
+Maximizer Scale: Mixed signals; some tendency to comparison shop and seek best options, but also some satisficing indicated.
+
+Consumer Spending: Self-reports moderate difficulty limiting spending (sometimes), low difficulty spending money, and neither tightwad nor spendthrift, indicating balanced financial behavior.
+
+Mood and Mental Health: No signs of depression or anxiety, some mild discouragement about the future, some worry about physical health but no major symptoms.

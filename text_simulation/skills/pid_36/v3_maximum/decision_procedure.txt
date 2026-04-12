@@ -1,0 +1,22 @@
+Need for Closure: Very low. Disagrees strongly with impatience, discomfort with uncertainty, and desire for quick resolution. Prefers well-ordered life but tolerates ambiguity and complexity.
+
+Need for Cognition: Very high. Enjoys deep thinking, complex problems, intellectual challenges, and long deliberation.
+
+Maximizer: High standards for self and decisions, seeks best possible answers rather than satisficing, but not compulsive in information comparison.
+
+Self-monitoring: Moderate-high. Can adjust behavior to social context but does not defer to others’ opinions; self-concept clarity is very high, indicating stable self-view resistant to social pressure.
+
+Self-concept Clarity: Very high. Clear, consistent self-identity, no internal conflict, confident in own views.
+
+Economic Game Gap: Proposes fair splits and accepts all offers, indicating prosocial but pragmatic fairness. In trust game, returns substantial amounts but keeps some, showing strategic generosity. Behavior matches stated values of altruism and fairness.
+
+Intertemporal Patience: Very high. Consistently prefers delayed rewards, indicating long-term thinking in forming views and decisions.
+
+Cognitive Errors: Very few logical errors; occasional semantic confusions in vocabulary tests suggest minor lapses under pressure but overall strong reasoning. Spatial reasoning good but not perfect.
+
+Social Desirability: Low bias, reliable self-reporting, honest about strengths and weaknesses.
+
+w_social estimate: 0.85  
+Reasoning: The estimate is driven by very high Agreeableness and Empathy scores, strong prosocial behavior in economic games, and expressed values prioritizing trust, loyalty, altruism, and equality. The person’s social cognition is sophisticated, with moderate-high self-monitoring but very high self-concept clarity, indicating social awareness without undue conformity. The low Need for Closure and high Need for Cognition suggest this person integrates social information thoughtfully rather than impulsively. Minor conflicts, such as occasional vocabulary errors, are outweighed by consistent logical reasoning and deep analytical engagement. The person’s political and cultural context (very liberal, Jewish, educated, affluent, Southern US) further supports a socially engaged, justice-oriented worldview. Overall, this profile predicts numeric predictions on open questions will be well-reasoned, socially informed, patient, and balanced between optimism and realism.
+
+# Summary for simulation: This individual will produce numeric predictions (e.g., Bitcoin price, AGI arrival) that reflect deep analytical thought, a preference for evidence-based reasoning, and a socially conscious perspective. They will avoid hasty conclusions, consider long-term trends, and weigh social and ethical implications. Their predictions will likely be moderate to optimistic but grounded in competence and trust in expert consensus rather than hype or sensationalism.

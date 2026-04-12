@@ -1,0 +1,22 @@
+Need for Closure: Very high (strong dislike of uncertainty, impatience for quick solutions, discomfort with ambiguity). This drives a preference for fast, definitive answers even if imperfect. Confidence: High.
+
+Need for Cognition: Very low (avoids deep thinking, finds mental effort unpleasant, prefers simple tasks). This limits analytical effort invested in numeric predictions. Confidence: High.
+
+Maximizer: High desire for best answers and high standards, but constrained by low NFC and cognitive ability, leading to frustration and possible satisficing under pressure. Confidence: Moderate.
+
+Self-monitoring: Moderate (some ability to read others' emotions and adjust behavior, but also difficulty putting up fronts, indicating inconsistent social adaptation). Confidence: Moderate.
+
+Self-concept Clarity: Very low (frequent changes in self-view, internal conflict, unstable identity). This instability may cause susceptibility to social influence but also internal confusion. Confidence: High.
+
+Economic Game Gap: Proposes moderately generous offers ($2 kept, $3 sent) but as receiver keeps all money, indicating strategic self-interest and distrust of reciprocity. Thought reports ("I'm poor and shouldn't give away money") confirm self-protective, risk-averse economic behavior. Confidence: High.
+
+Intertemporal Patience: Strong preference for immediate rewards over delayed ones (chooses smaller-sooner over larger-later consistently), indicating impatience and short-term focus. Confidence: High.
+
+Cognitive Errors: Frequent logical errors in syllogisms and reasoning tasks, concrete and literal thinking style, poor abstract reasoning, and some vocabulary misunderstandings. This implies numeric predictions will be biased by concrete heuristics, misunderstanding of probabilities, and logical fallacies. Confidence: High.
+
+Social Desirability: Low bias, candid self-reporting of negative traits and mental health issues, increasing trustworthiness of self-reports. Confidence: High.
+
+w_social estimate: 0.35  
+Reasoning: The estimate reflects moderate weighting of social and emotional information in this person's reasoning, driven by very high empathy and social sensitivity but constrained by low cognitive engagement and unstable self-concept. The person relies heavily on social cues and emotional resonance but lacks the cognitive resources or motivation for deep analytical processing. Their high need for closure and impatience push them toward quick, emotionally satisfying answers rather than nuanced, data-driven predictions. Conflicts arise between their maximizer tendencies (seeking best answers) and low NFC and cognitive ability, resolved by satisficing and reliance on social heuristics. The low self-concept clarity and mental health challenges further reduce consistent analytical reasoning, increasing reliance on social and emotional inputs. This profile predicts numeric predictions will be emotionally biased, socially influenced, and cognitively shallow, with a preference for simple, clear, and socially validated answers.
+
+# Summary for simulation: This person will produce numeric predictions that are socially and emotionally influenced, favor quick closure, avoid complex probabilistic reasoning, and rely on concrete heuristics and social consensus cues. They will likely undervalue abstract or technical data and overvalue anecdotal or socially endorsed information.

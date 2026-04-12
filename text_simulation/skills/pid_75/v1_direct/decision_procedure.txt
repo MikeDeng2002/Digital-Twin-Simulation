@@ -1,0 +1,35 @@
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty (Item 1: 5 - Agree strongly)
+  - Agrees with disliking ambiguous questions (Item 2: 4)
+  - Agrees with preference for ordered life and routine (Items 3, 12, 13: 4,4,5)
+  - Agrees with discomfort when not understanding reasons (Item 4: 4)
+  - Agrees with irritation when group disagreement occurs (Item 5: 4)
+  - Agrees with dislike of unpredictable people and situations (Items 10, 15: 5,5)
+  - Wants quick solutions and gets impatient if not found immediately (Items 8,9: 5,4)
+
+- Need for Cognition:
+  - Enjoys complex problems and thinking (Items 1,2,6,11: 4,4,5,5)
+  - Strongly disagrees with minimal thinking (Items 3,7: 1,1)
+  - Likes abstract thinking and puzzles (Items 13,14: 4,4)
+  - Usually deliberates about issues (Item 18: 4)
+  - Feels relief after mental effort (Item 16: 5)
+
+- Maximizer:
+  - Somewhat agrees with high standards and never settling for second best (Items 5,6: 4,4)
+  - Strongly agrees difficulty shopping for gifts and clothing loved (Items 3,4: 5,5)
+  - Neutral on checking for better options (Item 1: 3)
+
+- Self-monitoring:
+  - Generally true can control impression (Item 2: 5)
+  - Somewhat true can alter behavior (Items 1,5,7: 4,4,4)
+  - Somewhat false on trouble changing behavior (Items 3,4: 3,3)
+  - Generally good at reading emotions and detecting lies (Items 8,10,11,12,13: 5,5,5,5,5)
+  - Somewhat true on sensitivity to facial expressions (Item 9: 4)
+
+- Self-concept clarity:
+  - Generally clear sense of self (Item 11: 4)
+  - Disagrees with frequent changes in self-beliefs (Items 2,8,9: 1-2)
+  - Disagrees with spending much time wondering about self (Item 3: 2)
+  - Disagrees with difficulty making up mind (Item 12: 2)
+
+w_social estimate: 0.7 -- This estimate is based on moderate to high scores on empathy and social sensitivity items (e.g., Items 3,5,9,10 in empathy section), generally cooperative and fair behavior in economic games, and moderate self-monitoring ability (Items 2,8,10 in self-monitoring). The person values harmony, altruism, and cooperation highly (values section), but also shows a strong need for closure and preference for order, which may moderate social flexibility.

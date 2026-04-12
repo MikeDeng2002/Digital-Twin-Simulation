@@ -1,0 +1,28 @@
+- Need for Closure:
+  - Item 1: "I don’t like situations that are uncertain." Answer: 4 (Agree a little)
+  - Item 8: "When I am confronted with a problem, I’m dying to reach a solution very quickly." Answer: 5 (Agree strongly)
+  - Item 9: "I would quickly become impatient and irritated if I would not find a solution to a problem immediately." Answer: 4 (Agree a little)
+  - Item 6: "I don’t like to go into a situation without knowing what I can expect from it." Answer: 4 (Agree a little)
+- Need for Cognition:
+  - Item 1: "I would prefer complex to simple problems." Answer: 1 (Disagree strongly)
+  - Item 3: "Thinking is not my idea of fun." Answer: 4 (Agree a little)
+  - Item 6: "I find satisfaction in deliberating hard and for long hours." Answer: 4 (Agree a little)
+  - Item 14: "The notion of thinking abstractly appeals to me." Answer: 2 (Disagree a little)
+- Maximizer:
+  - "I never settle for second best." Answer: 5 (Agree strongly)
+  - "No matter what I do, I have the highest standards for myself." Answer: 4 (Agree a little)
+  - "I often find it difficult to shop for a gift for a friend." Answer: 5 (Agree strongly)
+  - "When shopping, I have a hard time finding clothing that I really love." Answer: 5 (Agree strongly)
+- Self-monitoring:
+  - "In social situations, I have the ability to alter my behavior if I feel that something else is called for." Answer: 5 (Generally true)
+  - "I have the ability to control the way I come across to people, depending on the impression I wish to give them." Answer: 5 (Generally true)
+  - "I am often able to read people's true emotions correctly through their eyes." Answer: 6 (Certainly, always true)
+  - "In conversations, I am sensitive to even the slightest change in the facial expression of the person I'm conversing with." Answer: 6 (Certainly, always true)
+- Self-concept clarity:
+  - "My beliefs about myself often conflict with one another." Answer: 4 (Agree a little)
+  - "On one day I might have one opinion of myself and on another day I might have a different opinion." Answer: 4 (Agree a little)
+  - "In general, I have a clear sense of who I am and what I am." Answer: 4 (Agree a little)
+  - "I seldom experience conflict between the different aspects of my personality." Answer: 2 (Disagree a little)
+  - "My beliefs about myself seem to change very frequently." Answer: 2 (Disagree a little)
+
+w_social estimate: 0.7 -- This person shows moderate to high self-monitoring (items 1-3 in Self-monitoring scale rated 5 or 6), a moderate need for closure (items 1,6,8,9 rated 4-5), moderate need for cognition but with some ambivalence (items mostly 2-4), and a strong maximizer tendency (items rated 4-5). The self-concept clarity is moderate (mostly 4s with some disagreement on stability). These indicate a decision procedure that values social cues and quick closure but also maintains some reflective thinking, supporting a moderately high social reasoning weight.

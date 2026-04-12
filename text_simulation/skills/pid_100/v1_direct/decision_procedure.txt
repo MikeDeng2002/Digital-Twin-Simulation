@@ -1,0 +1,21 @@
+- Need for Closure:
+  - Dislikes uncertainty somewhat (Item 1: 4 - Agree a little; Item 4: 5 - Agree strongly; Item 6: 5 - Agree strongly; Item 9: 2 - Disagree a little; Item 14: 3 - Neither agree nor disagree)
+  - Does not like unpredictable situations strongly (Item 15: 3 - Neither agree nor disagree)
+  - Does not consult many opinions before forming views (Item 14: 1 - Disagree strongly)
+- Need for Cognition:
+  - Strong preference for complex problems and thinking (Items 1,2,11,14: 5 - Agree strongly)
+  - Enjoys intellectual challenge (Items 3,4,5: 1 - Disagree strongly)
+  - Deliberates about issues even if not personally affected (Item 18: 5 - Agree strongly)
+- Maximizer:
+  - Does not strongly endorse maximizing tendencies (Item 1: 1 - Disagree strongly; Item 5: 2 - Disagree a little; Item 6: 4 - Agree a little; Item 3: 4 - Agree a little)
+- Self-monitoring:
+  - Generally able to adjust behavior to social situations (Items 1,2,5: 4-5 - Somewhat to generally true)
+  - Good at reading others’ emotions (Items 8,10,11,12: 5 - Generally true)
+  - Some difficulty putting up a good front (Item 6: 4 - Somewhat true)
+- Self-concept clarity:
+  - Somewhat clear sense of self (Item 11: 4 - Agree a little)
+  - Some fluctuation in self-beliefs (Items 2,8,9: 4 - Agree a little)
+  - Does not experience strong internal conflict (Item 1: 1 - Disagree strongly)
+  - Sometimes unsure what they want (Item 12: 4 - Agree a little)
+
+w_social estimate: 0.7 -- The person shows moderate to high social reasoning capacity, indicated by generally good self-monitoring (Items 2,5,8,10,11,12), empathy (strong agreement on emotional sensitivity items), and a somewhat clear but flexible self-concept (Self-concept clarity items). The moderate Need for Closure and high Need for Cognition suggest thoughtful, deliberate decision-making with some tolerance for ambiguity, supporting a social reasoning estimate above average but not maximal.

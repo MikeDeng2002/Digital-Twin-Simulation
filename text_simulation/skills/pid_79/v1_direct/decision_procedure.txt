@@ -1,0 +1,16 @@
+- Need for Closure:
+  - Strong agreement with items indicating dislike of uncertainty and preference for order and quick decisions (Items: 1 - Agree strongly, 4 - Agree strongly, 6 - Agree strongly, 7 - Agree strongly, 8 - Agree strongly, 10 - Agree strongly, 11 - Agree strongly, 12 - Agree strongly, 13 - Agree strongly, 15 - Agree strongly)
+- Need for Cognition:
+  - Strong preference for thinking and intellectual challenge (Items: 1 - Agree strongly, 2 - Agree strongly, 3 - Disagree strongly, 4 - Disagree strongly, 5 - Disagree strongly, 7 - Disagree strongly, 10 - Agree strongly, 11 - Agree strongly, 13 - Agree strongly, 14 - Agree strongly, 15 - Agree strongly)
+- Maximizer:
+  - Often checks for better options (Item 1 - Agree strongly)
+  - Does not always seek highest standards or never settle for second best (Items 2 - Disagree a little, 5 - Disagree a little, 6 - Agree a little, 7 - Neither agree nor disagree)
+- Self-monitoring:
+  - High ability to read and adjust behavior (Items 1 - Certainly always true, 2 - Somewhat true, 5 - Generally true, 6 - Certainly always true, 8 - Certainly always true, 9 - Generally true, 10 - Certainly always true, 11 - Certainly always true, 12 - Certainly always true, 13 - Certainly always true)
+  - Some difficulty changing behavior when image not working (Item 3 - Generally false, 7 - Generally false)
+- Self-concept clarity:
+  - Clear sense of self, little internal conflict (Items 1 - Disagree strongly, 2 - Disagree strongly, 3 - Disagree strongly, 6 - Agree strongly, 8 - Disagree strongly, 9 - Disagree strongly, 11 - Agree strongly)
+  - Some uncertainty about past self (Items 4 - Agree a little, 5 - Agree a little)
+  - Does not have conflicting beliefs or frequent changes in self-view (Items 1,2,3,8,9 all Disagree strongly)
+  
+w_social estimate: 0.8 -- The person shows high self-monitoring ability with strong social sensitivity and emotional intuition (Self-monitoring items 1,6,8,10,11,12,13 all rated highly), combined with a clear self-concept and a strong need for closure indicating preference for order and predictability in social interactions.

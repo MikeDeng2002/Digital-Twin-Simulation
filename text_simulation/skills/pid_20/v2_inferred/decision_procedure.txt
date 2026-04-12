@@ -1,0 +1,15 @@
+The respondent’s Need for Closure scale responses (items 1-15) mostly agree a little or strongly with preference for order, predictability, and quick decision-making, indicating moderate need for closure. The Need for Cognition scale responses show moderate to strong agreement with enjoying thinking and intellectual challenges, indicating a balanced cognitive style that values both closure and deep thinking.
+
+Maximizer scale items (shopping/gift difficulty and standards) show moderate agreement with difficulty in finding perfect options but no strong maximization tendencies, suggesting satisficing behavior with some aspiration for quality.
+
+Self-monitoring scale items indicate generally high self-monitoring ability (items 1,2,5,7,9,10), with the ability to adjust behavior in social situations and read others’ emotions well, supporting social adaptability.
+
+Self-concept Clarity scale responses show strong agreement with a clear, stable self-concept and little internal conflict or confusion, indicating psychological stability.
+
+Economic game behavior shows moderate self-interest balanced with fairness: the respondent proposes to keep $3 of $5 and send $2, accepts all offers except the most selfish, and in the trust game keeps $4 and sends $1 but returns a fair amount when in the receiver role. This suggests moderate social trust and reciprocity.
+
+Cross-scale inference: The moderate Need for Closure and high Need for Cognition scales align with a person who prefers structure but enjoys intellectual engagement, supporting a balanced decision-making style. Self-monitoring and self-concept clarity scales agree on social competence and psychological stability. Economic games align with these by showing pragmatic fairness.
+
+No major contradictions are evident.
+
+w_social estimate: 0.6 -- The respondent demonstrates moderate social orientation, balancing self-interest with fairness and cooperation in economic games, showing good social adaptability (Self-monitoring scale), and valuing loyalty, politeness, and harmony (Values). The moderate Need for Closure and high Need for Cognition suggest a thoughtful but structured approach to social interactions, supporting a social weighting above average but not highly altruistic or communal.

@@ -1,0 +1,9 @@
+Inferred from education (college graduate/some postgrad), income (>$100k), and liberal political identity: likely sources include reputable news outlets with a liberal or centrist bias (e.g., NPR, The New York Times, The Atlantic) and academic or professional journals for business and environmental topics, given self-employment and environmental concern.
+
+Inferred from high Need for Cognition and openness: likely to use analytical and in-depth sources such as long-form journalism, podcasts, and books rather than superficial or entertainment-focused media.
+
+Inferred from agnostic and low religious service attendance: unlikely to use religious media or faith-based news sources.
+
+Inferred from moderate self-monitoring and social awareness: likely to use social media selectively, possibly for professional networking or interest groups, but not heavily for news.
+
+Sources unlikely to be used: highly partisan conservative media (due to political views), tabloid or sensationalist media (due to high need for cognition and preference for accuracy), and religious media (due to agnostic identity and non-attendance).

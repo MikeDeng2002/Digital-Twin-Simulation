@@ -1,0 +1,17 @@
+Need for Closure: Low to moderate. She disagrees strongly with impatience and discomfort with ambiguity (items 5, 9 on Need for Closure), and shows tolerance for uncertainty (e.g., "I don’t like situations that are uncertain" 4 - agree a little, but other items show neutrality or disagreement). She does not rush to decisions and is not irritated by differing opinions.
+
+Need for Cognition: Moderate. She agrees somewhat with enjoying thinking and problem-solving (items 1, 2, 6, 7, 11), but also shows some ambivalence (disagreeing with "thinking is fun" strongly, and "puzzles" strongly). This suggests she likes intellectual engagement but not obsessively.
+
+Maximizer: Moderate. She has high standards for herself (item 5 - "No matter what I do, I have the highest standards" 5), but does not strongly endorse "never settling for second best" (3). She is somewhat selective but not perfectionistic.
+
+Self-monitoring: Moderate to high. She reports generally true on items about adjusting behavior in social situations (items 1-3, 5, 7), and ability to read others' emotions (items 8, 11, 12, 13). However, she denies high emotional contagion or being easily affected by others' feelings, indicating controlled social awareness.
+
+Self-concept Clarity: High. She strongly disagrees with statements about conflicting self-beliefs and frequently changing self-views, and agrees with having a clear sense of self (item 11).
+
+Economic Game Behavior: Proposes to keep a majority share but offers a fair split ($3/$2). As receiver, accepts all offers, including keeping some and returning some in the tripled money game, indicating fairness and reciprocity but also self-interest.
+
+Cross-scale inference: The moderate need for cognition aligns with her cognitive test performance and problem-solving approach. The low need for closure aligns with her tolerance for ambiguity and moderate political stance. The moderate maximizer and high conscientiousness align with her high standards but balanced decision-making in economic games. Self-monitoring and self-concept clarity scales agree on a socially aware but stable self.
+
+No contradictions are evident.
+
+w_social estimate: 0.55 -- The respondent shows moderate social orientation, balancing self-interest with fairness in economic games, moderate self-monitoring and social awareness, and values emphasizing loyalty, politeness, and compassion. Her low extraversion and moderate emotional boundary suggest she is not highly socially outgoing but maintains meaningful social connections and responsibilities. The agreement among self-monitoring, economic game reciprocity, and values supports a moderate social engagement estimate.

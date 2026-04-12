@@ -1,0 +1,17 @@
+Need for Closure: Moderate to low. The respondent neither strongly dislikes uncertainty nor strongly seeks quick closure (items mostly 3-4), but shows some impatience with unresolved problems (items 8-9). This suggests moderate tolerance for ambiguity.
+
+Need for Cognition: Mixed signals. Some items indicate avoidance of deep thinking (item 5: strongly agree to avoiding deep thought), but others show some enjoyment of puzzles and intellectual tasks (items 13, 11). Overall, moderate but conflicted.
+
+Maximizer: Moderate. The respondent neither strongly maximizes nor satisficies, with some ambivalence about always seeking the best (items mostly 3-4).
+
+Self-monitoring: Moderate with some inconsistency. The respondent can adjust behavior somewhat but not always effectively (items 3-6).
+
+Self-concept clarity: Moderate to low. Some uncertainty and fluctuation in self-beliefs.
+
+Economic games: The respondent proposes to keep a majority share but offers a fair portion to others, and accepts moderately fair offers, rejecting very low offers. In the trust game, the respondent keeps a large share but returns some money, indicating moderate trust and reciprocity but also self-interest.
+
+Cross-scale inference: The moderate self-monitoring and moderate need for cognition align with the economic game behavior showing balanced self-interest and fairness. The moderate self-concept clarity and moderate need for closure suggest some internal conflict but reasonable decision-making stability.
+
+No major contradictions are evident; the scales generally align on a profile of a moderately conscientious, somewhat self-interested but fair individual with moderate cognitive engagement and some identity uncertainty.
+
+w_social estimate: 0.55 -- The estimate is driven by moderate self-monitoring (items 1,3,4), moderate need for cognition (some avoidance of deep thought but some puzzle enjoyment), and economic game behavior showing balanced fairness and reciprocity. The respondent is neither highly socially attuned nor socially avoidant, indicating a moderate social weighting in decisions.

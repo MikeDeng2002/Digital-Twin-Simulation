@@ -1,0 +1,21 @@
+- Need for Closure:
+  - Disagrees strongly with disliking ambiguous questions (Item 2: 1 - Disagree strongly)
+  - Agrees a little with disliking uncertainty (Item 1: 4 - Agree a little)
+  - Likes ordered life and consistent routines (Items 3 and 12: 5 - Agree strongly)
+  - Feels relieved when making decisions (Item 7: 4 - Agree a little)
+  - Disagrees strongly with impatience for immediate solutions (Item 9: 1 - Disagree strongly)
+- Need for Cognition:
+  - Generally agrees with enjoying thinking, problem solving, and intellectual challenges (Items 1,2,6,11,13,14,18 mostly 4 or 5)
+  - Disagrees strongly with avoiding thinking or preferring low-effort tasks (Items 3,4,5,7,8,9 mostly 1 or 2)
+- Maximizer:
+  - Strongly agrees with having highest standards and never settling for second best (Items 5 and 6: 5 - Agree strongly)
+  - Agrees strongly with being on lookout for better opportunities (Item 2: 5 - Agree strongly)
+- Self-monitoring:
+  - Generally low self-monitoring; some ability to change behavior when needed (Items 1,2,3,5,6,7,12 mostly 2-4)
+  - Strong ability to read emotions and detect lies (Items 8,12,13: 5-6)
+- Self-concept clarity:
+  - Mixed clarity: agrees that beliefs about self change frequently and sometimes opinions vary (Items 2,7,8,9: 4-5)
+  - Has a generally clear sense of self (Item 11: 5 - Agree strongly)
+  - Some difficulty making up mind due to uncertainty about wants (Item 12: 4 - Agree a little)
+
+w_social estimate: 0.6 -- This estimate is based on moderate need for closure (Items 1,2,3,7,9,12), high need for cognition (Items 1-2,6,11,13,14,18), strong maximizer tendencies (Items 5,6), moderate self-monitoring with good emotional reading skills (Items 2,3,8,12,13), and moderate self-concept clarity (Items 2,7,8,11,12), indicating a balanced but somewhat socially aware and reflective decision-making style.

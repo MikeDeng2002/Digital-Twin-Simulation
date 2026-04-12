@@ -1,0 +1,16 @@
+- Need for Closure:
+  - Somewhat dislikes uncertainty and unpredictability (Items 1, 4, 5, 6, 15: Agree a little to strongly)
+  - Dislikes ambiguous statements (Items 2, 10, 11: Disagree a little)
+- Need for Cognition:
+  - Strong preference for complex problems and thinking (Items 1, 2, 6, 10, 11, 13, 14, 15, 18: Agree strongly)
+  - Dislikes tasks requiring little thought (Items 3, 4, 5, 7, 9, 12, 16, 17: Disagree strongly or a little)
+- Maximizer:
+  - Does not check for better options when satisfied (Disagree strongly)
+  - Strongly seeks better opportunities and has high standards (Agree strongly or a little)
+- Self-monitoring:
+  - Somewhat true that can alter behavior to suit situations (Mostly 4 - Somewhat true but with exceptions)
+  - Generally false that has trouble changing behavior to suit situations
+- Self-concept clarity:
+  - Strongly clear and consistent self-concept (Agree strongly on clarity, Disagree strongly on instability)
+  
+w_social estimate: 0.7 -- This person shows moderate to high social reasoning and awareness, indicated by strong empathy items (e.g., items 2, 3, 5 in empathy scale), moderate self-monitoring (items mostly 4), and a clear self-concept (self-concept clarity items 11 and 6). Their need for closure is moderate (agree a little to strongly on some items), and they have a high need for cognition, suggesting thoughtful and deliberate decision-making in social contexts.

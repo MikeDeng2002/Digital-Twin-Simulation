@@ -1,0 +1,90 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Male (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age between 30-49 (Question: How old are you? Answer: 2 - 30-49)
+- Highest education level completed: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: 4 - Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Other (Question: What is your present religion, if any? Answer: 11 - Other)
+- Attends religious services a few times a year (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 4 - A few times a year)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: 1 - Republican)
+- Political views: Conservative (Question: In general, would you describe your political views as? Answer: 2 - Conservative)
+- Household size: More than 4 people (Question: Including yourself, how many people currently live in your household? Answer: 5 - More than 4)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Income: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: 5 - $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Talkative (5 - Agree strongly)
+  - Somewhat fault-finding (4 - Agree a little)
+  - Thorough and reliable worker (4 - Agree a little)
+  - Not depressed (2 - Disagree a little)
+  - Original, inventive, and imaginative (5 - Agree strongly)
+  - Helpful and unselfish (4 - Agree a little)
+  - Relaxed and emotionally stable: mixed (2-3)
+  - Curious and deep thinker (4 - Agree a little)
+  - Assertive (5 - Agree strongly)
+  - Forgiving nature: disagrees a little (2)
+  - Organized and efficient (mostly 4-7 on related items)
+  - Outgoing and sociable (4 - Agree a little)
+  - Somewhat easily distracted (4 - Agree a little)
+  - Artistic interests: neutral to low (2-3)
+- Need for Cognition (selected items):
+  - Neither prefers complex nor simple problems (3)
+  - Neutral or slightly positive about thinking and intellectual tasks (mostly 3-5)
+  - Disagrees strongly with thinking only as hard as necessary (7: 1 - Disagree strongly)
+  - Enjoys coming up with new solutions (11: 5 - Agree strongly)
+  - Likes abstract thinking (14: 4 - Agree a little)
+- Values (rated as guiding principles):
+  - Trust, Altruism, Ambition, Loyalty, Excitement rated highly (8)
+  - Wealth, Competence, Humility, Achievement, Politeness, Harmony, Compassion, Civility rated moderately (6-7)
+  - Power, Status, Autonomy, Tradition, Superiority rated low (2-3)
+  - Equality and Influence rated moderately (5)
+- Minimal interest in minimalism or simplicity in possessions (mostly disagree strongly or disagree a little on minimalism items)
+- Empathy and social sensitivity:
+  - Generally agrees a little or strongly that they can understand friends’ emotions and feelings (items mostly 3-5)
+  - Disagrees strongly that friends’ emotions don’t affect them (1)
+  - Somewhat sensitive to others’ feelings but not overly so (mixed 2-4)
+- Environmental concern: agrees a little on environmental responsibility and willingness to be inconvenienced for environment
+- Cognitive test self-estimate: believes answered 36/42 correctly, US average 15/42
+- Financial literacy:
+  - Correctly identifies mortgage, inflation, risk diversification, and withdrawal rules
+  - Some errors in credit card debt payoff (answered "never" to payoff time)
+  - Correctly estimates probabilities and expected values in lotteries and dice rolls
+- Depression and mood:
+  - Does not feel sad or discouraged but reports some guilt, disappointment, and self-criticism
+  - Reports waking up earlier than usual and difficulty sleeping
+  - Reports decreased appetite and some weight loss
+  - Reports being less interested in sex and others than before
+  - Reports some increased irritability and tiredness
+- Self-concept:
+  - Clear sense of who they are (5 - Agree strongly)
+  - Disagrees strongly with conflicting self-beliefs or frequent changes in self-view
+- Need for Closure:
+  - Somewhat agrees with preference for order and dislike of uncertainty (mostly 4 - Agree a little)
+  - Disagrees with dislike of ambiguous or unpredictable situations
+- Maximizer scale:
+  - Strongly agrees with checking for better options (5)
+  - Disagrees strongly with always being on lookout for better opportunities (1)
+  - Mixed on difficulty shopping for gifts and clothing
+  - Disagrees strongly with never settling for second best
+- Self-monitoring:
+  - Somewhat true that can alter behavior to suit situations (mostly 3-4)
+  - Generally true that can read others’ emotions and detect lies (mostly 4-5)
+- Self-concept clarity:
+  - Strongly agrees to having a clear and stable self-concept (11: 5 - Agree strongly)
+  - Disagrees strongly with self-concept instability or conflict
+- Economic games:
+  - In dictator game, proposes to keep $3 and send $2 (Question: How much would you propose to keep/send? Answer: 4 - $3/$2)
+  - As receiver, accepts all offers including $0 to self (accepts all offers)
+  - In trust game, keeps all $5 and sends $0 (Question: How much would you keep/send? Answer: 6 - Keep $5, send $0)
+  - As trustee, returns some money but keeps majority (e.g., keeps $5, sends $10 back when receiving $15)
+  - Expresses distrust in others’ fairness and sharing in thoughts during decisions
+- Spending habits:
+  - Moderate spender (7 on 1-11 scale)
+  - Sometimes has trouble limiting spending and sometimes trouble spending money
+  - More similar to a person who is restrained by spending money than one who spends impulsively (4 on 1-5 scale)
+- Logical reasoning:
+  - Correctly identifies logical conclusions in most syllogistic reasoning tasks
+- Language vocabulary:
+  - Mostly correct synonym and antonym choices, with some errors (e.g., "oscillate" synonym chosen as "recapitulate" which is incorrect)
+- Cognitive puzzles:
+  - Correctly solves visual and spatial puzzles involving rotations and pattern completions

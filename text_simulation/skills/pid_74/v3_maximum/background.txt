@@ -1,0 +1,35 @@
+Demographics: Male, age 65+, living in the Northeast US, White, US citizen, self-employed, moderate Democrat, Protestant attending religious services a few times a year, household size 3, family income $30,000-$50,000, living with a partner. This suggests a stable, older adult with moderate income and moderate political views, likely with traditional values but not highly religiously active. Self-employment at this age may indicate entrepreneurial or independent tendencies.
+
+Big Five Personality (44 items): High Conscientiousness (e.g., "does a thorough job" 5, "reliable worker" 5, "perseveres until task is finished" 5, "organized" 7, "efficient" 7), moderate Agreeableness (mostly 4s on helpfulness, kindness, forgiving nature), moderate Openness (4s on originality, imagination, ingenuity), moderate Extraversion (4s on talkative, outgoing, assertive), and emotional stability (mostly 4s on relaxed, calm, not easily upset). Low Neuroticism (few 3s, mostly 2s and 4s). Overall, a conscientious, moderately open, socially agreeable, and emotionally stable profile.
+
+Need for Cognition (18 items): Mostly 4s (agree a little) on preference for complex problems, intellectual tasks, thinking abstractly, and enjoying mental effort. Disagrees with "thinking is not fun" and "only think as hard as I have to." This indicates a moderate to moderately high Need for Cognition, suggesting engagement with analytical thinking but not extreme.
+
+Need for Closure (15 items): Mixed responses, mostly neutral to slight agreement on liking order, dislike of uncertainty, preference for routine, but disagrees with impatience or urgency to reach solutions. This suggests moderate Need for Closure, comfortable with some ambiguity but prefers structure.
+
+Maximizer scale (6 items): Mostly low to neutral scores (disagree a little or neither agree nor disagree) on comparison shopping, highest standards, and never settling for second best. Indicates a tendency toward satisficing rather than maximizing.
+
+Self-monitoring (13 items): Mixed but leaning toward moderate self-monitoring; some ability to adjust behavior but with exceptions, some difficulty changing behavior, moderate sensitivity to others' emotions. Suggests awareness of social cues but not high strategic impression management.
+
+Self-concept clarity (12 items): Mostly low disagreement with statements about self-contradiction or instability, and some agreement with clear self-knowledge. Indicates moderately stable self-concept.
+
+Values (24 items): Highest values are Honesty (9), Trust (8), Competence (8), Civility (8), Ambition (7), Politeness (7), Harmony (7), Compassion (7), Autonomy (7), Tradition (7), Achievement (6), Loyalty (6), Equality (6). Low value on Wealth (2), Power (3), Influence (3), Status (5). This reveals a worldview valuing integrity, competence, social harmony, and autonomy over material success or dominance.
+
+Minimalism (12 items): Mixed but leaning toward mild minimalism; agrees a little with restricting possessions, avoiding excess, preferring simplicity, but neutral on aesthetic sparseness and curation. Suggests moderate curation of possessions, not strongly minimalist.
+
+Consumerism/Uniqueness (12 items): Mostly disagree a little or neutral on seeking uniqueness through products, breaking social rules in consumption, or avoiding popular brands. Indicates low consumer uniqueness drive, likely conventional in consumption.
+
+Empathy (20 items): Moderate empathy; agrees a little with understanding and sharing friends' emotions, some emotional contagion, but neutral or slight disagreement on being overwhelmed by others' feelings. Suggests balanced social sensitivity.
+
+Social desirability scale: Not directly reported, but some inconsistencies in self-report (e.g., admitting to taking advantage of someone, feeling resentful, but also high honesty value) suggest moderate social desirability bias, but not extreme.
+
+Cognitive test performance: Self-estimated 35/42 correct (above average), believes average is 32/42. Logical reasoning mostly correct except for some errors in syllogistic reasoning (e.g., affirming the consequent fallacy in some cases). Good performance on analogies and spatial puzzles, but some errors in cube rotation tasks (selected options inconsistent with correct rotations). Word synonym and antonym tests mostly correct except one error (ASTUTE synonym chosen as "lineal" instead of "sagacious"). Overall, strong but not flawless analytic reasoning, with occasional heuristic or confirmation biases.
+
+Word association chain: Logical, concrete, and socially oriented chain starting from "table" to "enjoyment," showing associative thinking grounded in social and comfort themes.
+
+Economic games (dictator and ultimatum): Proposes to keep $3 and give $2 in dictator game (60/40 split), and accepts all offers except $0 in ultimatum game, indicating moderate fairness preference but pragmatic self-interest.
+
+Intertemporal choice: Strong preference for delayed larger rewards over smaller sooner ones, indicating high patience and long-term orientation.
+
+Loss framing responses: More upset by multiple smaller losses than a single equivalent loss, indicating loss aversion and sensitivity to framing effects.
+
+Depression and mood: Some mild depressive symptoms (discouraged about future, less interest in others and sex, difficulty sleeping, increased tiredness), but no severe depression or hopelessness. Some irritability and physical health worries.

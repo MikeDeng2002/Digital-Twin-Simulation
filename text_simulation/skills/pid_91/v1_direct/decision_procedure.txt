@@ -1,0 +1,25 @@
+- Need for Closure:
+  - Disagree a little with liking well-ordered life (Q3=2)
+  - Agree a little with disliking ambiguous statements and unpredictability (Q2=4, Q6=4, Q10=4, Q11=4, Q15=4)
+  - Neither agree nor disagree on impatience for quick solutions (Q8=3, Q9=3)
+  - Overall moderate need for closure, somewhat uncomfortable with uncertainty but not extreme (items 2,6,10,11,15)
+- Need for Cognition:
+  - Mixed responses, some disagreement with enjoying deep thinking (Q2=2, Q6=2)
+  - Agree a little with only thinking as hard as necessary (Q7=4)
+  - Agree a little with liking puzzles and abstract thinking (Q13=4, Q14=4, Q15=4)
+  - Disagree strongly with deliberating about issues not personally affecting (Q18=1)
+  - Overall moderate to low need for cognition, some enjoyment of intellectual tasks but not strong
+- Maximizer:
+  - Disagree a little with checking for better options or always seeking better opportunities (Q1=2, Q2=2)
+  - Agree a little with having high standards and not settling for second best (Q5=4, Q6=4)
+  - Overall moderate maximizer tendencies, values high standards but not compulsive maximizer
+- Self-monitoring:
+  - Generally true on ability to alter behavior and control impression (items 1,2,3,5,7=5)
+  - Generally true on reading others’ emotions and detecting lies (items 8-13 mostly 4 or 5)
+  - Overall high self-monitoring ability
+- Self-concept clarity:
+  - Some agreement with conflicting beliefs and changing opinions (items 1,2,5,7,11,12=4)
+  - Some disagreement with instability (items 3,4,6,8,9,10=2)
+  - Overall moderate self-concept clarity, some internal conflict but generally clear sense of self
+
+w_social estimate: 0.7 -- The person shows high empathy and social sensitivity (empathy items mostly 4-5), high self-monitoring (items mostly 5), values fairness and kindness in economic games, and moderate need for closure and cognition, indicating a socially aware and adaptive reasoning style.

@@ -1,0 +1,28 @@
+Need for Closure: High. Strong discomfort with uncertainty, desire for quick resolution, impatience with ambiguity. This drives a preference for firm answers even if imperfect.
+
+Need for Cognition: Moderate. Willing to engage in thinking and problem-solving but not deeply or for long hours. Prefers some complexity but also routine and simpler tasks.
+
+Maximizer: Moderate. Seeks better answers but willing to settle for "good enough," balancing effort and payoff.
+
+Self-Monitoring: Moderate. Can adjust behavior to social cues but not fully flexible; aware of others' perceptions but maintains some independence.
+
+Self-Concept Clarity: Low to moderate. Some internal conflict and variability in self-view, which may make the person somewhat susceptible to social influence but also values independence.
+
+Economic Game Gap: Dictator game shows selfish initial offers (keeps all money), but ultimatum game acceptance is rational and trust game shows moderate reciprocity. Indicates strategic self-interest with some social fairness.
+
+Intertemporal Patience: Low. Prefers immediate smaller rewards over delayed larger ones, indicating present bias and impatience in decision-making.
+
+Cognitive Errors:  
+- Difficulty with spatial reasoning and complex logical deductions.  
+- Some semantic errors in vocabulary tests (confusing facile for furtive, impervious for indolent).  
+- Tendency to accept invalid conclusions in syllogisms, indicating some reasoning shortcuts or misunderstandings.  
+- Moderate metacognitive awareness (self-estimates performance above average but actual performance is modest).  
+Implication: Numeric predictions may be biased by heuristic shortcuts, occasional misinterpretation of probabilities, and difficulty with complex multi-step reasoning.
+
+Social Desirability: Moderate. Self-reports show some candidness about negative traits and mental health symptoms, suggesting reasonable reliability but some social desirability bias remains.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances the moderate to high empathy and social sensitivity (which increase social influence on reasoning) against moderate self-concept clarity and self-monitoring (which provide some resistance). The high need for closure and moderate maximizer tendencies suggest a preference for socially validated, clear-cut answers rather than deep independent analysis. Cognitive test performance and economic game behavior indicate strategic but self-interested reasoning with some reasoning errors, implying numeric predictions will be influenced by heuristics and social context rather than purely analytical models. The person is likely to rely on mainstream, ideologically aligned sources, moderate depth of research, and social consensus when making numeric predictions about uncertain future events like Bitcoin price or AGI arrival.
+
+# Summary: This person is a moderately analytical, socially sensitive, somewhat anxious, and conscientious individual who prefers clear, socially validated answers and is moderately impatient. Their numeric predictions will reflect a blend of heuristic reasoning, social influence, and moderate research effort, with some susceptibility to cognitive biases and errors in complex reasoning.

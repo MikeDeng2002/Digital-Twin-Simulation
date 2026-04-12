@@ -1,0 +1,27 @@
+Demographics: Male, age 30-49, White, living in the Southern US, divorced, atheist with seldom religious attendance, US citizen, very liberal Democrat, family income $30,000-$50,000, full-time employed, lives alone. This suggests a middle-aged, educated professional with moderate income, likely urban or suburban, with a secular worldview and liberal political orientation. Divorced status and living alone may imply more independent lifestyle and decision-making.
+
+Big Five (44 items): High Extraversion (talkative 5, outgoing 5, sociable 5), High Conscientiousness (does thorough job 5, reliable 5, perseveres 4, organized 8/9 self-rating), High Openness (original 5, ingenious 5, active imagination 5, artistic interests 5, sophisticated 5), Moderate Neuroticism (depressed 4, tense 4, worries 4, moody 4 but emotionally stable 4), High Agreeableness (helpful 5, forgiving 4, considerate 5, trusting 5). Overall, a highly engaged, curious, and socially warm individual with some mild emotional sensitivity but good stress handling.
+
+Need for Cognition (18 items): Very high (mostly 5s, strong preference for complex problems, responsibility for thinking, enjoyment of abstract and intellectual tasks, strong deliberation). This person enjoys deep thinking and intellectual challenge, invests significant cognitive effort.
+
+Values (24 items): Highest values are Trust (9), Loyalty (9), Harmony (9), Honesty (9), Compassion (9), Equality (9), with moderately high scores on Pleasure (7), Forgiveness (7), Competence (7), Humility (7), Altruism (7), Politeness (7), Excitement (7). Low importance on Power (1), Superiority (1), Ambition (3), Influence (3), Status (3), Recognition (3), Autonomy (3). This reveals a worldview centered on social harmony, fairness, trustworthiness, and compassion, with low emphasis on dominance or competition.
+
+Minimalism (12 items): Strong agreement with avoiding accumulation (5), restricting possessions (5), mindful curation (5), simplicity in design (4), visually sparse environments (4). This person is deliberate and selective about possessions, preferring simplicity and minimal clutter.
+
+Empathy (20 items): Very high empathy, strong emotional contagion (feeling sad when friends are sad 5), good emotional insight (can read friends’ emotions 5), high compassion and social sensitivity, some moderate fearfulness in social contexts (fear watching scary movies 4, scared with fearful friends 4). This person is socially attuned and emotionally responsive.
+
+Consumerism/Uniqueness: Moderate uniqueness seeking (likes original products 5, tries to find interesting versions 4), somewhat avoids mainstream products (4), but does not strongly rebel against social norms (disagrees strongly with violating social rules 1). This person values some personal distinctiveness but within socially acceptable bounds.
+
+Cognitive Test Performance: Perfect or near-perfect on all cognitive tests (syllogisms, Wason, analogies, logic puzzles, spatial rotation). Correctly answered all 42 cognitive questions, with no logical fallacies in syllogisms, good understanding of logical implication and contrapositive reasoning. Minor errors in some cube rotation tasks (some inconsistency in cube rotation answers), but overall excellent abstract reasoning and verbal intelligence (synonym and antonym tests mostly correct). Word association chain is coherent and semantically connected, showing fluid and associative thinking.
+
+Social Desirability: Moderate to high social desirability (generally truthful, admits to some negative feelings like resentment and jealousy, but denies taking advantage or being vengeful). Self-monitoring is moderate-high (can adjust behavior somewhat, aware of social cues), but self-concept clarity is moderate (some variability in self-view day-to-day, but generally stable).
+
+Economic Games: In dictator and ultimatum games, proposes to keep $3 and give $2, and accepts all offers as receiver, indicating moderate fairness but self-interested. In trust game, sends $3 of $5 (60%) and expects to get back about two-thirds of tripled amount, showing moderate trust and reciprocity expectations. Thoughts during decisions emphasize teamwork, cooperation, suspicion, and happiness, indicating social motivation but cautiousness.
+
+Intertemporal Choice: Prefers immediate smaller rewards over delayed larger rewards until the delayed reward is sufficiently better, indicating moderate patience but some present bias.
+
+Loss Framing: Prefers to avoid losses, willing to accept sure smaller losses over risky larger losses, consistent with loss aversion.
+
+Depression and Mood: Mild depressive symptoms (feels sad, some disappointment in self, some tiredness, some weight loss due to dieting), but no severe impairment in decision-making or social interest. No major anxiety or guilt.
+
+Spending Habits: Moderate spender (8/11 on spendthrift scale), sometimes has trouble limiting spending and sometimes trouble spending money, indicating ambivalence or moderate impulsivity.

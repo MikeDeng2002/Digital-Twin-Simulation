@@ -1,0 +1,17 @@
+Need for Closure: Moderate (items 2, 6, 10, 11, 15, 16 range from disagree a little to agree a little), indicating some tolerance for ambiguity but preference for order and predictability.
+
+Need for Cognition: Moderate to low (items mostly 2-4, some disagreement on enjoying deep thinking), indicating preference for practical, less cognitively demanding tasks.
+
+Maximizer: Mild (items 5 and 6 agree a little), indicating some striving for high standards but not extreme perfectionism.
+
+Self-monitoring: High (items 1-3, 5, 7-10 mostly 5), indicating strong social adaptability and awareness of social cues.
+
+Self-concept clarity: Moderate (items 1, 2, 5, 7, 11 agree a little; some disagreement on identity stability), indicating some fluctuation but generally clear self-identity.
+
+Economic game behavior: Fair and moderately generous in Ultimatum Game (keeps $2, sends $3), accepts all offers except the most selfish; in Trust Game, sends all $5 and expects roughly even split back, indicating trust with some self-interest.
+
+Cross-scale inference: High self-monitoring and empathy scales align with fair and generous economic behavior, supporting a socially sensitive and adaptive decision style. Moderate need for closure and cognition align with preference for fairness and predictability in social exchanges.
+
+No contradictions noted; cognitive test performance is average, consistent with moderate need for cognition and practical decision-making.
+
+w_social estimate: 0.75 -- The respondent shows high social sensitivity and empathy (empathy scale items mostly 4-5), high self-monitoring (items mostly 5), and fair, generous behavior in economic games, indicating a strong social orientation. Moderate need for closure and cognition suggest a preference for social harmony and practical engagement rather than abstract or solitary cognition. These scales agree in portraying a socially engaged, cooperative individual with a strong concern for fairness and others' feelings, justifying a high but not maximal social weighting.

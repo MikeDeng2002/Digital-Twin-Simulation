@@ -1,0 +1,23 @@
+Need for Closure: Moderate. Wants reasonably quick resolution but tolerates some ambiguity. (Scores 4-5 on relief after decisions, dislike of uncertainty moderate.)
+
+Need for Cognition: Low to moderate. Avoids deep or complex thinking, prefers practical, straightforward problems. (Scores 2-4 on complex problem preference.)
+
+Maximizer: Low. Satisficer who accepts "good enough" answers rather than exhaustive search for best.
+
+Self-monitoring: Moderate to high. Notices social cues and adjusts behavior but does not strongly defer to others.
+
+Self-concept Clarity: Moderate. Generally stable self-view with minor fluctuations, enough to resist social pressure.
+
+Economic Game Gap: Dictator game shows self-interested behavior (keeps all money), but ultimatum game acceptance of all offers except zero shows pragmatic acceptance of fairness norms. Trust game shows moderate trust but cautious sharing. Behavior matches strategic reasoning with some self-interest.
+
+Intertemporal Patience: Moderate impatience, prefers immediate rewards unless delayed rewards are substantially better.
+
+Cognitive Errors: Some errors in logical reasoning, especially with negations and contrapositives, and spatial reasoning errors in cube rotation tasks. Indicates some difficulty with abstract or complex reasoning, but good verbal and practical reasoning.
+
+Social Desirability: Moderate honesty; admits to some negative traits (resentment, jealousy), so self-reports are reasonably reliable.
+
+w_social estimate: 0.55
+
+Reasoning: The estimate balances moderate social awareness and empathy with a pragmatic, somewhat self-interested decision style. The person is neither highly socially driven nor strongly isolated. Cognitive style is practical and avoids complexity, with moderate need for closure and moderate patience. The economic game behavior shows strategic self-interest tempered by fairness acceptance. Social desirability is moderate, supporting reasonable trust in self-reports. Conflicts between some empathy and self-interest are resolved by weighting pragmatic fairness and moderate social concern. Overall, this person is expected to make numeric predictions based on moderate research, practical reasoning, and a balanced but cautious social perspective.
+
+# Summary for simulation: This individual will likely produce numeric predictions (e.g., Bitcoin price, AGI arrival) that reflect moderate confidence, practical reasoning, and moderate social influence. They will avoid extreme or highly speculative estimates, prefer consensus or mainstream views, and discount complex or highly uncertain information. Their predictions will be somewhat conservative, with moderate patience for long-term outcomes but a preference for clarity and resolution.

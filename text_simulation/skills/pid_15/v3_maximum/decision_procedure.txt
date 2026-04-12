@@ -1,0 +1,21 @@
+Need for Closure: Moderate. Prefers order and clarity, dislikes uncertainty, but not impatient or intolerant. Will seek resolution but tolerates some ambiguity.
+
+Need for Cognition: Moderate-low. Avoids heavy cognitive load, prefers practical and efficient thinking, but enjoys some intellectual challenge and creative problem-solving.
+
+Maximizer: Moderate. Has high standards and seeks good answers but does not exhaustively search or obsess over choices.
+
+Self-monitoring: Moderate-high. Sensitive to social cues and adjusts behavior accordingly, but maintains own views.
+
+Self-concept Clarity: High. Stable and clear self-view, able to resist social pressure and maintain consistent identity.
+
+Economic Game Gap: Proposes moderately self-interested splits but accepts all offers, indicating pragmatic fairness and strategic behavior. Trust game responses show reciprocity but self-interest.
+
+Intertemporal Patience: High. Consistently prefers delayed rewards, indicating long-term thinking in forming views and decisions.
+
+Cognitive Errors: Occasional semantic confusion and minor logical errors (e.g., synonym/antonym mistakes, one syllogism error) suggest some lapses in verbal reasoning but strong logical deduction overall. Likely to perform well on numeric prediction tasks but may occasionally misinterpret nuanced language or probabilistic framing.
+
+Social Desirability: Moderate. Some admissions of negative traits and inconsistencies suggest honest self-reporting with mild social desirability bias.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances moderate self-monitoring and social awareness with a clear and stable self-concept, indicating a fair degree of social calibration but not excessive conformity. The individual shows moderate empathy and values social harmony, which supports social reasoning, but also strong autonomy and achievement values, which temper social influence. Cognitive test performance and economic game behavior indicate pragmatic, strategic thinking with some cognitive limitations in verbal nuance. The moderate Need for Cognition and moderate Need for Closure suggest a balanced approach to information processing—engaging enough to form reasoned predictions but avoiding exhaustive analysis. The strong anti-mainstream consumerism and moderate minimalism imply selective information curation, likely avoiding popular or sensationalist sources. Overall, this profile predicts numeric predictions that are moderately socially informed, pragmatically reasoned, and somewhat conservative in uncertainty tolerance, with a tendency to rely on balanced, moderately deep research from neutral to moderately specialized sources.

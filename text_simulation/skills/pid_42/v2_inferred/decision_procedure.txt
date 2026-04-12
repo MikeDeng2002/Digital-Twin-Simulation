@@ -1,0 +1,19 @@
+- Need for Closure: Moderate need for closure (items 1=4, 4=5, 6=4), indicating preference for order and predictability but not extreme rigidity. She dislikes uncertainty but is not intolerant of ambiguity.
+
+- Need for Cognition: High (items mostly 4-5), indicating enjoyment of thinking, problem-solving, and intellectual engagement.
+
+- Maximizer: Mixed signals; she does not strongly endorse "never settle for second best" (item 6=2), nor "highest standards" (item 5=2), suggesting she is not a strong maximizer but more of a satisficer.
+
+- Self-monitoring: High ability to adjust behavior socially (item 1=6, 5=5, 7=5), but some exceptions (item 3=2), indicating moderate to high social adaptability.
+
+- Self-concept clarity: Generally high (item 11=5), with some minor fluctuations (item 2=4), indicating a stable and clear self-identity.
+
+- Economic games: Proposes to keep $3 and give $2 in the dictator game, accepts all offers except the $0 offer, and in the trust game sends $3 and reciprocates generously but keeps more when the other is stingy. This indicates moderate trust and fairness, with some self-protectiveness.
+
+- Cognitive tests: High performance (40/42 correct), good logical reasoning, spatial ability, and vocabulary.
+
+- Depression and mood: Some mild depressive symptoms (disappointment, guilt, self-criticism), but no severe depression or anxiety.
+
+Cross-scale inference: High conscientiousness (Big Five), high need for cognition, and high self-monitoring align with her careful, thoughtful, and socially aware behavior. Her moderate need for closure and low maximizer tendencies suggest balanced decision-making without excessive perfectionism. Economic game behavior aligns with moderate social trust and fairness.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social engagement and concern for others, as evidenced by her empathy items (mostly 4-5), willingness to share in economic games, and high self-monitoring scores indicating social adaptability. However, her moderate need for closure and some self-critical tendencies suggest some guardedness. The agreement between empathy, self-monitoring, and economic game behavior supports a moderately high social orientation, but not extreme.

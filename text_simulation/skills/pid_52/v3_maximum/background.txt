@@ -1,0 +1,31 @@
+Demographics: Female, age 30-49, White, living in the Midwest US, married, atheist (never attends religious services), Democrat with liberal political views, college graduate with some postgraduate education, full-time employed, household size 2, family income $100,000+. This suggests a middle-aged, well-educated, financially comfortable individual with stable family life and secular, progressive worldview. Midwest residence may imply exposure to both urban and rural cultural influences, with moderate social conservatism balanced by liberal political identity.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagrees with being talkative and outgoing, strongly agrees with being quiet and reserved.  
+- Moderate Conscientiousness: agrees somewhat with being reliable, efficient, organized, systematic, persevering, and preferring routine work.  
+- Low Openness to Experience: mostly neutral or slight disagreement with originality, imagination, inventiveness, curiosity, and artistic interests.  
+- Moderate Agreeableness: strongly agrees with being helpful and unselfish, somewhat forgiving, considerate, kind, and cooperative.  
+- Moderate Neuroticism: slightly agrees with being tense, but also somewhat relaxed and emotionally stable; neither strongly worried nor moody.
+
+Need for Cognition (18 items): Scores mostly around neutral to slight disagreement with enjoying complex or challenging thinking tasks, but does not avoid thinking hard when necessary. Slight preference for structured, practical tasks over abstract or novel problems. Indicates moderate to low intrinsic motivation for deep cognitive engagement.
+
+Values (24 items):  
+- Highest importance (9): Loyalty, Harmony, Compassion, Civility, Equality.  
+- High importance (8): Pleasure, Competence, Humility, Politeness, Honesty, Autonomy, Wealth, Achievement.  
+- Low importance (1-2): Power, Ambition, Status, Tradition, Superiority.  
+This reveals a worldview valuing social harmony, fairness, kindness, and ethical behavior, with moderate ambition and competence but low desire for dominance or status. Strong egalitarian and altruistic orientation.
+
+Minimalism (12 items): Mostly agrees with minimalist attitudes—prefers simplicity, sparse environments, mindful and curated possessions, avoids excess. Suggests careful curation of physical and possibly informational environment, favoring clarity and order.
+
+Empathy (20 items): Moderate empathy—strong agreement with understanding and recognizing others’ emotions, but less tendency to be emotionally overwhelmed or deeply affected by others’ feelings. Good social perceptiveness without excessive emotional contagion.
+
+Consumerism/Uniqueness: Strong disagreement with seeking uniqueness through products, breaking social norms in consumption, or avoiding popular brands. Indicates conventional consumer behavior, not trend-seeking or rebellious.
+
+Cognitive Test Performance:  
+- Self-estimated 35/42 correct (above average).  
+- Correct answers on syllogistic and logical reasoning mostly consistent, but some errors in conditional logic (e.g., accepting invalid conclusions).  
+- Some errors in abstract reasoning puzzles (cube rotation), with occasional selection of plausible but incorrect options, indicating moderate spatial reasoning but not exceptional.  
+- Word associations and vocabulary tests show good verbal knowledge and moderate vocabulary sophistication.  
+- Cognitive style: tends to rely on learned rules and heuristics, less on abstract or creative problem solving.
+
+Social Desirability: Moderate to low social desirability bias; self-reports appear generally reliable and candid, with some minor tendency to present self in a positive light but no strong impression management.

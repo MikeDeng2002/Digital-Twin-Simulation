@@ -1,0 +1,25 @@
+Need for Closure: High (strong agreement with disliking uncertainty, preference for order and routine, discomfort with ambiguous situations). This person prefers quick resolution but not impulsive; they want clarity and structure.
+
+Need for Cognition: Moderate (engages in thinking when relevant, prefers intellectual tasks but not for prolonged or abstract puzzles). Invests analytical effort selectively, especially on personally meaningful or practical problems.
+
+Maximizer: Moderate to low (does not insist on best possible answer, accepts "good enough" solutions, some comparison but not exhaustive).
+
+Self-monitoring: Moderate (can adjust behavior somewhat to social context but not fully strategic or deceptive).
+
+Self-concept clarity: High (strongly disagrees with conflicting self-beliefs, stable self-view, moderately clear identity).
+
+Economic game gap: Proposes moderately selfish splits but accepts fair offers; reciprocity is present but tempered by distrust. Behavior matches strategic fairness with some self-protection.
+
+Intertemporal patience: High (prefers larger delayed rewards consistently), indicating long-term thinking in decisions.
+
+Cognitive errors: Some logical fallacies in syllogistic reasoning (denying antecedent, affirming consequent), moderate spatial reasoning errors, but good verbal and pattern recognition skills. Suggests moderate analytic reasoning with occasional heuristic shortcuts.
+
+Social desirability: Moderate; admits to some negative traits, moderate self-monitoring, generally reliable self-report.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate to strong reliance on social information and norms, driven by fairly high empathy, moderate self-monitoring, and a political identity that values equality and civility. The person shows some distrust and guardedness in economic games, indicating cautious social trust. Their moderate need for cognition and high need for closure suggest they seek clear, socially validated information but do not engage in deep, prolonged analysis. Cognitive test performance and error patterns indicate competent but not expert analytic reasoning, with some heuristic biases. Social desirability is moderate, so self-reports are mostly trustworthy but with some guardedness. Conflicts between moderate maximizer tendencies and moderate need for closure were resolved by weighting the strong preference for order and clarity, suggesting they prefer socially coherent and normatively validated information rather than exhaustive or purely instrumental analysis.
+
+This profile predicts that in numeric prediction tasks like Bitcoin price or AGI arrival, the person will rely on socially endorsed expert opinions, moderate analytical reasoning, and a preference for stable, consensus-based forecasts rather than speculative or highly uncertain estimates. They will likely discount extreme or highly uncertain predictions and prefer moderate, socially validated numeric ranges.
+
+# Final skill profile summary complete.

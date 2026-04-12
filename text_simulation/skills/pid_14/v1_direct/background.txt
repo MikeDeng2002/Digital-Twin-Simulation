@@ -1,0 +1,181 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age range 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Atheist (Question: What is your present religion, if any? Answer: Atheist)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political party: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Unemployed (Question: What is your current employment status? Answer: Unemployed)
+- Family income last year: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, from self-report):
+  - Very talkative (Item 1: Agree strongly)
+  - Does a thorough job (Item 3: Agree strongly)
+  - Not depressed (Item 4: Disagree strongly)
+  - Original, somewhat (Item 5: Agree a little)
+  - Not reserved (Item 6: Disagree strongly)
+  - Helpful and unselfish (Item 7: Agree strongly)
+  - Not careless (Item 8: Disagree strongly)
+  - Relaxed, handles stress well (Item 9: Agree strongly)
+  - Curious about many things (Item 10: Agree strongly)
+  - Full of energy (Item 11: Agree strongly)
+  - Does not start quarrels (Item 12: Disagree strongly)
+  - Reliable worker (Item 13: Agree a little)
+  - Not tense (Item 14: Disagree a little)
+  - Ingenious, deep thinker (Item 15: Agree strongly)
+  - Generates enthusiasm (Item 16: Agree strongly)
+  - Forgiving nature (Item 17: Agree strongly)
+  - Slightly disorganized (Item 18: Disagree a little)
+  - Does not worry a lot (Item 19: Disagree strongly)
+  - Active imagination (Item 20: Agree strongly)
+  - Not quiet (Item 21: Disagree strongly)
+  - Generally trusting (Item 22: Agree strongly)
+  - Not lazy (Item 23: Disagree a little)
+  - Emotionally stable (Item 24: Agree a little)
+  - Inventive (Item 25: Agree a little)
+  - Assertive personality (Item 26: Agree strongly)
+  - Not cold or aloof (Item 27: Disagree strongly)
+  - Perseveres until task finished (Item 28: Agree a little)
+  - Can be moody (Item 29: Agree a little)
+  - Values artistic experiences (Item 30: Agree a little)
+  - Not shy (Item 31: Disagree strongly)
+  - Considerate and kind (Item 32: Agree strongly)
+  - Does things efficiently (Item 33: Agree strongly)
+  - Remains calm in tense situations (Item 34: Agree a little)
+  - Neutral on preference for routine work (Item 35: Neither agree nor disagree)
+  - Outgoing, sociable (Item 36: Agree strongly)
+  - Sometimes rude: Disagree a little (Item 37)
+  - Makes plans and follows through (Item 38: Agree a little)
+  - Not nervous easily (Item 39: Disagree strongly)
+  - Likes to reflect and play with ideas (Item 40: Agree a little)
+  - Has few artistic interests: Disagree a little (Item 41)
+  - Likes to cooperate with others (Item 42: Agree a little)
+  - Slightly not easily distracted (Item 43: Disagree a little)
+  - Slightly not sophisticated in art/music/literature (Item 44: Disagree a little)
+- Need for Cognition scale:
+  - Neutral on preference for complex problems (Item 1: Neither agree nor disagree)
+  - Neutral on liking responsibility requiring thinking (Item 2)
+  - Disagrees that thinking is not fun (Item 3: Disagree strongly)
+  - Slightly agrees prefers low thought tasks (Item 4: Agree a little)
+  - Disagrees with avoiding deep thinking (Item 5: Disagree strongly)
+  - Slightly agrees finds satisfaction in deliberating hard (Item 6: Agree a little)
+  - Disagrees with minimal thinking (Item 7: Disagree strongly)
+  - Disagrees with preferring small daily projects (Item 8: Disagree a little)
+  - Slightly agrees likes tasks requiring little thought once learned (Item 9: Agree a little)
+  - Neutral on relying on thought to get ahead (Item 10)
+  - Slightly agrees enjoys problem-solving tasks (Item 11)
+  - Disagrees that learning new ways to think doesn't excite (Item 12)
+  - Disagrees with preferring life filled with puzzles (Item 13)
+  - Neutral on liking abstract thinking (Item 14)
+  - Neutral on preferring intellectual difficult tasks (Item 15)
+  - Disagrees with feeling relief rather than satisfaction after mental effort (Item 16)
+  - Disagrees with caring only that something gets the job done (Item 17)
+  - Slightly agrees deliberates about issues even if not personally affected (Item 18)
+- Values rated as highly important (7-9 scale):
+  - Altruism (helping others): 9
+  - Compassion (caring for others): 9
+  - Autonomy (independent): 9
+  - Equality (human rights): 9
+  - Forgiveness: 7
+  - Trust: 7
+  - Pleasure: 7
+  - Honesty: 8
+  - Competence: 6
+  - Achievement: 5
+  - Humility: 5
+  - Harmony: 5
+  - Civility: 5
+  - Wealth: 4
+  - Influence: 4
+  - Power: 2
+  - Ambition: 1 (not important)
+  - Loyalty: 1 (not important)
+  - Status: 1 (not important)
+  - Recognition: 1 (not important)
+  - Tradition: 1 (not important)
+  - Superiority: 1 (not important)
+  - Excitement: 2
+- Environmental concern:
+  - Agrees somewhat that products should not harm environment (4)
+  - Considers environmental impact in decisions (4)
+  - Strongly concerned about wasting planet resources (5)
+  - Willing to be inconvenienced for environmentally friendly actions (5)
+- Empathy and social sensitivity:
+  - Disagrees that friends’ emotions don’t affect her (1)
+  - Strongly agrees she feels sad after being with sad friend (5)
+  - Strongly agrees she understands friends’ happiness (5)
+  - Strongly agrees she gets caught up in others’ feelings (5)
+  - Strongly agrees she can understand when someone is feeling down (5)
+  - Strongly agrees she can tell when people are cheerful (5)
+  - Strongly agrees she often gets swept up in friends’ feelings (5)
+  - Disagrees strongly that she is unaware of friends’ feelings (2)
+  - Disagrees strongly that she doesn’t feel sad when others cry (1)
+  - Disagrees strongly that she finds it hard to know when friends are frightened (1)
+- Self-concept clarity:
+  - Strongly disagrees that beliefs about self often conflict (1)
+  - Strongly disagrees that opinions of self change day to day (1)
+  - Strongly disagrees that she wonders about who she really is (1)
+  - Strongly agrees she seldom experiences conflict between personality aspects (5)
+  - Strongly agrees she has a clear sense of who she is (5)
+- Need for Closure:
+  - Disagrees or disagrees a little with statements indicating discomfort with uncertainty or ambiguity (mostly 1 or 2)
+  - Disagrees strongly with feeling relieved after decisions (1)
+  - Disagrees strongly with impatience for quick solutions (1)
+- Maximizer scale:
+  - Disagrees strongly with maximizing tendencies (e.g., checking other stations, looking for better opportunities, never settling for second best)
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations (5-6)
+  - Somewhat true with exceptions for controlling impression (4)
+  - Generally false for sensitivity to facial expressions and detecting lies (1-3)
+- Economic games:
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum Game)
+  - Accepts all offers except $0 (as receiver)
+  - In Trust Game, keeps $2 and sends $3; as receiver, keeps $8 of $15 and sends back $7
+  - Shows concern for fairness and reciprocity in thoughts during economic games
+- Cognitive tests:
+  - Estimated 32/42 correct answers on cognitive tests
+  - Believes average US adult would get 35/42 correct
+  - Correctly answers logical reasoning and syllogistic reasoning questions
+  - Correctly answers financial literacy questions (e.g., mortgage, inflation, risk diversification)
+  - Some minor errors in synonym and antonym questions (e.g., "furtive" synonym chosen as "flimsy" which is incorrect)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest
+  - Understands inflation reduces purchasing power
+  - Knows stocks have highest fluctuations
+  - Knows diversification reduces risk
+  - Correctly answers that after 70.5 years, withdrawals are required from retirement accounts
+  - Knows credit card debt with minimum payments at 12% APR will never be eliminated
+  - Correctly estimates probabilities and expected values in lotteries and dice rolls
+- Spending habits:
+  - Rates self as 7 on spending scale (moderate spender)
+  - Sometimes has trouble limiting spending
+  - Never has trouble spending money
+  - More similar to Mr. A (who spends despite not needing items) than Mr. B (who refrains due to money concerns)
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no irritability, no worthlessness
+  - Reports can work and sleep as well as before
+  - Reports some weight loss (>5 pounds)
+  - Reports no increased worry about health or loss of interest in sex
+  - Is purposely trying to lose weight by eating less
+- Self-reported traits:
+  - Organized, efficient, systematic, practical, accurate, error-free work (ratings mostly 6-8)
+  - Likes to do things in new ways, solves problems creatively
+  - Values rules and regulations, carries out obligations
+  - Does not prefer to work without instructions
+  - Does not care about recognition by others
+  - Does not think much about what others expect
+  - Does not like to depend on self mostly, nor strongly independent
+  - Does own thing somewhat, values personal identity independent of others
+  - Does not endorse competition or winning as everything
+  - Neutral to slightly positive about cooperation and well-being of coworkers
+  - Does not endorse family loyalty or group conformity strongly
+- Self-concept clarity and consistency:
+  - Strongly agrees to clear, consistent self-concept, no internal conflict
+- Maximizer tendencies:
+  - Strongly disagrees with maximizing behavior, prefers satisficing
+- Self-monitoring:
+  - Generally able to adjust behavior but not highly sensitive to subtle social cues or lies

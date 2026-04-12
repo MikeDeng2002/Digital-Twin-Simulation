@@ -1,0 +1,20 @@
+Need for Closure: Low to moderate. Does not rush to conclusions, tolerates ambiguity, prefers some order but not rigid closure. Willing to deliberate but not impatient.
+
+Need for Cognition: Moderate. Invests analytical effort when needed, enjoys problem-solving but not abstract puzzles for fun. Likely to engage in numeric prediction with reasonable effort.
+
+Maximizer: Moderate. Seeks good answers, compares some sources, but satisficing when threshold met. Not perfectionistic.
+
+Self-monitoring: High. Notices social cues, adapts behavior, aware of others' perceptions but maintains own views.
+
+Self-concept clarity: High. Stable self-view, resists social pressure, consistent identity.
+
+Economic game gap: Proposes moderately selfish offers but accepts all offers, indicating pragmatic fairness and low punitive behavior. Trust game shows moderate reciprocity but self-interest. Behavior matches strategic reasoning.
+
+Intertemporal patience: Moderate impatience, prefers sooner rewards but can wait for significantly better delayed rewards. Suggests moderate long-term thinking.
+
+Cognitive errors: Minor errors in spatial rotation tasks, but strong logical reasoning and verbal skills. Likely to avoid major reasoning fallacies in numeric prediction, but may struggle with complex spatial or highly abstract problems.
+
+Social desirability: Moderate. Some self-critical admissions, some socially desirable responses. Self-reports generally reliable.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by high self-monitoring, stable self-concept, and moderate empathy, indicating the person is socially aware and likely to incorporate social information into predictions. The moderate Need for Cognition and Maximizer scores suggest a balanced approach to information gathering, neither shallow nor exhaustive. Cognitive test performance supports good logical reasoning, though some spatial reasoning limitations may slightly reduce prediction accuracy in complex numeric domains. Economic game behavior shows pragmatic fairness and strategic thinking, supporting rational numeric prediction. Mood and minimalism scores do not strongly conflict but suggest some emotional noise that may occasionally bias predictions. Overall, the profile supports a socially informed, moderately analytical, and pragmatic reasoning style with good self-awareness and stable identity, leading to reasonably calibrated numeric predictions on open questions like Bitcoin price or AGI arrival.

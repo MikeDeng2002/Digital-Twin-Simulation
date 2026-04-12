@@ -1,0 +1,22 @@
+Need for Closure: Moderate-low. Disagrees with impatience for quick solutions but agrees with relief after decisions and some impatience for unresolved problems. Wants resolution but tolerates ambiguity somewhat.
+
+Need for Cognition: Moderate. Engages in some analytical effort but avoids deep or prolonged thinking, sometimes guesses or satisficing.
+
+Maximizer: Low. Does not seek the absolute best answer, prefers "fair" or "good enough," avoids extensive comparison.
+
+Self-Monitoring: Moderate-high. Can adjust behavior to social context, notices others' emotions, but does not strongly defer.
+
+Self-Concept Clarity: Moderate-high. Generally stable self-view, some minor doubts about past self, but clear identity now.
+
+Economic Game Gap: Proposes moderately selfish split but accepts all offers, indicating some strategic self-interest but also high tolerance and fairness norm. Trust game behavior consistent with moderate trust and reciprocity.
+
+Intertemporal Patience: High. Prefers delayed larger rewards consistently, indicating future orientation.
+
+Cognitive Errors: Some errors in abstract reasoning, verbal synonyms/antonyms, and spatial puzzles. Likely to make heuristic-based numeric predictions, may misinterpret complex conditional logic or probabilistic reasoning. Moderate numeracy but not expert.
+
+Social Desirability: Moderate. Some admissions of negative traits suggest honest reporting, but some social desirability bias possible.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the high empathy, moderate self-monitoring, and social values (trust, harmony, compassion) indicating a strong social orientation in reasoning and information processing. However, moderate Need for Cognition and satisficing tendencies reduce the weight of deep analytical processing. Cognitive test performance and economic game behavior show moderate strategic thinking but also fairness and tolerance. Social desirability is moderate, with some honest admissions of flaws. The person likely integrates social consensus and fairness norms heavily into numeric predictions, with moderate analytical depth and some heuristic shortcuts. Conflicts between moderate cognitive ability and high social orientation are resolved by weighting social and fairness considerations more heavily, consistent with the empathy and values profile.
+
+# Summary for simulation: This person will produce numeric predictions that reflect moderate analytical effort, strong social and fairness considerations, moderate patience for complexity, and a preference for moderate, consensus-based estimates rather than extreme or highly optimized forecasts. They will likely avoid highly technical or partisan sources, rely on trusted mainstream and social networks, and show moderate numeracy with some heuristic biases.

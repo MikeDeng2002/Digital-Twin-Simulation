@@ -1,0 +1,23 @@
+Need for Closure: Moderate-low. Dislikes uncertainty but does not rush to premature conclusions (agrees with wanting resolution but not impatience). Will deliberate carefully.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys complex and abstract thinking, likely to research deeply before numeric predictions.
+
+Maximizer: Moderate. Has high standards but does not compulsively seek perfect answers; satisficing with well-reasoned, good-enough solutions.
+
+Self-monitoring: Moderate-high. Notices social cues and others’ opinions, adjusts behavior somewhat, but self-concept clarity moderate, so not overly swayed by social pressure.
+
+Self-concept clarity: Moderate. Some day-to-day variability in self-view but generally stable, allowing resistance to social conformity when needed.
+
+Economic game gap: Proposes moderately fair splits but keeps majority share; accepts all offers, indicating pragmatic fairness but self-interest. Trust game shows moderate trust and reciprocity expectations. Behavior matches strategic reasoning.
+
+Intertemporal patience: Moderate patience with some present bias; prefers immediate rewards unless delayed rewards are substantially better.
+
+Cognitive errors: Minimal logical errors; some minor inconsistencies in spatial rotation tasks but overall excellent reasoning. Likely to avoid common numeric prediction biases like base rate neglect or conjunction fallacy.
+
+Social desirability: Moderate. Self-reports appear reliable with some admission of negative feelings, indicating honest self-assessment.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate is driven by very high empathy and social attunement, moderate-high self-monitoring, and values emphasizing trust, harmony, and compassion, indicating that social information and norms strongly influence this person’s reasoning and predictions. However, moderate self-concept clarity and high need for cognition suggest that social influence is balanced by independent analytical thinking. Some conflict arises from moderate social desirability and mild depressive symptoms, but these do not undermine overall reliability. The person’s economic game behavior and intertemporal choices show pragmatic social reasoning rather than pure altruism or selfishness, supporting a moderately high social weighting in predictive models.
+
+# Summary for simulation: This person will produce numeric predictions that reflect deep analytical processing, moderate patience, and a strong weighting on socially validated, trustworthy, and harmonious information sources. They will avoid extreme or sensationalist predictions, prefer consensus or well-supported forecasts, and adjust predictions moderately based on social context and norms.

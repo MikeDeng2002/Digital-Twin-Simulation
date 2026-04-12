@@ -1,0 +1,138 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: 1 - Northeast)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 30-49 (Question: How old are you? Answer: 2 - 30-49)
+- Highest education: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: 5 - College graduate/some postgrad)
+- Race/origin: Asian (Question: What is your race or origin? Answer: 3 - Asian)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: 2 - Living with a partner)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: 12 - Nothing in particular)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 5 - Seldom)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: 2 - Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: 5 - Very liberal)
+- Total family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 2 - $30,000-$50,000)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1 - 1)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: 4 - Self-employed)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Agree a little with doing a thorough job (Q3: 4)
+  - Agree a little with originality and coming up with new ideas (Q5: 4)
+  - Agree a little with being reserved (Q6: 4)
+  - Agree strongly with being helpful and unselfish (Q7: 5)
+  - Disagree a little with being careless (Q8: 2)
+  - Agree a little with curiosity about many things (Q10: 4)
+  - Agree a little with being ingenious and a deep thinker (Q15: 4)
+  - Agree a little with worrying a lot (Q19: 4)
+  - Agree a little with having an active imagination (Q20: 4)
+  - Agree a little with being quiet (Q21: 4)
+  - Agree a little with emotional stability (Q24: 4)
+  - Agree a little with inventiveness (Q25: 4)
+  - Agree a little with assertiveness (Q26: 4)
+  - Agree a little with perseverance (Q28: 4)
+  - Agree a little with valuing artistic, aesthetic experiences (Q30: 4)
+  - Agree a little with being considerate and kind (Q32: 4)
+  - Agree a little with remaining calm in tense situations (Q34: 4)
+  - Disagree a little with preferring routine work (Q35: 2)
+  - Agree a little with making plans and following through (Q38: 4)
+  - Disagree a little with getting nervous easily (Q39: 2)
+  - Agree a little with being sophisticated in art, music, or literature (Q44: 4)
+- Need for Cognition scale (selected items):
+  - Neither agree nor disagree on preference for complex problems (Q1: 3)
+  - Neither agree nor disagree on liking responsibility requiring thinking (Q2: 3)
+  - Neither agree nor disagree on thinking being fun (Q3: 3)
+  - Disagree a little with avoiding thinking in depth (Q5: 2)
+  - Disagree a little with satisfaction in deliberating hard and long (Q6: 2)
+  - Disagree a little with liking tasks requiring little thought once learned (Q9: 2)
+  - Disagree a little with enjoying tasks involving new solutions (Q11: 2)
+  - Agree a little that learning new ways to think excites (Q12: 4)
+  - Disagree a little with preferring life filled with puzzles (Q13: 2)
+  - Agree strongly that they deliberate about issues even if not personally affected (Q18: 5)
+  - Agree a little that they feel relief rather than satisfaction after mental effort (Q16: 4)
+- Values (rated as guiding principles):
+  - Highly important: Compassion (9), Autonomy (9), Equality (9), Harmony (8), Altruism (8), Honesty (8), Trust (6)
+  - Quite important: Competence (5), Humility (5), Excitement (5), Civility (5), Politeness (4), Forgiveness (4), Loyalty (4)
+  - Less important: Wealth (3), Achievement (3), Ambition (3), Power (3), Status (3), Recognition (3), Tradition (3), Influence (2), Superiority (1)
+- Environmental attitudes:
+  - Agree a little that products used should not harm environment (Q1:4)
+  - Strongly agree considering environmental impact in decisions (Q2:5)
+  - Strongly agree purchase habits affected by environmental concern (Q3:5)
+  - Strongly agree concerned about wasting planet resources (Q4:5)
+  - Agree a little describing self as environmentally responsible (Q5:4)
+  - Strongly agree willing to be inconvenienced for environmentally friendly actions (Q6:5)
+- Empathy and emotional sensitivity:
+  - Disagree a little that friends’ emotions don’t affect them (Q1:2)
+  - Agree a little or strongly that they feel sad after friends are sad (Q2:4), understand friends’ happiness (Q3:5), get frightened by scary movies (Q4:4), get caught up in others’ feelings (Q5:4)
+  - Disagree strongly that they find it hard to know when friends are frightened (Q6:1)
+  - Disagree strongly that they don’t become sad when others cry (Q7:1)
+  - Agree strongly that they understand when someone is feeling down (Q9:5), can work out when friends are scared (Q10:5), cheerful (Q14:5), angry (Q16:5)
+  - Agree a little or neither agree nor disagree on being swept up in friends’ feelings (Q17:3)
+  - Disagree strongly that others’ feelings don’t bother them (Q8:1)
+- Self-concept clarity:
+  - Disagree a little that beliefs about self often conflict (Q1:2)
+  - Disagree a little that opinions of self vary day to day (Q2:2)
+  - Disagree strongly that they spend a lot of time wondering who they really are (Q3:1)
+  - Disagree strongly that they feel not really the person they appear to be (Q4:1)
+  - Agree a little that they have a clear sense of who they are (Q11:4)
+- Need for Closure:
+  - Neither agree nor disagree on liking uncertain situations (Q1:3)
+  - Agree a little that they feel uncomfortable when they don’t understand reasons for events (Q4:4)
+  - Agree a little that they don’t like to go into situations without knowing what to expect (Q6:4)
+  - Agree a little that when they make a decision, they feel relieved (Q7:4)
+  - Disagree a little that they would become impatient if no immediate solution found (Q9:2)
+- Maximizer tendencies:
+  - Neither agree nor disagree on checking other radio stations for better options (Q1:3)
+  - Neither agree nor disagree on looking for better job opportunities (Q2:3)
+  - Agree a little that they have a hard time finding clothing they really love (Q4:4)
+  - Agree a little that they have highest standards for themselves (Q5:4)
+  - Neither agree nor disagree on never settling for second best (Q6:3)
+- Self-monitoring:
+  - Somewhat false but with exceptions on ability to alter behavior in social situations (Q1:3)
+  - Somewhat false but with exceptions on controlling impression (Q2:3)
+  - Generally false on readily changing image when not working (Q3:2)
+  - Somewhat true but with exceptions on trouble changing behavior to suit situations (Q4:4)
+  - Somewhat true but with exceptions on adjusting behavior to meet requirements (Q5:4)
+  - Somewhat true but with exceptions on difficulty putting up a good front (Q6:4)
+  - Generally true on sensitivity to facial expressions and intuition about others’ emotions (Q9:5, Q10:5, Q11:5, Q13:5)
+- Cognitive test performance:
+  - Estimated 30 out of 42 questions answered correctly (Self-report)
+  - Estimated average US adult correct answers: 25 out of 42
+  - Correct answers on logical reasoning and syllogisms mostly "Yes" except one "No" (Premise 2: Plants do not love water; conclusion: Plants are not animals - answered No)
+  - Correct answers on synonym and antonym vocabulary questions with mostly accurate selections
+  - Correct answers on spatial rotation and pattern puzzles with some uncertainty (selected some "None of the cubes could be a rotation" and "I do not know" options)
+- Financial literacy:
+  - Correctly identified that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Correctly identified inflation effect on savings (money buys less)
+  - Correctly identified stocks as highest fluctuation and highest return over long term
+  - Correctly identified possibility of losing money in stock mutual fund
+  - Correctly identified diversification reduces risk
+  - Correctly identified required minimum distributions after age 70.5
+  - Correctly answered credit card debt would never be eliminated with minimum payments
+  - Correctly answered basic probability and percentage questions
+  - Correctly answered basic math and logic problems (bat and ball, lily pad doubling)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in $5 split (Ultimatum game proposer)
+  - Accepts offers of $2 or more out of $5 (Ultimatum game responder)
+  - In trust game, keeps $3 and sends $2; as receiver, keeps about half and returns about half (e.g., keeps $8 of $15, sends back $7)
+  - Thoughts during decisions: "mostly keeping it fair; goodwill" and "I don't want to give away too much; it's a game; it's ok to be a little competitive"
+- Spending habits:
+  - Moderate spending habits (5 on scale 1-11)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to a shopper who restrains spending despite sales (not impulsive spender)
+- Mood and mental health:
+  - Feels sad and discouraged about future
+  - Does not feel like a failure or worthless
+  - Feels guilty a good part of the time and may feel punished
+  - Cries more than used to, gets annoyed more easily
+  - Less interested in others than before
+  - Puts off making decisions more than before
+  - Has to push self very hard to do anything
+  - Sleeps worse than usual, wakes earlier and hard to get back to sleep
+  - Gets tired more easily
+  - Appetite worse than before, lost more than 5 pounds, not purposely dieting
+  - Worried about physical problems but not overwhelmed
+  - No change in interest in sex
+- Self-description:
+  - Straightforward, self-reliant, not fitting traditional categories
+  - Believes in caring for others, equality, protecting vulnerable
+  - No longer has an ideal self, focused on survival as self
+  - Ought to be self, not someone who revels in chaos, ignorance, deception, racism, misogyny

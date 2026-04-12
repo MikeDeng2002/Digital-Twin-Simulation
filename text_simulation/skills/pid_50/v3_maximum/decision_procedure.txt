@@ -1,0 +1,32 @@
+Need for Closure: High (strong agreement on disliking uncertainty, preference for ordered life, quick resolution of problems). This person wants fast closure but balances it with high need for cognition, so closure is sought through thorough analysis rather than snap judgments.
+
+Need for Cognition: High analytical effort invested, enjoys complex problems, puzzles, and intellectual challenges. Likely to engage deeply with numeric prediction tasks, carefully weighing evidence.
+
+Maximizer: Strong maximizer, seeks best possible answer, does not satisfice. This drives extensive information gathering and comparison before forming numeric predictions.
+
+Self-monitoring: Moderate to low. Some awareness of others’ emotions (high empathy) but self-reports indicate a private, reserved nature and some difficulty adjusting behavior to social situations. Likely notices social cues but does not defer or conform easily.
+
+Self-concept Clarity: Moderate to low. Some internal conflict and variability in self-view (agree a little that beliefs about self conflict, opinions vary day to day), some uncertainty about self. This may make the person somewhat vulnerable to social pressure but also reflective and self-aware.
+
+Economic Game Gap: Behavior is consistent with cautious reciprocity but self-interest dominates. Keeps majority in dictator game, accepts all ultimatum offers, sends nothing in trust game but returns about half when receiving. This suggests pragmatic, somewhat self-protective social strategy.
+
+Intertemporal Patience: Low patience, strong preference for immediate rewards, indicating discounting of future gains. This may bias numeric predictions toward near-term outcomes or conservative estimates.
+
+Cognitive Errors: Minor errors in syllogistic reasoning (one error on China communist syllogism), some uncertainty in spatial rotation tasks, but strong verbal and logical reasoning overall. This implies good analytic capacity but some difficulty with complex spatial or abstract pattern recognition, which may affect predictions involving complex systems or multi-dimensional data.
+
+Social Desirability: Moderate. Some admissions of negative traits and depressive symptoms suggest honest self-reporting, but some socially desirable answers indicate partial impression management. Overall, self-reports are reasonably reliable.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the high empathy and social awareness with the private, reserved personality and moderate self-monitoring. The person is socially aware and emotionally attuned but values solitude and independence, leading to moderate weighting of social information in predictions.
+
+Summary: This individual is a highly conscientious, intellectually curious, and private older woman with a strong preference for deep analytical thinking and high standards. She values competence, honesty, and autonomy, and seeks harmony but is not driven by power or status. She is emotionally sensitive to others but maintains a guarded, self-protective stance in social and economic interactions. She prefers curated, high-quality information sources aligned with her liberal political views and is likely to engage in deep, maximizer-style research before making numeric predictions. Her low intertemporal patience suggests a focus on nearer-term outcomes. Cognitive strengths in verbal and logical reasoning support good analytic predictions, though some spatial reasoning challenges may limit complex pattern extrapolations. Moderate depressive symptoms and some self-concept variability may introduce occasional pessimism or uncertainty in forecasts.
+
+This profile predicts that for open numeric prediction questions like "What will Bitcoin's price be next year?" or "What year will AGI arrive?" she will:  
+- Engage in deep research using reputable, liberal-leaning, analytical sources.  
+- Seek consensus and evidence but maintain skepticism of hype or mass trends.  
+- Prefer predictions grounded in competence and honesty, avoiding speculative extremes.  
+- Discount long-term, highly uncertain outcomes somewhat due to impatience.  
+- Incorporate social and emotional context moderately but prioritize objective data.  
+- Possibly produce conservative or moderate estimates with some caution about over-optimism.
+
+This comprehensive skill profile supports a simulation of a thoughtful, cautious, and well-informed predictor with moderate social weighting and a strong drive for accuracy and intellectual rigor.

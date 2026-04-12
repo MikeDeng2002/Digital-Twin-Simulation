@@ -1,0 +1,122 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest level of education: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Household size: More than 4 people (Question: Including yourself, how many people currently live in your household? Answer: More than 4)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: Part-time employment)
+- Income: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, selected items):
+  - Disagree a little that they are talkative (Q: Is talkative; Answer: Disagree a little)
+  - Agree a little that they do a thorough job (Q: Does a thorough job; Answer: Agree a little)
+  - Agree strongly that they are helpful and unselfish with others (Q: Is helpful and unselfish; Answer: Agree strongly)
+  - Agree strongly that they are a reliable worker (Q: Is a reliable worker; Answer: Agree strongly)
+  - Agree strongly that they are considerate and kind to almost everyone (Q: Is considerate and kind; Answer: Agree strongly)
+  - Agree strongly that they remain calm in tense situations (Q: Remains calm in tense situations; Answer: Agree strongly)
+  - Agree a little that they are curious about many different things (Q: Is curious about many different things; Answer: Agree strongly)
+  - Agree a little that they are original and come up with new ideas (Q: Is original; Answer: Agree a little)
+  - Agree a little that they have an active imagination (Q: Has an active imagination; Answer: Agree a little)
+  - Agree a little that they tend to be quiet (Q: Tends to be quiet; Answer: Agree a little)
+  - Agree a little that they are generally trusting (Q: Is generally trusting; Answer: Agree a little)
+  - Agree a little that they persevere until the task is finished (Q: Perseveres until task is finished; Answer: Agree a little)
+  - Agree a little that they make plans and follow through with them (Q: Makes plans and follows through; Answer: Agree a little)
+  - Agree a little that they like to reflect and play with ideas (Q: Likes to reflect, play with ideas; Answer: Agree a little)
+  - Agree a little that they like to cooperate with others (Q: Likes to cooperate with others; Answer: Agree a little)
+  - Agree a little that they are easily distracted (Q: Is easily distracted; Answer: Agree a little)
+- Need for Cognition scale (selected items):
+  - Neither agree nor disagree or disagree a little on preference for complex problems and thinking tasks (Q1, Q2, Q3, Q4)
+  - Agree a little that they find satisfaction in deliberating hard and for long hours (Q6)
+  - Agree a little that they usually end up deliberating about issues even when they do not affect them personally (Q18)
+- Values (selected):
+  - Highly important: Trust, Humility, Harmony, Compassion, Equality (rated 9)
+  - Quite important: Achievement, Altruism, Loyalty, Honesty, Autonomy, Competence, Politeness, Civility (rated 6-8)
+  - Not important: Tradition, Superiority (rated 1)
+  - Low importance: Power, Status, Influence (rated 2-3)
+- Self-concept clarity (selected):
+  - Neither agree nor disagree or disagree a little on conflicting beliefs about self (Q1, Q2)
+  - Agree a little that sometimes unsure about past self (Q5)
+  - Agree a little that seldom experience conflict between personality aspects (Q6)
+  - Disagree strongly that beliefs about self change frequently or that description of self varies day to day (Q8, Q9)
+  - Agree a little that generally have a clear sense of who they are (Q11)
+  - Agree a little that it is often hard to make up mind because unsure what they want (Q12)
+- Self-monitoring (selected):
+  - Generally true that can alter behavior in social situations (Q1, Q2, Q7)
+  - Generally false that have trouble changing behavior to suit situations (Q4, Q6)
+  - Somewhat true with exceptions that can adjust behavior to meet requirements (Q5)
+  - Generally true that can read people's emotions through eyes (Q8)
+  - Somewhat true with exceptions on sensitivity to facial expressions and intuition about others' emotions (Q9, Q10, Q11, Q12, Q13)
+- Maximizer scale (selected):
+  - Disagree strongly that they never settle for second best (Q6)
+  - Agree strongly that they have a hard time finding clothing they really love (Q4)
+  - Agree a little that they often find more interesting versions of products (Q2)
+  - Agree a little that having an eye for interesting products helps establish distinctive image (Q4)
+  - Agree a little that they have violated social group rules about what to buy or own (Q6)
+  - Disagree a little that they enjoy challenging prevailing taste by buying unacceptable products (Q8)
+  - Agree a little that they dislike commonplace products (Q12)
+- Need for Closure (selected):
+  - Neither agree nor disagree or disagree a little on disliking uncertainty and unpredictability (Q1, Q2, Q3, Q4, Q5, Q9, Q10, Q11, Q15)
+  - Agree a little that they like to have clear and structured life and routines (Q12, Q13)
+  - Agree strongly that they feel relieved when making decisions (Q7)
+  - Agree a little that they want to reach solutions quickly (Q8)
+  - Disagree strongly that they consult many opinions before forming views (Q14)
+- Economic game behavior:
+  - When proposer in $5 split game, chooses to keep $3 and send $2 (Question: Suppose you were given $5 and had to offer to another person; Answer: Keep $3, send $2)
+  - As receiver, accepts all offers from $0 to $5 kept by proposer (accepts even $0 for self) (Questions on acceptance of offers; all accepted)
+  - In $5 split with tripling, keeps $3 and sends $2 (Question: How much would you keep and send in tripling game; Answer: Keep $3, send $2)
+  - As receiver in tripling game, keeps majority of money sent back (e.g., keeps $9 of $15, sends back $6) (Answers indicate keeping more than half)
+  - Thoughts during decisions emphasize fairness, being nice, avoiding math, tiredness (Thoughts listed)
+- Cognitive test performance:
+  - Estimated 20 out of 42 questions answered correctly (Self-report)
+  - Average US adult estimated to answer 20 correctly (Self-report)
+  - Correct answers on logical reasoning and syllogistic reasoning questions (e.g., all XAR are YOF, syllogisms about animals, smoking, etc.)
+  - Some errors in synonym and antonym tests (e.g., selected "ascetic" for "astute" synonym, "diligent" for "indigent" synonym)
+  - Some uncertainty or "I do not know" answers on cube rotation tasks
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Correctly identifies stocks as highest fluctuation and highest return over long term
+  - Correctly identifies risk decreases with diversification
+  - Correctly identifies need to withdraw from 401(k) after age 70.5
+  - Correctly answers inflation and interest rate question (though answer "exactly the same" is incorrect in reality)
+  - Correctly answers credit card debt would never be eliminated with minimum payments
+  - Correctly answers basic probability and percentage questions
+  - Correctly answers basic math and logic puzzles (bat and ball, lily pads, etc.)
+- Self-reported mental health:
+  - Does not feel sad, discouraged, or like a failure
+  - Feels some discouragement about the future
+  - Does not feel guilty, punished, disappointed, worthless, or more tired than usual
+  - No loss of interest in others or sex
+  - No sleep problems or appetite loss
+  - Is purposely trying to lose weight by eating less
+- Spending habits:
+  - Neither tightwad nor spendthrift (middle of scale)
+  - Sometimes has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Neither similar to Mr. A nor Mr. B in shopping spree scenario (neutral)
+- Self-reported personality attributes (true/false):
+  - Sometimes feels resentful when doesn't get way
+  - Sometimes gives up on tasks due to low self-belief
+  - Sometimes takes advantage of others
+  - Sometimes tries to get even rather than forgive
+  - Sometimes jealous of others' good fortune
+  - Does not always admit mistakes or always courteous
+  - Does not always listen well
+- Self-reported self-concept:
+  - Prefers to depend on self rather than others (agree a little)
+  - Relies on self most of the time (agree a little)
+  - Often does own thing (agree a little)
+  - Personal identity independent of others is very important (agree strongly)
+  - Feels proud if co-worker gets prize (agree strongly)
+  - Feels good when cooperating with others (agree strongly)
+  - Feels duty to take care of family even at personal sacrifice (agree a little)
+  - Does not strongly endorse competition or winning as everything
+- Self-reported anxiety symptoms: Mostly not bothered or very low levels
+- Self-reported self-monitoring: Generally able to adjust behavior and read emotions
+- Self-reported self-concept clarity: Moderate clarity with some uncertainty about past self
+- Self-reported need for closure: Moderate, some preference for order and quick decisions but not extreme
+- Self-reported maximizer tendencies: Low to moderate, does not strongly seek best or never settle for second best

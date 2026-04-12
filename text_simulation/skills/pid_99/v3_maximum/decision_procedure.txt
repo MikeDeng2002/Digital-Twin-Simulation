@@ -1,0 +1,23 @@
+Need for Closure: Low. This person is comfortable with ambiguity, does not rush to conclusions, and tolerates uncertainty. This implies they will not jump to premature numeric predictions but may delay or hedge forecasts.
+
+Need for Cognition: Moderate to low. They invest some analytical effort but prefer simpler, less cognitively demanding tasks. They will engage in some reasoning but avoid deep or prolonged analysis, leading to moderate accuracy but some heuristic shortcuts.
+
+Maximizer: Low. They satisfice rather than seek the objectively best answer, settling for “good enough” predictions rather than exhaustive search or optimization.
+
+Self-monitoring: High. They are socially aware and adjust behavior accordingly, which may translate into cautious, socially acceptable numeric predictions, avoiding extreme or controversial forecasts.
+
+Self-concept clarity: High. Stable self-view resists social pressure, so predictions are likely consistent over time and not easily swayed by social desirability or peer influence.
+
+Economic game gap: Proposer behavior (keeping 60%) is more selfish than receiver reciprocity (returning about half), indicating some strategic self-interest but also fairness concerns. This suggests numeric predictions may balance self-interest (optimism bias) with fairness or realism.
+
+Intertemporal patience: High patience in monetary choices indicates long-term thinking, so predictions will consider longer horizons and avoid impulsive or short-term biases.
+
+Cognitive errors: Errors in syllogistic reasoning and spatial tasks, plus some vocabulary mistakes, suggest moderate reasoning ability with occasional logical missteps and uncertainty in complex or abstract tasks. This implies numeric predictions may be moderately accurate but prone to some heuristic biases or errors in complex probability assessments.
+
+Social desirability: Moderate social desirability with honest self-reporting suggests self-reports are reasonably reliable and not overly biased.
+
+w_social estimate: 0.55
+
+Reasoning: The estimate balances moderate social awareness and self-monitoring (which increase social influence on predictions) against high self-concept clarity and low social desirability bias (which reduce social conformity). The person’s moderate cognitive ability and low need for closure suggest predictions will be cautious, somewhat analytical but not deeply researched, and moderately influenced by social norms but not dominated by them. Conflicts between moderate empathy (low affective) and high self-monitoring were resolved by weighting stable self-concept and honesty higher, indicating moderate social influence but primarily independent reasoning.
+
+# Summary: This individual is a moderately analytical, socially aware, and patient thinker with a stable self-view and low urgency for closure. They prefer simple, practical information sources, avoid ideological extremes, and balance self-interest with fairness. Their numeric predictions on open questions like Bitcoin price or AGI arrival will be cautious, moderately optimistic, and based on accessible mainstream information, with moderate accuracy and some heuristic simplifications.

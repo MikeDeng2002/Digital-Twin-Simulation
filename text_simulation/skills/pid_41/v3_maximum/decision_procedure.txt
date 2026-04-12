@@ -1,0 +1,36 @@
+Need for Closure: Moderate to high. Strong agreement with wanting quick resolution to problems (items 7 and 8 in Need for Closure scale strongly agree), but not extreme impatience. Will seek closure but tolerates some ambiguity.
+
+Need for Cognition: Moderate to moderately high. Enjoys intellectual challenges and abstract thinking, invests analytical effort but not obsessively.
+
+Maximizer: Moderate. Has high personal standards and does not settle for second best, but balances effort and practicality in information search and decision-making.
+
+Self-Monitoring: Moderate. Notices social cues and adjusts behavior somewhat, but maintains personal integrity and does not fully conform.
+
+Self-Concept Clarity: Moderate. Generally stable self-view but some day-to-day variation and internal conflict; enough clarity to resist social pressure but open to reflection.
+
+Economic Game Gap: Behavior consistent with strategic reciprocity. Proposes fair splits, accepts reasonable offers, returns roughly half or more in trust games. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: Moderate patience. Prefers larger later rewards consistently until amounts equalize, indicating future-oriented thinking.
+
+Cognitive Errors: Some errors in logical negation and contrapositives (e.g., syllogism about poodles), and spatial rotation puzzles. Indicates occasional difficulty with abstract logical negation and complex spatial transformations, but overall good reasoning.
+
+Social Desirability: Moderate. Some admissions of negative traits and behaviors, but also some denial. Self-reports moderately reliable but with some bias.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects a moderately strong but not perfect weighting on social and cognitive signals. The participant shows moderate to high cognitive engagement and analytical reasoning, balanced with moderate need for closure and self-monitoring. Their economic game behavior and empathy suggest they incorporate social considerations into decisions, but their moderate self-concept clarity and occasional cognitive errors indicate some internal conflict and reasoning limitations. Social desirability is moderate, so self-reports are somewhat trustworthy but should be interpreted with caution. Conflicts between moderate neuroticism and conscientiousness, and between ambition and social harmony values, were resolved by weighting behavioral economic and cognitive test performance more heavily for prediction of numeric forecasts. Overall, this person is a moderately analytical, socially aware, and conscientious individual who balances ambition with social values and is likely to produce numeric predictions that reflect moderate confidence, some risk aversion, and a preference for balanced, well-reasoned estimates rather than extreme or impulsive forecasts.
+
+# Final skill profile summary for simulating numeric predictions on open questions:
+
+- Demographics imply moderate socioeconomic status, young adult with professional orientation and Southern conservative cultural background.  
+- Big Five: Low extraversion, high conscientiousness, moderate neuroticism, moderate openness, high agreeableness.  
+- Values: Ambition and pleasure highly important, balanced with altruism, harmony, and civility.  
+- Cognitive style: Moderate to moderately high need for cognition, moderate need for closure, occasional logical errors in negation and spatial reasoning.  
+- Economic behavior: Fair and strategic in social-economic games, moderate trust and reciprocity.  
+- Information behavior: Moderate research depth, prefers partisan conservative and professional sources, moderate social network reliance, moderate maximizer tendencies.  
+- Self-concept: Moderately stable, some internal conflict but generally clear.  
+- Social desirability: Moderate, self-reports somewhat reliable.  
+- Intertemporal choice: Moderate patience, future-oriented.  
+- Prediction style: Balanced, cautious, moderately confident, integrating social and analytical inputs, avoiding extremes.
+
+This profile supports simulating numeric predictions that are neither overly optimistic nor pessimistic, incorporate social and economic context, and reflect moderate analytical rigor with some susceptibility to common reasoning biases.

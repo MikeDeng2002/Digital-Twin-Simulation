@@ -1,0 +1,21 @@
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty (Item 1: Agree strongly)
+  - Strongly agrees with disliking ambiguous questions (Item 2: Agree strongly)
+  - Strongly agrees with liking ordered life and routine (Items 3,12,13: Agree strongly)
+  - Strongly agrees with not liking to go into situations without knowing what to expect (Item 6: Agree strongly)
+  - Strongly agrees with feeling relieved after making decisions (Item 7: Agree strongly)
+  - Somewhat agrees with becoming impatient if no immediate solution (Item 9: Agree a little)
+  - Disagrees with discomfort at not understanding reasons for events (Item 4: Disagree strongly)
+- Need for Cognition:
+  - Strongly agrees with liking complex problems, responsibility requiring thinking, satisfaction in deliberating hard, preferring intellectual tasks (Items 1,2,6,15: Agree strongly)
+  - Strongly disagrees with avoiding thinking or preferring little thought tasks (Items 3,4,5,7,8,9,12,16,17,18: Disagree strongly)
+  - Somewhat agrees with enjoying problem solving and relying on thought to get ahead (Items 10,11: Agree a little)
+- Maximizer:
+  - Disagrees strongly with maximizing behaviors such as searching for better options, difficulty shopping, or always seeking highest standards (Items 1-4: Disagree strongly)
+  - Agrees a little with having high standards and not settling for second best (Items 5,6: Agree a little)
+- Self-monitoring:
+  - Generally low self-monitoring: difficulty altering behavior to suit situations, trouble putting up a good front, difficulty reading others' emotions (Items 1-3,5,7: Generally false; Items 4,6: Generally true)
+- Self-concept clarity:
+  - Strongly agrees with clear, stable self-concept, no internal conflict, no frequent changes in self-beliefs (Items 1-3,6,11: Agree strongly)
+  - Disagrees strongly with conflicting or changing self-beliefs (Items 1-5,7-10: Disagree strongly)
+- w_social estimate: 0.7 -- The person shows strong need for closure and need for cognition, low self-monitoring, and high self-concept clarity, combined with cooperative and fairness-oriented behavior in economic games and social values emphasizing kindness, cooperation, and family loyalty, supporting a moderately high social reasoning weight.

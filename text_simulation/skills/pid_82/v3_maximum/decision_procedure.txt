@@ -1,0 +1,34 @@
+Need for Closure: Moderate to high. Wants quick resolution, dislikes ambiguity, prefers clear answers. This drives a preference for confident, decisive predictions rather than nuanced uncertainty.
+
+Need for Cognition: Low to moderate. Limited analytical effort, prefers simple, routine tasks, avoids deep abstract thinking. Likely to rely on heuristics and familiar narratives rather than complex modeling.
+
+Maximizer: Moderate. Seeks better answers but willing to settle for good enough. Not a perfectionist but does some comparison.
+
+Self-monitoring: Moderate. Notices social cues and others’ opinions, but self-concept is somewhat unstable, so may be influenced by social context but retains some independence.
+
+Self-concept clarity: Moderate to low. Some day-to-day variation in self-view, some uncertainty about identity. This may cause some susceptibility to social influence but also some internal conflict.
+
+Economic game gap: Behavior consistent between dictator and ultimatum games, indicating alignment between stated fairness and strategic behavior. Trust game shows moderate trust and reciprocity expectations.
+
+Intertemporal patience: Moderate impatience, prefers sooner smaller rewards unless delayed rewards are substantially better. Suggests moderate discounting of future outcomes in predictions.
+
+Cognitive errors: Errors in vocabulary synonym/antonym tasks, some financial literacy misunderstandings, and overestimation of own cognitive performance indicate moderate cognitive skill with some gaps. Logical reasoning mostly intact but vocabulary and abstract reasoning weaker. This implies numeric predictions may be approximate, relying on heuristics rather than precise calculation.
+
+Social desirability: Moderate. Some admissions of negative feelings (jealousy, irritation), some self-criticism, but also socially desirable answers. Self-reports moderately reliable but with some bias.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate cognitive ability with some reasoning errors, moderate need for closure pushing for quick, confident answers, and moderate need for cognition limiting deep analysis. The person’s moderate empathy and social monitoring suggest some influence from social context and peer opinions, but moderate self-concept clarity and consistent economic game behavior indicate a stable internal model. The moderate maximizer tendency and low minimalism imply she consults multiple mainstream sources but does not deeply curate or analyze them. Political and demographic context suggest reliance on liberal mainstream media and social networks. Conflicts between low NFC and moderate need for closure are resolved by assuming she prefers quick, heuristic-based decisions rather than deep deliberation. Social desirability is moderate, so self-reports are somewhat trustworthy but should be interpreted cautiously. Overall, this profile predicts numeric predictions will be moderately confident, socially influenced, heuristic-driven, and somewhat optimistic or risk-averse depending on framing.
+
+# Final skill profile summary for simulating numeric predictions on open questions:
+
+- Likely to produce numeric predictions that are moderately confident but not deeply analytical.  
+- Prefers clear, decisive answers, dislikes ambiguity, so may anchor on salient, socially reinforced numbers or narratives.  
+- Uses heuristic shortcuts rather than detailed probabilistic reasoning.  
+- Influenced by social context and peer opinions, especially from liberal mainstream media and social networks.  
+- Moderate patience suggests some consideration of future trends but discounts long-term uncertainty.  
+- Cognitive errors in vocabulary and financial literacy suggest some misunderstanding of probabilities and magnitudes, leading to approximate rather than precise numeric estimates.  
+- Economic game behavior shows moderate fairness and reciprocity expectations, so predictions may reflect social fairness norms or expectations of cooperation.  
+- Emotional state (some anxiety, guilt, and self-criticism) may bias predictions toward caution or pessimism in loss framing, but also values pleasure and excitement, so may show optimism in gain framing.  
+- Overall, predictions will be socially informed, heuristic, moderately optimistic or cautious depending on framing, and not deeply technical or probabilistic.
+
+# This profile should be used to simulate her numeric predictions on open questions like Bitcoin price or AGI arrival by weighting social narratives, heuristic anchors, moderate impatience, and moderate need for closure, with limited deep analytical adjustment.

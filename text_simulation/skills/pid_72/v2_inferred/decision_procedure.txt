@@ -1,0 +1,17 @@
+Need for Closure: Low to moderate (disagree a little on items about discomfort with uncertainty and impatience for solutions). This suggests tolerance for ambiguity and moderate deliberation.
+
+Need for Cognition: Moderate (mostly agree a little), indicating some enjoyment of thinking but not strong drive.
+
+Maximizer: Low (disagree a little on items about always seeking best options), indicating satisficing tendencies.
+
+Self-monitoring: Moderate to high (items mostly 4-5), able to adjust social behavior but with some exceptions.
+
+Self-concept clarity: High (agree strongly on clarity items, disagree strongly on instability), indicating stable and coherent self-view.
+
+Economic games: Proposes moderately fair splits but keeps all in trust game, indicating cautious or low trust in social exchange, prioritizing self-interest in trust contexts but some fairness in dictator game.
+
+Cross-scale inference: The moderate self-monitoring and high self-concept clarity align with moderate extraversion and agreeableness, supporting social adaptability but with some social anxiety and low trust.
+
+No contradictions noted; scales align to depict a conscientious, moderately extraverted, agreeable, and emotionally stable individual with moderate cognitive engagement and cautious social trust.
+
+w_social estimate: 0.45 -- The respondent shows moderate social engagement and fairness (agreeableness, extraversion, moderate self-monitoring), but also social anxiety and low trust in economic games. The agreement between Big Five (moderate extraversion and agreeableness), self-monitoring (moderate), and economic game behavior (fair but cautious) supports a mid-level social weighting. The low trust in the trust game and self-described social anxiety temper this estimate downward from higher sociality.

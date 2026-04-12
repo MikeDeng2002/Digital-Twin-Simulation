@@ -1,0 +1,26 @@
+- Need for Closure:
+  - Prefers order and routine (Items: 3 - Agree strongly; 6 - Agree strongly; 12 - Agree strongly; 13 - Agree strongly)
+  - Dislikes uncertainty moderately (Items: 1 - Agree a little; 5 - Agree a little; 9 - Neither agree nor disagree; 10 - Agree a little; 15 - Agree a little)
+  - Feels relief after decisions (Item 7 - Agree strongly)
+  - Wants quick solutions (Item 8 - Agree strongly)
+  - Some impatience if no immediate solution (Item 9 - Agree a little)
+- Need for Cognition:
+  - Strongly dislikes complex thinking and intellectual challenges (Items: 1,2 - Disagree strongly; 3,4 - Agree strongly)
+  - Prefers simple, routine tasks (Items: 8,9 - Agree strongly)
+  - Avoids deep deliberation (Item 6 - Disagree strongly)
+  - Thinks only as hard as necessary (Item 7 - Agree a little)
+  - Feels relief, not satisfaction, after mental effort (Item 16 - Agree strongly)
+  - Cares only that something works, not how (Item 17 - Agree strongly)
+- Maximizer:
+  - Often checks for better options (Item 1 - Agree strongly)
+  - Does not strongly seek better opportunities or have highest standards (Items 2 - Disagree a little; 5 - Neither agree nor disagree; 6 - Disagree a little)
+- Self-monitoring:
+  - Generally able to adjust behavior to suit situations (Items 1,2,5,7 - Generally true)
+  - Can read social cues well (Items 11,12 - Generally true)
+  - Some difficulty detecting lies (Item 13 - Generally false)
+- Self-concept clarity:
+  - Generally clear sense of self (Item 11 - Agree strongly)
+  - Some minor fluctuations in self-beliefs (Item 2 - Agree a little)
+  - Seldom experiences conflict in self-beliefs (Item 6 - Agree a little)
+  - Does not feel like different person at times (Item 4 - Disagree strongly)
+- w_social estimate: 0.65 -- This estimate is based on moderate to strong self-monitoring abilities (Items 1,2,5,7,11,12), a clear self-concept (Item 11), and moderate need for closure indicating preference for social order and predictability (Items 3,6,7,8,12,13), balanced by low need for cognition and moderate maximizer tendencies, suggesting social reasoning is present but not highly analytical or maximizing.

@@ -1,0 +1,97 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Agnostic, never attends religious services (Questions: What is your present religion? Answer: Agnostic; How often attend religious services? Answer: Never)
+- Political affiliation: Republican, moderate political views (Questions: In politics today, do you consider yourself a? Answer: Republican; In general, would you describe your political views as? Answer: Moderate)
+- Family income last year: $50,000-$75,000 (Question: Last year, what was your total family income? Answer: $50,000-$75,000)
+- Household size: 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five and related):
+  - Disagree a little with being talkative (Q: I see myself as someone who is talkative. Answer: Disagree a little)
+  - Agree strongly that they tend to find fault with others
+  - Agree a little that they do a thorough job
+  - Agree strongly that they are depressed, blue
+  - Disagree a little that they are original or inventive
+  - Agree a little that they are reserved
+  - Agree a little that they are helpful and unselfish
+  - Agree strongly that they can be careless and disorganized
+  - Disagree strongly that they are relaxed and handle stress well
+  - Agree strongly that they are curious about many things
+  - Disagree strongly that they are full of energy or outgoing
+  - Agree a little that they are a reliable worker and somewhat tense
+  - Agree strongly that they can be moody
+  - Agree strongly that they value artistic, aesthetic experiences
+  - Agree strongly that they prefer routine work
+  - Disagree strongly that they make plans and follow through
+  - Agree a little that they are considerate and kind to almost everyone (disagree a little)
+  - Agree a little that they are cold and aloof
+  - Agree a little that they are easily distracted
+  - Agree a little that they are sophisticated in art, music, or literature
+- Need for Cognition scale responses indicate low preference for complex or challenging thinking tasks (mostly disagree a little or agree a little with statements indicating avoidance of deep thinking or intellectual challenge)
+- Values (rated as guiding principles):
+  - Wealth: 8 (quite important)
+  - Competence: 7
+  - Achievement: 7
+  - Honesty: 7
+  - Status: 7
+  - Tradition: 7
+  - Power: 6
+  - Harmony: 6
+  - Superiority: 6
+  - Trust: 5
+  - Equality: 5
+  - Forgiveness and Excitement rated very low (1)
+  - Altruism and Ambition rated low (2)
+- Environmental concern: agrees a little to strongly with concern for environment and resource waste, but disagrees a little with willingness to be inconvenienced for environment
+- Empathy and social sensitivity: agrees a little to strongly with being affected by others' emotions, understanding friends' feelings, and being sensitive to emotional cues
+- Cognitive test performance: self-estimated 25/42 correct; believes average US adult scores 38/42
+- Logical reasoning: correctly identifies logical conclusions in syllogistic reasoning tasks
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest
+  - Correctly identifies stocks as highest fluctuation asset
+  - Incorrectly believes it is not possible to have less than $1,000 when withdrawing from stock mutual fund (answered False)
+  - Correctly identifies diversification reduces risk
+  - Incorrectly believes savings accounts normally give highest return over long periods (answered savings account instead of stocks)
+  - Incorrect about required minimum distributions after age 70.5 (answered False)
+  - Estimates credit card debt payoff time as 100 years
+- Economic game behavior:
+  - Proposes to keep all $5 and send $0 in the ultimatum game
+  - Rejects offers where they get $0 as receiver
+  - In trust game, would keep $4 and send $1; as receiver, keeps most money and sends back minimal amounts
+- Spending habits:
+  - Identifies as a spendthrift with difficulty controlling spending (Answer: Always have trouble limiting spending)
+  - Similar to Mr. A who spends despite not needing items
+- Self-concept:
+  - Aspires to be kind, patient, funny, powerful, intimidating, smart, educated, cooperative, skilled, fortunate, lucky, wealthy, and looked up to
+  - Believes ought to be responsible, financially secure, and able to provide for family
+  - Describes actual self as lazy, unmotivated, stuck in self-loathing, working hard with little payoff
+- Depression symptoms:
+  - Reports feeling sad all the time, hopeless about future, feeling like a failure, lack of satisfaction, guilt, self-disgust, blaming self for everything, inability to cry, irritability, loss of interest in others and sex, difficulty making decisions, fatigue, but no significant appetite or sleep problems
+- Self-monitoring:
+  - Moderate ability to adjust behavior in social situations; some difficulty changing behavior to suit different people/situations
+- Self-concept clarity:
+  - Somewhat unclear self-concept; beliefs about self often conflict; opinions about self change; spends time wondering about true self; does not have a clear sense of who they are
+- Need for Closure:
+  - Strongly agrees with preference for order, dislike of uncertainty, discomfort with ambiguous situations, desire for quick decisions, and relief after deciding
+- Maximizer tendencies:
+  - Disagrees or only slightly agrees with maximizing behavior; does not settle for second best but does not have highest standards
+- Social values:
+  - Values recognition and achievement but less altruism and forgiveness
+- Environmental values:
+  - Some concern but low willingness to be inconvenienced
+- Empathy:
+  - Moderate empathy and emotional sensitivity
+- Cognitive style:
+  - Prefers routine, dislikes complexity, low need for cognition
+- Logical reasoning:
+  - Correctly applies logical rules in syllogistic reasoning
+- Financial literacy:
+  - Mixed knowledge; some correct, some incorrect answers
+- Economic game behavior:
+  - Selfish in ultimatum game; somewhat selfish in trust game but sends minimal amounts back
+- Spending behavior:
+  - Spendthrift, difficulty controlling spending

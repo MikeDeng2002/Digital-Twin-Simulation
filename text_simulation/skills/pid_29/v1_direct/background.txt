@@ -1,0 +1,115 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Assigned female at birth (Question: "What is the sex that you were assigned at birth?" Answer: 2 - Female)
+- Age group 65+ (Question: "How old are you?" Answer: 4 - 65+)
+- Highest education level completed: High school graduate (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 2 - High school graduate)
+- Race: White (Question: "What is your race or origin?" Answer: 1 - White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Marital status: Divorced (Question: "Which of these best describes you?" Answer: 3 - Divorced)
+- Religion: Protestant (Question: "What is your present religion, if any?" Answer: 1 - Protestant)
+- Never attends religious services aside from weddings and funerals (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: 6 - Never)
+- Political affiliation: Independent (Question: "In politics today, do you consider yourself a" Answer: 3 - Independent)
+- Political views: Liberal (Question: "In general, would you describe your political views as" Answer: 4 - Liberal)
+- Total family income last year: Less than $30,000 (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 1 - Less than $30,000)
+- Household size: 1 person (Question: "Including yourself, how many people currently live in your household?" Answer: 1 - 1)
+- Employment status: Retired (Question: "What is your current employment status?" Answer: 7 - Retired)
+
+Personality (Big Five traits, from direct self-report items):
+- Low talkativeness (Q1: 2 - Disagree a little)
+- Very low tendency to find fault with others (Q2: 1 - Disagree strongly)
+- Very thorough and reliable worker (Q3: 5 - Agree strongly; Q13: 5 - Agree strongly)
+- Emotionally stable, not depressed or tense (Q4: 1 - Disagree strongly; Q14: 1 - Disagree strongly; Q24: 4 - Agree a little)
+- Somewhat original and creative (Q5: 4 - Agree a little; Q20: 4 - Agree a little)
+- Somewhat reserved and quiet (Q6: 4 - Agree a little; Q21: 4 - Agree a little)
+- Very helpful, unselfish, forgiving, trusting, and kind (Q7: 5 - Agree strongly; Q17: 5 - Agree strongly; Q22: 5 - Agree strongly; Q32: 4 - Agree a little)
+- Generally relaxed and handles stress well (Q9: 4 - Agree a little)
+- Curious and somewhat energetic (Q10: 4 - Agree a little; Q11: 4 - Agree a little)
+- Does things efficiently and perseveres until task completion (Q33: 4 - Agree a little; Q28: 5 - Agree strongly)
+- Values artistic and aesthetic experiences highly (Q30: 5 - Agree strongly; Q44: 4 - Agree a little)
+- Not moody, not careless, not lazy, not cold or aloof (Q8: 2 - Disagree a little; Q23: 1 - Disagree strongly; Q27: 1 - Disagree strongly; Q29: 1 - Disagree strongly)
+- Somewhat assertive (Q26: 4 - Agree a little)
+- Does not start quarrels (Q12: 1 - Disagree strongly)
+- Somewhat shy/inhibited (Q31: 4 - Agree a little)
+- Likes to cooperate with others (Q42: 5 - Agree strongly)
+- Remains calm in tense situations (Q34: 4 - Agree a little)
+- Prefers routine work somewhat (Q35: 4 - Agree a little)
+- Does not get nervous easily (Q39: 1 - Disagree strongly)
+- Likes to reflect and play with ideas (Q40: 4 - Agree a little)
+- Has few artistic interests: disagrees strongly (Q41: 1 - Disagree strongly)
+
+Need for Cognition (direct self-report):
+- Prefers complex problems (Q1: 4 - Agree a little)
+- Likes responsibility requiring thinking (Q2: 4 - Agree a little)
+- Does not find thinking unpleasant (Q3: 2 - Disagree a little)
+- Prefers challenging thinking tasks (Q4: 2 - Disagree a little)
+- Does not avoid deep thinking (Q5: 2 - Disagree a little)
+- Finds satisfaction in deliberating hard (Q6: 4 - Agree a little)
+- Thinks more than minimally required (Q7: 2 - Disagree a little)
+- Likes small daily projects as well as long-term (Q8: 4 - Agree a little)
+- Does not like tasks requiring little thought (Q9: 2 - Disagree a little)
+- Values thought to succeed (Q10: 4 - Agree a little)
+- Enjoys problem-solving (Q11: 4 - Agree a little)
+- Learning new ways to think somewhat interesting (Q12: 2 - Disagree a little)
+- Prefers life filled with puzzles (Q13: 4 - Agree a little)
+- Likes abstract thinking (Q14: 4 - Agree a little)
+- Prefers intellectual, difficult, important tasks (Q15: 4 - Agree a little)
+- Does not feel relief after mental effort, but rather satisfaction (Q16: 2 - Disagree a little)
+- Cares about how things work (Q17: 2 - Disagree a little)
+- Deliberates about issues even if not personally affected (Q18: 4 - Agree a little)
+
+Values (rated as guiding principles in life):
+- Highly important: Forgiveness (9), Trust (9), Humility (9), Altruism (9), Loyalty (9), Harmony (9), Honesty (9), Compassion (9), Autonomy (9), Equality (9)
+- Quite important: Pleasure (8), Competence (8), Achievement (5), Excitement (5), Politeness (7)
+- Not important: Wealth (1), Influence (2), Power (1), Status (1), Recognition (1), Superiority (1), Tradition (3)
+- Moderate: Ambition (4), Civility (6)
+
+Self-concept clarity:
+- Strongly agrees with clear, consistent self-beliefs (Q11: 5 - Agree strongly)
+- Disagrees strongly with conflicting or changing self-beliefs (multiple items: all 1 - Disagree strongly)
+- Seldom experiences personality conflicts (Q6: 5 - Agree strongly)
+
+Self-monitoring:
+- Somewhat true with exceptions for ability to alter behavior and control impression (mostly 4 - Agree a little)
+- Somewhat false with exceptions for difficulty changing behavior (3 - Neither agree nor disagree)
+- Somewhat true for reading emotions and detecting lies (mostly 4 - Agree a little)
+- Somewhat false for sensitivity to facial expressions (3 - Neither agree nor disagree)
+
+Maximizer:
+- Disagrees strongly with behaviors indicating maximizing (all 1 - Disagree strongly)
+- Agrees a little with having high standards for self (Q5: 4 - Agree a little; Q6: 4 - Agree a little)
+
+Need for Closure:
+- Strongly agrees with disliking uncertainty and ambiguity (multiple items rated 5 - Agree strongly)
+- Agrees a little with feeling relieved after decisions (Q7: 4 - Agree a little)
+- Agrees strongly with liking order, routine, and dislike of unpredictability (multiple 5s)
+- Dislikes unpredictable people and ambiguous statements (5 - Agree strongly)
+
+Economic games (Ultimatum and Trust games):
+- Proposes to keep $3 and send $2 to other person (Ultimatum game proposer)
+- Accepts all offers except $0 to self (Ultimatum game responder)
+- In Trust game, keeps $3 and sends $2 to other person
+- As receiver in Trust game, keeps about half or more of money sent back (e.g., keeps $8 of $15, sends back $7)
+- Thought process during decisions: fairness, honesty
+
+Cognitive tests:
+- Correctly answered 35 out of 42 cognitive test questions (self-estimate)
+- Believes average person would answer 40 correctly
+- Demonstrated good logical reasoning on syllogistic and conditional reasoning tasks (all answers "Yes" to logical conclusions)
+- Correctly solved spatial rotation and pattern puzzles (selected correct options)
+- Vocabulary: selected synonyms and antonyms correctly for all 10 synonym and 10 antonym questions
+- Probability and numeracy: correct answers on probability, percentages, and expected values
+- Financial literacy: correct answers on mortgage, inflation, risk diversification, investment returns, and required minimum distributions
+- Credit card debt: correctly answered "never" for payoff time with minimum payments
+- Discounting: prefers immediate smaller rewards over delayed larger rewards until amounts are equal or better (consistent with moderate discounting)
+
+Mental health:
+- Reports no sadness, no discouragement, no feelings of failure, no guilt, no disappointment, no irritability, no loss of interest in others or sex
+- Reports some difficulty sleeping (Q: "I don’t sleep as well as usual")
+- No increased tiredness or appetite loss
+- No weight loss or health worries
+- Not purposely trying to lose weight
+
+Spending habits:
+- Self-rated spending habit: 7 on a 1-11 scale (moderate tendency to spend)
+- Sometimes has trouble limiting spending
+- Rarely has trouble spending money
+- More similar to Mr. A (who spends despite not needing items) than Mr. B (who refrains from spending)

@@ -1,0 +1,12 @@
+- Need for Closure: Moderate (items mostly 2-4), indicating some preference for order and predictability but not extreme intolerance of ambiguity.
+- Need for Cognition: High (items mostly 4-5), showing strong enjoyment of thinking, problem-solving, and intellectual challenge.
+- Maximizer: Low to moderate (items 2-4), indicating he does not compulsively seek the absolute best but maintains high standards.
+- Self-monitoring: High (items 4-5), able to adapt social behavior effectively.
+- Self-concept clarity: High (items 4-5), with some acknowledgment of variability but overall stable self-view.
+- Economic games: Proposes to keep 60% ($3 of $5) and sends 40% to others; as receiver, accepts offers of $2 or more, rejects very generous offers to others (e.g., $0 for self, $5 for other). In trust game, keeps majority but returns substantial amounts, aiming for near-even splits. This suggests moderate social trust and reciprocity but with self-interest prioritized.
+
+Cross-scale agreement: High Need for Cognition aligns with high conscientiousness and cognitive test performance, supporting deliberate, thoughtful decision-making. High self-monitoring and social sensitivity align with moderate fairness in economic games. Moderate Need for Closure aligns with tolerance for some uncertainty but preference for order.
+
+No major contradictions observed.
+
+w_social estimate: 0.6 -- The respondent shows moderate to high social engagement and reciprocity, as evidenced by high self-monitoring, social sensitivity, and fairness in economic games, balanced by a pragmatic self-interest in resource allocation. His personality and cognitive profiles support thoughtful social interaction but with clear boundaries favoring self and close others.

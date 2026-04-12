@@ -1,0 +1,17 @@
+Need for Closure: Moderate preference for order and routine (items 3, 12, 13, 14, 15, 18 on Need for Closure scale), but low intolerance for ambiguity (disagree strongly with items about impatience and discomfort with uncertainty). This suggests a balanced approach to decision-making, preferring clarity but not rigid.
+
+Need for Cognition: Moderate to high (items mostly 4s and 5s), indicating enjoyment of thinking and problem-solving, consistent with her postgraduate education and cognitive test performance.
+
+Maximizer: High standards and never settling for second best (items 5 and 6 on Maximizer scale both 5), indicating a tendency to seek the best possible outcomes.
+
+Self-monitoring: Moderate to low (items 1-12 on Self-monitoring scale range from 2 to 6, with some "generally false" answers), indicating some ability to adjust behavior but not highly socially driven.
+
+Self-concept clarity: Moderate to high (items 1-12 on Self-concept clarity scale show some fluctuation but overall clear sense of self, e.g., item 11 "I have a clear sense of who I am" = 5).
+
+Economic games: Offers in ultimatum game are fair ($2 kept, $3 sent), and accepts offers down to $2 out of $5, rejecting only very unfair offers. In trust game, keeps $4 and sends $1, but as receiver, tends to keep majority of returned money, indicating moderate trust and reciprocity but also self-protection.
+
+Cross-scale inference: Need for Cognition and Maximizer scales agree on a preference for thoughtful, high-quality decision-making. Need for Closure and Self-concept clarity scales agree on a preference for order and clarity but with some flexibility. Economic game behavior aligns with moderate social trust and fairness but not extreme altruism.
+
+No contradictions are evident.
+
+w_social estimate: 0.55 -- The respondent shows moderate social engagement and cooperation, as indicated by moderate agreeableness items, fair offers in economic games, and some social assertiveness. However, low talkativeness, moderate self-monitoring, and some self-reported disorganization suggest she is not highly socially driven or extroverted. The agreement between Need for Cognition, Maximizer, and economic game behavior supports a balanced social orientation with moderate trust and reciprocity.

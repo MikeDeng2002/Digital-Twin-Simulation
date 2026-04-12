@@ -1,0 +1,18 @@
+- Need for Closure:
+  - Dislikes uncertainty and unpredictability (Items: 1 - Agree a little; 2 - Agree a little; 3 - Agree strongly; 5 - Agree a little; 6 - Agree a little; 7 - Agree a little; 11 - Agree a little; 12 - Agree strongly; 13 - Agree strongly; 15 - Agree a little)
+  - Does not consult many opinions before forming views (Item 14 - Disagree strongly)
+- Need for Cognition:
+  - Likes intellectual challenges and complex problems (Items 1,2,10,11,13,14,15 Agree a little)
+  - Does not find thinking unpleasant (Items 3,4,5,7,9 Disagree a little)
+  - Somewhat indifferent about deep deliberation (Item 6 Neither agree nor disagree)
+- Maximizer:
+  - High standards for self (Item 5 Agree strongly)
+  - Never settles for second best (Item 6 Agree a little)
+  - Does not seek many options or check alternatives (Item 1 Disagree strongly)
+- Self-monitoring:
+  - Generally able to adjust behavior to social situations (Items 1,2,5,7 Agree generally true; Item 3 Somewhat true)
+  - Sensitive to social cues (Items 8,9,10,11,12 Agree generally true or somewhat true)
+- Self-concept clarity:
+  - Clear and stable self-concept (Items 1-5,7-10 all Disagree strongly on instability; Item 6 Agree strongly on stability; Item 11 Agree strongly on clarity; Item 12 Disagree strongly on indecision)
+
+w_social estimate: 0.7 -- This person shows moderate to high self-monitoring (Items 1,2,5,7,8,11,12), values social harmony and cooperation (Values: politeness, civility, altruism), and is somewhat empathic (Empathy items 3,9,10,12,14,16). However, they also strongly value independence and self-reliance (Self-concept clarity items and independence items), and show some greed in economic games, indicating a balanced but socially aware decision style.

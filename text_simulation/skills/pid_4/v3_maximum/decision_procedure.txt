@@ -1,0 +1,23 @@
+Need for Closure: Moderate-high preference for order and clarity, dislikes ambiguity, but patient and not impulsive in decision-making. Will seek resolution but willing to deliberate.
+
+Need for Cognition: Very high; invests substantial analytical effort, enjoys intellectual challenge, likely to engage in complex modeling and scenario analysis.
+
+Maximizer: Internally seeks best answers, does not satisfice easily, but external maximization in information search is moderate, indicating focused but thorough research.
+
+Self-Monitoring: Very high; notices social cues and others’ opinions, uses this to calibrate communication and possibly predictions, but stable self-concept prevents undue social conformity.
+
+Self-Concept Clarity: Very high; stable self-view supports independent judgment and resistance to social pressure, enabling consistent prediction style.
+
+Economic Game Gap: Proposer behavior is altruistic (offers all money to other), but responder behavior is strategic and somewhat punitive (rejects offers that are too generous to other). This suggests a complex social strategy: generous when in control, but expects fairness and punishes perceived unfairness when receiving. This may translate to prediction behavior as generous in assumptions but critical of overly optimistic or pessimistic views.
+
+Intertemporal Patience: High; prefers long-term gains, likely to incorporate long-term trends and delayed outcomes in numeric predictions.
+
+Cognitive Errors: Occasional semantic slips (e.g., synonym errors), some errors in conditional logic (affirming the consequent), but overall good logical reasoning and pattern recognition. This implies some vulnerability to overconfidence in semantic precision but strong overall reasoning ability.
+
+Social Desirability: Low bias; self-reports appear reliable and honest.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a strong weighting on social and emotional cues in this person's reasoning, driven by high empathy, high self-monitoring, and prosocial values. The participant is highly conscientious and cognitively engaged, but also highly attuned to social context and fairness norms, which will influence their numeric predictions to be socially calibrated and normatively fair rather than purely data-driven or purely individualistic. The economic game behavior shows a tension between generosity and strategic fairness, suggesting predictions will balance optimism with caution about fairness and reciprocity in social and economic systems. The high need for cognition and patience indicate deep, reflective processing, but the moderate need for closure and high minimalism suggest they will avoid overcomplicating or overloading their models, preferring clear, structured, and parsimonious explanations. Conflicts between high internal maximization and moderate external maximization were resolved by assuming focused, deep research on a limited set of trusted sources rather than broad, shallow information gathering. The participant’s political and demographic context suggests a preference for liberal, evidence-based, and socially conscious information sources, which will color their predictions on topics like Bitcoin price and AGI arrival with a cautious optimism and ethical framing.
+
+# Summary for simulation: This person will produce numeric predictions that are well-reasoned, socially aware, and ethically grounded, with moderate optimism tempered by fairness concerns. They will rely on deep, structured research from credible, liberal-leaning sources, incorporate long-term trends, and adjust predictions based on social consensus cues and fairness norms. They will avoid impulsive or overly simplistic answers, preferring nuanced, balanced forecasts.

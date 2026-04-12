@@ -1,0 +1,148 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 65+ (Question: How old are you? Answer: 65+)
+- Highest level of education: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Widowed (Question: Which of these best describes you? Answer: Widowed)
+- Religion: Other (Question: What is your present religion, if any? Answer: Other)
+- Attends religious services more than once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: More than once a week)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Republican)
+- Political views: Very conservative (Question: In general, would you describe your political views as? Answer: Very conservative)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Income: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Personality traits (Big Five items, selected examples):
+  - Somewhat talkative (Item 1: Agree a little)
+  - Somewhat fault-finding (Item 2: Agree a little)
+  - Neither agree nor disagree on thoroughness (Item 3)
+  - Somewhat depressed/blue (Item 4: Agree a little)
+  - Somewhat original (Item 5: Agree a little)
+  - Somewhat reserved (Item 6: Agree a little)
+  - Somewhat helpful/unselfish (Item 7: Agree a little)
+  - Disagrees strongly with being generally trusting (Item 22)
+  - Disagrees strongly with being lazy (Item 23)
+  - Somewhat assertive (Item 26: Agree a little)
+  - Somewhat moody (Item 29: Agree a little)
+  - Disagrees strongly with being outgoing/sociable (Item 36)
+  - Disagrees strongly with being rude (Item 37)
+  - Somewhat nervous (Item 39: Agree a little)
+  - Somewhat likes to reflect/play with ideas (Item 40: Agree a little)
+- Need for Cognition scale responses indicate low preference for complex thinking and intellectual challenge:
+  - Disagrees a little with preferring complex problems (Item 1)
+  - Disagrees a little with liking responsibility requiring much thinking (Item 2)
+  - Agrees a little that thinking is not fun (Item 3)
+  - Agrees a little preferring tasks requiring little thought (Items 4, 5, 7, 8, 9)
+  - Disagrees a little with enjoying tasks involving new solutions (Item 11)
+  - Agrees a little with ending up deliberating about issues even if not personally affected (Item 18)
+- Values rated highly important (7-9 scale):
+  - Forgiveness (8)
+  - Trust (8)
+  - Humility (8)
+  - Altruism (7)
+  - Loyalty (8)
+  - Politeness (9)
+  - Honesty (9)
+  - Compassion (9)
+  - Status (8)
+- Values rated low importance (1):
+  - Achievement (1)
+  - Power (1)
+  - Recognition (1)
+  - Superiority (1)
+- Environmental concern: Disagrees strongly with environmental responsibility and concern (Items 1-6)
+- Empathy and social sensitivity: Mixed responses, some disagreement with being affected by friends' emotions but also some agreement with understanding others' feelings (e.g., Item 1: Disagree strongly that friends’ emotions don’t affect me much; Item 5: Agree a little that I get caught up in others’ feelings; Item 6: Agree a little find it hard to know when friends are frightened; Item 9: Agree a little can usually understand when someone is feeling down)
+- Cognitive test performance self-estimate: Believes answered 10 out of 42 correctly (Question: How many of these questions do you think you answered correctly? Answer: 10)
+- Believes average US adult would answer 40 out of 42 correctly (Question: How many do you think people from a representative sample of the US adult population would answer correctly? Answer: 40)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage requires higher monthly payments but less total interest than 30-year (True)
+  - Understands inflation reduces purchasing power (Answer: Less than today)
+  - Correctly identifies stocks as highest fluctuation asset (Answer: Stocks)
+  - Correctly understands stock mutual funds can lose value (True)
+  - Incorrectly believes spreading money among assets increases risk (Answer: Increases)
+  - Incorrectly believes bonds give highest return over long periods (Answer: Bonds)
+  - Correctly knows required minimum distributions after age 70.5 (True)
+  - Estimates credit card payoff time as 9 years (Answer: 9)
+- Logical reasoning:
+  - Correctly identifies some logical conclusions do not follow (e.g., cigarettes are good for health - No)
+  - Correctly identifies some logical conclusions do follow (e.g., plants are not animals - Yes)
+  - Some errors in logical reasoning (e.g., poodles do not have four legs - No)
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split (Offer)
+  - Rejects very generous offers as receiver ($0 for self, $5 for other rejected)
+  - Accepts offers where self gets $2 or $3 (accepts $2 or $3)
+  - Rejects offers where self gets $1 or $0
+  - In trust game, keeps $3 and sends $2
+  - As receiver, tends to keep about two-thirds and send back one-third or less
+  - Thoughts during decisions: fairness, equal, sharing, caring, helping
+- Self-concept:
+  - Aspires to be educated, informed, resourceful, competent
+  - Believes ought to be aware, informed, resourceful, competent
+  - Self-reports trying to be knowledgeable but sometimes lacking
+- Personality self-ratings:
+  - Somewhat disorganized (Organized: 3, Disorganized: 6)
+  - Practical (7)
+  - Neither efficient nor inefficient (5)
+  - Does not like to depend on others (Agree a little)
+  - Personal identity important (Agree a little)
+  - Disagrees strongly with competition and winning being everything
+  - Disagrees strongly with cooperation and pleasure from spending time with others
+  - Somewhat agrees with family sticking together and duty to family
+  - Disagrees strongly with respecting group decisions
+- Depression and mood:
+  - Does not feel sad or discouraged
+  - Feels like a failure looking back on life
+  - Does not enjoy things as before
+  - Does not feel particularly guilty
+  - Feels may be punished
+  - Feels disappointed and blames self for faults
+  - No increased crying or irritability
+  - Has not lost interest in others
+  - Makes decisions as well as before but sometimes puts off decisions
+  - Considers self less worthwhile than before
+  - Can work as well as before
+  - Sleeps as well as usual
+  - Gets tired more easily than before
+  - Appetite normal
+  - No significant weight loss
+  - Worried about physical problems (aches, upset stomach)
+  - No change in interest in sex
+  - Not purposely trying to lose weight
+- Consumer behavior:
+  - Strongly disagrees with seeking uniqueness or breaking social rules in product use
+  - Neither agrees nor disagrees with avoiding common products
+- Self-monitoring:
+  - Generally false that can alter behavior to suit situations
+  - Generally true that has difficulty putting up a good front
+  - Somewhat true that can read others’ emotions and detect lies
+- Self-concept clarity:
+  - Some disagreement that beliefs about self conflict
+  - Some agreement that opinions of self vary day to day
+  - Disagrees strongly with feeling not like the person they appear to be
+  - Somewhat agrees that sometimes knows others better than self
+  - Somewhat agrees that would not tell others what really like
+  - Generally agrees to having a clear sense of self
+  - Agrees a little that it is hard to make up mind because unsure what want
+- Need for Closure:
+  - Strongly agrees to dislike uncertain situations
+  - Agrees a little to dislike ambiguous questions
+  - Strongly agrees that a well-ordered life suits temperament
+  - Agrees a little to discomfort with not understanding reasons for events
+  - Disagrees strongly with irritation at dissenting opinions
+  - Agrees a little to dislike not knowing what to expect
+  - Agrees a little to relief after making decisions
+  - Agrees a little to desire quick solutions
+  - Agrees a little to impatience if no immediate solution
+  - Neither agrees nor disagrees to dislike unpredictable people
+  - Agrees a little to dislike ambiguous statements
+  - Disagrees strongly to enjoying consistent routine
+  - Agrees a little to enjoying clear and structured life
+  - Agrees a little to not consulting many opinions before forming views
+  - Agrees a little to disliking unpredictable situations
+- Maximizer:
+  - Disagrees strongly with checking for better options when satisfied
+  - Neither agrees nor disagrees with looking for better job opportunities
+  - Agrees a little to difficulty shopping for gifts
+  - Strongly agrees to difficulty finding clothing loved
+  - Disagrees a little to having highest standards for self
+  - Disagrees strongly to never settling for second best

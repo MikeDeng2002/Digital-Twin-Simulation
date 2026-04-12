@@ -1,0 +1,25 @@
+- Need for Closure:
+  - Dislikes uncertainty somewhat (Item 1: 4 - Agree a little)
+  - Feels uncomfortable without understanding reasons (Item 4: 5 - Agree strongly)
+  - Prefers to know what to expect (Item 6: 4 - Agree a little)
+  - Feels relieved after making decisions (Item 7: 5 - Agree strongly)
+  - Wants quick solutions (Item 8: 4 - Agree a little)
+  - Does not become impatient immediately if no solution (Item 9: 3 - Neither)
+  - Dislikes unpredictable situations somewhat (Item 15: 4 - Agree a little)
+- Need for Cognition:
+  - Prefers complex problems, enjoys intellectual challenges (multiple items mostly 4 or 5)
+  - Enjoys thinking hard and abstractly, dislikes avoiding thought (mostly 4 or 5)
+- Maximizer:
+  - Agrees with searching for better options, difficulty shopping for gifts, high standards (Items mostly 4-5)
+  - Does not always settle for second best but disagrees somewhat with "never settle for second best" (Items 5 and 6: 2 - Disagree a little)
+- Self-monitoring:
+  - High ability to alter behavior in social situations (Item 1: 6 - Certainly true)
+  - Somewhat true ability to control impression (Item 2: 4 - Somewhat true)
+  - Some difficulty changing behavior when image not working (Item 3: 2 - Generally false)
+  - Generally true ability to adjust behavior to situations (Item 5 and 7: 5 - Generally true)
+- Self-concept clarity:
+  - Clear sense of self (Item 11: 5 - Agree strongly)
+  - Some variability in self-opinion (Item 2: 4 - Agree a little)
+  - Disagrees strongly with frequent changes in self-beliefs (Items 3,5,8,9: 1 - Disagree strongly)
+  - Somewhat willing to reveal true self (Item 10: 4 - Agree a little)
+- w_social estimate: 0.7 -- This person shows moderate to high social reasoning and self-monitoring abilities, a clear self-concept, and a moderate need for closure, supported by strong agreement on items indicating desire for order and decision relief (Need for Closure items 4,7), enjoyment of thinking and problem solving (Need for Cognition items 1,2,6,11), and high self-monitoring scores (items 1,5,7).

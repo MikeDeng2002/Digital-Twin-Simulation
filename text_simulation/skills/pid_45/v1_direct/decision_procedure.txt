@@ -1,0 +1,12 @@
+- Need for Closure:
+  - Agrees a little to moderately with items indicating preference for order, dislike of uncertainty, desire for quick solutions, dislike of ambiguous statements, preference for routine (Items: 1=4, 2=4, 3=4, 5=4, 6=4, 7=4, 8=4, 9=2, 11=4, 12=4, 13=4, 15=4)
+- Need for Cognition:
+  - Strongly agrees with liking complex problems and intellectual challenges, finds satisfaction in thinking hard, enjoys puzzles and abstract thinking (Items: 1=4, 2=5, 3=1, 4=2, 6=4, 10=4, 11=4, 13=4, 14=4, 15=4, 16=4, 17=1, 18=2)
+- Maximizer:
+  - Strongly agrees with often checking for better options (Item 1=5)
+  - Disagrees a little with never settling for second best (Item 6=2)
+- Self-monitoring:
+  - Somewhat true with exceptions that can alter behavior to suit situations (Items mostly 4-5, e.g., 1=4, 2=4, 3=4, 5=5, 7=4, 8=4, 9=4, 10=4, 11=4, 12=4, 13=4)
+- Self-concept clarity:
+  - Agrees a little that self-beliefs are mostly stable and clear, with little internal conflict (Items: 1=4, 6=4, 11=4; disagrees a little with instability items 2=2, 3=2, 4=2, 5=2, 7=2, 8=2, 9=1, 10=2, 12=2)
+- w_social estimate: 0.7 -- This estimate is based on moderate to strong self-monitoring (items 1-13 in self-monitoring scale mostly 4-5), moderate need for closure (mostly 4s), and a clear but somewhat flexible self-concept clarity (mostly 4s and 2s), indicating a person who is socially aware and adjusts behavior accordingly but retains a stable self-view. The maximizer and need for cognition scores suggest thoughtful and deliberate decision-making under uncertainty.

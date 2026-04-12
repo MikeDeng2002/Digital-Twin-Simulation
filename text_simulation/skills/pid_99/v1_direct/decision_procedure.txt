@@ -1,0 +1,27 @@
+- Need for Closure:
+  - Disagree a little with disliking uncertainty (Item 1: 2)
+  - Disagree strongly with disliking ambiguous questions (Item 2: 1)
+  - Agree a little that a well-ordered life suits temperament (Item 3: 4)
+  - Disagree a little with feeling uncomfortable about unexplained events (Item 4: 2)
+  - Disagree strongly with irritation at dissenting opinions (Item 5: 1)
+  - Disagree strongly with dislike of unknown situations (Item 6: 1)
+  - Agree a little with feeling relieved after making decisions (Item 7: 4)
+  - Disagree strongly with impatience for immediate solutions (Items 8 & 9: 1)
+  - Disagree a little with dislike of unpredictable people or situations (Items 10 & 15: 2)
+  - Agree a little with enjoying clear and structured life (Items 12 & 13: 4,5)
+- Need for Cognition:
+  - Generally low to moderate engagement with complex thinking and intellectual challenges (multiple items mostly 2-4, with strong preference for simple tasks and daily projects)
+- Maximizer:
+  - Disagree strongly with maximizing behaviors related to uniqueness and product choice (all items 1)
+  - Agree a little with having high standards and not settling for second best (Items 5 & 6: 4)
+- Self-monitoring:
+  - Generally true that they can adjust behavior to suit situations (Items 1,2,3,5: 5)
+  - Generally false that they have trouble changing behavior or putting up a front (Items 4 & 6: 2)
+  - Somewhat true with exceptions about regulating actions (Item 7: 4)
+  - Generally false about reading others' emotions accurately (Items 8,10,11,13: 1 or 2)
+- Self-concept clarity:
+  - Disagree a little or strongly with conflicting or changing self-beliefs (Items 1,2,3,4,5,7,8,9: mostly 1 or 2)
+  - Strongly agree with having a clear sense of who they are (Item 11: 5)
+  - Disagree strongly with difficulty making up mind (Item 12: 1)
+  
+w_social estimate: 0.35 -- The person shows moderate self-monitoring ability (Items 1-7 in Self-monitoring scale mostly 5), but low empathy and emotional attunement (Items 8-13 mostly 1 or 2), combined with a somewhat reserved and aloof personality (Big Five items 6, 21, 27), and moderate concern for fairness in economic games. This suggests a moderate but not high weighting on social information in decision-making.

@@ -1,0 +1,63 @@
+Demographics: Female, Black, age 30-49, living in the Midwest, some college but no degree, part-time employed, married, U.S. citizen, moderate political views, independent politically, family income $50,000-$75,000, household size 3, no strong religious affiliation (attends religious services a few times a year). This suggests a middle-income, moderately stable family environment with some exposure to higher education but no degree completion, likely balancing work and family responsibilities. Midwest residence implies exposure to a mix of urban and rural cultural influences, possibly pragmatic and community-oriented.
+
+Big Five Personality (44 items):  
+- Very low Extraversion (talkative=1, reserved=4, quiet=5, outgoing=3) indicating introversion.  
+- Very low Agreeableness in fault-finding and quarrelsomeness (disagree strongly), but moderately helpful, forgiving, kind, and trusting (mostly 4s and 5s).  
+- Very high Conscientiousness (does a thorough job=5, reliable=5, perseveres=5, efficient=5, organized=7, systematic=7, practical=7), low carelessness and disorganization.  
+- Low Neuroticism (depressed=1, tense=1, worries=1, emotionally stable=5, relaxed=4), but some mild nervousness (3s and 4s on nervousness and distraction).  
+- Moderate Openness: original=4, ingenious=4, inventive=5, artistic interests=5, sophisticated=4, curious=4, imagination=4, but prefers routine work=5, and prefers simple problems=1 (disagree strongly).  
+Overall, a conscientious, introverted, emotionally stable individual with moderate openness but a preference for routine and practical tasks.
+
+Need for Cognition (18 items): Mixed signals. Disagrees strongly with preferring complex problems (1), but agrees a little or somewhat with liking responsibility requiring thinking (4), satisfaction in deliberating hard (4), but also agrees a little with preferring little thought tasks (4), and avoiding deep thinking (4). Overall, ambivalent or moderate Need for Cognition, tending toward preferring simpler, less cognitively demanding tasks but willing to engage when necessary.
+
+Values (24 items): Highest values (8-9) are Trust (9), Wealth (8), Pleasure (8), Forgiveness (8), Influence (8), Competence (8), Ambition (8), Loyalty (8), Politeness (8), Power (8), Honesty (8), Compassion (8), Status (8), Civility (8). Moderate values (7) include Humility, Achievement, Altruism, Excitement, Autonomy, Equality, Recognition, Tradition, Superiority. Harmony is somewhat lower (6). This profile suggests a strong drive for success, influence, and social standing combined with a strong moral compass emphasizing trust, honesty, compassion, and loyalty. Ambition and power are important but balanced by forgiveness and civility.
+
+Minimalism (12 items): Strong agreement with avoiding accumulation (5), restricting possessions (5), "less is more" (5), drawn to sparse environments (5), mindful ownership (5), and careful curation (4). Prefers simplicity and visual sparsity. This indicates a deliberate, curated approach to possessions and likely information consumption.
+
+Empathy (20 items): Generally agrees a little or strongly with being affected by others' emotions, understanding friends' feelings, and being sensitive to emotional cues (mostly 4s and 5s). Disagrees a little with statements indicating emotional detachment. High emotional attunement and social sensitivity.
+
+Consumerism/Uniqueness: Disagrees or neutral on seeking uniqueness through products (mostly 2s and 3s), but agrees a little with challenging prevailing tastes and disliking common brands (4). Disagrees strongly with avoiding popular products. This suggests moderate nonconformity but not strongly driven by uniqueness in consumer behavior.
+
+Social Desirability: Not explicitly scored but some contradictory self-reports (e.g., admits to sometimes being lazy and putting off chores, but also claims to be generous and kind). Social desirability likely moderate; some self-critical honesty present.
+
+Cognitive Test Performance:  
+- Correct answers on simple logic and syllogisms mixed; some errors on basic logical deductions (e.g., incorrectly answered some syllogisms as not logically following when they do).  
+- Cube rotation tasks answered mostly incorrectly or inconsistently, indicating difficulty with spatial reasoning or mental rotation.  
+- Word association chain is coherent and semantically connected, showing normal associative thinking.  
+- Vocabulary synonym and antonym tests show multiple errors, often choosing incorrect or unrelated words (e.g., "concur" answered as "divulge," "confiscate" as "congregate," "astute" as "bizarre," "oscillate" as "irradiate"). This suggests weak vocabulary knowledge or misunderstanding of word meanings.  
+- Logical reasoning on conditionals mostly correct but some errors on syllogistic logic (e.g., incorrectly rejecting valid conclusions).  
+- Self-estimated cognitive test score is 10/42, much lower than average estimate of 25/42, indicating low confidence or awareness of poor performance.
+
+Economic Games:  
+- Dictator game: keeps all $5, sends $0 (selfish).  
+- Ultimatum game as receiver: accepts all offers, even $0 (very tolerant).  
+- In the trust game (tripling money), keeps majority for self (keeps $3, sends $2), but as receiver returns a fair portion (keeps $10 of $15, sends $5 back).  
+- Thoughts during decisions emphasize fairness, not greed, and thoughtfulness, indicating some internal conflict between self-interest and fairness.
+
+Intertemporal Choice:  
+- Prefers immediate smaller rewards over delayed larger rewards consistently, indicating high present bias and impatience.
+
+Depression and Mood:  
+- Mild depressive symptoms: feels discouraged about the future, less enjoyment in things, some tiredness and poor appetite, difficulty starting work, some worry about physical health, less interest in sex.  
+- No strong feelings of worthlessness, failure, or guilt.  
+- Sleep somewhat disturbed.  
+- Overall mild to moderate depressive mood.
+
+Self-Monitoring:  
+- High scores (mostly 5s and 6s) on ability to adjust behavior, read others' emotions, and control impression management.  
+- Suggests high social awareness and adaptability.
+
+Self-Concept Clarity:  
+- Somewhat unstable self-view (agrees a little that beliefs about self conflict, opinions vary day to day), but generally clear sense of self (agrees a little).  
+- Does not feel strongly conflicted or confused about identity.
+
+Maximizer Scale:  
+- Strong maximizer tendencies: checks other radio stations even when satisfied (5), always looks for better job opportunities (4), high standards for self (4-5), never settles for second best (5).
+
+Consumer Spending:  
+- Identifies as a spendthrift (11/11), sometimes has trouble limiting spending, sometimes trouble spending money (ambivalent).  
+- More similar to Mr. B (hesitant spender) in shopping scenario, indicating internal conflict about spending.
+
+Social Desirability Scale:  
+- Mixed responses on honesty and admitting mistakes; some contradictory answers (e.g., willing to admit mistakes = false, but also courteous and forgiving).  
+- Likely moderate social desirability bias.

@@ -1,0 +1,36 @@
+Need for Closure: High. Strong agreement with disliking uncertainty, preference for order and routine, relief upon decision-making, irritation with unpredictability. Wants quick resolution but not necessarily deep analysis.
+
+Need for Cognition: Moderate to low. Avoids deep thinking, prefers practical solutions, but enjoys puzzles and some intellectual engagement. Likely to invest analytical effort when motivated but prefers satisficing.
+
+Maximizer: Low. Does not seek the objectively best answer, more likely to satisfice. Will comparison shop moderately but settles for "good enough."
+
+Self-Monitoring: Moderate. Can adjust behavior somewhat but not fully flexible. Sensitive to others' emotions and social cues but maintains some personal consistency.
+
+Self-Concept Clarity: Moderate to low. Self-view fluctuates, some internal conflict, but not completely unstable. May be vulnerable to social pressure but also has some stable identity anchors.
+
+Economic Game Gap:  
+- Dictator game: Keeps all money for self (6/6)  
+- Ultimatum game: Proposes 2/3 split, accepts fair offers, rejects very unfair offers.  
+- Trust game: Suspicious, expects selfishness, keeps some money for self, sends moderate amounts.  
+This gap suggests strategic behavior: self-protective in unilateral decisions, somewhat cooperative when fairness is expected or reciprocated.
+
+Intertemporal Patience: Low. Prefers immediate smaller rewards over delayed larger ones consistently, indicating impatience and present bias.
+
+Cognitive Errors:  
+- Some errors in spatial reasoning and vocabulary (confusing "indolent" synonym)  
+- Logical reasoning mostly intact but some difficulty with contraposition and negation  
+- Word associations reveal negative affect and anxiety themes  
+Implication: Numeric predictions may be biased by emotional state, some difficulty with abstract or counterfactual reasoning, but generally capable of logical thought.
+
+Social Desirability: Low bias. Honest about negative traits, anxiety, depression, distrust, and hoarding.
+
+w_social estimate: 0.45  
+Reasoning: The estimate balances her moderate social sensitivity and empathy (which would increase social influence on reasoning) against her moderate self-concept clarity and strategic economic game behavior (which suggest some resistance to social pressure). Her high need for closure and low patience imply she prefers quick, certain answers, possibly relying on heuristics or social consensus. However, her distrust and suspicion in economic games and expressed political views indicate selective social trust, likely favoring in-group sources. Cognitive test performance is good but not perfect, with some errors that may affect complex numeric predictions. Overall, she is moderately socially influenced but retains some independent judgment.
+
+# Summary for simulation of numeric predictions (e.g., Bitcoin price, AGI arrival):  
+- Likely to rely on moderate-depth research from liberal-leaning, accessible media and social networks.  
+- Prefers clear, certain answers, may anchor on consensus or authoritative sources.  
+- May show impatience for long-term predictions, favoring nearer-term or more concrete estimates.  
+- Emotional state (anxiety, depression) may bias toward pessimism or risk aversion.  
+- Strategic and pragmatic, not maximizing but satisficing, with moderate distrust of unknown sources.  
+- Cognitive ability sufficient for logical reasoning but may struggle with complex or abstract counterfactuals.

@@ -1,0 +1,116 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Male sex assigned at birth (Question: "What is the sex that you were assigned at birth?" Answer: 1 - Male)
+- Age group 30-49 (Question: "How old are you?" Answer: 2 - 30-49)
+- Highest education level: College graduate/some postgrad (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 5)
+- Race: White (Question: "What is your race or origin?" Answer: 1 - White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Marital status: Married (Question: "Which of these best describes you?" Answer: 1 - Married)
+- Religion: Roman Catholic (Question: "What is your present religion, if any?" Answer: 2 - Roman Catholic)
+- Attends religious services more than once a week (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: 1)
+- Political party: Democrat (Question: "In politics today, do you consider yourself a" Answer: 2 - Democrat)
+- Political views: Very liberal (Question: "In general, would you describe your political views as" Answer: 5 - Very liberal)
+- Household size: More than 4 people (Question: "Including yourself, how many people currently live in your household?" Answer: 5)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: 1)
+- Family income last year: $100,000 or more (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 5)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (4 - Agree a little)
+  - Neither agree nor disagree on faultfinding, depression, reservedness
+  - Does a thorough job (4 - Agree a little)
+  - Helpful and unselfish (4 - Agree a little)
+  - Can be somewhat careless (5 - Agree strongly)
+  - Relaxed, handles stress well (5 - Agree strongly)
+  - Curious about many things (4 - Agree a little)
+  - Forgiving nature (5 - Agree strongly)
+  - Perseveres until task is finished (5 - Agree strongly)
+  - Can be moody (5 - Agree strongly)
+  - Values artistic, aesthetic experiences (4 - Agree a little)
+  - Outgoing, sociable (5 - Agree strongly)
+  - Easily distracted (5 - Agree strongly)
+  - Inventive (4 - Agree a little)
+  - Does things efficiently (4 - Agree a little)
+  - Prefers routine work (4 - Agree a little)
+- Need for Cognition scale (selected items):
+  - Prefers complex problems (5 - Agree strongly)
+  - Likes responsibility requiring thinking (4 - Agree a little)
+  - Thinking is not fun (3 - Neither agree nor disagree)
+  - Prefers little thought tasks (4 - Agree a little)
+  - Satisfaction in deliberating hard (4 - Agree a little)
+  - Only thinks as hard as necessary (7 - Answer 5 - Agree strongly)
+  - Prefers puzzles to solve (5 - Agree strongly)
+  - Likes abstract thinking (5 - Agree strongly)
+  - Prefers intellectual, difficult tasks (4 - Agree a little)
+  - Dislikes "just get the job done" attitude (2 - Disagree a little)
+- Values (rated as guiding principles):
+  - Highly important: Wealth, Pleasure, Forgiveness, Influence, Trust, Power, Compassion, Status, Civility, Tradition (all rated 9)
+  - Important: Competence (8), Humility (7), Achievement (6), Altruism (7), Ambition (7), Loyalty (5), Politeness (7), Harmony (8), Honesty (8), Autonomy (8), Equality (7), Recognition (8), Superiority (7)
+- Spending habits:
+  - Self-rated spending habit: 9 (on scale where 1 = Tightwad, 11 = Spendthrift)
+  - Sometimes has trouble limiting spending
+  - Often has trouble spending money
+  - More similar to Mr. B (who refrains from spending despite deals)
+- Environmental attitudes:
+  - Strongly agrees that products should not harm environment (5)
+  - Considers environmental impact in decisions (4)
+  - Willing to be inconvenienced for environment (4)
+- Empathy and social sensitivity:
+  - Friends’ emotions don’t affect much (5 - Agree strongly)
+  - Usually feels sad after friend is sad (4 - Agree a little)
+  - Gets caught up in others’ feelings (4 - Agree a little)
+  - Other people’s feelings don’t bother much (4 - Agree a little)
+  - Tends to feel scared with scared friends (5 - Agree strongly)
+  - Can usually realize quickly when friend is angry (4 - Agree a little)
+  - Mixed awareness of friends’ feelings (some disagreement and agreement)
+- Self-reported personal attributes (true/false):
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful when not getting way (True)
+  - Has given up on things due to low self-belief (True)
+  - Has taken advantage of someone (True)
+  - Always courteous even to disagreeable people (True)
+  - Sometimes irritated by people asking favors (True)
+  - Has deliberately said something hurtful (True)
+  - Does not always admit mistakes (False)
+  - Does not try to get even (False)
+- Self-concept clarity:
+  - Beliefs about self often conflict (4 - Agree a little)
+  - Spends time wondering about true self (4 - Agree a little)
+  - Sometimes feels not really the person they appear to be (5 - Agree strongly)
+  - Unsure about past self (5 - Agree strongly)
+  - Beliefs about self change frequently (4 - Agree a little)
+  - Clear sense of who they are: Disagree a little (2)
+- Need for Closure:
+  - Dislikes uncertainty a little (2)
+  - Dislikes ambiguous questions a little (2)
+  - Does not prefer well-ordered life (1 - Disagree strongly)
+  - Feels uncomfortable not understanding reasons (2 - Disagree a little)
+  - Likes to know what to expect (4 - Agree a little)
+  - Does not feel impatient to find solutions immediately (3 - Neither agree nor disagree)
+- Maximizer scale:
+  - Sometimes checks for better options (4 - Agree a little)
+  - Has highest standards for self (disagrees a little)
+  - Never settles for second best (5 - Agree strongly)
+- Self-monitoring:
+  - Can alter behavior in social situations (6 - Certainly true)
+  - Can control impression given (4 - Somewhat true)
+  - Sometimes has trouble changing behavior (4 - Somewhat true)
+  - Generally can adjust behavior to meet situation (5 - Generally true)
+  - Sometimes difficulty reading others’ emotions (3-4 range)
+- Cognitive test performance:
+  - Estimated self-correct answers: 40/42
+  - Estimated average US adult correct: 30/42
+  - Correct answers on logical reasoning and puzzles (all answered logically)
+- Financial literacy:
+  - Correctly understands mortgage, inflation, risk diversification, asset returns, withdrawal rules
+  - Correctly estimates credit card payoff time (2 years)
+  - Some errors in probability and percentage questions (e.g., 500 even rolls out of 1000 correct, but some incorrect percentages given)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $4 and send $1 in Ultimatum game
+  - Accepts all offers as receiver, even $0
+  - In Trust game, keeps $3 and sends $2
+  - As receiver, keeps majority and sends back some money proportionally
+- Depression and mental health indicators:
+  - Reports severe sadness, hopelessness, feelings of failure, lack of satisfaction, guilt, self-disgust, irritability, reduced interest in others and sex, difficulty making decisions, sleep problems, tiredness, appetite loss, weight loss, and health worries
+  - Actively trying to lose weight by eating less
+- Self-description:
+  - Aspires to be like Elon Musk (rich and respected)
+  - Ought to be like Beyoncé (beautiful and independent)
+  - Actually a normal person who works

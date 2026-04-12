@@ -1,0 +1,72 @@
+- Resides in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Female, age group 50-64 (Questions: sex assigned at birth and age; Answers: 2 - Female, 3 - 50-64)
+- Highest education level: Postgraduate (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 6 - Postgraduate)
+- Race: White (Question: "What is your race or origin?" Answer: 1 - White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Married (Question: "Which of these best describes you?" Answer: 1 - Married)
+- Religion: Roman Catholic, but never attends services aside from weddings and funerals (Answers: 2 - Roman Catholic; 6 - Never attends)
+- Political affiliation: Republican, but describes political views as Moderate (Answers: 1 - Republican; 3 - Moderate)
+- Household size: 2 people (Question: "Including yourself, how many people currently live in your household?" Answer: 2)
+- Employment status: Full-time employment (Answer: 1 - Full-time employment)
+- Income: $100,000 or more annually (Answer: 5 - $100,000 or more)
+- Personality traits (Big Five, self-reported):
+  - Somewhat talkative (4 - Agree a little)
+  - Somewhat fault-finding (4 - Agree a little)
+  - Thorough and reliable (5 and 4 - Agree strongly and agree a little)
+  - Slightly original and inventive (4 - Agree a little)
+  - Emotionally stable and relaxed (4 - Agree a little)
+  - Helpful and kind (4 - Agree a little)
+  - Not moody, not tense (mostly disagree a little on negative traits)
+  - Curious and deep thinker (4 - Agree a little)
+  - Assertive (4 - Agree a little)
+  - Organized, efficient, systematic, practical (8-9 on accuracy scale)
+- Values:
+  - Highly values wealth, trust, loyalty, harmony, honesty, equality (rated 9)
+  - Values competence, humility, politeness, civility, autonomy moderately high (7-8)
+  - Low importance on influence, status, recognition, tradition, superiority
+- Environmental attitudes: Somewhat agrees that products should not harm environment and is concerned about wasting resources (mostly 3-4 on 1-6 scale)
+- Empathy and social sensitivity: Strongly disagrees that friends’ emotions don’t affect her; agrees she feels sad when friends are sad, can read emotions well, and is empathetic (mostly 4-5 on 1-5 scale)
+- Self-reported personal attributes:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful, jealous, irritated (True)
+  - Has taken advantage of someone (True)
+  - Not always a good listener, not always courteous, sometimes irked by differing ideas (False on always courteous/listener)
+  - Critical of self, sometimes harsh and callous (from text entry)
+- Self-concept:
+  - Somewhat clear sense of self, but some internal conflict (mostly disagree a little on conflicting beliefs)
+  - Wishes to be more compassionate beyond family (text entry)
+- Financial literacy:
+  - Correctly understands mortgage, inflation, risk diversification, and investment returns
+  - Correctly answers financial math and probability questions
+- Cognitive ability:
+  - Estimated 38/42 correct on cognitive tests (self-report)
+  - Correctly solves logical reasoning and spatial rotation puzzles
+- Economic game behavior:
+  - Proposes to keep $2 and send $3 in ultimatum game
+  - Accepts all offers as receiver, even $0 for self
+  - In trust game, keeps $2 and sends $3; as receiver, returns substantial amounts (e.g., keeps $10 of $15, sends back $5)
+  - Thoughts during economic games emphasize fairness, kindness, compassion, and caring
+- Spending habits:
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to cautious spender (not impulsive)
+- Mood and mental health:
+  - Reports feeling sad, discouraged, guilty, disappointed, critical of self, but no loss of interest in others or decision-making ability
+  - No increased irritability or crying
+  - Appetite slightly reduced, some weight loss (>5 pounds)
+  - No significant sleep or fatigue problems
+  - No current purposeful weight loss
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations
+  - Good at reading others’ emotions and facial expressions
+- Need for Closure:
+  - Strongly agrees with preference for order, dislike of uncertainty, desire for quick decisions, discomfort with ambiguity (mostly 4-5 on 1-5 scale)
+- Need for Cognition:
+  - Likes complex problems, thinking, intellectual tasks (mostly 4 - Agree a little)
+- Maximizer:
+  - Somewhat agrees with being on lookout for better opportunities, but does not strongly maximize (some disagreement on never settling for second best)
+- Self-concept clarity:
+  - Somewhat clear but with minor fluctuations (mostly disagree a little on conflicting self-beliefs)
+- Economic preferences:
+  - Prefers to depend on self, values cooperation and family strongly
+  - Competitive but also values well-being of coworkers and cooperation

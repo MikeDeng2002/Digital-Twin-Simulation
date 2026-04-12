@@ -1,0 +1,17 @@
+Need for Closure: Moderate to low (items mostly neutral or disagree a little on intolerance of ambiguity), indicating tolerance for uncertainty and less impulsive decision-making.
+
+Need for Cognition: Moderately high (mostly agree a little), indicating enjoyment of thinking and problem-solving.
+
+Maximizer: Moderate (agree a little to strongly on high standards and never settling for second best), indicating a tendency to seek optimal outcomes but not excessively.
+
+Self-monitoring: High (mostly generally true on social adaptability and emotional reading), indicating strong social awareness and ability to adjust behavior.
+
+Self-concept Clarity: Very high (strong disagreement with conflicting self-beliefs, strong agreement with clear identity), indicating stable self-knowledge.
+
+Economic Game Behavior: Proposes keeping 60% ($3 of $5), sends 40% ($2), accepts all offers as responder, and in trust game sends all $5 but expects to keep about half of tripled amount, indicating moderate fairness, trust, and strategic cooperation.
+
+Cross-scale inference: High conscientiousness (Big Five), high self-concept clarity, and high self-monitoring align with strategic, reliable, and socially aware behavior in economic games. Moderate need for cognition and moderate maximizer tendencies support thoughtful decision-making without excessive indecision.
+
+No contradictions are evident; scales consistently indicate a socially cooperative, cognitively engaged, and emotionally stable individual with clear self-identity and moderate risk tolerance.
+
+w_social estimate: 0.75 -- This estimate is driven by high agreeableness, high self-monitoring, and cooperative economic game behavior, indicating strong social orientation. The moderate need for cognition and maximizer scores suggest thoughtful social decision-making rather than impulsive or purely self-interested behavior. The acceptance of all offers in the ultimatum game and generous trust game behavior further support a high social weighting.

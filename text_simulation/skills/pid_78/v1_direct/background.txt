@@ -1,0 +1,94 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age 65+ (Question: How old are you? Answer: 65+)
+- Highest education level: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Attends religious services a few times a year (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: A few times a year)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Republican)
+- Political views: Very conservative (Question: In general, would you describe your political views as? Answer: Very conservative)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Income: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Personality traits (Big Five, selected items):
+  - Talkative: Agree strongly (Item 1)
+  - Does a thorough job: Agree a little (Item 3)
+  - Is curious about many different things: Agree strongly (Item 10)
+  - Inventive: Agree strongly (Item 25)
+  - Assertive personality: Agree strongly (Item 26)
+  - Outgoing, sociable: Agree strongly (Item 36)
+  - Sometimes shy, inhibited: Agree strongly (Item 31)
+  - Does things efficiently: Agree strongly (Item 33)
+  - Values artistic, aesthetic experiences: Agree a little (Item 30)
+  - Generally trusting: Agree a little (Item 22)
+  - Tends to be lazy: Agree a little (Item 23)
+- Cognitive preferences (Need for Cognition scale):
+  - Prefers complex problems: Agree a little (Item 1)
+  - Likes responsibility requiring thinking: Agree a little (Item 2)
+  - Thinking is not fun: Neither agree nor disagree (Item 3)
+  - Prefers tasks requiring little thought: Agree a little (Item 4)
+  - Satisfaction in deliberating hard: Agree a little (Item 6)
+  - Only thinks as hard as necessary: Agree strongly (Item 7)
+  - Likes tasks requiring little thought once learned: Agree a little (Item 9)
+  - Enjoys coming up with new solutions: Agree a little (Item 11)
+  - Learning new ways to think doesn't excite much: Agree a little (Item 12)
+  - Prefers intellectual, difficult tasks: Agree a little (Item 15)
+  - Feels relief rather than satisfaction after mental effort: Agree a little (Item 16)
+  - Usually deliberates about issues even if not personally affected: Agree a little (Item 18)
+- Values (rated as guiding principles):
+  - Loyalty: Highly important (9)
+  - Wealth, Excitement, Honesty, Compassion, Status, Tradition: Rated 7 or 8 (quite to highly important)
+  - Altruism and Harmony: Rated low (3)
+  - Equality: Rated low (2)
+- Self-reported personality attributes (selected):
+  - Has taken advantage of someone: True
+  - Sometimes tries to get even rather than forgive: True
+  - Always courteous even to disagreeable people: True
+  - Has been jealous of others' good fortune: True
+  - Never deliberately said something to hurt feelings: True
+  - Organized, efficient, systematic, practical: Rated 8 or 9 (high)
+  - Disorganized, sloppy, inefficient, careless: Rated low (1-2)
+- Anxiety and stress symptoms over past week: Mostly low or none, some mild (1 on 0-3 scale) for numbness, unable to relax, dizzy, nervous, shaky, indigestion, faint, face flushed
+- Self-concept clarity:
+  - Disagrees a little with statements about conflicting self-beliefs or frequent changes in self-view
+  - Generally has a somewhat stable self-concept but not strongly clear (mostly disagree a little or neither agree nor disagree)
+- Environmental concern: Disagrees strongly or a little with statements about environmental responsibility and concern
+- Financial literacy:
+  - Correctly identifies mortgage, inflation, investment risk, and withdrawal rules
+  - Understands diversification reduces risk
+  - Correct answers on cognitive and financial literacy tests (estimated 32/42 correct, average US adult 30/42)
+- Economic game behavior:
+  - Proposes to keep $2 and send $3 in a $5 split (Ultimatum Game)
+  - Accepts all offers except $0 to self
+  - In a trust game, would keep $0 and send $5; as receiver, keeps $7 of $15 and sends $8 back
+- Spending habits:
+  - Moderate (5 on 1-11 scale)
+  - Rarely has trouble limiting spending or spending money
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Depression and mood:
+  - Does not feel sad, no loss of interest in others, no feelings of failure
+  - Feels discouraged about the future and guilty a good part of the time
+  - Feels irritated all the time now
+  - Feels disappointed in self but not worthless
+  - No sleep or appetite problems
+  - Trying to lose weight by eating less
+- Self-monitoring:
+  - Generally able to adjust behavior in social situations with some exceptions
+  - Somewhat sensitive to others' emotions but not always accurate
+- Maximizer tendencies:
+  - Has highest standards for self, never settles for second best (strong agreement)
+  - Neither strongly maximizer nor satisficer on other items
+- Need for Closure:
+  - Neither strongly agrees nor disagrees with discomfort with uncertainty
+  - Slightly agrees with liking ordered life and routine
+  - Somewhat dislikes unpredictable situations but not strongly
+- Logical reasoning:
+  - Correctly answers most syllogistic and logical reasoning questions except one about China and communism
+- Language vocabulary:
+  - Mostly correct synonym and antonym choices, with some errors (e.g., "ASTUTE" synonym chosen as "ascetic" which is incorrect)
+- Self-description (open-ended):
+  - Aspires to be remembered as good, funny, caring, smart, a hero and role model to grandkids
+  - Ought to be honest, reliable, trustworthy, open
+  - Actually is flawed but humble and striving to improve

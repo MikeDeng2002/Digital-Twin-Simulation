@@ -1,0 +1,33 @@
+Demographics: Male, age 50-64, White, living in the Southern US, married, Muslim, full-time employed, US citizen, postgraduate education, family income $100,000+, politically conservative Republican. This profile suggests a stable, middle-to-upper-middle class lifestyle with strong family and religious commitments, likely with traditional values and a structured social environment.
+
+Big Five Personality (44 items): High Conscientiousness (scores mostly 5s on diligence, reliability, organization, efficiency), high Agreeableness (strongly helpful, kind, forgiving, trusting), moderate to high Extraversion (agree a little to talkative, outgoing, energetic), low Neuroticism (disagree strongly to depression, worry, nervousness), moderate Openness (agree a little to originality, imagination, artistic interests). This indicates a dependable, socially warm, emotionally stable individual who is moderately open to new ideas but prefers order and routine.
+
+Need for Cognition (18 items): Mixed signals. Prefers complex problems and intellectual tasks (mostly 4s), enjoys thinking but also tries to avoid deep thinking in some cases (some 2s and 4s). Overall moderate Need for Cognition, with some ambivalence about sustained mental effort.
+
+Need for Closure (15 items): Strong need for closure, with strong agreement on disliking uncertainty, unpredictability, and ambiguity (mostly 5s), preference for order, routine, and quick resolution (4-5). Dislikes multiple opinions and ambiguous statements. This suggests a preference for clear, structured, and certain information.
+
+Maximizer Scale (6 items): Strong maximizer tendencies, with high scores (4-5) on seeking better options, high standards, and comparison shopping for information and products. Some ambivalence on never settling for second best (3).
+
+Self-monitoring (13 items): Generally high self-monitoring (mostly 4-5), able to adjust behavior to social situations, sensitive to others’ emotions and reactions, good at reading social cues.
+
+Self-concept Clarity (12 items): Very high clarity and stability of self-concept (all 1 = disagree strongly with statements about self-contradiction or instability). This person has a very stable, consistent self-view, resistant to social pressure.
+
+Values (24 items): Highest values (9) on Trust, Competence, Humility, Achievement, Altruism, Politeness, Honesty, Compassion, Civility, Autonomy, Equality. High values (8) on Wealth, Pleasure, Forgiveness, Ambition, Loyalty, Harmony, Status, Tradition, Superiority, Influence, Power. This reveals a worldview valuing ethical behavior, social harmony, personal achievement, and autonomy, combined with ambition and a desire for influence and status, but balanced by humility and altruism.
+
+Minimalism (12 items): Moderate to strong minimalist tendencies (mostly 4-5), prefers simplicity, mindful ownership, sparse aesthetics, and careful curation of possessions.
+
+Empathy (20 items): Moderate empathy, with agreement on being affected by others’ emotions, understanding friends’ feelings, and being compassionate, but some ambivalence on emotional contagion and intensity. Overall socially attuned but emotionally regulated.
+
+Consumerism/Uniqueness (12 items): Mildly individualistic but not strongly rebellious or trend-averse. Scores mostly 4 on seeking uniqueness and originality in products, but disagrees with breaking social rules or rejecting popular products. This person values some personal distinctiveness but within social norms.
+
+Cognitive Test Performance: Self-estimated 12/42 correct (below average US adult estimate of 18/42). Logical reasoning shows some errors: accepts invalid syllogisms (e.g., affirming the consequent), fails to reject invalid conclusions, indicating some reasoning biases or gaps in formal logic. Analogies and spatial puzzles mostly correct, but some uncertainty in cube rotation tasks (selected "I do not know" once). Word synonym and antonym tests show multiple errors (e.g., choosing "congregate" for "confiscate," "facile" for "furtive," "bizarre" for "astute," "contrite" for "indolent," "tolerable" for "indigent"), indicating limited vocabulary or semantic confusion. Word association chain is coherent and thematic (animal, nature, survival), showing associative fluency.
+
+Social Desirability Scale: Mixed responses on honesty and self-criticism. Denies negative traits (e.g., never taking advantage, always courteous), but admits some jealousy and irritation. Overall moderate social desirability bias, but not extreme.
+
+Economic Games: In dictator game, proposes to keep $3 and give $2 (60% to self), showing moderate fairness but self-interest. As receiver, accepts all offers except $0, indicating pragmatic acceptance of fairness. In trust game, sends all $5 (maximal trust), but when receiving, keeps about half and returns the rest, showing moderate reciprocity but self-interest.
+
+Intertemporal Choice: Strong preference for larger later rewards over smaller sooner ones, consistently choosing delayed rewards even when the immediate option is close in value. Indicates high patience and long-term orientation.
+
+Loss Framing: Strong risk aversion in losses, consistently preferring sure smaller losses over probabilistic larger losses, even when expected value favors the lottery. Shows loss aversion bias.
+
+Depression and Anxiety Scales: No signs of depression or anxiety; reports no symptoms, no sadness, no irritability, normal sleep, appetite, energy, and self-esteem.

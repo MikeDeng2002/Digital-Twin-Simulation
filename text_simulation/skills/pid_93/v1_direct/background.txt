@@ -1,0 +1,142 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education completed: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Associate's degree)
+- Race/origin: Asian (Question: What is your race or origin? Answer: Asian)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Atheist (Question: What is your present religion, if any? Answer: Atheist)
+- Never attends religious services aside from weddings/funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Family income last year: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, selected items):
+  - Talkative: Agree a little (Item 1: 4)
+  - Finds fault with others: Agree strongly (Item 2: 5)
+  - Does a thorough job: Agree strongly (Item 3: 5)
+  - Depressed, blue: Disagree a little (Item 4: 2)
+  - Original, comes up with new ideas: Agree strongly (Item 5: 5)
+  - Helpful and unselfish: Agree a little (Item 7: 4)
+  - Relaxed, handles stress well: Agree a little (Item 9: 4)
+  - Curious about many things: Agree strongly (Item 10: 5)
+  - Reliable worker: Agree strongly (Item 13: 5)
+  - Ingenious, deep thinker: Agree strongly (Item 15: 5)
+  - Perseveres until task is finished: Agree strongly (Item 28: 5)
+  - Values artistic, aesthetic experiences: Agree strongly (Item 30: 5)
+  - Assertive personality: Agree a little (Item 26: 4)
+  - Makes plans and follows through: Agree strongly (Item 38: 5)
+  - Likes to reflect, play with ideas: Agree strongly (Item 40: 5)
+  - Sophisticated in art, music, or literature: Agree strongly (Item 44: 5)
+- Need for Cognition scale (selected items):
+  - Prefers complex problems: Agree strongly (Item 1: 5)
+  - Likes responsibility requiring thinking: Agree strongly (Item 2: 5)
+  - Thinking is fun: Disagree strongly that it is not fun (Item 3: 1)
+  - Prefers intellectual, difficult tasks: Agree strongly (Item 15: 5)
+  - Enjoys coming up with new solutions: Agree strongly (Item 11: 5)
+  - Usually deliberates about issues even if not personally affected: Agree strongly (Item 18: 5)
+- Values (selected):
+  - Wealth: 6 (moderately important)
+  - Pleasure: 7
+  - Forgiveness: 3 (less important)
+  - Influence: 3 (less important)
+  - Trust: 5 (quite important)
+  - Competence: 8 (highly important)
+  - Humility: 7
+  - Achievement: 6
+  - Altruism: 5 (quite important)
+  - Ambition: 7
+  - Loyalty: 4
+  - Politeness: 4
+  - Power: 1 (not important)
+  - Harmony: 3
+  - Excitement: 5
+  - Honesty: 7
+  - Compassion: 6
+  - Status: 2 (low importance)
+  - Civility: 4
+  - Autonomy: 7
+  - Equality: 8
+  - Recognition: 3
+  - Tradition: 3
+  - Superiority: 6
+- Self-reported personality attributes (self-concept clarity):
+  - Clear sense of who they are: Agree strongly (Item 11: 5)
+  - Beliefs about self do not conflict: Disagree strongly that they conflict (Item 1: 1)
+  - Seldom experience conflict between personality aspects: Agree strongly (Item 6: 5)
+  - Beliefs about self do not change frequently: Disagree strongly that they do (Item 8: 1)
+- Self-monitoring (selected items):
+  - Ability to control impression: Generally true (Item 2: 5)
+  - Can adjust behavior to meet situation: Generally true (Item 5: 5)
+  - Can change image if not working: Somewhat true (Item 3: 4)
+- Need for Closure (selected items):
+  - Dislike uncertainty: Disagree a little (Item 1: 2)
+  - Dislike ambiguous questions: Disagree strongly (Item 2: 1)
+  - Prefer well-ordered life: Agree a little (Item 3: 4)
+  - Dislike not knowing what to expect: Agree strongly (Item 6: 5)
+  - Irritated when no immediate solution: Disagree a little (Item 9: 2)
+- Maximizer scale (selected items):
+  - Have highest standards for self: Agree strongly (Item 5: 5)
+  - Never settle for second best: Agree a little (Item 6: 4)
+  - Hard time finding clothing I love: Neither agree nor disagree (Item 4: 3)
+- Economic game behavior:
+  - When proposer in $5 split, keeps $3, sends $2 (Ultimatum Game) (Question: How much would you propose to keep/send? Answer: $3/$2)
+  - As responder, accepts all offers except $0 (rejects $0 offer) (Questions on acceptance of offers)
+  - In a trust game with $5 tripled, sends all $5; as receiver, keeps $7 and sends back $8 (Questions on trust game)
+- Cognitive test performance:
+  - Believes answered all 42 cognitive test questions correctly (Answer: 42)
+  - Estimates average US adult would answer 39 correctly (Answer: 39)
+  - Correctly answered logical reasoning and syllogism questions (e.g., all XAR are YOF, etc.)
+  - Correctly solved spatial and pattern puzzles (cube rotations, figure completions)
+  - Correctly answered synonym and antonym vocabulary questions
+  - Correctly answered financial literacy questions (e.g., mortgage payments, inflation, risk diversification)
+  - Correctly answered probability and numeracy questions (e.g., die rolls, lottery odds)
+- Spending habits:
+  - Describes self as low on spending difficulty (tightwad scale: 3)
+  - Never has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to a person who resists spending money despite sales (Question: Similar to Mr. A or Mr. B? Answer: 4 - 4, closer to Mr. B)
+- Psychological state:
+  - Does not feel sad, not a failure, no guilt, no disappointment, no worthlessness
+  - Feels some discouragement about the future
+  - Sleeps less well than usual
+  - Gets tired more easily than before
+  - Worried about physical problems (aches, pains, upset stomach)
+  - No loss of appetite or weight
+  - No loss of interest in sex
+  - Purposely trying to lose weight by eating less
+- Self-reported personality traits (additional):
+  - Organized, efficient, systematic, practical: rated highly accurate
+  - Disorganized, sloppy, careless: rated very inaccurate
+  - Prefers to work without instructions: probably true
+  - Carries out obligations: definitely true
+  - Likes to do things in new ways: definitely true
+  - Tries to make work accurate and error-free: definitely true
+  - Likes trying different things and often successful: true
+  - Importance of achievements recognized by others: probably true
+  - Often thinks about what others expect: probably not true
+- Self-concept clarity: clear and stable self-view, no internal conflict
+- Environmental concern:
+  - Strongly agrees that products should not harm environment
+  - Considers environmental impact in decisions
+  - Willing to be inconvenienced for environment
+- Empathy and social sensitivity:
+  - Generally agrees they feel others' emotions (e.g., sadness, happiness)
+  - Disagrees strongly that others' feelings do not affect them
+  - Can usually tell when friends are scared, angry, cheerful
+  - Sometimes get caught up in friends' feelings
+- Consumer uniqueness and product use:
+  - Disagrees strongly with statements about seeking uniqueness via products
+  - Neither agrees nor disagrees about breaking social rules on product use
+  - Slightly agrees with challenging prevailing tastes by buying something others might not accept
+  - Disagrees strongly with avoiding common products or brands
+- Logical reasoning:
+  - Correctly identifies logical conclusions from premises in syllogistic reasoning tasks
+- Decision making under uncertainty:
+  - Prefers to depend on self rather than others (strongly agree)
+  - Personal identity independent of others is very important (strongly agree)
+  - Feels good when cooperating with others (strongly agree)
+  - Willing to sacrifice for family needs (strongly agree)
+  - Sometimes feels resentful about sacrifices
+  - Worries more than most people about future scenarios

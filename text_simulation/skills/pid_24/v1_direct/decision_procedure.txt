@@ -1,0 +1,25 @@
+- Need for Closure:
+  - Dislikes uncertainty (Item 1: Agree a little)
+  - Dislikes ambiguous questions (Item 2: Agree a little)
+  - Strongly uncomfortable with not understanding reasons for events (Item 4: Agree strongly)
+  - Wants quick solutions (Items 8 & 9: Agree strongly)
+  - Dislikes unpredictable people and situations (Items 10, 11, 15: Agree a little to strongly)
+  - Somewhat prefers consistent routine (Item 12: Agree a little)
+  - Does not usually consult many opinions before deciding (Item 14: Agree a little)
+- Need for Cognition:
+  - Dislikes complex problems and thinking responsibilities (Items 1 & 2: Disagree strongly)
+  - Prefers tasks requiring little thought (Items 9: Agree strongly)
+  - Avoids deep thinking and deliberation (Items 5, 7: Agree a little)
+  - Finds relief, not satisfaction, after mental effort (Item 16: Agree a little)
+- Maximizer:
+  - Disagrees strongly with never settling for second best and having highest standards (Items 5 & 6: Disagree strongly and disagree a little)
+  - Finds shopping for gifts and clothing difficult (Items 3 & 4: Agree a little to strongly)
+- Self-monitoring:
+  - Generally low self-monitoring (Items 1-3, 5, 7, 8-10, 12, 13: Mostly generally false or disagree)
+  - Has trouble changing behavior to suit situations (Item 4 & 6: Generally true)
+- Self-concept clarity:
+  - Mostly clear self-concept (Item 11: Neither agree nor disagree)
+  - Some uncertainty about past self (Item 5: Agree a little)
+  - Strongly agrees with not telling others what really like about self (Item 10: Agree strongly)
+  - Disagrees with frequent changes in self-beliefs (Items 1, 2, 8, 9: Disagree strongly or a little)
+- w_social estimate: 0.2 -- The person shows low self-monitoring (Items 1-3, 5-7 in Self-monitoring scale mostly disagree), low empathy, and a preference for self-reliance (Self-concept clarity Item 10: Agree strongly with not revealing true self), combined with a low tendency to cooperate or value others (disagree strongly on cooperation and coworker well-being). The Need for Closure items show moderate to strong desire for order and quick decisions, but social reasoning is limited, supporting a low social reasoning weight estimate.

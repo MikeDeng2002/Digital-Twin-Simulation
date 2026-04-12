@@ -1,0 +1,89 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Male, age 50-64 (Questions: "What is the sex that you were assigned at birth?" Answer: 1 - Male; "How old are you?" Answer: 3 - 50-64)
+- Highest education level: High school graduate (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 2 - High school graduate)
+- Race: White (Question: "What is your race or origin?" Answer: 1 - White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Living with a partner (Question: "Which of these best describes you?" Answer: 2 - Living with a partner)
+- Religion: Roman Catholic, but never attends services aside from weddings and funerals (Questions: "What is your present religion, if any?" Answer: 2 - Roman Catholic; "Aside from weddings and funerals, how often do you attend religious services?" Answer: 6 - Never)
+- Political affiliation: Republican, conservative (Questions: "In politics today, do you consider yourself a" Answer: 1 - Republican; "In general, would you describe your political views as" Answer: 2 - Conservative)
+- Family income last year: $30,000-$50,000 (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 2 - $30,000-$50,000)
+- Household size: 3 people (Question: "Including yourself, how many people currently live in your household?" Answer: 3 - 3)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: 1 - Full-time employment)
+
+Personality (Big Five traits, from direct self-report):
+- Very talkative (Item 1: 5 - Agree strongly)
+- Does a thorough job, reliable, perseveres until task is finished, does things efficiently, makes plans and follows through (Items 3, 13, 28, 33, 38: all 5 - Agree strongly)
+- Helpful, unselfish, considerate, kind, generally trusting, forgiving nature (Items 7, 17, 22, 32: 5 - Agree strongly)
+- Emotionally stable, relaxed, handles stress well, remains calm in tense situations (Items 9, 24, 34: 5 - Agree strongly)
+- Energetic, full of energy, outgoing, sociable, generates enthusiasm (Items 11, 16, 36: 5 - Agree strongly)
+- Reserved (Item 6: 5 - Agree strongly) and not shy (Item 31: 1 - Disagree strongly) (Note: "reserved" and "outgoing" both strongly agreed, possibly indicating nuanced self-view)
+- Not original, not inventive, not a deep thinker, not ingenious (Items 5, 15, 25: 1 - Disagree strongly)
+- Somewhat tense and worries a little (Items 14, 19, 39: 4 - Agree a little)
+- Has an active imagination (Item 20: 4 - Agree a little)
+- Does not value artistic or aesthetic experiences (Items 30, 41, 44: 1 - Disagree strongly)
+- Does not have an assertive personality, not cold or aloof (Items 26, 27: 1 - Disagree strongly)
+- Does not start quarrels, not careless, not lazy, not moody, not rude, not disorganized, not easily distracted (Items 2, 8, 18, 23, 29, 37, 43: 1 - Disagree strongly)
+- Prefers routine work (Item 35: 5 - Agree strongly)
+- Neither curious nor not curious (Item 10: 3 - Neither agree nor disagree)
+- Does not like to reflect or play with ideas (Item 40: 1 - Disagree strongly)
+- Values simplicity in design and avoids accumulating excess possessions (Items on possessions: 1,4,6: Agree strongly; others mostly neutral)
+
+Need for Cognition:
+- Strongly dislikes thinking hard or complex problems (Items 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15: mostly 1 or 5 indicating dislike of thinking)
+- Prefers tasks requiring little thought, avoids intellectual challenges (Items 3,4,5,7,8,9,10,11,12,13,14,15: answers indicate low need for cognition)
+- Feels relief rather than satisfaction after mental effort (Item 16: 5 - Agree strongly)
+- Generally does not deliberate about issues unnecessarily (Item 18: 1 - Disagree strongly)
+
+Values (rated as "A GUIDING PRINCIPLE IN MY LIFE" or similar):
+- Highly important: Pleasure, Forgiveness, Trust, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Autonomy, Equality, Tradition (Items 2,3,5,7,9,11,12,14,16,17,19,20,21,23: mostly 9 - Highly Important)
+- Quite important: Achievement, Ambition, Excitement (Items 8,10,15: 5 - Quite Important)
+- Not important: Wealth, Influence, Power, Status, Recognition, Superiority (Items 1,4,13,18,22,24: 1 - Not Important)
+
+Empathy and social sensitivity:
+- Strongly affected by friends' emotions, easily feels sad when others are sad, understands friends' happiness and sadness, often gets caught up in others' feelings (Items 1-20 in empathy section: mostly 4 or 5 - Agree strongly or a little)
+- Can read friends' emotions well, including fear, anger, cheerfulness (Items 6,9,10,14,16: 4-5)
+- Does not ignore others' feelings (Items 1,8,13,18: 1 or 4 - Disagree strongly or agree a little)
+
+Environmental concern:
+- Neutral to slight agreement on environmental responsibility and concern (Items 1-6 in environment section: mostly 3 or 4 - Neither agree nor disagree or agree a little)
+
+Cognitive test performance:
+- Estimated self-correct answers: 15 out of 42 (Question: "How many of these questions do you think you answered correctly?" Answer: 15)
+- Estimated average for US adults: 21 out of 42 (Question: "How many of these questions do you think people from a representative sample of the US adult population would answer correctly?" Answer: 21)
+- Correct logical reasoning on some syllogisms, but some errors (e.g., answered "No" to "Cigarettes are good for health" despite premises, indicating some misunderstanding)
+- Some errors in synonym and antonym questions (e.g., synonym for CONCUR answered as "extricate" which is incorrect)
+- Moderate financial literacy: understands mortgage payments, inflation effects, risk diversification, and asset returns (correct answers to related questions)
+- Knows that after age 70.5, withdrawals are required from retirement accounts (correct)
+- Knows that spreading money among assets decreases risk (correct)
+- Knows stocks have highest fluctuations and returns over long term (correct)
+- Knows credit card debt payoff time (20 years) (self-reported)
+- Basic numeracy and probability understanding (e.g., die rolls, lottery odds)
+
+Personality traits related to decision-making and social behavior:
+- Self-reports as a good listener, courteous, willing to admit mistakes, but also admits to having taken advantage of someone (Items 5-13 in personal attributes: mostly TRUE except for negative traits)
+- Does not give up easily, not resentful, not rebellious (Items 1-4: FALSE)
+- Organized, efficient, practical, not sloppy or careless (Items 1-8 in organization: mostly 8 or 1 indicating strong organization)
+- Prefers rules and regulations, carries out obligations, likes accuracy, likes achievements recognized, thinks about others' expectations (Items 1-10 in work and rule adherence: mostly 6 or 7 - True)
+- Sometimes has trouble limiting spending but does not have trouble spending money (Spending habits: 8/11 scale, sometimes trouble limiting spending, never trouble spending)
+- Similar to Mr. A in shopping behavior (impulsive buying) (Question: "Who are you more similar to?" Answer: 1 - Mr. A)
+- Does not seek originality or uniqueness in products, dislikes products that are popular (Items in uniqueness and product choice: mostly disagree a little or strongly disagree)
+- High self-monitoring: can alter behavior in social situations, control impression, read emotions well (Items 1-13 in self-monitoring: mostly 5 - Generally true)
+- High self-concept clarity: clear sense of self, beliefs about self do not conflict, do not spend much time wondering about self (Items 1-12 in self-concept clarity: mostly 1 or 5 indicating strong clarity)
+- High need for closure: dislikes uncertainty, prefers order and routine, dislikes unpredictable situations, wants quick solutions (Items 1-15 in need for closure: mostly 5 - Agree strongly)
+- Low maximizer tendencies: does not seek better options when satisfied, does not settle for second best (Items 1-6 in maximizer: mostly disagree strongly or agree a little)
+- Financially literate and risk-aware (see above)
+
+Mental health and wellbeing:
+- Does not feel sad, discouraged, or like a failure
+- Does not feel guilty or punished
+- Does not feel disappointed or worthless
+- Does not cry more than usual or feel irritated more than usual
+- Has not lost interest in others, makes decisions well, sleeps well, not more tired than usual
+- Has lost more than 15 pounds recently and is purposely trying to lose weight by eating less
+- Worried about physical problems such as aches and pains or upset stomach, but not overwhelmed by worry
+
+Decision-making in economic games:
+- Proposes to keep $3 and send $2 in the $5 split game
+- Accepts offers down to $1 sent to self, rejects offers of $0 sent to self
+- In the trust game with tripling, keeps $3 and sends $2; as receiver, keeps about half or more of the tripled amount, tries to be fair but also keep a good share
+- Thoughts during decisions: "being fair," "don't be greedy," "give what you think is right," "be fair as possible," "give as much as you can without shorting yourself"

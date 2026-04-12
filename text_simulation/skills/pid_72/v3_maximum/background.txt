@@ -1,0 +1,39 @@
+Demographics: Male, age 30-49, White, living in the Northeast US, some college but no degree, full-time employed, household of 2, Jewish by religion but does not attend services, politically Independent with moderate views, family income $100,000+. Living with a partner. This suggests a middle-aged, moderately educated professional with stable income and moderate political views, likely exposed to diverse urban/suburban cultural influences typical of the Northeast. Jewish identity without religious practice implies cultural affiliation rather than devout religiosity.
+
+Big Five Personality (44 items): High Conscientiousness (scores 5 on "does a thorough job," "reliable worker," "perseveres," "makes plans and follows through," "does things efficiently"), moderately high Extraversion (4 on talkative, energy, outgoing), low Neuroticism (disagree strongly with depressed, tense, moody; emotionally stable 4), moderate Openness (mostly neutral on originality, ingenuity, imagination, but high curiosity 5 and values artistic experiences 5), and high Agreeableness (helpful 5, considerate 4, kind 4, low fault-finding 2, low quarrelsomeness 1). Overall, a conscientious, moderately extraverted, emotionally stable, agreeable individual with moderate openness.
+
+Need for Cognition (18 items): Mostly "agree a little" (4) on liking intellectual challenge, thinking abstractly, enjoying puzzles, and deliberating hard. Disagrees with thinking being no fun or avoiding deep thought. Moderate to moderately high NFC, indicating a preference for engaging in effortful thinking but not extreme.
+
+Need for Closure (15 items): Mostly low to moderate scores, with disagreement or neutrality on discomfort with uncertainty, impatience for quick solutions, dislike of ambiguous situations. This suggests a moderate to low need for closure, comfortable with some ambiguity and not rushing to premature conclusions.
+
+Maximizer scale (6 items): Mostly low to moderate scores, disagreeing with "never settle for second best," "highest standards for self" only "agree a little," and low tendency to comparison shop or seek uniqueness. Indicates a tendency more toward satisficing than maximizing.
+
+Self-monitoring (13 items): Generally "generally true" or "somewhat true" on ability to adjust behavior, read others' emotions, detect lies, and regulate actions. Indicates moderate to high self-monitoring, able to notice social cues and adapt behavior accordingly.
+
+Self-concept clarity (12 items): Strongly agree with stable, clear self-view, no internal conflict, no frequent changes in self-beliefs. High self-concept clarity, stable identity.
+
+Values (24 items): Highest values (7-8) on Competence, Humility, Loyalty, Harmony, Excitement, Honesty, Compassion, Autonomy. Moderate importance on Pleasure, Trust, Altruism, Politeness, Equality, Achievement, Ambition, Family/Tradition. Low importance on Power, Influence, Superiority, Status. This reveals a worldview valuing ethical behavior, social harmony, competence, independence, and excitement/adventure, with moderate ambition but low desire for dominance or status.
+
+Minimalism (12 items): Uniformly "agree a little" (4) on avoiding excess possessions, curating belongings, preferring simplicity and sparse environments. Indicates a mild minimalist attitude, mindful and deliberate about possessions.
+
+Empathy (20 items): Mixed but generally moderate empathy. Strong agreement on understanding friends' happiness (5), moderate agreement on recognizing others' emotions (4), some disagreement on being easily caught up in others' feelings (3), and low on being unaffected by others' emotions (mostly disagree a little). Suggests moderate cognitive empathy but somewhat controlled emotional contagion.
+
+Consumerism/Uniqueness: Disagree a little (2) on seeking uniqueness via products, breaking social rules on consumption, or avoiding popular products. Neutral on some items. Indicates low consumer uniqueness drive, not trend-driven or rebellious in consumption.
+
+Social desirability scale: Not directly reported, but given some self-critical answers and moderate self-monitoring, likely moderate social desirability bias.
+
+Cognitive test performance: Estimated 32/42 correct (self-rated), above average (US adult average estimated 22). Logical reasoning mostly correct except one error on a conditional syllogism (China communist question). Some errors in synonym/antonym tests (e.g., "furtive" synonym chosen as facile, "astute" synonym chosen as lineal, "covet" synonym chosen as claim), indicating occasional semantic confusion or less precise vocabulary. Good performance on spatial cube rotation tasks with some uncertainty (mixed answers). Overall, above-average fluid and crystallized intelligence with some minor semantic slips.
+
+Word association chain: From "table" to "wood," "man," "hair," "carpet," "mud," "forest," "tree," "bird," "fly," "sky," "sun," "heat," "island," "ocean," "water," "throat," "pain," "doctor," "drug." The chain shows mostly concrete, naturalistic associations with some somatic/emotional terms at the end ("pain," "doctor," "drug"). No obvious semantic derailments or unusual jumps, indicating coherent associative thinking.
+
+Economic games (dictator + ultimatum): As proposer, keeps $3 and offers $2 to other (40% to other), a moderately selfish but not stingy split. As responder, accepts all offers except $0, rejecting unfair offers. In the trust game, keeps all money and sends nothing, and as receiver keeps all and sends nothing back, indicating low trust and reciprocity. Thoughts reveal distrust ("they are a stranger," "I don't owe that person anything") and self-interest ("I want to maximize my profit," "I need it more than them"). Suggests pragmatic, self-protective social strategy with moderate fairness norms.
+
+Intertemporal choice: Prefers delayed larger rewards over smaller sooner ones until the difference is quite large, indicating moderate patience and future orientation.
+
+Loss framing responses: More upset by larger single losses than by equivalent split losses, and more upset by losses than equivalent gains, consistent with loss aversion.
+
+Depression and anxiety scales: No significant depressive symptoms, no sadness, no guilt, no loss of interest, no sleep or appetite problems. Self-reports anxiety ("I am a very anxious person," "I struggle being confident in social situations") but low on somatic anxiety symptoms in past week. Suggests trait anxiety with good current mood.
+
+Self-reports on personality: Some resentment, jealousy, irritability, and tendency to hold grudges, but denies being careless, lazy, or rude. Indicates some emotional reactivity but controlled behavior.
+
+Financial literacy: Good understanding of mortgages, inflation, risk diversification, and investment returns. Correct answers on basic financial numeracy and probability questions. Shows above-average financial literacy.

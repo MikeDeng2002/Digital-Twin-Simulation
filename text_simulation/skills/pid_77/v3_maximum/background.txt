@@ -1,0 +1,59 @@
+Demographics: Female, age 50-64, White, living in the U.S. Midwest, separated marital status, agnostic with no religious service attendance, politically independent with moderate views, unemployed, low family income (<$30,000), household size of 4. Education level is high school graduate only. This suggests a modest socioeconomic background with limited formal education and financial resources, likely influencing access to information and cognitive engagement opportunities.
+
+Big Five Personality (44 items):  
+- Very low Extraversion (e.g., "Is talkative" = 1, "Is reserved" = 5, "Is outgoing" = 1, "Is quiet" = 5)  
+- Low Conscientiousness (e.g., "Does a thorough job" = 1, "Is reliable" = 1, "Is organized" = 1, "Tends to be disorganized" = 5, "Is lazy" = 5, "Is careless" = 4)  
+- Moderate Neuroticism (e.g., "Worries a lot" = 5, "Is tense" = 4, "Is relaxed" = 2, "Is emotionally stable" = 2)  
+- Low Openness (e.g., "Is original" = 2, "Has active imagination" = 2, "Likes to reflect" = 1, "Is ingenious" = 3)  
+- Low Agreeableness (e.g., "Is helpful and unselfish" = 3, "Has forgiving nature" = 1, "Is cold and aloof" = 5, "Is considerate and kind" = 2, "Is rude sometimes" = 4)  
+
+Need for Cognition (18 items): Very low. Strong disagreement with enjoying thinking hard or complex problems (e.g., "I like to have responsibility that requires a lot of thinking" = 1, "I find satisfaction in deliberating hard" = 1, "I prefer intellectual, difficult tasks" = 1). Agreement with preferring little thought tasks and avoiding deep thinking (e.g., "I prefer my life to be filled with small daily projects" = 5, "I try to anticipate and avoid situations requiring deep thought" = 4).
+
+Need for Closure (15 items): Moderate to somewhat high. Likes predictability and dislikes uncertainty (e.g., "I don’t like to go into a situation without knowing what to expect" = 5, "I feel uncomfortable when I don’t understand why events occur" = 4, "I dislike unpredictable situations" = 4). Some impatience for quick resolution ("I’m dying to reach a solution quickly" = 4).
+
+Maximizer scale (6 items): Low. Disagrees with having highest standards or never settling for second best (both 1). However, agrees with being on lookout for better opportunities (5) and some difficulty shopping for gifts (5), indicating moderate comparison behavior but not perfectionistic.
+
+Self-monitoring (13 items): Generally high. Can adjust behavior to fit situations (mostly 5s), good at reading others’ emotions (4-5), able to regulate actions accordingly. Suggests social awareness despite low agreeableness.
+
+Self-concept clarity (12 items): Low to moderate. Some agreement with conflicting self-beliefs and uncertainty about self ("My beliefs about myself often conflict" = 4, "Sometimes I feel I am not really the person I appear to be" = 4), but also some stability ("My beliefs about myself seem to change infrequently" = 2).
+
+Values (24 items):  
+- Highest: Autonomy (9), Trust (8), Humility (8), Harmony (8), Pleasure (7), Excitement (7), Honesty (7)  
+- Low: Power (1), Influence (1), Altruism (1), Recognition (1), Status (2), Superiority (2), Achievement (2)  
+- Moderate: Loyalty (6), Politeness (6), Compassion (6), Civility (6), Tradition (5), Forgiveness (5), Competence (5)  
+This profile suggests a worldview valuing independence, modesty, social harmony, and honesty, but low ambition for power or status and low altruism.
+
+Minimalism (12 items): Moderate. Prefers simplicity and sparse environments (several 4s and 5s on simplicity and visual sparsity), but disagrees with careful curation of belongings (2) and is neutral on mindfulness about possessions. Suggests some preference for minimalism in aesthetics but not strongly practiced.
+
+Empathy (20 items): Low. Strong disagreement with being affected by others’ emotions ("I don’t become sad when I see others crying" = 5, "Other people’s feelings don’t bother me" = 4, "I often get swept up in friends’ feelings" = 2). Some ability to recognize emotions (e.g., "I can usually realize quickly when a friend is angry" = 5), but overall low emotional contagion or empathic concern.
+
+Consumerism/Uniqueness: Strong disagreement with all items indicating desire for uniqueness or breaking social norms in consumption. No interest in being original or challenging prevailing tastes.
+
+Cognitive Test Performance:  
+- Self-estimated correct answers: 5/42 (very low) vs. estimated average 25/42  
+- Actual performance: Multiple errors on syllogistic and logical reasoning tasks, including classic logical fallacies (e.g., affirming the consequent, denying the antecedent).  
+- Word synonym/antonym tests show multiple errors or incorrect choices (e.g., "Furtive" synonym chosen as "heinous" which is incorrect; "Astute" synonym chosen as "ascetic" which is incorrect; "Covet" synonym chosen as "comply" which is incorrect).  
+- Logical reasoning: Some correct, some incorrect answers, including accepting invalid conclusions.  
+- Spatial reasoning (cube rotation): Chose "I do not know" repeatedly, indicating difficulty or lack of confidence.  
+- Word association chain: Mostly concrete, simple words with some opposites (fast/slow, turtle/snail), no abstract or creative leaps.  
+Overall, cognitive test performance is very poor, indicating low fluid intelligence, poor abstract reasoning, and weak verbal knowledge.
+
+Social desirability scale: Not explicitly scored, but self-reports show some honesty about negative traits (e.g., admitting to being cold-hearted, lack of compassion, disorganization, laziness). Some social desirability bias possible but limited.
+
+Depression and mood: Multiple indicators of severe depressive symptoms: feeling sad, hopeless, worthless, guilty, self-hating, blaming self, loss of interest in sex and people, difficulty sleeping, low energy, but no increased crying. Reports pushing self hard to do anything, worried about physical health. This likely impacts cognitive performance and motivation.
+
+Economic games (Dictator and Ultimatum):  
+- As proposer, keeps $3 and gives $2 (40% to other) in dictator game, indicating moderate selfishness but some generosity.  
+- As responder, accepts offers down to $2, rejects $1 or $0, indicating some fairness threshold.  
+- In trust game, keeps $4 and sends $1 (20%) to other, but when receiving, returns about half of amount received, indicating moderate reciprocity but cautious trust.  
+- Thoughts during decisions include "kindness," "sharing," "fairness," "greedy," and "obligated," showing some internal conflict between self-interest and fairness.
+
+Intertemporal choice: Prefers smaller-sooner rewards over larger-later ones consistently, indicating high impatience and low future discounting patience.
+
+Consumer spending: Self-reports as a spendthrift (8/11), often has trouble limiting spending, but rarely has trouble spending money when needed. Does not identify with Mr. A (impulsive spender) but closer to Mr. B (hesitant spender), indicating some ambivalence.
+
+Summary: This person is a middle-aged, low-education, low-income, unemployed White female from the Midwest with moderate political views and agnostic beliefs. Personality is introverted, low conscientiousness, emotionally unstable, low openness, and low agreeableness. She has low need for cognition, moderate need for closure, low maximizer tendencies, and high self-monitoring. Values autonomy and harmony but low ambition and altruism. Minimalist in aesthetics but not strongly mindful. Low empathy and no consumer uniqueness drive. Cognitive performance is very poor, with many reasoning errors and low verbal knowledge. Depression is severe, likely impairing motivation and cognition. Economic game behavior shows moderate selfishness tempered by some fairness and reciprocity. Intertemporal choices reveal impatience. Spending habits are somewhat impulsive but conflicted.
+
+Word association chain is concrete and literal, reflecting low abstract thinking.
+
+Social desirability bias is low to moderate; self-reports are candid about negative traits.

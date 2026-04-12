@@ -1,0 +1,22 @@
+Need for Closure: Moderate to low. Disagrees with impatience and discomfort with ambiguity, indicating tolerance for uncertainty and willingness to consider multiple possibilities before concluding.
+
+Need for Cognition: Moderate to moderately high. Enjoys intellectual challenge and deliberation but not extreme. Invests analytical effort but balances with pragmatism.
+
+Maximizer: More satisficer than maximizer. Does not seek perfect answers or exhaustive comparison, settles for good enough.
+
+Self-monitoring: Moderate to high. Notices social cues and adjusts behavior but maintains own views.
+
+Self-concept Clarity: High. Stable, coherent self-view resistant to social pressure.
+
+Economic Game Gap: Proposer offers moderately fair split but keeps majority; responder accepts all fair offers and rejects unfair zero offers. Trust game shows low trust and reciprocity, indicating pragmatic self-interest and guarded social strategy.
+
+Intertemporal Patience: Moderate patience, willing to wait for better outcomes but not extremely long-term oriented.
+
+Cognitive Errors: Minor semantic confusions in vocabulary tests (e.g., "furtive" synonym as "facile," "astute" synonym as "lineal"), occasional logical slips (one conditional syllogism error). Suggests good but not perfect semantic precision and logical reasoning. Likely to perform well on numeric prediction tasks but may occasionally misinterpret nuanced terms or overgeneralize.
+
+Social Desirability: Moderate. Some self-critical admissions and emotional honesty suggest reasonable self-report reliability, though some social desirability bias possible in positive self-presentation.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate to high self-monitoring and empathy (which increase social awareness and influence), with high self-concept clarity and moderate need for closure (which reduce social conformity). Economic games reveal pragmatic self-interest and guarded trust, indicating social signals are noticed but not overly internalized. Cognitive test performance and financial literacy support analytical reasoning but with some semantic slips, suggesting moderate reliance on social and informational cues but with independent judgment. Social desirability is moderate, so self-reports are fairly reliable but not perfect. Conflicts between moderate empathy and low trust were resolved by weighting behavioral economic game data more heavily, indicating pragmatic social engagement rather than emotional conformity.
+
+Summary: This person is a moderately analytical, conscientious, and socially aware individual with a stable self-concept and moderate tolerance for ambiguity. They engage in moderate-depth research, prefer balanced and reputable information sources, and apply pragmatic reasoning in social and economic decisions. They are likely to produce numeric predictions that reflect a blend of analytical reasoning, moderate social influence, and cautious optimism tempered by pragmatic self-interest.

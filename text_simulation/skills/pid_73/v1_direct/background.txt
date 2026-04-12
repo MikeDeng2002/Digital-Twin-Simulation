@@ -1,0 +1,146 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education completed: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Atheist (Question: What is your present religion, if any? Answer: Atheist)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Agree a little to doing a thorough job (Q3: 4)
+  - Agree strongly to being reserved (Q6: 5)
+  - Agree strongly to being curious about many different things (Q10: 5)
+  - Agree strongly to being a reliable worker (Q13: 5)
+  - Agree a little to being original and inventive (Q5:4, Q25:4)
+  - Agree a little to being helpful and unselfish (Q7:4)
+  - Agree a little to worrying a little (Q19:4)
+  - Agree a little to being emotionally stable (Q24:4)
+  - Agree a little to being considerate and kind (Q32:4)
+  - Agree a little to being quiet (Q21:4)
+  - Disagree a little to having an assertive personality (Q26:2)
+  - Disagree strongly to being cold and aloof (Q27:1)
+  - Agree strongly to valuing artistic, aesthetic experiences (Q30:5)
+  - Agree a little to being sophisticated in art, music, or literature (Q44:4)
+- Need for Cognition scale:
+  - Neither agree nor disagree to preferring complex to simple problems (Q1:3)
+  - Agree a little to liking responsibility requiring thinking (Q2:4)
+  - Disagree a little to thinking not fun (Q3:2)
+  - Disagree a little to preferring little thought tasks (Q4:2)
+  - Agree strongly to deliberating about issues even when not personally affected (Q18:5)
+  - Agree a little to enjoying tasks involving new solutions and abstract thinking (Q11:4, Q14:4)
+  - Disagree strongly to "It's enough that something gets the job done" (Q17:1)
+- Values (rated as guiding principles):
+  - Trust (8)
+  - Competence (7)
+  - Humility (7)
+  - Harmony (8)
+  - Excitement (7)
+  - Honesty (7)
+  - Autonomy (8)
+  - Pleasure (6)
+  - Civility (6)
+  - Equality (6)
+  - Wealth (4)
+  - Loyalty (4)
+  - Politeness (4)
+  - Achievement (3)
+  - Altruism (3)
+  - Ambition (3)
+  - Forgiveness (3)
+  - Influence (3)
+  - Compassion (3)
+  - Status (2)
+  - Power (2)
+  - Tradition (2)
+  - Superiority (3)
+  - Recognition (3)
+- Environmental concern: Agree a little to being environmentally responsible and mindful (Q1-Q6 environmental section: all 4)
+- Empathy and social sensitivity:
+  - Agree a little that friends’ emotions affect them (Q1 empathy:4)
+  - Disagree a little to becoming sad when others are sad (Q2 empathy:2)
+  - Agree a little to understanding friends’ happiness and feelings (Q3,9,10,12,14,16 empathy:4)
+  - Disagree strongly to getting frightened by scary movies or friends’ fear (Q4,15 empathy:1)
+  - Disagree a little to getting caught up in others’ feelings (Q5,8,17,19,20 empathy:2)
+  - Agree a little to not becoming sad when seeing others cry (Q7 empathy:4)
+  - Agree a little to recognizing anger in others (Q13,16 empathy:4)
+  - Agree a little to friends’ unhappiness not making them feel anything (Q18 empathy:4)
+- Cognitive test performance:
+  - Estimated 30 correct out of 42 (self-report)
+  - Estimated average US adult: 28 correct
+  - Correct answers on logical reasoning and syllogisms (e.g., all XAR are YOF, etc.)
+  - Correct answers on various puzzles and cube rotation tasks
+  - Correct answers on synonym and antonym vocabulary questions (with some errors, e.g., "ASTUTE" synonym chosen as "ascetic" which is incorrect)
+- Financial literacy:
+  - Correct understanding of mortgage, inflation, risk diversification, and investment returns
+  - Correct answers on credit card debt (debt never eliminated with minimum payment)
+  - Correct answers on probability and percentages
+  - Correct answers on basic math and logic problems (bat and ball, lily pads, etc.)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $4 and send $1 in the $5 split (Ultimatum game proposer)
+  - Accepts all offers as receiver except $0 offer
+  - In trust game, keeps all $5 and sends $0 (no trust)
+  - As receiver in trust game, keeps all money and sends back $0 (no reciprocity)
+  - Thoughts indicate distrust and preference for guaranteed money
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes resentful when not getting own way (True)
+  - Sometimes gives up due to low self-belief (True)
+  - Sometimes rebels against authority even if authority is right (True)
+  - Not always a good listener (False)
+  - Has taken advantage of someone (True)
+  - Willing to admit mistakes (True)
+  - Does not try to get even (False)
+  - Usually courteous even to disagreeable people (True)
+  - Has been jealous of others’ good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Has deliberately hurt someone’s feelings (False)
+- Self-concept clarity:
+  - Generally clear sense of who they are (Agree a little)
+  - Disagree strongly that beliefs about self change frequently or conflict
+  - Disagree a little that sometimes not the person they appear to be
+  - Disagree strongly that unsure about past self
+  - Seldom experiences conflict between personality aspects (Agree strongly)
+- Need for Closure:
+  - Agree a little to disliking uncertainty, preferring order, quick decisions, dislike ambiguous statements
+- Maximizer tendencies:
+  - Disagree a little to never settling for second best or having highest standards
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and read others’ emotions well
+- Spending habits:
+  - Tightwad tendency (difficulty spending money) rated 2 (low)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxiety about spending)
+  - More similar to Mr. B (hesitant spender)
+- Mood and mental health:
+  - Does not feel sad or discouraged
+  - Feels guilty a good part of the time
+  - Feels more irritated than before
+  - Less interested in other people than before
+  - Makes decisions as well as before
+  - Sleeps less well than usual
+  - Appetite not as good as before
+  - Worried about physical problems (aches, pains, upset stomach)
+  - No recent change in interest in sex
+  - Not purposely trying to lose weight
+- Personal aspirations and self-description:
+  - Aspires to be strong, confident, financially secure, loved by others
+  - Ought to fulfill work responsibilities, be a good husband and step-father, live up to own expectations
+  - Actually smart and hardworking but underachiever, proud of family, has aspirations but lacks clear path
+- Personal uniqueness and consumption:
+  - Disagree a little to combining possessions to create unique image
+  - Agree a little to trying to find more interesting versions of products
+  - Neither agree nor disagree to actively seeking uniqueness by buying special products
+  - Disagree a little to violating social group rules about products
+  - Agree a little to avoiding products bought by general population
+  - Agree a little to disliking common products/brands
+- Self-monitoring and social sensitivity:
+  - Generally true to ability to alter behavior, control impression, read emotions, detect lies, and adjust to situations
+- Self-concept clarity:
+  - Mostly stable and clear self-beliefs, little internal conflict

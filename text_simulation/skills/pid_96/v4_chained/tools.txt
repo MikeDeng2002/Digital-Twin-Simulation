@@ -1,0 +1,20 @@
+Given her some college education and low family income (<$30,000), this individual likely has access to a range of digital information sources but may prioritize free or low-cost platforms. Her student status suggests familiarity with academic databases and online educational resources, though financial constraints may limit subscriptions to paywalled content. Her moderate Need for Cognition score, with a pragmatic rather than deeply intrinsic motivation for intellectual effort, indicates she engages in moderate-depth research—enough to understand and evaluate information but unlikely to pursue exhaustive or highly technical sources regularly.
+
+Politically identifying as an Independent with moderate views, she is likely to prefer neutral or balanced news outlets over highly partisan sources. This suggests a tendency to consult mainstream media platforms such as NPR, PBS, or Reuters, which are known for relatively balanced reporting. Her moderate empathy and social orientation imply she also relies on social networks and peer discussions for information, possibly using platforms like Facebook or Twitter to gauge public opinion and share news within trusted circles. However, her introverted and somewhat reserved personality may limit extensive social media engagement, favoring curated, reliable content over viral or sensationalist posts.
+
+Her low Maximizer tendencies and moderate minimalism suggest she does not extensively comparison-shop information sources or obsessively curate her information diet. Instead, she likely maintains a stable set of trusted sources, occasionally exploring alternatives but without exhaustive cross-checking. This aligns with a preference for a few well-regarded news apps or websites rather than a broad, fragmented media diet.
+
+Cognitive test performance indicates strong logical reasoning and vocabulary, with no major reasoning errors, supporting her ability to critically evaluate source quality. However, occasional conservative or neutral responses in ambiguous tasks suggest some caution or uncertainty when faced with complex or conflicting information, implying she may avoid highly technical or overly complex sources that require specialized knowledge to interpret. She is likely to favor sources that present information clearly and accessibly, such as explanatory journalism (e.g., Vox, The Conversation) or educational YouTube channels that break down complex topics.
+
+Based on these signals, her realistic information sources likely include:  
+- Public radio and television news (NPR, PBS NewsHour) for balanced, in-depth reporting (confidence: high)  
+- Mainstream digital news platforms with moderate depth and accessible language (Reuters, Associated Press, BBC) (confidence: high)  
+- Social media platforms with curated news feeds and peer interaction (Facebook, Twitter) but with selective engagement due to introversion (confidence: moderate)  
+- Educational websites and videos for conceptual understanding (Khan Academy, TED Talks, Vox explainer videos) (confidence: moderate)
+
+She is unlikely to regularly use:  
+- Highly partisan or ideologically extreme news outlets (e.g., Fox News, Breitbart, MSNBC) due to her moderate, independent political stance and preference for balanced information (confidence: high)  
+- Paywalled academic journals or specialized professional databases, given financial constraints and moderate Need for Cognition (confidence: high)  
+- Sensationalist or clickbait-heavy platforms (e.g., BuzzFeed, tabloids) due to her conscientiousness, preference for accuracy, and moderate minimalism (confidence: moderate)
+
+No direct media-use questions were asked, so these inferences rely on triangulating personality, cognitive style, values, and socioeconomic context.

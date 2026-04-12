@@ -1,0 +1,17 @@
+Need for Closure: Moderate agreement with items indicating preference for order, dislike of uncertainty, and desire for clear answers (e.g., "I don’t like situations that are uncertain" - 4, "I find that establishing a consistent routine enables me to enjoy life more" - 5). However, some ambivalence on impatience and quick decision-making (e.g., "I would quickly become impatient and irritated if I would not find a solution immediately" - 2).
+
+Need for Cognition: Moderate to somewhat high (items mostly 4s, some 3s), indicating enjoyment of thinking and problem-solving but not extreme. For example, "I like to have the responsibility of handling a situation that requires a lot of thinking" - 4, "I find satisfaction in deliberating hard and for long hours" - 3.
+
+Maximizer: Mixed signals. He strongly agrees with high standards for self ("No matter what I do, I have the highest standards for myself" - 5; "I never settle for second best" - 4), but disagrees with behaviors indicating maximizing in consumer choices (e.g., "When I am in the car listening to the radio, I often check other stations" - 1; "I often find it difficult to shop for a gift" - 2). Suggests a personal maximizer orientation but practical and not perfectionistic in consumption.
+
+Self-monitoring: Generally high. He agrees that he can alter behavior to suit situations ("I have the ability to control the way I come across" - 5; "I have found that I can adjust my behavior" - 5), but with some exceptions. He is sensitive to others' emotions and social cues (mostly 4-5 ratings on empathy and social perception items).
+
+Self-concept Clarity: Very high. Strong disagreement with items indicating self-concept confusion or conflict (all 1s on items like "My beliefs about myself often conflict" and strong agreement with "I have a clear sense of who I am" - 5).
+
+Economic Games: In the dictator game, he initially chose to keep all $5 for himself (6 - $5 for myself, $0 to other), indicating a selfish initial stance. However, as a receiver, he accepts all offers except the most unfair ($4 for other, $1 for me rejected). In the trust game, he is willing to send all $5 to the other person (maximal trust) and expects a fair return (keeps $7, sends back $8 out of $15), indicating a cooperative and fair-minded reciprocity stance. This suggests strategic social behavior: self-interested when proposer but fair and trusting in reciprocal roles.
+
+Cross-scale inference: The combination of moderate need for closure, moderate need for cognition, high self-monitoring, and high self-concept clarity suggests a person who is thoughtful, values order and clarity, but is flexible socially and aware of social dynamics. The economic game behavior aligns with this: self-interested but fair and cooperative when trust is involved.
+
+No contradictions are evident; scales align well with a conscientious, moderately socially reserved, and pragmatic individual.
+
+w_social estimate: 0.6 -- This estimate reflects moderate social willingness and engagement. The respondent is socially reserved (Big Five: high reserved, low talkative/outgoing), but highly helpful, kind, and cooperative (agree strongly on helpfulness and kindness). High self-monitoring and empathy scores indicate social awareness and responsiveness. Economic games show strategic social behavior: self-interested in unilateral decisions but fair and trusting in reciprocal interactions. The moderate need for closure and cognition support thoughtful social engagement rather than impulsive or highly avoidant behavior.

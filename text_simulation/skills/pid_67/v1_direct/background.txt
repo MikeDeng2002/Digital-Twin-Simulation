@@ -1,0 +1,120 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Agnostic (Question: What is your present religion, if any? Answer: Agnostic)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Total family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Personality traits (Big Five, selected items):
+  - Highly talkative (Item 1: Agree strongly)
+  - Tends to find fault with others (Item 2: Agree strongly)
+  - Does a thorough job (Item 3: Agree strongly)
+  - Often depressed or blue (Item 4: Agree strongly)
+  - Somewhat original and inventive (Items 5, 15, 25: Agree a little)
+  - Somewhat reserved and quiet (Items 6, 21: Agree a little)
+  - Not careless or disorganized (Items 8, 18: Disagree strongly)
+  - Somewhat relaxed and emotionally stable (Items 9, 24: Agree a little)
+  - Highly curious and imaginative (Items 10, 20, 40: Agree strongly)
+  - Reliable and persevering (Items 13, 28: Agree strongly)
+  - Moody and easily irritated (Items 29, 39: Agree a little to strongly)
+  - Values artistic and aesthetic experiences (Items 30, 44: Agree strongly)
+  - Somewhat cold and aloof (Item 27: Agree a little)
+  - Somewhat shy and inhibited (Item 31: Agree strongly)
+  - Neither strongly helpful nor kind (Item 7, 32: Neither agree nor disagree)
+  - Somewhat rude to others (Item 37: Agree a little)
+  - Makes plans and follows through (Item 38: Agree a little)
+  - Likes to cooperate with others (Item 42: Agree a little)
+  - Not easily distracted (Item 43: Disagree a little)
+- Need for Cognition scale:
+  - Strong preference for complex problems and thinking (Items 1, 2, 6, 10, 11, 13, 14, 15, 18: Agree strongly)
+  - Dislikes tasks requiring little thought (Items 3, 4, 5, 7, 9, 12, 16, 17: Disagree strongly or a little)
+- Values (rated as highly important or quite important):
+  - Altruism, Compassion, Equality, Harmony (9 on each)
+  - Pleasure, Humility, Excitement, Honesty (8)
+  - Competence, Loyalty, Civility, Achievement (6-7)
+  - Wealth, Forgiveness, Trust, Ambition, Autonomy (5)
+  - Low importance on Politeness, Power, Status, Tradition, Superiority (1-3)
+- Environmental attitudes:
+  - Strongly agrees that products should not harm environment and is environmentally responsible (Items 1, 2, 4, 5: Agree strongly)
+  - Considers environmental impact in decisions (Item 2: Agree strongly)
+  - Somewhat affected purchase habits by environment (Item 3: Agree a little)
+  - Not willing to be inconvenienced for environment (Item 6: Disagree strongly)
+- Empathy and social sensitivity:
+  - Strongly affected by friends’ emotions, easily caught up in others’ feelings (Items 2, 3, 5, 9, 10, 11, 14, 16, 17: Agree strongly)
+  - Disagrees strongly that friends’ emotions don’t affect him (Items 1, 6, 7, 8, 13, 18, 19, 20: Disagree strongly)
+  - Somewhat frightened by scary movies and friends’ fear (Items 4, 15: Agree a little)
+  - Can often understand others’ feelings before they tell (Item 12: Agree a little)
+- Self-reported personality attributes (true/false):
+  - Does not find it hard to continue work without encouragement (False)
+  - Sometimes feels resentful when not getting own way (True)
+  - Has taken advantage of someone (True)
+  - Willing to admit mistakes (True)
+  - Sometimes tries to get even rather than forgive (True)
+  - Not always courteous (False)
+  - Has been jealous of others’ good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Has deliberately hurt someone’s feelings (False)
+- Self-concept clarity:
+  - Strongly agrees to having a clear and consistent sense of self (Items 6, 11: Agree strongly)
+  - Strongly disagrees with statements indicating conflicting or unstable self-beliefs (Items 1-5, 7-10: Disagree strongly)
+- Need for Closure:
+  - Somewhat dislikes uncertainty and unpredictability (Items 1, 4, 5, 6, 15: Agree a little to strongly)
+  - Dislikes ambiguous or multi-meaning statements (Items 2, 10, 11: Disagree a little)
+  - Neither strongly prefers nor dislikes ordered life or routines (Items 3, 12, 13: Neither agree nor disagree)
+  - Somewhat agrees with consulting few opinions before forming views (Item 14: Agree a little)
+- Maximizer tendencies:
+  - Does not often check for better options when satisfied (Disagree strongly)
+  - Strongly agrees to being on lookout for better opportunities (Agree strongly)
+  - Finds it difficult to shop for gifts (Agree strongly)
+  - Has high standards for self and never settles for second best (Agree a little)
+- Self-monitoring:
+  - Somewhat true that can alter behavior to suit situations (Mostly 4 - Somewhat true but with exceptions)
+  - Generally false that has trouble changing behavior to suit situations
+  - Generally true that can read others’ emotions and facial expressions
+- Financial literacy:
+  - Correctly understands mortgage payments and interest (True)
+  - Understands inflation effect on savings (Less than today)
+  - Recognizes stocks as highest fluctuation and highest return over long term
+  - Understands risk diversification reduces risk
+  - Knows required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payments and interest may never be eliminated
+  - Correct answers to probability and logic questions (e.g., die rolls, lottery odds, syllogisms)
+- Cognitive test self-assessment:
+  - Believes answered 40 out of 42 questions correctly
+  - Estimates average US adult would answer 30 correctly
+- Decision making in economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 out of $5 in Ultimatum game
+  - Accepts all offers except $0 in Ultimatum game as receiver
+  - In Trust game, keeps $3 and sends $2; as receiver, keeps about half and returns about half, acknowledging fairness and risk
+- Self-reported thoughts during economic games:
+  - Fairness, equality, not being greedy, acknowledging risk, appreciation
+- Spending habits:
+  - Slightly below average on spending scale (4 out of 11)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Neither Mr. A nor Mr. B in shopping spree scenario (balanced)
+- Mood and mental health indicators:
+  - Feels sad and discouraged sometimes
+  - Feels like a failure more than average person
+  - Does not lose interest in others or sex
+  - Feels guilty and disappointed in self some of the time
+  - Blames self all the time for faults
+  - Does not cry more than usual
+  - Gets irritated more easily than before
+  - Makes decisions as well as before
+  - Sleeps less well than usual
+  - Gets tired more easily
+  - Appetite and weight stable
+  - Not worried about health
+  - Purposely trying to lose weight by eating less
+- Aspirations and self-description:
+  - Aspires to be happier, financially secure and independent, and helpful to others
+  - Believes ought to be more considerate, helpful, and forgiving of self
+  - Actually is often too critical, unforgiving, and quick to anger

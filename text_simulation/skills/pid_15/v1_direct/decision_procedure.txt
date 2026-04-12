@@ -1,0 +1,13 @@
+- Need for Closure:
+  - Generally agrees with statements indicating preference for order, dislike of uncertainty, discomfort with ambiguity (Items: 1: Agree a little, 3: Agree a little, 4: Agree a little, 5: Agree a little, 6: Agree a little, 7: Agree a little)
+  - Disagrees with impatience and intolerance of unpredictability (Items: 9: Disagree a little, 10: Disagree a little, 11: Disagree a little)
+- Need for Cognition:
+  - Mixed responses, tending toward neither strong preference for complex thinking nor strong avoidance (Items: mostly 2-4, with many "neither agree nor disagree")
+- Maximizer:
+  - Some tendency toward maximizing behavior (e.g., looking for better job opportunities, highest standards for self, never settling for second best) but not extreme (Items: Agree a little on several)
+- Self-monitoring:
+  - Generally high self-monitoring, able to adjust behavior to social situations (Items: mostly 5 - Generally true)
+- Self-concept clarity:
+  - Generally clear and stable self-concept (Item 11: Agree strongly)
+  - Some minor fluctuations in self-view (Item 2: Agree a little)
+- w_social estimate: 0.7 -- This estimate is based on moderate to high self-monitoring scores (items 1-7 in self-monitoring section mostly 5), moderate need for closure (prefers order and certainty), and moderate maximizer tendencies, indicating a person who is socially aware and adjusts behavior accordingly but not extremely high in social sensitivity or need for closure.

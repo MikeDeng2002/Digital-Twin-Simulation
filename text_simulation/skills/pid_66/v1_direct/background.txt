@@ -1,0 +1,210 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age group 30-49 (Question: How old are you? Answer: 2 - 30-49)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: 5 - College graduate/some postgrad)
+- Race/origin: Asian (Question: What is your race or origin? Answer: 3 - Asian)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 2 - Once a week)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: 3 - Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: 3 - Moderate)
+- Family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 3 - $50,000-$75,000)
+- Household size: More than 4 people (Question: Including yourself, how many people currently live in your household? Answer: 5 - More than 4)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (Q1: 4 - Agree a little)
+  - Disagree a little with finding fault with others (Q2: 2)
+  - Does a thorough job (Q3: 4)
+  - Disagree strongly with being depressed (Q4: 1)
+  - Original, comes up with new ideas (Q5: 4)
+  - Somewhat reserved (Q6: 4)
+  - Helpful and unselfish (Q7: 4)
+  - Disagree strongly with carelessness (Q8: 1)
+  - Relaxed, handles stress well (Q9: 5)
+  - Curious about many things (Q10: 4)
+  - Full of energy (Q11: 4)
+  - Starts quarrels with others: Disagree a little (Q12: 2)
+  - Reliable worker (Q13: 5)
+  - Disagree a little with being tense (Q14: 2)
+  - Ingenious, deep thinker (Q15: 4)
+  - Generates enthusiasm (Q16: 4)
+  - Forgiving nature (Q17: 4)
+  - Disagree strongly with being disorganized (Q18: 1)
+  - Disagree strongly with worrying a lot (Q19: 1)
+  - Active imagination (Q20: 4)
+  - Somewhat quiet (Q21: 4)
+  - Generally trusting (Q22: 4)
+  - Disagree strongly with laziness (Q23: 1)
+  - Emotionally stable (Q24: 5)
+  - Inventive (Q25: 4)
+  - Assertive personality (Q26: 4)
+  - Neither agree nor disagree with being cold and aloof (Q27: 3)
+  - Perseveres until task is finished (Q28: 5)
+  - Disagree strongly with being moody (Q29: 1)
+  - Values artistic, aesthetic experiences (Q30: 4)
+  - Neither agree nor disagree with being shy (Q31: 3)
+  - Considerate and kind (Q32: 4)
+  - Does things efficiently (Q33: 5)
+  - Remains calm in tense situations (Q34: 5)
+  - Prefers routine work (Q35: 4)
+  - Outgoing, sociable (Q36: 4)
+  - Disagree a little with being rude (Q37: 2)
+  - Makes plans and follows through (Q38: 5)
+  - Disagree strongly with getting nervous easily (Q39: 1)
+  - Likes to reflect, play with ideas (Q40: 4)
+  - Disagree a little with having few artistic interests (Q41: 2)
+  - Sophisticated in art, music, literature (Q42: 4)
+- Need for Cognition (selected items):
+  - Neither agree nor disagree preferring complex to simple problems (Q1: 3)
+  - Likes responsibility requiring thinking (Q2: 4)
+  - Disagree a little that thinking is not fun (Q3: 2)
+  - Neither agree nor disagree preferring low thought tasks (Q4: 3)
+  - Strongly agrees trying to avoid deep thinking (Q5: 5)
+  - Finds satisfaction in deliberating hard (Q6: 4)
+  - Neither agree nor disagree only thinking as hard as necessary (Q7: 3)
+  - Prefers small daily projects (Q8: 4)
+  - Neither agree nor disagree liking tasks requiring little thought once learned (Q9: 3)
+  - Thinking to get to the top appeals (Q10: 4)
+  - Enjoys tasks involving new solutions (Q11: 5)
+  - Disagree a little that learning new ways to think doesn't excite (Q12: 2)
+  - Prefers life filled with puzzles (Q13: 4)
+  - Thinking abstractly appeals (Q14: 4)
+  - Neither agree nor disagree preferring intellectual difficult tasks (Q15: 3)
+  - Neither agree nor disagree feeling relief rather than satisfaction after mental effort (Q16: 3)
+  - Disagree a little that only cares that something gets the job done (Q17: 2)
+  - Neither agree nor disagree deliberating about issues not personally affecting (Q18: 3)
+- Values (rated importance):
+  - Wealth: 6
+  - Pleasure: 6
+  - Forgiveness: 7
+  - Influence: 8
+  - Trust: 7
+  - Competence: 8
+  - Humility: 8
+  - Achievement: 7
+  - Altruism: 9 (Highly important)
+  - Ambition: 6
+  - Loyalty: 9 (Highly important)
+  - Politeness: 5
+  - Power: 5
+  - Harmony: 8
+  - Excitement: 6
+  - Honesty: 9 (Highly important)
+  - Compassion: 9 (Highly important)
+  - Status: 5
+  - Civility: 5
+  - Autonomy: 6
+  - Equality: 6
+  - Recognition: 5
+  - Tradition: 5
+  - Superiority: 4
+- Minimalism and simplicity preferences:
+  - Strongly agrees with avoiding accumulating lots of stuff (Q1: 5)
+  - Neither agree nor disagree restricting number of things owned (Q2: 3)
+  - Strongly agrees "less is more" in owning things (Q3: 5)
+  - Agrees a little actively avoiding excess possessions (Q4: 4)
+  - Agrees a little drawn to visually sparse environments (Q5: 4)
+  - Strongly agrees preferring simplicity in design (Q6: 5)
+  - Strongly agrees keeping home aesthetic very sparse (Q7: 5)
+  - Neither agree nor disagree preferring empty spaces over filling (Q8: 3)
+  - Strongly agrees mindful of what is owned (Q9: 5)
+  - Agrees a little belongings carefully curated (Q10: 4)
+  - Strongly agrees importance of being thoughtful about what is owned (Q11: 5)
+  - Agrees a little belongings mindfully selected (Q12: 4)
+- Empathy and emotional sensitivity:
+  - Disagree a little that friends' emotions don't affect them much (Q1: 2)
+  - Agree a little usually feels sad after being with sad friend (Q2: 4)
+  - Agree a little understands friend's happiness (Q3: 4)
+  - Neither agree nor disagree frightened by scary movies (Q4: 3)
+  - Agree a little gets caught up in others' feelings (Q5: 4)
+  - Disagree a little finds it hard to know when friends are frightened (Q6: 2)
+  - Disagree a little does not become sad when seeing others cry (Q7: 2)
+  - Disagree a little others' feelings don't bother them (Q8: 2)
+  - Agree a little understands when someone is feeling down (Q9: 4)
+  - Agree a little can work out when friends are scared (Q10: 4)
+  - Neither agree nor disagree often becomes sad watching sad things on TV (Q11: 3)
+  - Neither agree nor disagree can often understand feelings before told (Q12: 3)
+  - Disagree a little seeing angered person has no effect (Q13: 2)
+  - Agree a little can work out when people are cheerful (Q14: 4)
+  - Disagree a little tends not to feel scared with scared friends (Q15: 2)
+  - Agree strongly can quickly realize when friend is angry (Q16: 5)
+  - Agree a little often gets swept up in friends' feelings (Q17: 4)
+  - Disagree a little friend's unhappiness doesn't affect them (Q18: 2)
+  - Disagree a little not usually aware of friends' feelings (Q19: 2)
+  - Disagree a little has trouble figuring out when friends are happy (Q20: 2)
+- Environmental concern:
+  - Agrees a little that products should not harm environment (Q1: 4)
+  - Agrees a little considers environmental impact in decisions (Q2: 4)
+  - Agrees a little purchase habits affected by environmental concern (Q3: 4)
+  - Agrees a little concerned about wasting planet resources (Q4: 4)
+  - Agrees a little describes self as environmentally responsible (Q5: 4)
+  - Neither agree nor disagree willing to be inconvenienced for environment (Q6: 3)
+- Cognitive test self-estimate:
+  - Believes answered 21 out of 42 cognitive test questions correctly (Question: How many of these questions do you think you answered correctly? Answer: 21)
+  - Estimates average US adult would answer 21 out of 42 correctly (Question: How many of these questions do you think people from a representative sample of the US adult population would answer correctly? Answer: 21)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage requires higher monthly payments but less total interest than 30-year mortgage (Answer: True)
+  - Understands inflation reduces purchasing power if interest rate is lower (Answer: Less than today)
+  - Recognizes stocks have highest fluctuations over time (Answer: Stocks)
+  - Knows stock mutual funds can lose money (Answer: True)
+  - Knows diversification decreases risk (Answer: Decreases)
+  - Knows stocks normally give highest return over long periods (Answer: Stocks)
+  - Knows required minimum distributions after age 70.5 (Answer: True)
+  - Knows credit card debt with minimum payments and 12% APR will never be eliminated (Answer: never)
+  - Correctly estimates probabilities and percentages in various questions (e.g., 500 even rolls out of 1000, 10 winners out of 1000 at 1% chance)
+  - Some errors in disease probability and percentage conversions (e.g., 20% disease chance = 20%, but expected number with 10% disease chance out of 1000 given as 20, which is inconsistent)
+- Logical reasoning:
+  - Correctly answers syllogistic logic questions mostly correctly, except for one about China and communism (correctly answers "No" to conclusion)
+- Economic games:
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum Game proposer)
+  - Accepts all offers except $0 to self (Ultimatum Game responder)
+  - In Trust Game, keeps $3 and sends $2; as receiver, keeps $7 of $15 and sends back $8; other amounts vary accordingly
+  - Thoughts during economic games include fairness, family, financial need, generosity, and value considerations
+- Personality self-reports on traits related to aggression, resentment, jealousy, forgiveness, and listening:
+  - Denies difficulty continuing work without encouragement
+  - Admits feeling resentful when not getting way
+  - Denies giving up due to low ability
+  - Admits occasional rebellion against authority
+  - Denies always being a good listener
+  - Admits taking advantage of someone
+  - Denies always willing to admit mistakes
+  - Admits sometimes trying to get even rather than forgive
+  - Denies always courteous to disagreeable people
+  - Admits being irked by differing ideas
+  - Admits jealousy of others' good fortune
+  - Admits irritation by favors asked
+  - Admits deliberately saying hurtful things
+- Self-concept clarity:
+  - Strongly agrees to having a clear and consistent self-concept (multiple items)
+  - Disagrees strongly with conflicting or changing self-beliefs
+- Need for Closure:
+  - Disagrees or disagrees a little with disliking uncertainty or unpredictability
+  - Agrees a little with liking ordered life and routines
+  - Agrees a little with wanting quick solutions and feeling relief after decisions
+- Maximizer tendencies:
+  - Disagrees strongly with searching for better options when satisfied
+  - Neither agrees nor disagrees with being on lookout for better opportunities
+  - Agrees a little with having high standards and never settling for second best
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and read others' emotions
+  - Generally false that has difficulty changing behavior or putting up a front
+- Spending habits:
+  - Rates self as 5 on a 1-11 scale (1 = tightwad, 11 = spendthrift)
+  - Rarely has trouble limiting spending
+  - Rarely has trouble spending money
+  - Identifies more with Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Depression and mood:
+  - Reports no or minimal symptoms of sadness, discouragement, failure, guilt, punishment, disappointment, self-criticism, crying, irritability, loss of interest, decision-making difficulty, worthlessness, work impairment, sleep problems, fatigue, appetite loss, health worries, or loss of interest in sex
+  - Reports some increase in tiredness and slight decrease in enjoyment of things and interest in others
+  - Currently trying to lose weight by eating less
+- Consumer uniqueness and product preferences:
+  - Disagrees or disagrees a little with statements about seeking uniqueness or breaking social rules in product use
+  - Disagrees strongly with violating social group rules about products
+  - Neither agrees nor disagrees with enjoying challenging prevailing tastes
+  - Disagrees a little with avoiding common products or brands
+- Summary of cognitive and reasoning skills:
+  - Correctly solves various puzzles and logical reasoning tasks
+  - Self-assesses average cognitive test performance (21/42 correct)
+  - Demonstrates good vocabulary knowledge (synonyms and antonyms)
+  - Understands logical implications and syllogisms well

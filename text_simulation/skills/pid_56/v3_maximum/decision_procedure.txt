@@ -1,0 +1,30 @@
+Need for Closure: Moderate to high. Agrees strongly with liking clear, structured, and routine life, dislikes uncertainty, wants quick resolution to problems, and feels relief after decisions. Likely to form opinions quickly and resist ambiguity.
+
+Need for Cognition: Very low. Avoids deep thinking, prefers simple, familiar problems, and minimal mental effort. This limits engagement with complex or novel information and reduces likelihood of revising beliefs based on new data.
+
+Maximizer: Low to moderate. Prefers satisficing over maximizing, accepts "good enough" answers, does not seek exhaustive comparison or best possible solution.
+
+Self-monitoring: Moderate to high. Can adjust behavior to social context, notices others' reactions, but does not necessarily defer to social pressure. Has some social awareness but maintains personal boundaries.
+
+Self-concept clarity: High. Stable self-view, little internal conflict, able to resist social pressure that conflicts with self-identity.
+
+Economic game gap: Proposes moderately selfish offers but accepts all offers except zero, indicating pragmatic fairness. Trust game shows cautious trust and moderate reciprocity. Thoughts reveal internal conflict about fairness and self-interest, suggesting ambivalence in social-economic reasoning.
+
+Intertemporal patience: High. Consistently prefers larger later rewards, indicating long-term thinking in decision-making.
+
+Cognitive errors:  
+- Logical reasoning: Some errors in syllogistic reasoning (e.g., cigarette health conclusion), indicating occasional failure to apply formal logic correctly.  
+- Abstract/spatial reasoning: Errors in cube rotation and pattern completion tasks, indicating difficulty with spatial visualization and abstract pattern recognition.  
+- Vocabulary: Some incorrect synonym/antonym choices suggest limited lexical precision and possible confusion with nuanced meanings.  
+- Probability and numeracy: Some errors or "do not know" answers on financial literacy and probability questions, indicating limited numeracy and probabilistic reasoning.
+
+Implications for numeric prediction tasks: Likely to rely on heuristic, rule-of-thumb, or socially reinforced beliefs rather than deep analytical models. May over-rely on familiar narratives or trusted authorities. May misinterpret or underweight probabilistic information and complex data.
+
+Social desirability: Moderate. Some admissions of negative traits and internal conflict suggest honest self-reporting, but some social desirability bias likely present, especially in socially sensitive areas.
+
+w_social estimate: 0.55  
+Reasoning: The estimate balances moderate social awareness and self-monitoring with a stable self-concept and moderate social desirability bias. The participant shows some sensitivity to social norms and others' opinions but maintains personal boundaries and does not fully conform. The internal conflict in economic games and moderate empathy support a middling social weighting in reasoning.
+
+Summary: This individual is a conscientious, emotionally stable, low-openness, low-need-for-cognition older female conservative with moderate empathy and social awareness. She prefers routine, clear-cut information, avoids deep analytical thinking, and relies on satisficing strategies. Cognitive limitations in abstract reasoning and numeracy suggest reliance on heuristics and trusted social sources. She is moderately socially influenced but retains a stable self-concept. For numeric predictions like Bitcoin price or AGI arrival, expect conservative, socially reinforced estimates with limited probabilistic nuance and a preference for simple, authoritative narratives over complex modeling.
+
+# End of profile.

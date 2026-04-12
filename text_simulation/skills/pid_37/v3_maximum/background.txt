@@ -1,0 +1,57 @@
+Demographics: Male, age 30-49, living in the U.S. Midwest, self-identified as "Other" race, divorced, U.S. citizen, no religious affiliation or attendance, politically independent but very liberal in views, unemployed with family income $30,000-$50,000, living alone. This suggests a middle-aged adult with moderate socioeconomic status, likely facing some life stressors (divorce, unemployment), and possibly socially isolated. The Midwest location implies exposure to a mix of urban and rural cultural influences but no strong regional political affiliation.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagree talkative (1), strongly disagree outgoing (1), strongly agree quiet (5), moderately disagree full of energy (2).  
+- High Conscientiousness: strongly agree does a thorough job (5), reliable worker (5), perseveres until finished (5), does things efficiently (5), makes plans and follows through (4).  
+- High Openness: strongly agree original/new ideas (5), curious (5), active imagination (5), sophisticated in art/music/literature (5), likes to reflect/play with ideas (5), inventive (4).  
+- Moderate Agreeableness: strongly agree helpful/unselfish (5), forgiving nature (5), considerate/kind (5), generally trusting (5), but also somewhat cold/aloof (4).  
+- Moderate Neuroticism: some worry (4), some moodiness (4), but also relaxed and handles stress well (5), emotionally stable neutral (3).
+
+Need for Cognition (18 items): Very high (mostly 5s, strongly agree) on all items indicating strong preference for complex problems, intellectual challenge, deep thinking, and abstract thought. Disagrees strongly with statements about avoiding thinking or preferring simple tasks. This person is a deep thinker who enjoys mental effort.
+
+Values (24 items):  
+- Highest: Loyalty (9), Harmony (9), Excitement (9), Autonomy (9), Trust (8), Competence (8), Politeness (8), Compassion (8), Equality (8), Civility (8).  
+- Low: Wealth (2), Ambition (2), Power (1), Status (2), Tradition (1), Superiority (1), Recognition (3), Achievement (4).  
+This profile reveals a person valuing social harmony, fairness, independence, and excitement/adventure, but not material success or dominance. They prize trustworthiness, kindness, and autonomy over wealth or status.
+
+Minimalism (12 items): Strong agreement with avoiding accumulation (5), restricting possessions (4), "less is more" (5), avoiding excess (5), sparse home aesthetic (5), mindful ownership (4). Neutral on some aesthetic preferences. This indicates a mindful, curated approach to possessions and environment, consistent with low consumerism.
+
+Empathy (20 items): High empathy, strongly disagree that friends’ emotions don’t affect them (1), strongly agree feeling sad when friends are sad (5), understanding others’ feelings (5), sensitive to others’ emotions (4-5), generally emotionally attuned. This person is socially sensitive despite living alone.
+
+Consumerism/Uniqueness: Neutral to slightly low on seeking uniqueness via products, some agreement with breaking social norms in product use, but no strong drive to be trendsetter or reject popular products. Moderate nonconformity in consumption.
+
+Cognitive Test Performance:  
+- Perfect or near-perfect on all cognitive tests (syllogisms, Wason selection, analogies, spatial cube rotations).  
+- Correctly answered all logical deduction questions except one (correctly rejected invalid conclusion about China not communist).  
+- Word associations show a strong semantic chain from abstract/concrete concepts to scientific terms (table → chart → map → compass → ruler → triangle → geometry → proof → alcohol → bar → weight → gym → muscle → protein → RNA → synthesis → chemistry → university → dorm → youth). This chain shows strong abstract and scientific reasoning.  
+- Vocabulary synonyms and antonyms mostly correct, except one error on "furtive" synonym (answered "ecstatic" instead of "stealthy"), indicating a rare semantic slip or momentary confusion.  
+- Self-estimated perfect score (42/42) vs. population average 22/42 shows high confidence and metacognitive awareness.
+
+Social Desirability: Moderate to low social desirability bias. Some admissions of negative feelings (depression, sadness, guilt), and self-critical statements, suggesting honest self-reporting.
+
+Depression and Mood: Multiple indicators of moderate to severe depressive symptoms:  
+- Reports feeling sad all the time, hopeless about future, feeling like a failure, dissatisfaction, guilt, disappointment, self-blame, increased crying, loss of interest in others and sex, fatigue, difficulty sleeping, low appetite, feeling worthless, difficulty initiating work.  
+- Despite this, no increased irritability or health worries.  
+- This mood state likely impacts cognitive and social functioning but does not impair reasoning ability.
+
+Self-Concept Clarity: Mixed. Some instability and conflict in self-beliefs (agrees that beliefs about self change, sometimes unsure who they really are), but not extreme confusion. Some self-monitoring and awareness of social image, but also introverted and independent.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes fair splits ($2-$3 to other person out of $5), accepts all offers as receiver, including very unfair ones ($0).  
+- In trust game, sends $3 (out of $5), expects moderate return ($7 out of $15), indicating moderate trust and fairness orientation but not naive generosity.  
+- Thoughts during decisions emphasize fairness and splitting roughly evenly.  
+- Suggests a cooperative but pragmatic social strategy.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones consistently until amounts are very close, indicating moderate to high patience and future orientation.
+
+Social Monitoring and Empathy:  
+- Moderate self-monitoring (some ability to adjust behavior), high empathy and emotional sensitivity, good at reading others’ emotions.
+
+Need for Closure: Low to moderate. Disagrees with impatience for quick solutions, dislikes rigid order but feels some discomfort with uncertainty. Does not rush to closure, prefers to deliberate.
+
+Maximizer Scale: Moderate. Has high standards for self, does not settle for second best, but does not strongly comparison shop or seek uniqueness in products.
+
+Consumerism: Neutral to low. Neither spendthrift nor tightwad, rarely has trouble spending or limiting spending.
+
+Summary: This is a middle-aged, introverted, highly intelligent, deeply reflective male with strong intellectual curiosity and cognitive ability, high empathy, and moderate social engagement. He values autonomy, harmony, and fairness, and is minimally materialistic. He is currently experiencing significant depressive symptoms, which may color his worldview and affect motivation but not reasoning capacity. He is patient, fair-minded, and moderately trusting in social-economic interactions. His self-concept is somewhat unstable but he maintains a coherent intellectual identity.

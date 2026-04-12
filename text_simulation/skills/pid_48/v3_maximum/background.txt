@@ -1,0 +1,51 @@
+Demographics: Male, age 65+, Black, living in the Northeast US, self-employed, college graduate/some postgrad education, household of 2, Protestant (seldom attends services), US citizen, politically Independent but self-identifies as conservative, high family income ($100k+), living with a partner. This profile suggests a well-educated, financially secure older adult with a stable household and moderate religious engagement. The Northeast location implies access to diverse information sources and cultural institutions. Self-employment at this age suggests autonomy and possibly entrepreneurial experience.
+
+Big Five Personality (44 items):  
+- High Conscientiousness: Scores 5 on "does a thorough job," "reliable worker," "perseveres," "makes plans and follows through," "does things efficiently," "organized," "efficient," "systematic," "practical," "accurate and error-free."  
+- High Openness: Scores 4-5 on "original," "curious," "ingenious," "active imagination," "inventive," "likes to reflect," "sophisticated in art/music/literature," "likes to do things in a new way," "creative problem solver."  
+- Moderate Extraversion: Mixed signals, agrees somewhat to "talkative," "outgoing," "generates enthusiasm," but also "reserved" and "quiet" a little.  
+- Low Neuroticism: Strongly disagrees with "depressed," "worries a lot," "nervous," "tense" only a little, "moody" a little.  
+- Agreeableness: High on "helpful," "forgiving," "considerate," "kind," "cooperates," but also surprisingly high on "can be cold and aloof" (5), and "sometimes rude" (4), indicating a complex social style—generally kind but willing to be assertive or blunt.
+
+Values (24 items):  
+- Highest values (8-9): Trust (9), Humility (9), Loyalty (9), Politeness (9), Civility (9), Autonomy (9), Equality (9), Forgiveness (8), Wealth (8), Competence (8), Achievement (8), Altruism (8), Honesty (8), Compassion (8).  
+- Low values: Ambition (2), Tradition (2), Power (3), Influence (3), Superiority (2).  
+This reveals a worldview valuing integrity, fairness, social harmony, and independence, with moderate material success orientation but low emphasis on dominance or competition for its own sake.
+
+Minimalism (12 items): Strong agreement with avoiding excess possessions, mindful curation, preference for sparse environments, and simplicity in ownership. Slight disagreement on preferring simplicity in design (2), but overall a mindful, curated approach to possessions.
+
+Empathy (20 items): High empathy overall, strong agreement on understanding and feeling others’ emotions, except some ambivalence on being easily caught up in others’ feelings (neutral). Does not get frightened easily, indicating emotional regulation.
+
+Consumerism/Uniqueness: Neutral to low on seeking uniqueness through products, some mild agreement with breaking social rules about consumption, but generally not strongly driven by trend-breaking or uniqueness seeking.
+
+Cognitive Test Performance:  
+- Correct answers on 38/42 cognitive questions, self-estimated average US adult score 20, indicating high cognitive ability and confidence.  
+- Logical reasoning: Mostly correct on syllogisms and conditional logic, except one error on a common logical fallacy (China communist question).  
+- Some errors in synonym/antonym tests (e.g., "indolent" synonym answered as "inexhaustible" which is incorrect), indicating occasional semantic slips or overconfidence.  
+- Spatial reasoning: Mixed answers on cube rotation puzzles, some inconsistency suggesting moderate spatial reasoning but not perfect.  
+- Word association chain: The chain is coherent, focused on dining and serving, showing organized, thematic associative thinking.
+
+Social Desirability: Moderate to high social desirability indicated by strong agreement with courteousness, willingness to admit mistakes (though some denial here), and self-presentation concerns (high self-monitoring but also high self-concept clarity). The participant strongly agrees with "I don’t think I would tell someone what I’m really like," indicating guardedness in self-disclosure.
+
+Depression and Mood: No signs of depression or anxiety, no sadness, guilt, or irritability reported. Some intentional weight loss noted.
+
+Intertemporal Choice: Prefers delayed rewards consistently over immediate smaller rewards, indicating patience and long-term orientation.
+
+Economic Games:  
+- Dictator game: Proposes to keep $3 and give $2 (60/40 split), indicating moderate fairness but self-favoring.  
+- Ultimatum game: Rejects very generous offers (rejects $5 to self, $0 to other; rejects $4 to self, $1 to other), accepts offers at or above 40% share, indicating fairness concerns and willingness to punish unfairness.  
+- In the trust game, sends $1 (out of $5) but expects to keep $4, and when receiving money, tends to keep about half, showing cautious trust and reciprocity but self-protective.
+
+Need for Cognition (18 items): Very high scores on enjoying thinking, complex problems, intellectual challenge, and deep deliberation. However, also agrees "I only think as hard as I have to" (5), suggesting strategic cognitive effort rather than exhaustive.
+
+Need for Closure (15 items): Moderate need for closure, some discomfort with uncertainty but not extreme. Likes clear decisions and structured life but tolerates some ambiguity.
+
+Maximizer Scale (6 items): Moderate maximizer tendencies, seeks high standards and does not settle for second best, but also accepts "it's enough that something gets the job done" (4), indicating some satisficing.
+
+Self-Monitoring (13 items): Generally high ability to adjust behavior to social context, read others’ emotions, and regulate self-presentation.
+
+Self-Concept Clarity (12 items): Mixed signals; generally clear self-view but some day-to-day variability and occasional self-questioning. Strong agreement with having a clear sense of self and importance of personal identity.
+
+Social Desirability Scale: High, but with some admitted faults (e.g., admitting to taking advantage of someone once), indicating moderate reliability of self-report.
+
+Consumerism: Low spendthrift tendencies, rarely has trouble limiting spending or spending money, moderate tendency to avoid popular products but not strongly unique-seeking.

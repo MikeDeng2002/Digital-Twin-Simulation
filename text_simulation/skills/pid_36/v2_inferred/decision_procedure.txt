@@ -1,0 +1,19 @@
+- Need for Closure: Low (items 1-15), indicating tolerance for ambiguity, open-mindedness, and patience in decision-making.
+
+- Need for Cognition: Very high (items 1-18), indicating enjoyment of effortful thinking, problem-solving, and intellectual challenges.
+
+- Maximizer: Low to moderate (items 1-6), indicating satisfaction with good enough rather than always seeking the best.
+
+- Self-monitoring: Moderate to high (items 1-13), indicating social adaptability and sensitivity to others’ emotions.
+
+- Self-concept clarity: Very high (items 1-12), indicating a stable and consistent self-view.
+
+- Economic games: Proposes fair splits ($2/$3), accepts all offers, and returns fair amounts in trust games, indicating prosocial, fair, and cooperative decision-making.
+
+- Cognitive tests: High accuracy and logical reasoning, indicating strong cognitive ability.
+
+- Cross-scale inference: Low Need for Closure and high Need for Cognition align with high cognitive ability and fair, thoughtful decision-making. High agreeableness and prosocial economic game behavior align with high social sensitivity (self-monitoring) and strong values of trust and altruism.
+
+- No contradictions are evident; scales consistently indicate a thoughtful, fair, socially sensitive, and cognitively capable individual.
+
+w_social estimate: 0.85 -- The respondent’s high agreeableness, strong prosocial values (trust, altruism, loyalty), fair and cooperative behavior in economic games, and moderate to high self-monitoring suggest a strong social orientation. Her low Need for Closure and high Need for Cognition support thoughtful, deliberate social decision-making rather than impulsive or self-centered behavior. The estimate is slightly less than maximal due to moderate maximizer tendencies and some nonconformity in consumer behavior, but overall the scales strongly agree on a socially engaged and cooperative profile.

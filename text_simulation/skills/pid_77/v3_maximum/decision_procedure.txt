@@ -1,0 +1,22 @@
+Need for Closure: Moderate to somewhat high. Wants resolution fairly quickly, dislikes uncertainty, but not extreme urgency. Will seek closure but may tolerate some ambiguity. Evidence: Agreeing with statements about discomfort with uncertainty and desire for quick solutions.
+
+Need for Cognition: Very low. Avoids deep thinking, prefers simple, routine tasks, and minimal mental effort. Evidence: Strong disagreement with intellectual challenge items, poor cognitive test performance.
+
+Maximizer: Low. Does not seek best possible answer, more likely to satisfice. Evidence: Disagrees with never settling for second best, but some moderate comparison shopping behavior.
+
+Self-monitoring: High. Notices social cues and adjusts behavior accordingly, though does not necessarily defer to others. Evidence: High scores on self-monitoring items, ability to read emotions.
+
+Self-concept Clarity: Low to moderate. Some internal conflict and instability in self-view, some uncertainty about identity. Evidence: Agreement with conflicting self-beliefs and uncertainty items.
+
+Economic Game Gap: Behavior shows moderate selfishness but some fairness and reciprocity. Dictator game offer (40% to other) is more generous than pure selfishness but less than fully fair split. Ultimatum acceptance threshold is moderate. Trust game behavior shows cautious trust and reciprocity. No large gap between stated and strategic behavior; behavior is consistent with moderate fairness concerns but self-interest dominates.
+
+Intertemporal Patience: Low. Prefers immediate smaller rewards over larger delayed ones, indicating impatience and short-term focus.
+
+Cognitive Errors: Multiple logical fallacies and poor vocabulary knowledge indicate weak reasoning skills, poor abstract thinking, and difficulty with probabilistic and logical inference. This implies numeric predictions will be noisy, biased, and likely inaccurate, especially for complex or abstract questions like Bitcoin price or AGI arrival.
+
+Social Desirability: Moderate. Self-reports include negative traits and depressive symptoms, suggesting reasonable honesty, though some social desirability bias cannot be ruled out.
+
+w_social estimate: 0.35  
+Reasoning: The estimate is driven by the combination of low cognitive ability and low need for cognition, which limit deep analytical processing, and moderate need for closure, which pushes for quick but possibly superficial conclusions. High self-monitoring suggests some sensitivity to social context, but low empathy and low self-concept clarity imply limited integration of social information into self-view. Economic game behavior shows moderate fairness but self-interest dominates, indicating pragmatic rather than idealistic reasoning. Depression and low education further reduce cognitive resources and motivation for complex reasoning. The person likely relies on shallow, mainstream, and non-partisan information sources, with limited research depth. Conflicting signals include moderate self-monitoring (which could improve social calibration) versus very low cognitive ability and need for cognition (which limit analytical rigor). The low social desirability bias supports trusting self-reports of low cognitive engagement and depressive mood. Overall, this profile predicts numeric predictions will be conservative, anchored on simple heuristics or social consensus, with low confidence and poor calibration.
+
+# End of profile.

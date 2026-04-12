@@ -1,0 +1,17 @@
+Need for Closure: High (items 1,8,10,13,15,16,18,19,20 rated 4-5) — prefers order, predictability, quick decisions.
+
+Need for Cognition: Moderately high (items 1,2,6,11 rated 4-5) — enjoys thinking and intellectual challenges.
+
+Maximizer: Moderate to high (items 3,4,5,6,7,8,9,10 mostly 4-5) — holds high standards, tries not to settle.
+
+Self-monitoring: Moderate (items 1,2,5,8,9,10,11,12 mostly 4-5) — some social adaptability and emotional sensitivity.
+
+Self-concept clarity: Moderate (item 11 rated 4, others indicate low internal conflict).
+
+Economic games: Fair and cooperative, but also self-protective (keeps majority in dictator and trust games, but returns substantial amounts as trustee).
+
+Cross-scale inference: The high Need for Closure aligns with her preference for order and dislike of unpredictability (Big Five conscientiousness high, neuroticism low). The moderate to high Need for Cognition and Maximizer scores align with her conscientiousness and openness to experience, indicating a thoughtful, goal-oriented decision style. Self-monitoring and empathy scores support moderate social awareness but not extreme emotional reactivity.
+
+No contradictions are evident; scales consistently indicate a person who values structure, fairness, and intellectual engagement, with moderate social sensitivity.
+
+w_social estimate: 0.65 -- This estimate is driven by moderate to high self-monitoring (items 2,5,8,9,10), moderate empathy (items 3,5,9,10,14,16), and cooperative economic game behavior (proposing fair splits, accepting fair offers, returning money in trust games). The moderate extraversion and agreeableness support social engagement but not high sociability. The Need for Closure and conscientiousness suggest preference for stable social environments. Together, these scales indicate a moderately socially engaged individual who values fairness and cooperation but maintains some self-protection.

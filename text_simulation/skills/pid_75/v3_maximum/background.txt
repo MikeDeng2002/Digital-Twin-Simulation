@@ -1,0 +1,59 @@
+Demographics: Female, age 50-64, White, U.S. citizen living in the Northeast, married, part-time employed, Roman Catholic but seldom attends services, moderate Democrat with moderate political views, household size 3, family income $50,000-$75,000, high school graduate. This suggests a middle-aged, moderately educated, middle-income individual with stable family life and moderate political engagement. The Northeast location implies exposure to diverse media and cultural influences, but education level may limit access to highly technical or academic sources.
+
+Big Five Personality (44 items):  
+- Extraversion: Moderate (talkative a little, somewhat reserved, sociable neutral)  
+- Agreeableness: Moderately high (helpful, considerate, trusting, kind, cooperative)  
+- Conscientiousness: High (reliable, thorough, organized, efficient, persevering, plans and follows through strongly agreed)  
+- Neuroticism: Low to moderate (disagrees with being depressed, tense, moody; neither worries nor nervous strongly)  
+- Openness: High (strongly agrees with originality, curiosity, imagination, artistic/aesthetic interests, sophistication in art/music/literature, ingenuity, deep thinking)  
+
+Need for Cognition (18 items): High (strong agreement with enjoying complex problems, thinking hard, intellectual challenges, abstract thinking, satisfaction from deliberation, dislike of thinking little). This person enjoys deep analytical thought and intellectual engagement.
+
+Need for Closure (15 items): High (strong agreement with disliking uncertainty, preferring order, quick resolution, discomfort with ambiguity, dislike of unpredictable situations). This indicates a preference for clear, structured, and certain information.
+
+Maximizer Scale (6 items): Moderate (some difficulty finding perfect gifts/clothing, high standards for self, never settling for second best but not extreme). This person seeks good quality and is somewhat selective but not obsessively so.
+
+Self-monitoring (13 items): Moderate to high (generally able to adjust behavior, control impression, read others’ emotions well, but some difficulty changing behavior in all situations). This person is socially aware and sensitive to others’ reactions but maintains some consistency.
+
+Self-concept clarity (12 items): Moderate to high (clear and stable self-view, little internal conflict, not frequently changing self-beliefs). This person has a stable identity and resists social pressure.
+
+Values (24 items):  
+Highest values (8-9 scale): Pleasure (9), Achievement (9), Harmony (9), Honesty (9), Compassion (9), Autonomy (9), Trust (8), Competence (8), Ambition (8), Loyalty (8), Politeness (8).  
+Moderate values: Wealth (7), Altruism (7), Civility (7), Superiority (7), Humility (6), Equality (6), Power (6), Tradition (5), Influence (5), Excitement (5), Recognition (4), Status (4), Forgiveness (4).  
+This profile reveals a person who values personal success and competence, social harmony, honesty, compassion, and autonomy. They balance ambition with kindness and social responsibility.
+
+Minimalism (12 items): High (strong agreement with avoiding excess possessions, preferring simplicity, mindful curation of belongings, sparse aesthetic). This person is deliberate and selective in material possessions, likely extending to information consumption.
+
+Consumerism/Uniqueness (12 items): Moderate-low uniqueness seeking (mostly neutral or slight agreement with seeking uniqueness, but disagrees with breaking social rules or rejecting popular products). This person moderately values originality but within social norms.
+
+Empathy (20 items): Moderate (some agreement with being affected by others’ emotions, understanding friends’ feelings, but not strongly overwhelmed). This suggests moderate social sensitivity and reliance on social cues.
+
+Social desirability scale: Not explicitly scored but responses show honesty in admitting occasional resentment, irritation, and some vengefulness, but no extreme socially desirable bias. Self-reports appear reasonably reliable.
+
+Cognitive test performance:  
+- Correct answers on logic and syllogisms: 28/42 (below average, estimated average 30).  
+- Errors include: confusion on logical negations, some incorrect synonym/antonym choices (e.g., "concur" answered as "concoct," "confiscate" as "congregate," "solicit" as "purge," "furtive" as "facile," "astute" as "ascetic," "covet" as "claim," "oscillate" as "furbish," "indolent" as "inexhaustible," "disparity" as "mediocrity," "indigent" as "diligent").  
+- Logical syllogisms: some incorrect conclusions, especially with negations and contrapositives.  
+- Spatial reasoning (cube rotation, pattern completion): mostly correct, indicating decent visual-spatial skills.  
+- Word association chain: coherent, thematic (snow → cold → wet → skiing → holiday → fire → cozy → snowman → fun → ice → ice skates → carrot → winter → clothes → boots → scarf → sled → hill → carrols → laugh), showing associative and thematic chaining ability.  
+- Cognitive style: enjoys complex problems but makes some semantic errors, suggesting possible surface-level lexical confusion or inattentiveness in vocabulary tasks.
+
+Economic games (dictator and ultimatum):  
+- Proposes to keep $3 and give $2 (40% to other), accepts all offers except $0, showing moderate fairness but self-interest.  
+- In trust game, keeps $3 and sends $2, expects receiver to keep about two-thirds and return one-third, indicating moderate trust and reciprocity expectations.  
+- Loss framing: prefers person A (split smaller losses) happier than person B (single larger loss), indicating sensitivity to loss framing and mental accounting.
+
+Intertemporal choice:  
+- Prefers larger delayed rewards over smaller sooner ones consistently, indicating high patience and long-term orientation.
+
+Behavioral traits:  
+- Organized, efficient, practical, systematic, creative problem solver, high standards for accuracy.  
+- Emotionally stable, low anxiety, low depression, moderate irritability.  
+- Self-reports as smart, modest, helpful, not overly trusting.  
+- Values family loyalty and duty, moderate social conformity.
+
+Spending habits:  
+- Slightly tightwad (score 4/11), rarely has trouble limiting or spending money, balanced spending behavior.  
+- Neutral between impulsive spender and frugal saver.
+
+Summary: This is a moderately educated, middle-aged woman with a stable family and moderate income, who is conscientious, open, and moderately agreeable. She enjoys intellectual challenges and deep thinking but prefers closure and certainty. She is socially aware but maintains a stable self-concept. She values achievement, honesty, compassion, autonomy, and harmony. She is minimalist in possessions and moderately seeks uniqueness within social norms. Cognitive performance is average with some lexical errors but good spatial reasoning. She is moderately fair and reciprocal in economic games, patient in intertemporal choices, and sensitive to loss framing. Her spending is balanced, and she is emotionally stable with low distress.

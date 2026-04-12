@@ -1,0 +1,11 @@
+- Need for Closure: Mixed/neutral. Neither agrees nor disagrees with disliking uncertainty (Item 1: 3 - Neither agree nor disagree), slightly agrees that a well-ordered life suits temperament (Item 3: 4 - Agree a little), and likes consistent routine (Item 12: 5 - Agree strongly). Disagrees with impatience for quick solutions (Items 8 and 9: 2 - Disagree a little). Overall, moderate tolerance for uncertainty and preference for order.
+
+- Need for Cognition: High. Likes thinking and intellectual challenges (Items 2, 6, 10, 11, 14, 18: mostly 4 or 5 - Agree a little to strongly), does not avoid thinking hard (Items 3, 5, 7, 8, 9, 12, 16, 17: mostly 1 - Disagree strongly). Enjoys abstract thinking and problem solving.
+
+- Maximizer: High. Strongly agrees with having highest standards (Item 5: 5 - Agree strongly), never settling for second best (Item 6: 5 - Agree strongly), and being on lookout for better opportunities (Item 2: 5 - Agree strongly). Does not have difficulty shopping or finding desired items.
+
+- Self-monitoring: High. Generally true that can alter behavior to suit situations (Items 1-3, 5, 7-10, 11-13: mostly 5 or 6 - Generally true or certainly true), can read others’ emotions well, and can regulate actions accordingly.
+
+- Self-concept clarity: High. Strongly agrees to clear and stable self-beliefs (Items 6 and 11: 5 - Agree strongly), strongly disagrees with conflicting or changing self-beliefs (Items 1-5, 7-10: 1 - Disagree strongly).
+
+w_social estimate: 0.8 -- This person shows high self-monitoring (Items 1-13 in self-monitoring scale mostly 5-6), strong self-concept clarity (Items 1-11 in self-concept clarity mostly 1 or 5), and a moderate Need for Closure with preference for order and routine (Items 1-15 in Need for Closure mostly 2-5), indicating a well-regulated social reasoning style with good social awareness and adaptability.

@@ -1,0 +1,79 @@
+Demographics: Male, age 30-49, White, U.S. citizen living in the Northeast (PA, NY, NJ, RI, CT, MA, VT, NH, ME), married with a 2-person household, full-time employed, college graduate/some postgrad education, family income $100,000+, Roman Catholic but does not attend services, politically Republican and conservative. This profile suggests a middle-aged, financially stable, well-educated professional with traditional family values but low religious practice. The Northeast location implies exposure to diverse, information-rich environments and access to high-quality educational and media resources.
+
+Big Five Personality (44 items):  
+- High Conscientiousness: Strongly agrees with being thorough, reliable, persevering, efficient, and emotionally stable (scores mostly 5s and 4s on these items).  
+- Low Neuroticism: Disagrees strongly with being moody, tense, or careless; relaxed and emotionally stable.  
+- Moderate Openness: Agrees a little with originality, imagination, and ingenuity but low on artistic/aesthetic interests and sophistication.  
+- Moderate Extraversion: Neither talkative nor strongly outgoing but agrees a little with being reserved, quiet, and somewhat sociable.  
+- Very low Agreeableness negativity: Strongly disagrees with faultfinding, quarrelsomeness, rudeness, and aloofness; strongly agrees with being helpful, forgiving, kind, and considerate.
+
+Need for Cognition (18 items):  
+- Moderate to high: Likes complex problems, responsibility requiring thinking, enjoys problem-solving and new solutions, but also agrees with "I only think as hard as I have to," indicating some cognitive economy.  
+- Enjoys intellectual challenge but not extreme or obsessive.
+
+Values (24 items):  
+- Highest: Trust (9), Autonomy (9), Competence (8), Achievement (8), Honesty (8), Forgiveness (7), Altruism (7), Superiority (7).  
+- Low: Tradition (1), Recognition (1), Power (2), Humility (2), Equality (2).  
+- This suggests a worldview valuing personal integrity, independence, effectiveness, and moral uprightness, with moderate ambition and competitive drive but low emphasis on social status, tradition, or power dominance.
+
+Minimalism (12 items):  
+- Mixed: Strong preference for sparse, simple aesthetics (5s on visual sparsity and simplicity), but disagrees strongly with restricting possessions or avoiding excess acquisition.  
+- Somewhat mindful but not strongly minimalist in behavior; likely values simplicity in environment but not minimalism in ownership.
+
+Empathy (20 items):  
+- Moderate: Strong agreement with understanding and recognizing others’ emotions, some emotional contagion (feeling sad when friends are sad), but also some distancing (disagreeing with being easily caught up in others’ feelings).  
+- Good social intuition and emotional awareness but maintains some emotional boundaries.
+
+Consumerism/Uniqueness:  
+- Strongly agrees with actively seeking uniqueness through special products/brands.  
+- Strongly disagrees with violating social norms or rejecting popular products.  
+- Indicates a desire to express individuality within socially acceptable bounds, not a rebel or contrarian consumer.
+
+Cognitive Test Performance:  
+- Correct answers on most logical syllogisms and reasoning tasks, with only a few errors on complex logical deductions (e.g., incorrectly accepting some invalid conclusions).  
+- Correct on classic trick questions (Emily’s name, cubic feet in hole, race position).  
+- Moderate performance on spatial puzzles and cube rotation tasks, with some errors indicating difficulty with complex 3D mental rotation (e.g., rejecting all rotations in one cube task).  
+- Vocabulary: Mostly correct synonyms and antonyms, but a notable error on "ASTUTE" synonym (chose "lineal" instead of "sagacious"), indicating occasional semantic confusion.  
+- Overall cognitive test score self-estimate: 30/42 (above average), population estimate 20/42 (indicates confidence and awareness of above-average ability).
+
+Word Association Chain:  
+- Logical, concrete progression from "paper" to "rain" through daily life and travel concepts, no unusual or tangential leaps.  
+- Suggests linear, goal-directed associative thinking.
+
+Social Desirability:  
+- High self-monitoring (scores 5-6 on ability to adjust behavior, read others’ emotions, and regulate impressions).  
+- Admits to some resentfulness and jealousy but denies exploitative or aggressive behaviors.  
+- Self-reports consistent and credible, with some critical self-awareness (e.g., admits to being critical of self weaknesses).  
+- Social desirability bias likely moderate but not extreme.
+
+Mood and Mental Health:  
+- No signs of depression or anxiety; reports no sadness, guilt, or hopelessness.  
+- Slightly more easily irritated than before but overall emotionally stable.  
+- Sleep somewhat worse than usual but no major health worries or appetite changes.
+
+Economic Games:  
+- Dictator game: Proposes to keep $4 and give $1 (selfish but not maximally so).  
+- Ultimatum game: Accepts all offers, even $0, indicating high tolerance or strategic acceptance.  
+- Trust game: Sends $2 (moderate trust), expects about half returned, and returns about half when receiving money.  
+- Indicates pragmatic fairness with self-interest, moderate trust, and strategic reciprocity.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones consistently until amounts are very close, indicating moderate to high patience and future orientation.
+
+Spending Habits:  
+- Rarely has trouble limiting spending, often has trouble spending money (tightwad tendencies).  
+- Does not identify as a spendthrift.  
+- Prefers to be fair and values return on investment in economic decisions.
+
+Self-Concept Clarity:  
+- Some internal conflict and variability in self-beliefs but overall clear and stable self-concept.  
+- Reflective and curious about self, but not confused or unstable.
+
+Need for Closure:  
+- Moderate: Likes ordered life, dislikes uncertainty moderately, wants to reach solutions but not impatiently or rigidly.
+
+Maximizer Scale:  
+- High standards for self, seeks best opportunities, but also willing to settle for "good enough" in some contexts.
+
+Self-Monitoring:  
+- High: Can adjust behavior to social context, reads emotions well, aware of social expectations.

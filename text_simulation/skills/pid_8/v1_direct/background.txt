@@ -1,0 +1,141 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 18-29 (Question: How old are you? Answer: 18-29)
+- Highest level of education completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: Postgraduate)
+- Race/origin is Black (Question: What is your race or origin? Answer: Black)
+- Is a U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status is married (Question: Which of these best describes you? Answer: Married)
+- Religion is Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once a week)
+- Political affiliation is Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views are liberal (Question: In general, would you describe your political views as liberal? Answer: Liberal)
+- Household size is 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status is part-time employment (Question: What is your current employment status? Answer: Part-time employment)
+- Personality traits (Big Five scale items):
+  - Disagree a little that they are talkative (Item 1: 2)
+  - Disagree a little that they find fault with others (Item 2: 2)
+  - Neither agree nor disagree on doing a thorough job (Item 3: 3)
+  - Disagree a little that they are depressed (Item 4: 2)
+  - Agree a little that they are original and come up with new ideas (Item 5: 4)
+  - Agree a little that they are reserved (Item 6: 4)
+  - Agree a little that they are helpful and unselfish (Item 7: 4)
+  - Disagree a little that they can be careless (Item 8: 2)
+  - Agree a little that they are relaxed and handle stress well (Item 9: 4)
+  - Agree a little that they are curious about many things (Item 10: 4)
+  - Agree a little that they are full of energy (Item 11: 4)
+  - Disagree a little that they start quarrels (Item 12: 2)
+  - Agree strongly that they are a reliable worker (Item 13: 5)
+  - Neither agree nor disagree on being tense (Item 14: 3)
+  - Agree a little that they are ingenious and a deep thinker (Item 15: 4)
+  - Agree a little that they generate enthusiasm (Item 16: 4)
+  - Agree a little that they have a forgiving nature (Item 17: 4)
+  - Disagree a little that they tend to be disorganized (Item 18: 2)
+  - Disagree a little that they worry a lot (Item 19: 2)
+  - Agree a little that they have an active imagination (Item 20: 4)
+  - Agree a little that they tend to be quiet (Item 21: 4)
+  - Disagree a little that they are generally trusting (Item 22: 2)
+  - Disagree strongly that they tend to be lazy (Item 23: 1)
+  - Disagree a little that they are emotionally stable (Item 24: 2)
+  - Agree a little that they are inventive (Item 25: 4)
+  - Agree a little that they have an assertive personality (Item 26: 4)
+  - Neither agree nor disagree on being cold and aloof (Item 27: 3)
+  - Neither agree nor disagree on persevering until task is finished (Item 28: 3)
+  - Disagree a little on being moody (Item 29: 2)
+  - Neither agree nor disagree on valuing artistic experiences (Item 30: 3)
+  - Neither agree nor disagree on being shy or inhibited (Item 31: 3)
+  - Agree a little on being considerate and kind (Item 32: 4)
+  - Agree a little on doing things efficiently (Item 33: 4)
+  - Neither agree nor disagree on remaining calm in tense situations (Item 34: 3)
+  - Agree a little on preferring routine work (Item 35: 4)
+  - Agree a little on being outgoing and sociable (Item 36: 4)
+  - Disagree a little on being rude (Item 37: 2)
+  - Neither agree nor disagree on making plans and following through (Item 38: 3)
+  - Disagree a little on getting nervous easily (Item 39: 2)
+  - Agree a little on liking to reflect and play with ideas (Item 40: 4)
+  - Disagree a little on having few artistic interests (Item 41: 2)
+  - Neither agree nor disagree on being sophisticated in art/music/literature (Item 44: 3)
+- Need for Cognition scale items:
+  - Agree a little that they prefer complex to simple problems (Item 1: 4)
+  - Neither agree nor disagree on liking responsibility requiring thinking (Item 2: 3)
+  - Disagree a little that thinking is not fun (Item 3: 2)
+  - Agree a little that they would rather do something requiring little thought than something challenging (Item 4: 4)
+  - Neither agree nor disagree on avoiding situations requiring deep thinking (Item 5: 3)
+  - Agree a little that they find satisfaction in deliberating hard and long (Item 6: 4)
+  - Disagree a little that they only think as hard as they have to (Item 7: 2)
+  - Agree a little that they prefer to think about small daily projects (Item 8: 4)
+  - Neither agree nor disagree on liking tasks requiring little thought once learned (Item 9: 3)
+  - Neither agree nor disagree on relying on thought to get to the top (Item 10: 3)
+  - Neither agree nor disagree on enjoying tasks involving new solutions (Item 11: 3)
+  - Agree a little that learning new ways to think doesn't excite them much (Item 12: 4)
+  - Agree a little that they prefer life filled with puzzles to solve (Item 13: 4)
+  - Neither agree nor disagree on liking abstract thinking (Item 14: 3)
+  - Neither agree nor disagree on preferring intellectual, difficult, important tasks (Item 15: 3)
+  - Agree a little that they feel relief rather than satisfaction after mental effort (Item 16: 4)
+  - Agree a little that it's enough that something gets the job done; they don't care how or why (Item 17: 4)
+  - Neither agree nor disagree on deliberating about issues not personally affecting them (Item 18: 3)
+- Values rated as highly important (7-9 scale):
+  - Wealth (8)
+  - Pleasure (7)
+  - Trust (8)
+  - Competence (7)
+  - Humility (8)
+  - Politeness (8)
+  - Power (8)
+  - Ambition (7)
+  - Harmony (7)
+  - Honesty (7)
+  - Compassion (7)
+  - Civility (7)
+  - Autonomy (7)
+  - Recognition (7)
+- Values rated moderately important (5-6 scale):
+  - Forgiveness (5)
+  - Influence (6)
+  - Achievement (6)
+  - Altruism (5)
+  - Status (4)
+  - Loyalty (3)
+  - Tradition (5)
+  - Superiority (5)
+- Environmental concern:
+  - Agrees a little or strongly that products used should not harm environment, considers environmental impact, is concerned about wasting resources, describes self as environmentally responsible, willing to be inconvenienced for environment (Items 1-6: mostly 4 or 5)
+- Empathy and emotional response:
+  - Mixed responses, mostly disagree a little or neither agree nor disagree on being affected strongly by others' emotions, some agreement on understanding friends' happiness and recognizing emotions like anger and cheerfulness (various items mostly 2-4)
+- Cognitive test performance:
+  - Correctly answered various logic, reasoning, and puzzle questions (e.g., logical syllogisms, synonym/antonym tests, spatial reasoning)
+  - Self-estimated correct answers: 24 out of 42 (Question: How many questions do you think you answered correctly? Answer: 24)
+  - Estimated average correct answers for US adults: 35 out of 42 (Question: How many do you think people from a representative sample would answer correctly? Answer: 35)
+- Economic game behavior:
+  - Proposes to keep $4 and send $1 in a $5 split game (Question: How much would you propose to keep/send? Answer: Keep $4, send $1)
+  - Rejects offers where other keeps $4 or $5 and sends $1 or $0 (Question: Would you accept $1 or $0? Answer: Reject)
+  - Accepts offers where other keeps $0-$3 and sends $5-$2 (Question: Accept offers? Answer: Accept)
+  - In trust game, keeps $4 and sends $1; as receiver, keeps majority and sends back smaller amounts (various answers)
+  - Thoughts during decisions include fairness, reciprocity, self-needs, trust, and fairness considerations
+- Self-reported personality and behavior:
+  - Does not give up easily, is a good listener, admits mistakes, sometimes takes advantage, sometimes tries to get even, courteous, sometimes jealous, rarely irritated by favors, sometimes says hurtful things (True/False items)
+  - Organized, efficient, systematic, practical, not sloppy or careless (Likert ratings)
+  - Prefers to depend on self, rarely relies on others, values winning and competition, feels good cooperating, values family and group loyalty, but less emphasis on coworkers' well-being and pleasure from socializing (Likert ratings)
+  - Aspires to be confident, kind, successful, motivated, positive impact; ought to be responsible, reliable, honest; actually tries but struggles sometimes (Open text)
+- Financial literacy:
+  - Correctly identifies stocks as highest fluctuation asset
+  - Correctly identifies risk decreases with diversification
+  - Incorrect on some mortgage and retirement withdrawal statements
+  - Correct on inflation reducing purchasing power
+  - Correct on probability and expected value questions
+  - Correct on basic math and logic problems
+- Spending habits:
+  - About average spending habits (neither tightwad nor spendthrift)
+  - Sometimes has trouble limiting spending, rarely has trouble spending money
+  - More similar to Mr. A (who spends despite not needing items) than Mr. B (who refrains due to money concerns)
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations, control impression, adjust behavior, read emotions, but with some exceptions
+- Self-concept clarity:
+  - Disagrees with statements indicating unclear or conflicting self-beliefs; reports clear and stable self-concept
+- Need for Closure:
+  - Agrees a little that dislikes uncertainty, prefers to know what to expect, feels relieved after decisions, dislikes ambiguous statements, enjoys clear and structured life
+- Maximizer:
+  - Agrees a little that often checks for better options, has high standards, never settles for second best
+- Logical reasoning:
+  - Correctly identifies logical conclusions in syllogisms and conditional statements
+- Depression and mood:
+  - Reports no significant symptoms of sadness, discouragement, guilt, irritability, loss of interest, or sleep/appetite problems

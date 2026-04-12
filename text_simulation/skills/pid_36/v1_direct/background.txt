@@ -1,0 +1,55 @@
+- Resides in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Female, age 65+ (Questions: Sex assigned at birth - Female; Age - 65+)
+- Education level: College graduate/some postgrad (Question: Highest level of schooling completed)
+- Race: White (Question: Race or origin)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Jewish, but never attends religious services aside from weddings and funerals (Questions: Present religion - Jewish; Frequency of attendance - Never)
+- Political affiliation: Democrat, very liberal (Questions: Political party - Democrat; Political views - Very liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Retired (Question: Current employment status)
+- Income: $100,000 or more family income last year (Question: Last year total family income)
+- Personality traits (Big Five, self-report):
+  - Highly talkative, original, helpful, relaxed, curious, energetic, reliable, emotionally stable, inventive, assertive, persevering, artistic, considerate, efficient, calm, outgoing, cooperative (Multiple Big Five items with "Agree strongly")
+  - Disagrees strongly with being fault-finding, depressed, reserved, careless, tense, moody, shy, lazy, cold, quarrelsome, nervous, rude, disorganized, worried, easily distracted (Multiple Big Five items with "Disagree strongly")
+  - Somewhat prefers routine work (Agree a little)
+  - Somewhat a deep thinker and has an active imagination (Agree a little)
+  - Somewhat sophisticated in art, music, or literature (Agree a little)
+- Need for Cognition: Strong preference for thinking, enjoys complex problems, likes intellectual challenges, dislikes low-effort thinking, enjoys abstract thinking, deliberates even on issues not personally affecting self (Multiple items with "Agree strongly" or "Disagree strongly" indicating high Need for Cognition)
+- Values (rated as highly important):
+  - Trust, Competence, Loyalty, Honesty, Equality (Rated 9 - Highly Important)
+  - Ambition (8), Politeness (8), Harmony (8), Compassion (8), Autonomy (8), Forgiveness (7), Altruism (7), Civility (7)
+  - Wealth and Power rated low (Wealth 2, Power 2)
+  - Status and Recognition rated very low (Status 1, Recognition 1)
+- Environmental concern: Strongly agrees that products should not harm environment, considers environmental impact in decisions, purchase habits affected by environmental concern, willing to be inconvenienced for environment (All "Agree strongly" or "Agree a little")
+- Empathy: Strongly affected by friends' emotions, can understand friends' happiness and sadness, generally trusting, somewhat easily caught up in others' feelings, good at reading friends' emotions (Multiple items with "Agree strongly" or "Agree a little")
+- Self-concept clarity: Strongly agrees to having a clear and consistent sense of self, disagrees strongly with conflicting or changing self-beliefs (Multiple items with "Agree strongly" or "Disagree strongly")
+- Need for Closure: Disagrees or only slightly agrees with discomfort about uncertainty, dislikes unpredictability, prefers ordered life but not strongly intolerant of ambiguity (Mostly "Disagree strongly" or "Disagree a little" on intolerance items, "Agree a little" on preference for order)
+- Maximizer tendencies: Does not seek better options when satisfied, does not look for better opportunities, does not have difficulty shopping or finding loved items, has high standards for self, but does not never settle for second best (Mixed responses, mostly low on maximizing)
+- Self-monitoring: Generally true that can alter behavior to suit situations, control impressions, read emotions, and adjust behavior; some exceptions noted (Mostly "Generally true" or "Somewhat true")
+- Personality attributes: Organized, efficient, systematic, practical, accurate, creative problem solver, likes new ways, dislikes sloppiness or carelessness (All rated extremely accurate or definitely true)
+- Spending habits: Neither tightwad nor spendthrift, rarely has trouble limiting or spending money (Midpoint and "Rarely" answers)
+- Depression and mood: Reports no sadness, no discouragement, no feelings of failure, no guilt, no disappointment, no irritability, no loss of interest, no sleep or appetite problems, no weight loss, no health worries, no loss of interest in sex, no purposeful weight loss (All answers indicate no depressive symptoms)
+- Self-reported behavior: Always a good listener, willing to admit mistakes, courteous even to disagreeable people, never irked by differing ideas, never jealous, never irritated by favors, never hurt others deliberately (All true)
+- Self-reported social and family attitudes: Puts needs of others first, kind, generous, helpful, cooperative, values family duty and loyalty, but disagrees that parents and children must stay together at all costs (Mixed but generally pro-social and family-oriented)
+- Cognitive test performance: Believes answered 40/42 correctly, estimates US average also 40/42 (High self-assessed cognitive ability)
+- Financial literacy: Correctly answers most financial literacy questions, understands mortgage, inflation, risk diversification, investment returns, credit card debt payoff, probability, and lottery odds (Multiple correct answers)
+- Logical reasoning: Correctly identifies logical conclusions in all presented syllogisms (All answers "Yes" to logical validity)
+- Word knowledge: Correctly identifies synonyms and antonyms for most words, with some errors (e.g., "Oscillate" synonym chosen as "irradiate" which is incorrect; "Indolent" synonym chosen as "contrite" which is incorrect; "Disparity" synonym chosen as "mediocrity" which is incorrect)
+- Decision making under uncertainty (economic games):
+  - Proposes to keep $2 and send $3 in ultimatum game
+  - Accepts all offers as receiver, including $0 for self
+  - In dictator/trust game, sends all $5 to other person
+  - As receiver in trust game, keeps $5 and sends back $10 when receiving $15
+  - Shows fairness and generosity in thoughts during decisions
+- Self-reported thoughts during economic games emphasize kindness, fairness, and concern for others
+- Personal aspirations: Wants to help others without reward, values satisfaction from helping
+- Self-description: Tries to put needs of others first, helps whenever possible regardless of need or timing
+- Shopping behavior: Does not resemble impulsive spender, more restrained
+- Personal uniqueness: Disagrees strongly with seeking uniqueness via possessions, but agrees with breaking social rules about product use
+- Self-monitoring: Generally able to adjust behavior and read others' emotions
+- Self-concept clarity: Strongly clear and consistent self-view
+- Need for closure: Low intolerance for uncertainty, prefers some order but not rigid
+- Maximizing: Low tendency to maximize, high standards but not perfectionistic
+- Spending habits: Balanced, neither tight nor spendthrift
+- Depression symptoms: None reported

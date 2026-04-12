@@ -1,0 +1,268 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: 1 - Northeast)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 30-49 (Question: How old are you? Answer: 2 - 30-49)
+- Education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: 5)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: 6)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: 12)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 5)
+- Political affiliation: Something else (Question: In politics today, do you consider yourself a... Answer: 4)
+- Political views: Liberal (Question: In general, would you describe your political views as... Answer: 4)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income? Answer: 4)
+- Personality traits (Big Five, self-report):
+  - Talkative: Agree a little (Item 1, 4)
+  - Finds fault with others: Disagree a little (Item 2, 2)
+  - Does a thorough job: Agree a little (Item 3, 4)
+  - Depressed, blue: Disagree a little (Item 4, 2)
+  - Original, comes up with new ideas: Agree a little (Item 5, 4)
+  - Reserved: Agree a little (Item 6, 4)
+  - Helpful and unselfish: Agree a little (Item 7, 4)
+  - Careless: Neither agree nor disagree (Item 8, 3)
+  - Relaxed, handles stress well: Agree a little (Item 9, 4)
+  - Curious about many things: Agree a little (Item 10, 4)
+  - Full of energy: Agree a little (Item 11, 4)
+  - Starts quarrels: Disagree a little (Item 12, 2)
+  - Reliable worker: Agree a little (Item 13, 4)
+  - Can be tense: Neither agree nor disagree (Item 14, 3)
+  - Ingenious, deep thinker: Agree a little (Item 15, 4)
+  - Generates enthusiasm: Agree a little (Item 16, 4)
+  - Forgiving nature: Agree a little (Item 17, 4)
+  - Disorganized: Disagree a little (Item 18, 2)
+  - Worries a lot: Neither agree nor disagree (Item 19, 3)
+  - Active imagination: Agree a little (Item 20, 4)
+  - Quiet: Agree a little (Item 21, 4)
+  - Generally trusting: Agree a little (Item 22, 4)
+  - Lazy: Agree a little (Item 23, 4)
+  - Emotionally stable: Agree a little (Item 24, 4)
+  - Inventive: Agree a little (Item 25, 4)
+  - Assertive personality: Neither agree nor disagree (Item 26, 3)
+  - Cold and aloof: Agree a little (Item 27, 4)
+  - Perseveres until task finished: Agree a little (Item 28, 4)
+  - Moody: Agree a little (Item 29, 4)
+  - Values artistic experiences: Agree a little (Item 30, 4)
+  - Sometimes shy, inhibited: Agree a little (Item 31, 4)
+  - Considerate and kind: Agree a little (Item 32, 4)
+  - Does things efficiently: Agree a little (Item 33, 4)
+  - Remains calm in tense situations: Agree a little (Item 34, 4)
+  - Prefers routine work: Agree a little (Item 35, 4)
+  - Outgoing, sociable: Agree a little (Item 36, 4)
+  - Sometimes rude: Neither agree nor disagree (Item 37, 3)
+  - Makes plans and follows through: Agree a little (Item 38, 4)
+  - Gets nervous easily: Neither agree nor disagree (Item 39, 3)
+  - Likes to reflect, play with ideas: Agree a little (Item 40, 4)
+  - Has few artistic interests: Disagree a little (Item 41, 2)
+  - Likes to cooperate with others: Agree a little (Item 42, 4)
+  - Easily distracted: Agree a little (Item 43, 4)
+  - Sophisticated in art/music/literature: Agree a little (Item 44, 4)
+- Need for Cognition (selected items):
+  - Prefers complex problems: Agree a little (Item 1, 4)
+  - Likes responsibility requiring thinking: Agree a little (Item 2, 4)
+  - Thinking is not fun: Disagree a little (Item 3, 2)
+  - Prefers little thought tasks: Agree a little (Item 4, 4)
+  - Avoids situations requiring deep thought: Agree a little (Item 5, 4)
+  - Satisfaction in deliberating hard: Agree a little (Item 6, 4)
+  - Only thinks as hard as necessary: Agree a little (Item 7, 4)
+  - Prefers small daily projects: Agree a little (Item 8, 4)
+  - Likes tasks requiring little thought once learned: Agree a little (Item 9, 4)
+  - Idea of relying on thought to get ahead appeals: Agree a little (Item 10, 4)
+  - Enjoys tasks with new solutions: Agree a little (Item 11, 4)
+  - Learning new ways to think doesn't excite: Agree a little (Item 12, 4)
+  - Prefers life filled with puzzles: Neither agree nor disagree (Item 13, 3)
+  - Thinking abstractly appeals: Agree a little (Item 14, 4)
+  - Prefers intellectual, difficult tasks: Agree a little (Item 15, 4)
+  - Feels relief rather than satisfaction after mental effort: Agree a little (Item 16, 4)
+  - It's enough that something gets the job done: Disagree a little (Item 17, 2)
+  - Deliberates about issues even if not personally affected: Agree a little (Item 18, 4)
+- Values (rated importance):
+  - Wealth: Quite important (5)
+  - Pleasure: 6
+  - Forgiveness: Quite important (5)
+  - Influence: 4
+  - Trust: 6
+  - Competence: 7
+  - Humility: 6
+  - Achievement: 6
+  - Altruism: 6
+  - Ambition: Quite important (5)
+  - Loyalty: 6
+  - Politeness: 6
+  - Power: Quite important (5)
+  - Harmony: 6
+  - Excitement: 6
+  - Honesty: 6
+  - Compassion: 6
+  - Status: Quite important (5)
+  - Civility: Quite important (5)
+  - Autonomy: 7
+  - Equality: 7
+  - Recognition: 6
+  - Tradition: 4
+  - Superiority: 4
+- Spending habits:
+  - Does not avoid accumulating stuff (Disagree strongly, 1)
+  - Does not restrict number of things owned (Disagree strongly, 1)
+  - Disagrees a little with "less is more" (2)
+  - Disagrees a little with actively avoiding excess possessions (2)
+  - Neither agrees nor disagrees with drawn to visually sparse environments (3)
+  - Neither agrees nor disagrees with preference for simplicity in design (3)
+  - Disagrees strongly with keeping home aesthetic very sparse (1)
+  - Disagrees strongly with preferring empty spaces over filling (1)
+  - Mindful of what owns: Disagrees a little (2)
+  - Selection of things owned carefully curated: Agree strongly (5)
+  - Important to be thoughtful about what chooses to own: Agree a little (4)
+  - Belongings mindfully selected: Agree a little (4)
+- Empathy and emotional sensitivity:
+  - Friends' emotions affect me a little (Disagree a little, 2)
+  - Usually feel sad after being with sad friend (Agree a little, 4)
+  - Can understand friend's happiness (Agree a little, 4)
+  - Gets frightened watching scary movies (Agree a little, 4)
+  - Gets caught up in others' feelings: Neither agree nor disagree (3)
+  - Finds it somewhat easy to know when friends are frightened (Disagree a little, 2)
+  - Does become sad when seeing others cry (Disagree a little, 2)
+  - Other people's feelings bother me a little (Disagree a little, 2)
+  - Can usually understand when someone is feeling down (Agree a little, 4)
+  - Can usually work out when friends are scared (Agree a little, 4)
+  - Often becomes sad watching sad things on TV/films (Agree a little, 4)
+  - Can often understand feelings before told (Agree a little, 4)
+  - Seeing angered person has neutral effect (Neither agree nor disagree, 3)
+  - Can usually work out when people are cheerful (Agree a little, 4)
+  - Tends to feel scared when with scared friends (Agree a little, 4)
+  - Can usually realize quickly when friend is angry (Agree a little, 4)
+  - Often gets swept up in friends' feelings (Agree a little, 4)
+  - Friend's unhappiness affects me a little (Disagree a little, 2)
+  - Usually aware of friends' feelings (Disagree a little, 2)
+  - Has little trouble figuring out when friends are happy (Disagree a little, 2)
+- Environmental concern:
+  - Important that products do not harm environment (Agree a little, 4)
+  - Considers environmental impact in decisions (Agree a little, 4)
+  - Purchase habits affected by environmental concern (Agree a little, 4)
+  - Concerned about wasting planet's resources (Agree a little, 4)
+  - Describes self as environmentally responsible (Agree a little, 4)
+  - Willing to be inconvenienced for environmentally friendly actions (Agree a little, 4)
+- Cognitive test self-estimate:
+  - Believes answered 32 out of 42 cognitive questions correctly (Text Entry)
+  - Estimates average US adult answers 25 out of 42 correctly (Text Entry)
+- Financial literacy knowledge (direct true/false and multiple choice answers):
+  - 15-year mortgage requires higher monthly payments but less total interest than 30-year mortgage: True
+  - Inflation > interest rate on savings means money buys less after 1 year: Correct (Less than today)
+  - Stocks display highest fluctuations over time: Correct (Stocks)
+  - Possible to have less than $1,000 when withdrawing from stock mutual fund: True
+  - Diversifying assets decreases risk of losing a lot of money: Correct (Decreases)
+  - Stocks normally give highest return over long periods: Correct (Stocks)
+  - Must withdraw money from 401(k) or IRA after age 70.5: True
+  - Credit card debt with minimum payments and 12% APR will never be eliminated: Correct (never)
+  - Probability and percentage questions answered correctly (e.g., 20% chance = 20%)
+  - Basic math and logic problems answered correctly (e.g., bat and ball cost, lily pad doubling)
+- Logical reasoning:
+  - Correctly identifies logical conclusions from premises in multiple syllogistic problems
+- Personality self-reports on traits and behaviors:
+  - Sometimes gives up on tasks due to low self-belief (TRUE)
+  - Sometimes feels rebellious against authority even if authority is right (TRUE)
+  - Sometimes took advantage of someone (TRUE)
+  - Willing to admit mistakes (TRUE)
+  - Sometimes jealous of others' good fortune (TRUE)
+  - Sometimes irritated by people asking favors (TRUE)
+  - Has deliberately said things that hurt others (FALSE)
+  - Organized, efficient, systematic, practical: rated 7-8 (mostly high)
+  - Disorganized, sloppy, inefficient, careless: rated 3-4 (low to moderate)
+  - Reports low levels of anxiety symptoms in past week
+  - Prefers to depend on self rather than others (Agree a little)
+  - Personal identity independent of others is important (Agree a little)
+  - Competition is not strongly endorsed; winning is somewhat important but not strongly
+  - Feels pride in co-worker's success; values well-being of coworkers
+  - Values pleasure from spending time with others and cooperation
+  - Family cohesion somewhat important
+  - Aspires to be level-headed, careful with spending, save for apartment, avoid impulsivity
+  - Ought to be nicer to strangers, less rushed, less distracted
+  - Actually is creative, energetic, positive about future, delights in simple things
+- Self-concept clarity:
+  - Beliefs about self often conflict a little (Agree a little)
+  - Opinions of self vary somewhat day to day (Agree a little to strongly)
+  - Spends time wondering about true self (Agree a little)
+  - Sometimes feels not really the person they appear to be (Agree a little)
+  - Beliefs about self change frequently (Agree a little)
+  - Clear sense of who they are: Disagree a little (somewhat unclear)
+  - Does not have much difficulty making up mind or knowing what they want (Disagree a little with difficulty)
+- Need for Closure:
+  - Dislikes uncertainty a little (Agree a little)
+  - Likes well-ordered life strongly (Agree strongly)
+  - Feels uncomfortable not understanding reasons for events (Agree a little)
+  - Irritated when one person disagrees with group (Agree a little)
+  - Likes to reach solutions quickly (Agree a little)
+  - Dislikes unpredictable situations (Agree a little)
+  - Does not usually consult many opinions before forming view (Disagree a little)
+- Maximizer tendencies:
+  - Sometimes checks other radio stations even if satisfied (Agree a little)
+  - Disagrees a little with always looking for better job opportunities
+  - Sometimes finds it difficult to shop for gifts (Agree a little)
+  - Disagrees a little with difficulty finding clothing loved
+  - Has high standards for self (Agree a little)
+  - Neither agrees nor disagrees with "never settle for second best"
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations to fit impression desired
+  - Can control how comes across to people (Generally true)
+  - Can change image if not working (Generally true)
+  - Does not have trouble changing behavior to suit people/situations (Generally false)
+  - Can adjust behavior to meet situation requirements (Generally true)
+  - Does not have difficulty putting up good front (Generally false)
+  - Can regulate actions once situation known (Generally true)
+  - Good at reading others' emotions through eyes (Generally true)
+  - Sensitive to facial expression changes (Generally true)
+  - Good intuition about others' emotions and motives (Generally true)
+  - Can tell when joke is in bad taste (Generally true)
+  - Can tell when said something inappropriate by listener's eyes (Generally true)
+  - Usually knows when someone is lying, but with exceptions (Somewhat true)
+- Maximizer scale (selected items):
+  - Prefers to work without instructions: Neither true nor untrue
+  - Rules and regulations are helpful and necessary: True
+  - Important to carry out obligations: True
+  - Generally solves problems creatively: True
+  - Not bothered about reviewing or checking things closely: True
+  - Likes to do things in new way: True
+  - Tries to make work accurate and error-free: True
+  - Likes trying different things and often successful: True
+  - Important that achievements recognized by others: True
+  - Often thinks about what others expect: True
+- Spending habits self-report:
+  - Spending habits rated 7 on scale (7/11, closer to spendthrift than tightwad)
+  - Sometimes has trouble limiting spending
+  - Rarely has trouble spending money
+  - Behavior similar to neither Mr. A nor Mr. B in shopping spree scenario
+- Depression and mood:
+  - Does not feel sad
+  - Feels discouraged about future
+  - Does not feel like a failure
+  - Gets as much satisfaction as used to
+  - Does not feel particularly guilty
+  - Does not feel punished
+  - Does not feel disappointed in self
+  - Does not feel worse than others
+  - Does not cry more than usual
+  - No more irritated than usual
+  - Has not lost interest in others
+  - Makes decisions as well as ever
+  - Does not feel worthless
+  - Can work as well as before
+  - Sleeps as well as usual
+  - Does not get more tired than usual
+  - Appetite no worse than usual
+  - Has not lost much weight
+  - Worried about physical problems (aches, stomach, constipation)
+  - Has not noticed change in interest in sex
+  - Not purposely trying to lose weight
+- Consumer uniqueness and identity:
+  - Strongly agrees with statements about creating personal image through possessions, seeking originality, buying special products, having eye for interesting products
+  - Neither agrees nor disagrees with breaking customs/rules about products
+  - Agrees a little with challenging prevailing taste by buying unusual products
+  - Agrees a little with avoiding products bought by general population
+  - Strongly agrees with disliking products customarily bought by everyone
+- Logical reasoning and cognitive test performance:
+  - Correctly answered multiple logical syllogism questions
+  - Correctly identified cards to test conditional rule
+  - Correctly answered synonym and antonym vocabulary questions (mostly)
+  - Correctly answered spatial rotation and pattern completion puzzles
+- Economic games:
+  - Proposes to keep $3 and

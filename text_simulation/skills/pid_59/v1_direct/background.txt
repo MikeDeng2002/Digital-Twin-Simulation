@@ -1,0 +1,189 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age between 30-49 (Question: How old are you? Answer: 30-49)
+- Education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Yes)
+- Political views: Conservative (Question: In general, would you describe your political views as? Answer: Conservative)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Family income: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly that they tend to find fault with others (Q2=1)
+  - Agree strongly that they do a thorough job (Q3=5)
+  - Disagree strongly that they are depressed or blue (Q4=1)
+  - Agree a little that they are original and come up with new ideas (Q5=4)
+  - Agree a little that they are reserved (Q6=4)
+  - Agree strongly that they are helpful and unselfish with others (Q7=5)
+  - Disagree strongly that they can be careless (Q8=1)
+  - Agree strongly that they are relaxed and handle stress well (Q9=5)
+  - Agree strongly that they are curious about many different things (Q10=5)
+  - Agree a little that they have an active imagination (Q20=4)
+  - Agree strongly that they are ingenious and a deep thinker (Q15=5)
+  - Agree strongly that they persevere until the task is finished (Q28=5)
+  - Agree strongly that they are considerate and kind to almost everyone (Q32=5)
+  - Agree strongly that they do things efficiently (Q33=5)
+  - Agree strongly that they remain calm in tense situations (Q34=5)
+  - Disagree a little that they have an assertive personality (Q26=2)
+  - Agree a little that they are sometimes shy, inhibited (Q31=4)
+  - Agree a little that they are generally trusting (Q22=4)
+  - Disagree strongly that they are cold and aloof (Q27=1)
+  - Disagree strongly that they tend to be lazy (Q23=1)
+  - Disagree strongly that they start quarrels with others (Q12=1)
+  - Disagree strongly that they are moody (Q29=1)
+  - Disagree a little that they value artistic, aesthetic experiences (Q30=2)
+  - Agree a little that they are outgoing, sociable (Q36=4)
+  - Agree a little that they make plans and follow through with them (Q38=4)
+  - Disagree a little that they are easily distracted (Q43=1)
+  - Disagree strongly that they are sophisticated in art, music, or literature (Q44=1)
+- Need for Cognition:
+  - Agree a little that they prefer complex to simple problems (Q1=4)
+  - Agree a little that they like responsibility requiring a lot of thinking (Q2=4)
+  - Disagree a little that thinking is not fun (Q3=2)
+  - Disagree a little that they prefer tasks requiring little thought (Q4=2)
+  - Disagree strongly that they avoid situations requiring deep thinking (Q5=1)
+  - Agree a little that they find satisfaction in deliberating hard and long (Q6=4)
+  - Agree a little that they only think as hard as they have to (Q7=4)
+  - Neither agree nor disagree about preferring small daily projects to long-term ones (Q8=3)
+  - Disagree strongly that they like tasks requiring little thought once learned (Q9=1)
+  - Agree strongly that relying on thought to get ahead appeals to them (Q10=5)
+  - Agree strongly that they enjoy tasks involving new solutions (Q11=5)
+  - Disagree a little that learning new ways to think doesn't excite them (Q12=2)
+  - Agree a little that they prefer life filled with puzzles to solve (Q13=4)
+  - Neither agree nor disagree about liking abstract thinking (Q14=3)
+  - Agree a little that they prefer intellectual, difficult, important tasks (Q15=4)
+  - Disagree a little that they feel relief rather than satisfaction after mental effort (Q16=2)
+  - Disagree a little that it's enough that something gets the job done without caring how (Q17=2)
+  - Neither agree nor disagree about deliberating about issues not personally affecting them (Q18=3)
+- Values (rated as guiding principles):
+  - Trust: Highly important (9)
+  - Competence: 8
+  - Achievement: 8
+  - Honesty: 8
+  - Autonomy: Highly important (9)
+  - Forgiveness: 7
+  - Altruism: 7
+  - Superiority: 7
+  - Ambition: 5
+  - Loyalty: 5
+  - Civility: 5
+  - Pleasure: 6
+  - Compassion: 6
+  - Wealth: 4
+  - Politeness: 4
+  - Excitement: 4
+  - Influence: 3
+  - Harmony: 3
+  - Status: 3
+  - Humility: 2
+  - Power: 2
+  - Equality: 2
+  - Recognition: 1 (not important)
+  - Tradition: 1 (not important)
+- Environmental attitudes:
+  - Disagree a little that products used should not harm environment (Q1=2)
+  - Agree a little that they consider environmental impact in decisions (Q2=4)
+  - Disagree a little that purchase habits are affected by environmental concern (Q3=2)
+  - Agree a little that they are concerned about wasting planet resources (Q4=4)
+  - Neither agree nor disagree about being environmentally responsible (Q5=3)
+  - Agree a little willing to be inconvenienced for environmentally friendly actions (Q6=4)
+- Empathy and emotional sensitivity:
+  - Disagree a little that friends’ emotions don’t affect them much (Q1=2)
+  - Agree a little that after being with a sad friend, they usually feel sad (Q2=4)
+  - Agree strongly that they can understand friend’s happiness (Q3=5)
+  - Agree strongly that they get frightened watching scary movies (Q4=5)
+  - Disagree a little that they get caught up easily in others’ feelings (Q5=2)
+  - Disagree strongly that they find it hard to know when friends are frightened (Q6=1)
+  - Neither agree nor disagree that they don’t become sad when others cry (Q7=3)
+  - Disagree strongly that others’ feelings don’t bother them (Q8=1)
+  - Agree a little that they can usually understand when someone is feeling down (Q9=4)
+  - Agree strongly that they can usually work out when friends are scared (Q10=5)
+  - Agree a little that they often become sad watching sad things on TV/films (Q11=4)
+  - Disagree a little that they can often understand feelings before told (Q12=2)
+  - Disagree strongly that seeing angered person has no effect (Q13=1)
+  - Agree strongly that they can usually work out when people are cheerful (Q14=5)
+  - Disagree a little that they tend to feel scared with scared friends (Q15=2)
+  - Agree strongly that they can usually realize quickly when a friend is angry (Q16=5)
+  - Neither agree nor disagree that they often get swept up in friends’ feelings (Q17=3)
+  - Disagree strongly that friend’s unhappiness doesn’t affect them (Q18=1)
+  - Disagree a little that they are not usually aware of friends’ feelings (Q19=2)
+  - Disagree strongly that they have trouble figuring out when friends are happy (Q20=1)
+- Self-reported personality attributes (self-concept clarity):
+  - Agree a little that beliefs about self often conflict (Q1=4)
+  - Agree a little that opinions of self vary day to day (Q2=4)
+  - Agree strongly that they spend a lot of time wondering about who they really are (Q3=5)
+  - Disagree a little that they feel not really the person they appear to be (Q4=2)
+  - Disagree strongly that they are unsure what they were like in past (Q5=1)
+  - Agree a little that they seldom experience conflict between personality aspects (Q6=4)
+  - Agree a little that they sometimes think they know others better than themselves (Q7=4)
+  - Neither agree nor disagree that beliefs about self change frequently (Q8=3)
+  - Agree a little that self-description might differ day to day (Q9=4)
+  - Disagree strongly that they would not tell someone what they are really like (Q10=1)
+  - Agree strongly that they have a clear sense of who they are (Q11=5)
+  - Disagree a little that it is hard to make up mind because they don’t know what they want (Q12=2)
+- Need for Closure:
+  - Neither agree nor disagree that they dislike uncertain situations (Q1=3)
+  - Disagree strongly that they dislike questions with many possible answers (Q2=1)
+  - Agree a little that a well-ordered life with regular hours suits them (Q3=4)
+  - Neither agree nor disagree about discomfort when not understanding reasons for events (Q4=3)
+  - Disagree a little that they feel irritated when one person disagrees with group (Q5=2)
+  - Agree strongly that they don’t like to go into situations without knowing what to expect (Q6=5)
+  - Agree strongly that they feel relieved when making decisions (Q7=5)
+  - Agree strongly that they want to reach solutions quickly (Q8=5)
+  - Disagree strongly that they become impatient if no immediate solution (Q9=1)
+  - Agree a little that they don’t like to be with people capable of unexpected actions (Q10=4)
+  - Disagree a little that they dislike ambiguous statements (Q11=2)
+  - Agree a little that consistent routine enables enjoyment of life (Q12=4)
+  - Agree a little that they enjoy clear and structured life (Q13=4)
+  - Neither agree nor disagree that they do not consult many opinions before forming views (Q14=3)
+  - Neither agree nor disagree about disliking unpredictable situations (Q15=3)
+- Maximizer scale:
+  - Agree a little that they check other radio stations even if satisfied (Q1=4)
+  - Agree strongly that it is right to look for better job opportunities (Q2=5)
+  - Disagree strongly that they find it difficult to shop for gifts (Q3=1)
+  - Disagree a little that they have a hard time finding clothing they love (Q4=2)
+  - Agree strongly that they have highest standards for themselves (Q5=5)
+  - Agree a little that they never settle for second best (Q6=4)
+- Self-monitoring:
+  - Certainly always true that they can alter behavior in social situations (Q1=6)
+  - Generally true that they can control how they come across (Q2=5)
+  - Generally true that they can change image if not working (Q3=5)
+  - Generally false that they have trouble changing behavior to suit situations (Q4=2)
+  - Generally true that they can adjust behavior to meet any situation (Q5=5)
+  - Certainly always false that they have difficulty putting up a good front (Q6=1)
+  - Generally true that once they know situation, easy to regulate actions (Q7=5)
+  - Somewhat true that they can read people’s true emotions through eyes (Q8=4)
+  - Generally true that they are sensitive to slight facial expression changes (Q9=5)
+  - Somewhat true that their intuition about others’ emotions and motives is good (Q10=4)
+  - Certainly always true that they can tell when joke is in bad taste (Q11=6)
+  - Certainly always true that they can tell when they said something inappropriate by listener’s eyes (Q12=6)
+  - Generally true that they usually know when someone is lying from manner (Q13=5)
+- Spending habits:
+  - Spending habits rated 4 on a 1-11 scale (1 = tightwad, 11 = spendthrift) (Q: Which of the following best describes your spending habits? Answer: 4)
+  - Rarely have trouble limiting spending (Q: How well does the first description fit you? Answer: Rarely)
+  - Often have trouble spending money (Q: How well does the second description fit you? Answer: Often)
+  - More similar to Mr. B (hesitant to spend despite deals) than Mr. A (impulsive spender) (Q: Who are you more similar to? Answer: 4)
+- Cognitive test self-estimate:
+  - Believes answered 30 out of 42 cognitive questions correctly (Q: How many questions do you think you answered correctly? Answer: 30)
+  - Believes average US adult answers 20 out of 42 correctly (Q: How many do you think average US adult answers correctly? Answer: 20)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest than 30-year (True)
+  - Correctly understands inflation reduces purchasing power with 1% interest and 2% inflation (Less than today)
+  - Correctly identifies stocks as highest fluctuation and highest return over long term
+  - Correctly understands possibility of losing money in stock mutual fund
+  - Correctly understands diversification reduces risk
+  - Correctly understands required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payment and 12% APR will never be eliminated if no new charges
+  - Correctly answers various probability and percentage questions
+  - Correctly solves cognitive puzzles and logical reasoning questions with mostly correct answers
+- Self-reported thoughts during economic games:
+  - When deciding how much money to keep/send: thoughts about fairness, value, likability, cost, return, guilt
+  - When deciding how much to keep/send back: thoughts about fairness, returning investment, reasonable returns, morality, altruism
+- Self-reported aspirational, ought, and actual self:
+  - Aspires to be successful in marriage, career, relationships; dependable, trustworthy; courageous, brave, good leader
+  - Ought to be caring, loving, hardworking; provider; demonstrate good judgment and morals
+  - Actually honest, with integrity; puts effort into relationships; sacrifices wellbeing for others; curious and loves to learn; struggles with confidence sometimes

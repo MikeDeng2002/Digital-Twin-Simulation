@@ -1,0 +1,21 @@
+Need for Closure: Moderate to high (e.g., "I don’t like to go into a situation without knowing what I can expect" 5, "I don’t like situations that are uncertain" 4, "I feel uncomfortable when I don’t understand the reason why an event occurred" 4). She prefers order but also shows some ambivalence (disagreeing slightly with "a well ordered life suits me" and "I enjoy having a clear and structured mode of life").
+
+Need for Cognition: Very low (e.g., "I like to have responsibility that requires a lot of thinking" 1, "Thinking is not my idea of fun" 4, "I prefer tasks that require little thought" 5, "Learning new ways to think doesn’t excite me" 5). This aligns with poor cognitive test performance and low engagement with intellectual tasks.
+
+Maximizer: Low (e.g., "No matter what I do, I have the highest standards" 1, "I never settle for second best" 1, but "I often find it difficult to shop for a gift" 5, indicating some difficulty in decision-making but not driven by maximizing).
+
+Self-monitoring: Moderate to high (mostly 5s on items about adjusting behavior in social situations, controlling impressions, reading others’ emotions), but empathy-related items show low emotional contagion and low concern for others’ feelings.
+
+Self-concept Clarity: Low to moderate (some agreement with conflicting self-beliefs, changing self-views, and difficulty describing self consistently).
+
+Economic games: Propose to keep majority of money, accept fair offers but reject low offers, moderate trust but guarded reciprocity.
+
+Cross-scale inference:  
+- Low need for cognition and poor cognitive test performance agree on low cognitive engagement and ability.  
+- High need for closure and low openness suggest preference for certainty but limited intellectual curiosity.  
+- Low agreeableness and low empathy align with self-description as cold and lacking compassion.  
+- Economic games and values show moderate self-interest and autonomy, low social or competitive drive.
+
+No major contradictions, but some ambivalence in need for closure and self-concept clarity.
+
+w_social estimate: 0.25 -- The respondent shows low extraversion, low agreeableness, and low empathy (Big Five and empathy items), combined with moderate self-monitoring and some social awareness. Economic games indicate moderate fairness but guardedness. Values emphasize autonomy over social influence or power. Together, these scales suggest limited social engagement and low social motivation, but not complete social withdrawal, supporting a low social interaction estimate around 0.25.

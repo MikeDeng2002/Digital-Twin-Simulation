@@ -1,0 +1,20 @@
+Need for Closure: Moderate-low. The person dislikes uncertainty somewhat (scores 4 on disliking uncertainty), but does not rush to immediate conclusions (neutral on impatience to solve problems). They tolerate ambiguity but prefer clarity eventually.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys intellectual challenge, and deliberates deeply.
+
+Maximizer: Moderate. Seeks best answers and high standards but balances with satisficing in consumerism and social behavior.
+
+Self-monitoring: Moderate (4s), able to notice social cues and adjust behavior but not overly concerned with others’ expectations (scores 1 on thinking about others’ expectations). Likely aware of social context but maintains autonomy.
+
+Self-concept clarity: Very high. Stable, coherent self-view, resistant to social pressure, consistent self-description.
+
+Economic game gap: Dictator game (keeps 60%) vs. Ultimatum game (accepts all fair and unfair except zero) shows moderate self-interest balanced with fairness norms. Trust game reciprocity is moderate. Behavior matches strategic fairness with some self-interest.
+
+Intertemporal patience: Moderate to high. Prefers larger later rewards consistently, indicating future-oriented thinking.
+
+Cognitive errors: Minor errors in syllogistic logic and spatial puzzles suggest occasional lapses or overconfidence, but overall very strong reasoning and vocabulary. Likely to catch most errors with effort.
+
+Social desirability: Low to moderate. Self-reports include negative traits and admit faults, suggesting honest self-assessment.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the person’s high empathy and social fairness orientation (which increase social weighting) against their moderate self-interest in economic games and low agreeableness (which reduce social weighting). Their stable self-concept and moderate self-monitoring suggest they integrate social information thoughtfully but do not over-conform. High need for cognition and deep research habits imply they weigh social signals carefully but analytically. The moderate social desirability and admission of negative traits support trusting their self-reports. Conflicts between social empathy and low trust/forgiveness are resolved by weighting empathy and fairness higher, as these drive social information use in prediction tasks. Overall, this person is socially aware and influenced but maintains independent judgment, leading to a moderate-high social weighting in numeric predictions.

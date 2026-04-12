@@ -1,0 +1,15 @@
+Need for Closure: Moderate. The respondent neither strongly agrees nor disagrees with discomfort toward uncertainty (items 1, 2, 3, 5, 6, 9, 11). They agree a little that they feel uncomfortable without understanding reasons and dislike not knowing what to expect (items 4, 6, 9). This suggests a moderate desire for order and predictability.
+
+Need for Cognition: Moderate. Mixed responses: agrees a little with liking responsibility requiring thinking and relying on thought to succeed (items 2, 10), but also agrees a little that thinking is not fun (item 3) and disagrees a little with liking abstract thinking (item 14). Overall, moderate engagement with cognitive effort.
+
+Maximizer: Moderate. The respondent agrees a little with having high standards and not settling for second best (items 5, 6 in maximizer section), but also shows some ambivalence (neither agree nor disagree on some items). They try to be accurate and error-free (item 7 in conscientiousness), indicating some maximizing tendencies.
+
+Self-monitoring: Moderate. The respondent reports some ability to adjust behavior (items 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13 in self-monitoring section), but also some difficulty (items 1, 7). This suggests situational flexibility but not high social chameleonism.
+
+Self-concept Clarity: Moderate to low. The respondent disagrees a little that beliefs about self conflict strongly (item 1), but agrees a little that they spend time wondering about who they are (item 3), and agree a little that it is hard to make up their mind because they don't know what they want (item 12). They neither agree nor disagree on having a clear sense of self (item 11). This indicates some internal uncertainty.
+
+Economic Game Behavior: The respondent proposes a moderately fair split ($2 keep, $3 send) and accepts all offers, indicating prosocial but self-interested behavior. In the trust game, they send $3 and expect a fair return, balancing trust and caution.
+
+Cross-scale inference: The moderate need for closure and moderate self-concept clarity align with the moderate self-monitoring and maximizing tendencies, suggesting a person who values order and clarity but tolerates some ambiguity and complexity. Cognitive engagement is moderate, consistent with their educational background and financial literacy.
+
+w_social estimate: 0.65 -- The respondent shows moderate social orientation, balancing self-interest with fairness in economic games, moderate agreeableness and empathy (agree a little on helpfulness, forgiveness, and understanding others' feelings), and moderate self-monitoring indicating some social adaptability. Their values emphasize loyalty, politeness, and honesty, supporting social connectedness, but moderate introversion and some depressive symptoms may limit social engagement. The agreement across self-monitoring, agreeableness, and economic game behavior supports this moderate social weighting.

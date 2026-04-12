@@ -1,0 +1,13 @@
+- Need for Closure: Moderate (some discomfort with uncertainty but not extreme; agrees a little to wanting quick solutions and relief after decisions)
+- Need for Cognition: Very high (strongly prefers complex problems, intellectual challenges, and deep thinking)
+- Maximizer: Moderate to low (neutral on never settling for second best, highest standards neither agree nor disagree)
+- Self-monitoring: Moderate to high (generally able to adjust behavior, sensitive to others’ emotions)
+- Self-concept clarity: Moderate (somewhat clear self-view, little internal conflict)
+- Economic games: Fair and cooperative (proposes and accepts fair splits, returns about half in trust game)
+- Cognitive tests: Average performance (21/42 correct), good logical reasoning and vocabulary
+
+Cross-scale inference: High need for cognition aligns with her preference for intellectual challenges and thoughtful decision-making in economic games. Moderate need for closure and moderate self-monitoring suggest she balances openness with some desire for order and social harmony. Her fairness in economic games and altruistic values align with high agreeableness and social concern.
+
+No major contradictions are evident; scales consistently indicate a thoughtful, fair, moderately socially sensitive individual with a strong intellectual orientation.
+
+w_social estimate: 0.7 -- This estimate is driven by her strong agreeableness (helpful, kind), high empathy and social sensitivity (self-monitoring scales), and cooperative behavior in economic games. Her moderate extraversion and some preference for solitude lower the estimate slightly, but overall she appears socially engaged and considerate in interactions.

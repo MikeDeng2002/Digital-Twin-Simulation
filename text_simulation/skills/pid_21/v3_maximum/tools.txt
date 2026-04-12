@@ -1,0 +1,25 @@
+Education + Income: Postgraduate degree and $100k+ income imply access to high-quality information sources including academic journals, reputable news outlets, financial analysis platforms, and possibly professional networks. Likely comfortable with complex information and quantitative data.
+
+Need for Cognition (moderate-high): Engages in moderate to deep research, enjoys intellectual challenges but not obsessively. Likely to read analytical articles, white papers, and expert opinions.
+
+Political Identity: Republican but moderate politically, likely to consume a mix of partisan and neutral sources. May prefer mainstream conservative outlets but open to centrist or fact-based sources.
+
+Empathy Scale (moderate-high for close others): Relies on trusted social networks and close contacts for information validation, but less influenced by broad social sentiment.
+
+Maximizer Scale (moderate): Likely to comparison-shop information sources, seeking good but not perfect answers. May consult multiple sources but not exhaustively.
+
+Consumerism/Uniqueness (low): Unlikely to follow trendy or niche information sources just for uniqueness. Prefers established, reliable sources.
+
+Minimalism (high): Curates information carefully, avoids overload, prefers concise and well-structured content.
+
+Likely Platforms and Sources:
+- Financial news: Bloomberg, WSJ, CNBC (moderate to deep research)
+- Political news: Fox News, NPR, Reuters (moderate research, mixed partisan/neutral)
+- Scientific/Tech: Nature, Scientific American, arXiv (moderate research)
+- Social media: Limited use, mostly for personal connections, not primary info source
+- Forums/Reddit: Unlikely heavy user due to minimalism and low consumer uniqueness
+- Podcasts: Possibly moderate use for expert interviews and summaries
+
+Sources NOT used: Tabloid media, highly partisan or fringe outlets, trend-driven social media platforms (TikTok, Instagram influencers), and overly technical or jargon-heavy sources without clear structure.
+
+Confidence: High confidence in education and income-based inferences; moderate confidence in political and empathy-based source preferences; moderate confidence in depth of research inferred from Need for Cognition and Maximizer scales.

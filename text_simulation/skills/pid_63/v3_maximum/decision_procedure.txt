@@ -1,0 +1,30 @@
+Need for Closure: Very high. This person desires quick, definite answers, dislikes ambiguity, and prefers structured, predictable environments. This drives a preference for clear-cut, black-and-white views on complex topics.
+
+Need for Cognition: Very low. Avoids deep analytical effort, prefers simple, routine information processing. This limits engagement with complex or probabilistic reasoning, leading to reliance on heuristics or ideological shortcuts.
+
+Maximizer: Very low. Satisficer who does not seek the best or most accurate answer, but a "good enough" one that fits existing beliefs and is easy to process.
+
+Self-Monitoring: High. Notices social cues and adjusts behavior accordingly, but does not necessarily defer to others. Can detect social appropriateness and deception, which may influence how they present opinions publicly.
+
+Self-Concept Clarity: Very high. Stable self-view resistant to social pressure, consistent identity especially around independence and family responsibility.
+
+Economic Game Gap: Proposes moderately fair offers but keeps majority share; accepts most offers except zero; trust game shows cautious generosity but self-protective. Behavior aligns with strategic self-interest rather than pure altruism.
+
+Intertemporal Patience: High. Prefers delayed rewards, indicating long-term thinking in personal finance and decision-making.
+
+Cognitive Errors: Some errors in abstract reasoning and probabilistic tasks (e.g., lily pad doubling, some logical syllogisms). Underestimates own cognitive ability. Avoids complex thinking, which may impair numeric prediction accuracy.
+
+Social Desirability: Moderate honesty. Admits to negative traits (resentment, jealousy, taking advantage), suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.35
+
+Reasoning: The estimate reflects moderate social influence on reasoning. High self-monitoring and social awareness suggest some sensitivity to social context, but very high self-concept clarity and low need for social approval reduce conformity. The very high need for closure and low need for cognition indicate reliance on heuristic, socially reinforced beliefs rather than independent analytic thought. Economic games show strategic self-interest, not pure social altruism. Cognitive test performance and low maximizer score imply limited depth in information processing, favoring familiar, ideologically consistent sources. Overall, social factors influence this person's reasoning moderately, primarily through ideological and cultural group norms rather than interpersonal emotional contagion or deep social conformity.
+
+This profile predicts that on open numeric prediction questions (e.g., Bitcoin price, AGI arrival), this person will:  
+- Favor simple, confident, and ideologically consistent answers.  
+- Avoid probabilistic nuance or complex forecasting.  
+- Prefer answers that provide closure and reduce uncertainty quickly.  
+- Possibly anchor on conservative or traditional timelines and values.  
+- Show moderate risk aversion and preference for stability in numeric estimates.
+
+# End of profile.

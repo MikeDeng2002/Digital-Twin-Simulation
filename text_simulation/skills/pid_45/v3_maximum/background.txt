@@ -1,0 +1,58 @@
+Demographics: Male, age 50-64, White, U.S. citizen living in the Northeast, married, Roman Catholic attending weekly services, politically Republican and conservative, full-time employed, household size 2, family income $100,000+. Education is some college but no degree, indicating moderate formal education but likely practical work experience. This demographic suggests a stable, middle-aged professional with traditional values and a solid economic base, likely exposed to mainstream U.S. cultural and political environments with conservative leanings.
+
+Big Five Personality (44 items):  
+- Conscientiousness: Very high (e.g., "Does a thorough job" 5, "Is reliable" 4, "Perseveres" 4, "Organized" 8/9 self-rating), indicating disciplined, goal-oriented, and methodical behavior.  
+- Openness: Moderately high (e.g., "Is original" 5, "Inventive" 5, "Likes to reflect" 5, "Curious" 4), showing intellectual engagement and creativity but balanced with practicality.  
+- Extraversion: Moderate (e.g., "Is talkative" 3, "Is outgoing" 4, "Is reserved" 4), suggesting sociability but not extreme; comfortable in social settings but not highly gregarious.  
+- Agreeableness: High (e.g., "Helpful" 5, "Forgiving" 5, "Considerate" 4), indicating cooperative and kind interpersonal style.  
+- Neuroticism: Low (e.g., "Is relaxed" 4, "Worries a lot" 1, "Is emotionally stable" 4), emotionally stable and resilient.
+
+Need for Cognition (18 items): Moderate to high. Strong agreement with enjoying responsibility requiring thinking (5), satisfaction in deliberating hard (4), preference for complex problems (4), but also some ambivalence about thinking too hard (some disagreement with "I only think as hard as I have to" 2). This suggests a person who enjoys cognitive effort but may balance it with practical considerations.
+
+Need for Closure (15 items): Moderate. Agreement with liking order, routine, dislike of uncertainty (mostly 4s), but not extreme impatience or intolerance of ambiguity (some disagreement with impatience 2). This person prefers structure and clarity but tolerates some ambiguity.
+
+Maximizer Scale (6 items): Mixed signals. Strong agreement with "checking other stations for better options" (5), but disagreement or neutrality on "never settling for second best" (2-3). This suggests a moderate maximizer who seeks good options but does not obsessively pursue the absolute best.
+
+Self-monitoring (13 items): Moderate. Generally able to adjust behavior to social situations (4-5), but with some exceptions. Not highly self-conscious but aware of social cues.
+
+Self-concept Clarity (12 items): Moderate to high. Mostly stable self-view, little internal conflict, some minor fluctuations but overall clear sense of self (mostly 4s, some 2s on instability items).
+
+Values (24 items):  
+- Highest: Competence (9), Ambition (9), Wealth (8), Achievement (8), Trust (8), Honesty (8), Influence (7), Forgiveness (7), Loyalty (7), Politeness (7), Compassion (7), Tradition (7), Excitement (7).  
+- Lowest: Equality (1), Autonomy (2), Civility (3), Power (4), Status (4), Superiority (6).  
+This profile reveals a worldview valuing personal effectiveness, success, and social order, with strong emphasis on traditional values, loyalty, and trustworthiness. Low emphasis on equality and autonomy suggests preference for hierarchical or structured social systems.
+
+Minimalism/Consumerism (12 items): Neutral to low minimalism. Some agreement with curating possessions (4), but disagreement with "less is more" and sparse environments (2-3). Indicates moderate care about possessions but not strongly minimalist.
+
+Empathy (20 items): Moderate. Generally agrees with understanding and sharing others' feelings (mostly 4s), but some ambivalence or disagreement on emotional contagion (some 2s). Suggests cognitive empathy with some emotional distance.
+
+Social Desirability: Moderate. Some tendency to present self positively (e.g., denies resentfulness, jealousy, spite), but also admits occasional irritation. Self-reports likely somewhat reliable but with mild positive bias.
+
+Cognitive Test Performance:  
+- Correct answers estimated 32/42 (above average).  
+- Logical reasoning: Correct on all syllogistic and conditional logic problems, including tricky ones (e.g., "All XAR are YOF" questions).  
+- Some errors in synonym/antonym vocabulary tests (e.g., "CONCUR" synonym chosen as "divulge" incorrect; "ASTUTE" synonym chosen as "lineal" incorrect; "INDOLENT" synonym chosen as "arduous" incorrect; "INDIGENT" synonym chosen as "refractory" incorrect). These errors suggest occasional semantic confusion or less precise vocabulary knowledge.  
+- Pattern recognition and spatial reasoning: Correct answers on complex cube rotation and pattern completion tasks, indicating good visual-spatial reasoning.  
+- Cognitive style: Logical, systematic, but occasional semantic slips.
+
+Word Association Chain: Progresses from toaster → bread → sandwich → ham → lettuce → tomato → bacon → mayonnaise → pickles → soda → tea → coffee → beer → shot → rum → whiskey → vodka → tequila → bourbon → baileys. This chain shows a strong thematic coherence around food and drink, moving from breakfast to alcoholic beverages, indicating associative thinking with thematic clustering.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $4 and give $1 in dictator game (fairly selfish but not extreme).  
+- As receiver in ultimatum game, accepts all offers except $0 (rational acceptance).  
+- In trust game, keeps $4 and sends $1, and as receiver keeps majority of money, sending back less than half. Indicates moderately self-interested but not purely selfish; strategic and pragmatic.
+
+Intertemporal Choice Tasks:  
+- Prefers larger later rewards over smaller sooner ones until the difference is quite large, indicating moderate patience and future orientation.
+
+Loss Framing Responses:  
+- More upset by losses framed as separate events than combined, consistent with loss aversion and sensitivity to framing.
+
+Depression and Anxiety Scales:  
+- No significant symptoms reported; emotionally stable.
+
+Spending Habits:  
+- Moderate spender (5/11 on tightwad-spendthrift scale), rarely has trouble limiting spending, sometimes has trouble spending money (suggests cautious but not frugal).
+
+Consumerism/Uniqueness:  
+- Slightly disagrees with seeking uniqueness through products, but likes some originality and interesting products. Not a strong trend follower or rebel.

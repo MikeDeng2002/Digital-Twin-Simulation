@@ -1,0 +1,23 @@
+Need for Closure: High (strong agreement with “don’t like uncertainty,” “dislike unpredictable situations,” “want quick solutions,” “feel relieved when decisions made”), indicating preference for fast resolution and dislike of ambiguity.
+
+Need for Cognition: Very high, invests substantial analytical effort, enjoys intellectual challenges, puzzles, and abstract thinking.
+
+Maximizer: Moderate; seeks good solutions and compares options but willing to settle when effort outweighs benefit.
+
+Self-monitoring: High ability to read social cues and emotions, but moderate flexibility in changing behavior; notices others’ opinions but maintains own identity.
+
+Self-concept clarity: High; stable self-view, little internal conflict, clear identity.
+
+Economic game gap: Behavior consistent; proposes fair splits, accepts fair offers, rejects unfair ones, expects reciprocity but keeps a reasonable share. No major discrepancy between stated and strategic behavior.
+
+Intertemporal patience: High; consistently prefers larger delayed rewards, indicating long-term thinking in decisions.
+
+Cognitive errors: Occasional semantic confusion (e.g., synonym/antonym errors), but strong logical reasoning and pattern recognition. Likely to perform well on numeric prediction tasks but may occasionally misinterpret nuanced language or probabilistic framing.
+
+Social desirability: Moderate; admits to some negative traits (resentment, taking advantage), suggesting honest self-reporting, but some social desirability bias possible in positive traits.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances high empathy and social awareness (which increase social influence on reasoning) against high self-concept clarity and moderate self-monitoring (which reduce conformity). The person is socially attuned and values fairness and kindness but maintains a stable, autonomous self-view and prefers rational, analytical processing. Their moderate social desirability and occasional emotional volatility suggest some influence of mood on judgments but overall reliable self-reporting. Conflicts between high Need for Closure (fast decisions) and high Need for Cognition (deep thinking) are resolved by the person’s preference for structured, clear information and quick resolution once sufficient analysis is done.
+
+This profile predicts that the person will make numeric predictions (e.g., Bitcoin price, AGI arrival) by seeking well-reasoned, evidence-based sources, integrating social consensus moderately, and preferring clear, structured answers with moderate tolerance for uncertainty. They will avoid extreme or partisan views, weigh probabilities carefully, and prefer moderate, plausible estimates over speculative extremes.

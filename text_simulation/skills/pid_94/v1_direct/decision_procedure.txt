@@ -1,0 +1,24 @@
+- Need for Closure:
+  - Neutral to slightly positive about order and routine (Item 3: Agree a little; Item 12: Agree a little; Item 13: Agree a little; Item 15: Agree a little)
+  - Disagrees with discomfort about uncertainty and impatience (Items 1,4,6,8,9,10,11: Mostly Disagree a little or Neither agree nor disagree)
+  - Overall moderate need for closure, tending toward tolerance of uncertainty.
+- Need for Cognition:
+  - Mixed but generally moderate: Likes responsibility requiring thinking (Item 2: Agree a little), enjoys problem solving (Item 11: Agree a little), but neutral or slightly negative on abstract thinking and deep deliberation (Items 1,6,14: Neither agree nor disagree or Disagree a little)
+- Maximizer:
+  - Disagrees strongly with maximizer behaviors (e.g., checking for better options, never settling for second best)
+  - Agrees a little with being on lookout for better opportunities (Item 2: Agree a little)
+  - Overall low maximizer tendency.
+- Self-monitoring:
+  - Mixed responses, mostly "somewhat false but with exceptions" or "somewhat true but with exceptions" on ability to alter behavior and read others (Items 1-13: Mostly 3 or 4 on 7-point scale)
+  - Moderate self-monitoring ability.
+- Self-concept clarity:
+  - Mostly disagrees with self-belief conflicts and changes (Items 1-10: Disagree strongly or Disagree a little)
+  - Agrees a little with having a clear sense of self (Item 11: Agree a little)
+  - Low self-concept confusion, moderate clarity.
+- Specific item references:
+  - Need for Closure Item 3: Agree a little (4)
+  - Need for Cognition Item 2: Agree a little (4)
+  - Maximizer Item 1 (checking other stations): Disagree strongly (1)
+  - Self-monitoring Item 7 (adjust behavior): Somewhat true but with exceptions (4)
+  - Self-concept clarity Item 11: Agree a little (4)
+- w_social estimate: 0.5 -- The moderate scores on empathy-related items, moderate self-monitoring, and balanced need for closure and cognition suggest an average social reasoning tendency, neither highly socially attuned nor socially indifferent.

@@ -1,0 +1,11 @@
+- Need for Closure: Moderate to high (e.g., agrees strongly with liking order, disliking uncertainty, wanting quick solutions) indicating preference for decisiveness and structure.
+- Need for Cognition: Low (e.g., strongly disagrees with enjoying complex problems or thinking hard), indicating low intrinsic motivation for cognitive effort.
+- Maximizer: Mixed signals; does not strongly endorse never settling for second best, but agrees with having high standards and being efficient.
+- Self-monitoring: Generally high (e.g., ability to adjust behavior in social situations, read others' emotions), indicating social awareness and adaptability.
+- Self-concept clarity: High (e.g., clear sense of self, little internal conflict), indicating stable identity.
+- Economic games: Moderately self-interested but fair; keeps majority in trust game but sends some money; accepts most offers except unfair ones; in dictator game keeps $3/$5, indicating moderate social preference.
+- Cognitive tests: Below average performance (20/42 correct), with some logical reasoning intact but weaker vocabulary and abstract reasoning.
+
+No major contradictions; scales align on a profile of a socially aware, moderately cooperative individual who prefers order and simplicity, with some mild depressive symptoms and below-average cognitive test performance.
+
+w_social estimate: 0.55 -- The respondent shows moderate social willingness, as indicated by moderate generosity in economic games, high self-monitoring, and valuing cooperation and family loyalty. However, low need for cognition and some self-protective behavior in trust games temper this. The agreement between self-monitoring, economic game behavior, and values supports a moderate social orientation.

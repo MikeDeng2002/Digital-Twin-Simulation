@@ -1,0 +1,54 @@
+Demographics: Male, age 50-64, White, living in the Southern US, high school graduate, full-time employed, married/living with partner, Roman Catholic but does not attend services, US citizen, conservative Republican with conservative political views, household of 3, family income $30,000-$50,000. This suggests a middle-lower-middle socioeconomic status with traditional family and religious background but low religious practice. Conservative Southern male, likely with working-class or lower-middle-class lived experience, possibly valuing stability and tradition.
+
+Big Five Personality (44 items):  
+- Extraversion: High (talkative, full of energy, outgoing, sociable, generates enthusiasm)  
+- Agreeableness: Very high (helpful, forgiving, considerate, kind, trusting, polite)  
+- Conscientiousness: Very high (does thorough job, reliable, perseveres, organized, efficient, plans and follows through)  
+- Neuroticism: Low to moderate (disagrees with being moody, tense a little, worries a little, nervous a little, but emotionally stable and relaxed)  
+- Openness: Very low (disagrees strongly with originality, ingenuity, imagination, artistic interests, intellectual curiosity, prefers routine work, dislikes abstract thinking and puzzles)  
+This profile indicates a highly conscientious, socially warm, and stable individual with low openness to new ideas or abstract thinking, preferring routine and practical tasks.
+
+Need for Cognition (18 items): Very low (mostly strongly disagree with enjoying thinking, complex problems, intellectual challenges; strongly agree with preferring little thought, avoiding deep thinking, thinking only as hard as necessary). This person avoids cognitive effort and prefers simple, concrete tasks.
+
+Need for Closure (15 items): Very high (strongly agrees with disliking uncertainty, unpredictability, ambiguity; prefers order, routine, quick decisions, dislikes multiple opinions). This person wants fast resolution, clear answers, and dislikes ambiguity.
+
+Maximizer scale (6 items): Low (disagrees with always seeking best, never settling for second best, high standards). This person is more satisficing than maximizing.
+
+Self-monitoring (13 items): High (generally true that can alter behavior to fit situations, control impressions, read others’ emotions, adjust behavior readily). This person is socially aware and adaptable in social contexts.
+
+Self-concept clarity (12 items): Very high (strongly agrees with stable, clear, consistent self-view, no internal conflict, no frequent changes in self-beliefs). This person has a stable identity and resists social pressure.
+
+Values (24 items):  
+- Highest (9): Pleasure, Forgiveness, Trust, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Autonomy, Equality, Tradition  
+- Low (1): Wealth, Influence, Power, Status, Recognition, Superiority  
+- Moderate (4-5): Competence, Achievement, Ambition, Excitement  
+This reveals a worldview valuing social harmony, kindness, altruism, tradition, and personal integrity over material success or dominance.
+
+Minimalism (12 items): Moderate to high minimalism (strongly agrees with avoiding accumulating stuff, actively avoiding excess possessions, preferring simplicity in design, mindful of what is owned). This person curates possessions carefully, prefers simplicity but is neutral on aesthetic sparsity.
+
+Empathy (20 items): High empathy (strongly agrees with feeling others’ emotions, understanding friends’ feelings, getting sad when others are sad, sensitive to others’ emotions). This person is emotionally attuned and socially connected.
+
+Consumerism/Uniqueness (12 items): Low uniqueness and consumerism (disagrees with seeking unique or unusual products, breaking social rules in consumption, avoiding popular products). This person conforms to social norms in consumption, not trend-seeking.
+
+Cognitive Test Performance:  
+- Self-estimated correct: 15/42 (low) vs. population average 21/42  
+- Actual answers show some logical errors: e.g., failed some syllogistic logic (incorrect on some valid conclusions), but correct on others.  
+- Errors include misunderstanding logical implications (e.g., incorrectly answered some syllogisms), and poor synonym/antonym knowledge (several incorrect synonym/antonym choices).  
+- Spatial reasoning (cube rotation puzzles) answers are mixed, some correct, some incorrect, indicating moderate spatial reasoning but not strong.  
+- Word association chain is straightforward, concrete, and literal, no abstract or creative leaps.  
+- Social desirability scale: Mixed; admits to some negative behaviors (e.g., taking advantage of someone), but also claims to be courteous and honest. Overall moderate social desirability bias.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 (40% to other) in dictator game, which is moderately fair but self-favoring.  
+- As receiver, accepts offers down to $2 (40%) but rejects $1 (20%) and $0 offers, indicating some fairness threshold.  
+- In trust game, sends $2 (out of $5), keeps $3, and expects to receive back about half of tripled amount, showing moderate trust and reciprocity expectations.  
+- Thoughts during decisions emphasize fairness, avoiding greed, and reciprocity.
+
+Intertemporal Choice:  
+- Prefers smaller-sooner rewards over larger-later rewards until the difference is quite large, indicating moderate impatience or discounting of future rewards.
+
+Social Desirability and Self-Report Reliability:  
+- Some inconsistencies (e.g., admits to taking advantage of others but also claims high politeness and honesty).  
+- Social desirability moderate; self-reports likely somewhat reliable but with some positive bias.
+
+Summary: This is a middle-aged, Southern, White, conservative male with modest education and income, who is socially warm, conscientious, and stable but low in openness and cognitive engagement. He prefers routine, dislikes ambiguity, and is satisficing rather than maximizing. He is empathetic and socially aware but not intellectually curious or abstract. His cognitive test performance is below average, with some logical errors and limited vocabulary knowledge. He is moderately fair and reciprocal in economic games, somewhat impatient in intertemporal choices, and values social harmony, tradition, and altruism over wealth or status. His self-concept is stable and clear, and he is socially adaptable.

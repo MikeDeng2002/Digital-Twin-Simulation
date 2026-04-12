@@ -1,0 +1,21 @@
+Need for Closure: High (items 1,2,6,7,8,9,11,12,13) — indicates preference for order, decisiveness, discomfort with ambiguity.
+
+Need for Cognition: Moderate (items 1,2,8,9,10,13,15,16,17,18) — enjoys thinking but also prefers routine and simpler tasks.
+
+Maximizer: Moderate (items 1,2,3,4,5,6) — tries to find better options but does not strongly reject second best.
+
+Self-monitoring: Moderate (items 1-13) — can adjust behavior somewhat, sensitive to others' emotions but not highly so.
+
+Self-concept Clarity: Low to moderate (items 1-12) — some internal conflict, changing self-beliefs, uncertainty about identity.
+
+Economic games: Proposer keeps all money (maximizing self-interest), but as responder accepts all offers and returns about half, indicating some fairness and reciprocity.
+
+Cross-scale inference:
+- High Need for Closure and moderate Self-monitoring align with a preference for structure and some social adaptability.
+- Moderate Need for Cognition and Maximizer suggest balanced cognitive engagement and goal orientation.
+- Low Self-concept Clarity may contribute to some internal conflict and mood symptoms.
+- Economic game behavior shows tension between self-interest and fairness.
+
+Mood symptoms (depression, irritability, sadness) may influence social engagement and decision-making.
+
+w_social estimate: 0.45 -- The respondent shows moderate social willingness. High empathy and fairness as a responder indicate social concern, but low extraversion, high self-interest as proposer, and moderate self-monitoring suggest some social reticence or guardedness. High Need for Closure and low self-concept clarity may reduce social flexibility. The economic game behavior and empathy scales agree on moderate social orientation, while personality and self-concept clarity suggest some social withdrawal, leading to a mid-range estimate.

@@ -1,0 +1,149 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 30-49 (Question: How old are you? Answer: 2 - 30-49)
+- Highest education level completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: 6 - Postgraduate)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: 2 - Living with a partner)
+- Religion: Agnostic (Question: What is your present religion, if any? Answer: 10 - Agnostic)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 5 - Seldom)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: 2 - Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as liberal? Answer: 4 - Liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2 - 2)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: 2 - Part-time employment)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Agree a little with doing a thorough job (Q3: 4)
+  - Agree a little with being original and coming up with new ideas (Q5: 4)
+  - Agree a little with being reserved (Q6: 4)
+  - Agree strongly with being helpful and unselfish with others (Q7: 5)
+  - Agree strongly with being curious about many different things (Q10: 5)
+  - Agree a little with being relaxed and handling stress well (Q9: 4)
+  - Agree a little with being a reliable worker (Q13: 4)
+  - Agree a little with being ingenious and a deep thinker (Q15: 4)
+  - Agree a little with persevering until the task is finished (Q28: 4)
+  - Agree a little with doing things efficiently (Q33: 4)
+  - Agree strongly with being considerate and kind to almost everyone (Q32: 5)
+  - Agree strongly with liking to reflect and play with ideas (Q40: 5)
+  - Agree a little with being sophisticated in art, music, or literature (Q44: 4)
+- Need for Cognition scale (selected items):
+  - Strongly agrees with preferring complex to simple problems (Q1: 5)
+  - Strongly agrees with liking responsibility requiring a lot of thinking (Q2: 5)
+  - Strongly disagrees that thinking is not fun (Q3: 1)
+  - Strongly disagrees with preferring tasks requiring little thought (Q4: 1)
+  - Strongly disagrees with avoiding situations requiring deep thinking (Q5: 1)
+  - Agrees a little with finding satisfaction in deliberating hard and long (Q6: 4)
+  - Strongly disagrees with thinking only as hard as necessary (Q7: 1)
+  - Strongly agrees that relying on thought to get ahead appeals (Q10: 5)
+  - Strongly agrees enjoying tasks involving new solutions (Q11: 5)
+  - Strongly agrees preferring life filled with puzzles to solve (Q13: 5)
+  - Strongly agrees that thinking abstractly appeals (Q14: 5)
+  - Strongly agrees preferring intellectual, difficult, important tasks (Q15: 5)
+  - Strongly agrees usually deliberating about issues even if not personally affected (Q18: 5)
+- Values rated as highly important (rated 9):
+  - Altruism (helping others in need)
+  - Loyalty (being faithful to friends, family, and group)
+  - Equality (human rights and equal opportunity for all)
+- Values rated as quite important (rated 7 or 8):
+  - Forgiveness (7)
+  - Trust (6)
+  - Competence (8)
+  - Humility (8)
+  - Politeness (8)
+  - Compassion (8)
+  - Civility (8)
+  - Autonomy (8)
+  - Harmony (7)
+  - Honesty (7)
+  - Tradition (5)
+- Values rated as not important (rated 1):
+  - Wealth
+  - Power
+  - Superiority
+- Self-reported minimalist tendencies:
+  - Strongly agrees with avoiding accumulating lots of stuff, restricting number of things owned, preferring less is more, actively avoiding excess possessions, keeping aesthetic sparse, preferring empty spaces, being mindful and thoughtful about possessions, and carefully curating belongings (all rated 5)
+  - Agrees a little with preferring simplicity in design (4)
+- Empathy and emotional sensitivity:
+  - Strongly agrees with easily getting caught up in others’ feelings (Q5: 5)
+  - Agrees a little with feeling sad after being with a sad friend (Q2: 4)
+  - Agrees a little with understanding friends’ happiness (Q3: 4)
+  - Agrees a little with getting frightened by scary movies (Q4: 4)
+  - Strongly agrees with quickly realizing when a friend is angry (Q16: 5)
+  - Agrees a little with understanding others’ feelings before they tell (Q12: 4)
+  - Disagrees strongly with not being aware of friends’ feelings (Q19: 1)
+- Environmental concern:
+  - Agrees a little that products used should not harm environment (Q1: 4)
+  - Agrees a little with concern about wasting planet’s resources (Q4: 4)
+  - Neither agrees nor disagrees on other environmental responsibility items
+- Cognitive test performance:
+  - Estimated self and US adult average correct answers: 21 out of 42
+  - Correctly answered various logic and reasoning questions (e.g., syllogisms, logical conclusions)
+  - Correctly answered vocabulary synonym and antonym questions mostly
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 to other person (fair split) (Ultimatum game)
+  - Accepts all offers as receiver, including offers where sender keeps $5 and sends $0
+  - In Trust game, sends $3 and keeps $2; as receiver, keeps $7-$8 and sends back $6-$8 depending on amount sent
+  - Thought process during decisions: "I will be fair," "I will try to split the money"
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes gave up due to low self-belief (True)
+  - Felt like rebelling against authority even when they were right (True)
+  - Always willing to admit mistakes (True)
+  - Sometimes took advantage of someone (True)
+  - Does not try to get even rather than forgive (False)
+  - Not always courteous to disagreeable people (False)
+  - Sometimes jealous of others’ good fortune (True)
+  - Not irritated by people asking favors (False)
+  - Has deliberately said something hurtful (False)
+  - Self-rated as practical (9), efficient (7), somewhat organized (4), somewhat sloppy (7), somewhat careless (4)
+- Depression and mood indicators:
+  - Feels sad and discouraged about the future (selected "I feel sad" and "I feel discouraged about the future")
+  - Does not feel like a failure or worthless
+  - Gets as much satisfaction as before
+  - Does not feel guilty or punished
+  - Critical of self for weaknesses or mistakes
+  - No increased crying or irritability
+  - No loss of interest in others or sex
+  - Can work about as well as before but sometimes takes extra effort to start
+  - Sleeps as well as usual
+  - Gets tired more easily than before
+  - Appetite and weight unchanged
+  - Not worried about health
+  - Not purposely trying to lose weight
+- Self-concept clarity:
+  - Disagrees a little that beliefs about self conflict or change frequently
+  - Generally has a clear sense of who they are (Agree a little)
+  - Disagrees strongly that they feel not like themselves or that descriptions would vary day to day
+- Need for Closure:
+  - Neither agrees nor disagrees with disliking uncertainty
+  - Disagrees a little with disliking ambiguous questions or unpredictable situations
+  - Agrees a little with liking to know what to expect and feeling relief after decisions
+  - Agrees a little with wanting to reach solutions quickly
+  - Agrees a little with disliking ambiguous statements
+- Maximizer tendencies:
+  - Disagrees strongly with checking other radio stations when satisfied
+  - Agrees a little with being on lookout for better job opportunities
+  - Agrees a little with difficulty shopping for gifts and finding clothing loved
+  - Neither agrees nor disagrees with having highest standards or never settling for second best
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations
+  - Somewhat true with exceptions about controlling impression and adjusting behavior
+  - Generally true about reading others’ emotions and facial expressions
+  - Somewhat true about detecting lies
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest
+  - Correctly identifies stocks as highest fluctuating and highest return asset over long term
+  - Correctly identifies that investing in stock mutual fund can result in less than initial investment
+  - Correctly identifies that spreading money among assets decreases risk
+  - Correctly identifies required minimum distributions after age 70.5
+  - Estimates 30 years to pay off credit card debt with minimum payments at 12% APR
+  - Correctly answers probability and percentage questions related to lotteries and diseases
+  - Correctly solves math and logic problems (e.g., bat and ball cost, lily pad doubling)
+- Spending habits:
+  - Rates self as 4 on a 1-11 scale from tightwad to spendthrift (closer to tightwad)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B who refrains from buying despite sales
+- Self-reported thoughts during economic decisions:
+  - "I'd like to be fair"
+  - "I'd rather give slightly more to another person to avoid conflict"

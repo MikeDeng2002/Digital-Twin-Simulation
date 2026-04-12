@@ -1,0 +1,14 @@
+Need for Closure: Moderate. Agrees somewhat with disliking uncertainty and unpredictability, prefers structured, ordered life, but not extremely impatient or intolerant of ambiguity. Wants resolution but tolerates some ambiguity.  
+Need for Cognition: Moderate to moderately high. Enjoys intellectual challenges and abstract thinking but does not deliberate excessively. Invests analytical effort but balances with pragmatism.  
+Maximizer: Moderate. Seeks better options and is somewhat selective but does not obsessively maximize. Willing to settle when good enough.  
+Self-Monitoring: Moderate. Notices others’ reactions and can adjust behavior somewhat but not highly flexible or strategic.  
+Self-Concept Clarity: Moderate. Generally stable self-view, little internal conflict, can resist social pressure but values social harmony.  
+Economic Game Gap: Proposer and responder behavior consistent with moderate fairness and pragmatic self-interest. Keeps majority but sends meaningful share; accepts fair offers, rejects unfair ones. Trust game behavior shows moderate trust and reciprocity.  
+Intertemporal Patience: Moderate impatience, prefers sooner rewards unless delayed reward is substantially better.  
+Cognitive Errors: Some errors in logical reasoning tasks, especially with negation and falsification (Wason task), and some semantic errors in vocabulary. Indicates moderate analytic reasoning with occasional heuristic shortcuts or misunderstandings. This implies numeric predictions may be somewhat biased by heuristic thinking and occasional logical oversights.  
+Social Desirability: Moderate. Some admissions of faults and mistakes, some self-criticism, suggesting self-reports are reasonably reliable but may have some positive bias.
+
+w_social estimate: 0.65  
+Reasoning: The estimate is driven by moderate self-monitoring, moderate empathy, and moderate social desirability scores, indicating a fair degree of social awareness and concern for fairness and reputation, but not extreme impression management. The economic game behavior and stated thoughts about fairness reinforce this moderate social weighting. Cognitive test performance and Need for Cognition suggest a balanced reasoning style that incorporates social and analytical inputs. Some conflicts arise from mild depressive symptoms and occasional cognitive errors, but these are resolved by weighting the consistent moderate social and cognitive engagement signals.
+
+# Summary for simulation: This person will produce numeric predictions that reflect moderate analytical effort, a preference for fairness and social harmony, some caution and moderate impatience, and a tendency to avoid extreme or fringe views. Predictions will be somewhat conservative, socially informed, and pragmatically reasoned, with occasional heuristic biases and moderate tolerance for uncertainty.

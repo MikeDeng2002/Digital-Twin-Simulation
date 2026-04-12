@@ -1,0 +1,17 @@
+Need for Closure: High scores on items indicating dislike of uncertainty, preference for order, quick decisions, and discomfort with ambiguity (e.g., "I don’t like situations that are uncertain" = 5, "When I have made a decision, I feel relieved" = 5). This suggests a decision style favoring decisiveness and structure.
+
+Need for Cognition: Moderate agreement with enjoying thinking and problem-solving (e.g., "I like to have the responsibility of handling a situation that requires a lot of thinking" = 4), but not extreme. This aligns with a balanced cognitive engagement.
+
+Maximizer: Disagrees with "I never settle for second best" (2), indicating a satisficer tendency rather than maximizing.
+
+Self-monitoring: Generally high (items mostly 4-5), indicating good social adaptability and awareness of others' emotions (e.g., "I can usually work out when my friends are scared" = 5).
+
+Self-concept clarity: Moderate to high clarity (mostly disagreeing with statements about conflicting self-beliefs), but some minor internal conflicts (e.g., "Even if I wanted to, I don't think I would tell someone what I'm really like" = 4). Overall, a stable but somewhat private self-concept.
+
+Economic games: Proposes fair splits ($2 keep/$3 send), accepts all offers including very unequal ones, and when receiving, tends to keep a moderate share but also returns a fair amount, indicating prosocial but pragmatic fairness.
+
+Cross-scale inference: Need for closure and conscientiousness scales agree on preference for order and thoroughness. Self-monitoring and empathy items agree on good social sensitivity. Economic game behavior aligns with moderate agreeableness and fairness values.
+
+No contradictions apparent; scales present a coherent profile of a conscientious, moderately open, socially aware, moderately anxious but emotionally stable individual with a preference for order and fairness.
+
+w_social estimate: 0.75 -- The respondent shows moderately high social orientation, evidenced by moderate agreeableness (Big Five items 7, 32), high empathy and social sensitivity (Self-monitoring items 10, 14, 16), prosocial economic game behavior (fair offers and acceptance), and strong values on trust, loyalty, and harmony. While not extremely extroverted or maximally altruistic, the consistent pattern across personality, values, and behavior supports a relatively high social weighting in decision-making.

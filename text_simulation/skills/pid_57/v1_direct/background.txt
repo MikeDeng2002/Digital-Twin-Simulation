@@ -1,0 +1,166 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: Postgraduate)
+- Race/origin is Black (Question: What is your race or origin? Answer: Black)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Married (Question: Which of these best describes you? Answer: Married)
+- Religion is Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services once or twice a month (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once or twice a month)
+- Political affiliation is Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views are liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Total family income last year was $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Household size is 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4)
+- Employment status is full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five scale items):
+  - Disagree strongly with being talkative (Item 1: 1)
+  - Disagree strongly with finding fault with others (Item 2: 1)
+  - Agree strongly with doing a thorough job (Item 3: 5)
+  - Disagree strongly with being depressed (Item 4: 1)
+  - Agree strongly with being original and coming up with new ideas (Item 5: 5)
+  - Agree a little with being reserved (Item 6: 4)
+  - Agree strongly with being helpful and unselfish (Item 7: 5)
+  - Disagree strongly with being careless (Item 8: 1)
+  - Agree strongly with being relaxed and handling stress well (Item 9: 5)
+  - Agree a little with being curious about many things (Item 10: 4)
+  - Agree a little with being full of energy (Item 11: 4)
+  - Disagree strongly with starting quarrels (Item 12: 1)
+  - Agree strongly with being a reliable worker (Item 13: 5)
+  - Disagree strongly with being tense (Item 14: 1)
+  - Agree a little with being a deep thinker (Item 15: 4)
+  - Agree strongly with generating enthusiasm (Item 16: 5)
+  - Agree strongly with having a forgiving nature (Item 17: 5)
+  - Disagree strongly with being disorganized (Item 18: 1)
+  - Disagree strongly with worrying a lot (Item 19: 1)
+  - Agree strongly with having an active imagination (Item 20: 5)
+  - Agree a little with being sometimes shy (Item 31: 4)
+  - Agree strongly with being considerate and kind (Item 32: 5)
+  - Agree strongly with doing things efficiently (Item 33: 5)
+  - Agree strongly with remaining calm in tense situations (Item 34: 5)
+  - Agree a little with preferring routine work (Item 35: 4)
+  - Agree a little with being outgoing and sociable (Item 36: 4)
+  - Disagree strongly with being rude (Item 37: 1)
+  - Agree strongly with making plans and following through (Item 38: 5)
+  - Disagree strongly with getting nervous easily (Item 39: 1)
+  - Agree strongly with liking to reflect and play with ideas (Item 40: 5)
+  - Disagree a little with being sophisticated in art, music, or literature (Item 44: 2)
+- Need for Cognition scale responses indicate low preference for effortful thinking:
+  - Disagree a little with preferring complex problems (Item 1: 2)
+  - Disagree strongly with liking responsibility requiring much thinking (Item 2: 1)
+  - Agree a little that thinking is not fun (Item 3: 4)
+  - Agree strongly preferring low thought tasks (Item 4: 5)
+  - Agree a little trying to avoid deep thinking (Item 5: 4)
+  - Disagree a little with satisfaction from deliberating hard (Item 6: 2)
+  - Agree a little with thinking only as hard as necessary (Item 7: 4)
+  - Agree strongly preferring small daily projects (Item 8: 5)
+  - Agree strongly liking tasks requiring little thought once learned (Item 9: 5)
+  - Agree a little that relying on thought to get ahead appeals (Item 10: 4)
+  - Neither agree nor disagree on enjoying new solutions (Item 11: 3)
+  - Neither agree nor disagree on excitement about new ways to think (Item 12: 3)
+  - Disagree a little preferring life filled with puzzles (Item 13: 2)
+  - Neither agree nor disagree on liking abstract thinking (Item 14: 3)
+  - Disagree strongly preferring intellectual difficult tasks (Item 15: 1)
+  - Agree a little feeling relief after mental effort (Item 16: 4)
+  - Agree a little that getting the job done is enough (Item 17: 4)
+  - Disagree a little with deliberating about issues not personally affecting (Item 18: 2)
+- Values rated highly important:
+  - Wealth (9)
+  - Ambition (9)
+  - Equality (9)
+  - Trust (7)
+  - Competence (7)
+  - Altruism (7)
+  - Harmony (7)
+  - Honesty (7)
+  - Compassion (7)
+  - Forgiveness (5)
+  - Humility (5)
+  - Politeness (5)
+  - Excitement (5)
+  - Autonomy (5)
+  - Civility (6)
+- Values rated low or not important:
+  - Loyalty (1)
+  - Power (1)
+  - Status (1)
+  - Recognition (1)
+  - Superiority (1)
+  - Tradition (2)
+- Environmental concern moderate to low:
+  - Agree a little that products should not harm environment (4)
+  - Agree a little considering environmental impact in decisions (4)
+  - Neither agree nor disagree on purchase habits affected by environment (3)
+  - Disagree a little on concern about wasting resources (2)
+  - Neither agree nor disagree on being environmentally responsible (3)
+  - Disagree a little on willingness to be inconvenienced for environment (2)
+- Empathy and social sensitivity:
+  - Disagree strongly that friends’ emotions don’t affect me (1)
+  - Agree a little that after being with sad friend, usually feel sad (4)
+  - Agree strongly can understand friend’s happiness (5)
+  - Agree a little get frightened watching scary movies (4)
+  - Agree a little get caught up in others’ feelings (4)
+  - Disagree strongly find it hard to know when friends frightened (1)
+  - Disagree strongly don’t become sad when others cry (1)
+  - Disagree strongly others’ feelings don’t bother me (1)
+  - Agree strongly usually understand when someone is down (5)
+  - Disagree a little can usually work out when friends are scared (2)
+  - Agree a little often become sad watching sad TV/films (4)
+  - Agree strongly can often understand feelings before told (5)
+  - Disagree a little seeing angered person has no effect (2)
+  - Disagree strongly can usually work out when people are cheerful (1)
+  - Agree strongly tend to feel scared with scared friends (5)
+  - Agree strongly can realize quickly when friend is angry (5)
+  - Agree strongly often get swept up in friends’ feelings (5)
+  - Disagree strongly friend’s unhappiness doesn’t affect me (1)
+  - Disagree strongly not usually aware of friends’ feelings (1)
+  - Disagree strongly have trouble figuring out when friends happy (1)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest than 30-year (True)
+  - Correctly understands inflation reduces purchasing power (money in account with 1% interest and 2% inflation buys less)
+  - Correctly identifies stocks as highest fluctuation asset
+  - Incorrectly answers that investing $1,000 in stock mutual fund cannot result in less than $1,000 (answered False, but correct answer is True)
+  - Correctly identifies diversification decreases risk
+  - Correctly identifies stocks give highest return over long periods
+  - Correctly knows required minimum distributions after age 70.5
+  - Estimates 10 years to pay off credit card debt with minimum payments
+  - Estimates 456 even rolls out of 1,000 die rolls (slightly low)
+  - Estimates 1 person winning $10 prize out of 1,000 tickets at 1% chance (low; expected is 10)
+  - Correctly converts 20/100 chance to 20%
+  - Correctly converts 1 in 1,000 chance to 1%
+  - Correctly estimates 100 people out of 1,000 get disease at 10%
+  - Correctly answers 5 minutes for 100 machines to make 100 widgets
+  - Incorrectly answers ball costs $0.5 in bat and ball problem (correct is $0.05)
+  - Incorrectly answers 24 days for lily pad to cover half lake (correct is 47 days)
+- Cognitive test performance:
+  - Self-estimated correct answers: 25 out of 42
+  - Estimated average correct answers for US adults: 35 out of 42
+- Logical reasoning:
+  - Correctly answers all syllogistic logic questions except one (believes conclusion that bicycles have motors follows from premises that bicycles need oil and all things with motors need oil, which is invalid)
+- Personality self-concept:
+  - Aspires to be resilient, curious, and have integrity; lifelong learner; authentic and empathetic
+  - Believes ought to be responsible, dependable, ethical, with leadership and communication skills
+  - Describes self as dedicated, driven, problem solver, detail-oriented, persistent, adaptable, resourceful, committed to excellence
+- Spending habits:
+  - Describes self as spending more than average (8 on 1-11 scale)
+  - Reports often having trouble limiting spending
+  - Never has trouble spending money
+  - Similar to Mr. A who spends despite not needing items on sale
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no irritability, no disappointment, no crying, no loss of interest in others, no difficulty making decisions, no worthlessness, no sleep problems, no appetite loss, no weight loss, no health worries, no loss of interest in sex
+  - Not purposely trying to lose weight
+- Self-monitoring:
+  - Generally low self-monitoring (mostly "generally false" or "somewhat false" on ability to alter behavior or read others)
+- Self-concept clarity:
+  - Strongly agrees to having clear, consistent self-concept with little internal conflict
+- Need for closure:
+  - Slightly agrees to liking order and routine, but generally low need for closure (disagrees strongly with impatience, discomfort with uncertainty)
+- Maximizer:
+  - Disagrees strongly with maximizing tendencies (does not seek better options, does not have highest standards)
+- Social identity and uniqueness:
+  - Disagrees strongly with seeking uniqueness or breaking social norms in consumption
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $4 and send $1 in Ultimatum game
+  - Rejects offers where other keeps $4 or $5 (i.e., rejects $1 or $0)
+  - In Trust game, keeps $3 and sends $2
+  - As receiver, keeps majority of money sent back (e.g., keeps $8 of $15)
+  - Thoughts during decisions include concern about others' perceptions, avoiding greed, and not wanting to be cheated

@@ -1,0 +1,96 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age group 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: 5)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Other (Question: What is your present religion, if any? Answer: 11 - Other)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 6 - Never)
+- Political party: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: 2 - Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: 5 - Very liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Total family income last year: $75,000-$100,000 (Question: Last year, what was your total family income? Answer: 4)
+- Personality traits (Big Five, from self-report):
+  - Very talkative (Q: I see myself as someone who is talkative. Answer: 5)
+  - Does a thorough job (5)
+  - Not fault-finding (1)
+  - Not depressed (1)
+  - Original and inventive (5)
+  - Helpful and unselfish (5)
+  - Emotionally stable and relaxed (5)
+  - Curious and a deep thinker (5)
+  - Energetic and enthusiastic (5)
+  - Forgiving and trusting (5)
+  - Reliable and persevering (5)
+  - Not disorganized or careless (1)
+  - Not moody or tense (1-2)
+  - Values artistic and aesthetic experiences (5)
+  - Outgoing and sociable (5)
+  - Considerate and kind (5)
+  - Prefers non-routine work (1)
+  - Calm in tense situations (5)
+- Need for Cognition (NFC) scale:
+  - Prefers complex problems (4)
+  - Likes responsibility requiring thinking (5)
+  - Dislikes low thought tasks (1)
+  - Enjoys intellectual challenge (5)
+  - Likes abstract thinking (5)
+  - Enjoys problem solving (5)
+  - Does not avoid thinking (1)
+  - Somewhat deliberates about issues (2)
+- Values (rated as highly important):
+  - Forgiveness, Trust, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Autonomy, Equality (all rated 9)
+  - Competence rated 8
+  - Wealth, Achievement, Power, Status, Ambition, Superiority rated low (1 or 2)
+- Environmental concern: Strongly agrees with environmental responsibility and mindful consumption (all 5s)
+- Empathy and social sensitivity:
+  - Strongly disagrees that friends’ emotions don’t affect him (1)
+  - Agrees somewhat or strongly that he feels others’ emotions (4-5)
+  - Can read friends’ emotions well (4-5)
+  - Does not get unaffected by others’ feelings (1)
+- Cognitive test performance:
+  - Estimated self-correct answers: 25/42
+  - Estimated average US adult correct: 20/42
+  - Correct answers on logical reasoning and syllogisms (mostly "Yes" answers)
+  - Some errors in logical reasoning (e.g., Poodles four legs question answered "No")
+- Financial literacy:
+  - Correct understanding of mortgage, inflation, risk diversification, and investment returns
+  - Correctly answered questions about credit card debt (answer: never eliminated)
+  - Correct answers on probability and percentages
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $0 and send $5 to other person (Ultimatum proposer)
+  - Rejects offers of $5, $4, and $3 when receiver (Ultimatum responder)
+  - Accepts offers of $2, $1, and $0 when receiver
+  - In Trust game, sends $3 (keeps $2) as sender
+  - As receiver, keeps $5 and sends back $10 when receiving $5 (tripled)
+  - Keeps $5 and sends back $7 when receiving $4 (tripled)
+  - Keeps $4 and sends back $5 when receiving $3 (tripled)
+  - Keeps $3 and sends back $3 when receiving $2 (tripled)
+  - Keeps $1 and sends back $2 when receiving $1 (tripled)
+  - Thoughts during decisions: fairness, generosity, kindness, helping, karma, caring, honesty, hope, goodwill
+- Self-concept clarity:
+  - Strongly agrees to having a clear and consistent self-concept (items 6, 11)
+  - Strongly disagrees with conflicting or changing self-beliefs (items 1-5, 7-9)
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty, unpredictability, and ambiguous situations (items 1,2,6,10,11,15)
+  - Disagrees with impatience or urgency to solve problems immediately (items 8,9)
+- Maximizer scale:
+  - Strongly agrees with having highest standards and never settling for second best (items 5,6)
+  - Neither agrees nor disagrees on some items about searching for better options (items 1,2)
+- Self-monitoring:
+  - Strongly agrees with ability to alter behavior to suit social situations (items 1-3,5,7)
+  - Strongly agrees with ability to read others’ emotions and detect lies (items 8-13)
+- Depression and mood:
+  - Reports no symptoms of sadness, discouragement, guilt, irritability, or loss of interest (all lowest severity options)
+  - Reports no sleep, appetite, or energy problems
+  - Not purposely trying to lose weight
+- Spending habits:
+  - Neither tightwad nor spendthrift (6/11)
+  - Sometimes has trouble limiting spending and sometimes trouble spending money (both "Sometimes")
+  - Neither similar to Mr. A nor Mr. B in shopping spree scenario (3 - About the same or neither)
+- Self-reported aspirational, ought, and actual self:
+  - Aspires to be kind, generous, honest
+  - Ought to be kind, generous, honest
+  - Actually is kind, generous, honest

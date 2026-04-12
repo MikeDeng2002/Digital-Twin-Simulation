@@ -1,0 +1,216 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age between 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race/origin: Other (Question: What is your race or origin? Answer: Other)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Other (Question: What is your present religion, if any? Answer: Other)
+- Attends religious services once or twice a month (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once or twice a month)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Home-maker (Question: What is your current employment status? Answer: Home-maker)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly with being talkative (1 - Disagree strongly)
+  - Agree a little to finding fault with others (4)
+  - Agree a little to doing a thorough job (4)
+  - Agree a little to being depressed, blue (4)
+  - Agree a little to being original, coming up with new ideas (4)
+  - Agree strongly to being reserved (5)
+  - Agree a little to being helpful and unselfish (4)
+  - Agree a little to being somewhat careless (4)
+  - Disagree a little to being relaxed, handling stress well (2)
+  - Agree strongly to being curious about many different things (5)
+  - Disagree strongly to being full of energy (1)
+  - Disagree a little to starting quarrels (2)
+  - Agree a little to being a reliable worker (4)
+  - Agree strongly to being tense (5)
+  - Agree a little to being ingenious, a deep thinker (4)
+  - Agree strongly to generating a lot of enthusiasm (5)
+  - Agree a little to having a forgiving nature (4)
+  - Agree a little to being disorganized (4)
+  - Agree a little to worrying a lot (4)
+  - Agree strongly to having an active imagination (5)
+  - Agree strongly to being quiet (5)
+  - Agree a little to being generally trusting (4)
+  - Disagree strongly to being lazy (1)
+  - Disagree a little to being emotionally stable (2)
+  - Agree a little to being inventive (4)
+  - Disagree a little to having an assertive personality (2)
+  - Agree a little to being cold and aloof (4)
+  - Disagree a little to persevering until task is finished (2)
+  - Agree strongly to being moody (5)
+  - Agree strongly to valuing artistic, aesthetic experiences (5)
+  - Agree strongly to being sometimes shy, inhibited (5)
+  - Agree a little to being considerate and kind to almost everyone (4)
+  - Disagree a little to doing things efficiently (2)
+  - Disagree a little to remaining calm in tense situations (2)
+  - Agree a little to preferring routine work (4)
+  - Disagree a little to being outgoing, sociable (2)
+  - Agree a little to being sometimes rude to others (4)
+  - Agree a little to making plans and following through (4)
+  - Agree strongly to getting nervous easily (5)
+  - Agree strongly to liking to reflect and play with ideas (5)
+  - Disagree strongly to having few artistic interests (1)
+  - Agree strongly to liking to cooperate with others (5)
+  - Agree strongly to being easily distracted (5)
+  - Agree strongly to being sophisticated in art, music, or literature (5)
+- Need for Cognition scale:
+  - Strongly agrees preferring complex problems (5)
+  - Agrees a little to liking responsibility requiring thinking (4)
+  - Strongly disagrees that thinking is not fun (1)
+  - Strongly disagrees preferring little thought tasks (1)
+  - Strongly disagrees avoiding deep thinking (1)
+  - Agrees a little to satisfaction in deliberating hard (4)
+  - Strongly disagrees thinking only as hard as necessary (1)
+  - Disagrees a little preferring small daily projects (2)
+  - Agrees a little liking tasks requiring little thought once learned (4)
+  - Disagrees a little that relying on thought to get ahead appeals (2)
+  - Disagrees a little enjoying tasks involving new solutions (2)
+  - Strongly disagrees learning new ways to think doesn't excite (1)
+  - Strongly disagrees preferring life filled with puzzles (1)
+  - Strongly agrees thinking abstractly appeals (5)
+  - Strongly agrees preferring intellectual, difficult tasks (5)
+  - Disagrees a little feeling relief rather than satisfaction after mental effort (2)
+  - Strongly disagrees that it's enough that something gets the job done (1)
+  - Agrees a little deliberating about issues not personally affecting (4)
+- Values rated as highly important (7-9 scale):
+  - Altruism (9)
+  - Harmony (9)
+  - Honesty (9)
+  - Compassion (9)
+  - Autonomy (9)
+  - Equality (9)
+  - Trust (8)
+  - Civility (8)
+  - Loyalty (7)
+  - Politeness (7)
+  - Competence (5)
+  - Humility (5)
+  - Achievement (4)
+  - Wealth (3)
+  - Influence (3)
+  - Tradition (3)
+  - Pleasure (6)
+  - Forgiveness (2)
+  - Ambition (1)
+  - Power (1)
+  - Excitement (1)
+  - Status (1)
+  - Recognition (2)
+  - Superiority (1)
+- Environmental concern:
+  - Strongly agrees that products used should not harm environment (5)
+  - Strongly agrees considering environmental impact in decisions (5)
+  - Strongly agrees purchase habits affected by environmental concern (5)
+  - Strongly agrees concerned about wasting planet resources (5)
+  - Agrees a little describes self as environmentally responsible (4)
+  - Strongly agrees willing to be inconvenienced for environmentally friendly actions (5)
+- Self-concept clarity:
+  - Strongly agrees having a clear sense of who they are (5)
+  - Disagrees strongly that beliefs about self often conflict (1)
+  - Disagrees strongly that opinions of self change day to day (1)
+  - Disagrees strongly spending a lot of time wondering who they really are (1)
+  - Disagrees strongly feeling not really the person they appear to be (1)
+  - Disagrees a little unsure about past self (2)
+  - Agrees a little seldom experiences conflict between personality aspects (4)
+  - Disagrees strongly thinking they know others better than self (1)
+  - Disagrees strongly beliefs about self change frequently (1)
+  - Disagrees strongly that description of personality would differ day to day (1)
+  - Disagrees strongly that they wouldn't tell someone what they're really like (1)
+  - Agrees a little that it is often hard to make up mind because unsure what they want (4)
+- Need for Closure:
+  - Agrees a little to disliking uncertain situations (4)
+  - Disagrees a little disliking questions with many answers (2)
+  - Strongly agrees well-ordered life suits temperament (5)
+  - Agrees a little uncomfortable not understanding reasons for events (4)
+  - Disagrees a little irritated when one person disagrees with group (2)
+  - Strongly agrees dislike going into situations without knowing what to expect (5)
+  - Agrees a little relieved when making decisions (4)
+  - Strongly agrees dying to reach solution quickly (5)
+  - Agrees a little would become impatient if no immediate solution (4)
+  - Agrees a little dislike being with people capable of unexpected actions (4)
+  - Disagrees a little dislike ambiguous statements (2)
+  - Strongly agrees establishing consistent routine helps enjoy life (5)
+  - Strongly agrees enjoys clear and structured life mode (5)
+  - Agrees a little does not usually consult many opinions before forming view (4)
+  - Strongly agrees dislike unpredictable situations (5)
+- Maximizer scale:
+  - Disagrees strongly checking other radio stations when satisfied (1)
+  - Disagrees a little that it's right to look for better job opportunities (2)
+  - Agrees a little finds it difficult to shop for a gift (4)
+  - Agrees a little has hard time finding clothing they really love (4)
+  - Disagrees a little having highest standards for self (2)
+  - Disagrees a little never settling for second best (2)
+- Self-monitoring:
+  - Generally false to ability to alter behavior in social situations (2)
+  - Generally false to ability to control impression given (2)
+  - Generally false to ability to change image when not working (2)
+  - Generally true to having trouble changing behavior to suit different people/situations (5)
+  - Generally false to adjusting behavior to meet any situation (2)
+  - Generally true to difficulty putting up a good front (5)
+  - Somewhat false with exceptions to regulating actions once situation known (3)
+  - Somewhat false with exceptions to reading true emotions through eyes (3)
+  - Generally true to sensitivity to slight facial expression changes (5)
+  - Somewhat false with exceptions to intuition about others' emotions/motives (3)
+  - Generally true to telling when joke is in bad taste (5)
+  - Generally true to telling when said something inappropriate by listener's eyes (5)
+  - Certainly always false to knowing when someone is lying from manner of expression (1)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 to other person in $5 split (Question: How much would you propose to keep/send? Answer: Keep $2, send $3)
+  - Accepts all offers except $0 to self (accepts $0-$4 offers, rejects $0 offer to self)
+  - When receiving money in trust game, returns a fair share but keeps some:
+    - If sent $5 (tripled to $15), keeps $7, sends back $8
+    - If sent $4 (tripled to $12), keeps $6, sends back $6
+    - If sent $3 (tripled to $9), keeps $5, sends back $4
+    - If sent $2 (tripled to $6), keeps $3, sends back $3
+    - If sent $1 (tripled to $3), keeps $2, sends back $1
+  - Thoughts during decision making:
+    - When deciding how much to keep/send: wants to trust but hedge, sends close to half, wants to be fair, wishes could split evenly
+    - When deciding how much to keep/send back: wants to reward generosity, keep some for self, ensure sender gets back more than sent
+- Cognitive test performance:
+  - Estimated 36/42 correct answers (self-assessed)
+  - Estimates average US adult would get 16/42 correct
+  - Correctly answered logical reasoning and syllogistic reasoning questions
+  - Correctly answered synonym and antonym vocabulary questions
+  - Correctly answered various cognitive puzzles and spatial reasoning tasks
+- Financial literacy:
+  - Correctly understands mortgage payment and interest tradeoffs
+  - Understands inflation reduces purchasing power
+  - Recognizes stocks have highest fluctuations and returns over long term
+  - Understands diversification reduces risk
+  - Knows about 401(k) withdrawal rules (though answered false to required withdrawal after 70.5)
+  - Knows credit card debt with minimum payments may never be eliminated
+  - Correctly answers probability and expected value questions
+  - Correctly solves classic bat and ball and lily pad doubling problems
+- Delay discounting and risk preferences:
+  - Prefers smaller-sooner rewards over larger-later rewards consistently until amounts equal or better
+  - Prefers certain money over lotteries at low amounts, switches preference as certain amount increases
+  - Prefers avoiding losses and prefers sure outcomes over risky losses
+- Spending habits:
+  - Rates self as 7 on spending scale (moderate to somewhat spendthrift)
+  - Reports often having trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to Mr. A (who spends despite not needing items) than Mr. B (who refrains due to money concerns)
+- Depression and mood:
+  - Feels sad and discouraged about future
+  - Does not feel like a failure or worthless
+  - Gets as much satisfaction as before
+  - Does not feel particularly guilty or punished
+  - Does not feel disappointed or worse than others
+  - Does not cry more than usual
+  - Gets annoyed or irritated more easily than before
+  - Has not lost interest in others
+  - Makes decisions as well as before
+  - Can work about as well as before but sometimes has to push self hard
+  - Sleeps less well, wakes earlier, finds it hard to get back to sleep
+  - Gets tired from doing almost anything
+  - Appetite no worse than usual, no significant weight loss
+  - Not more worried about health than usual, but some concern about aches/pains
+  - No recent change in interest in sex
+  - Not purposely trying to lose weight
+- Self-reported personal aspirations and self-description:
+  - Aspires to create beautiful things that bring joy, maintain conscious connection to divinity, make world better
+  - Ought to hold a job, contribute financially, keep house cleaner, pursue spiritual path, organize against fascism behind scenes
+  - Actually in pain limiting activity and focus, tries to fulfill responsibilities but falls short, loves playing with words, creating order, learning, laughing with friends

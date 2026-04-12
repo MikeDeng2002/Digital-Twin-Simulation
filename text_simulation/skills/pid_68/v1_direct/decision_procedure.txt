@@ -1,0 +1,29 @@
+- Need for Closure:
+  - Dislikes uncertainty a little (Item 1: 2 - Disagree a little)
+  - Dislikes ambiguous questions a little (Item 2: 2 - Disagree a little)
+  - Does not prefer well-ordered life (Item 3: 1 - Disagree strongly)
+  - Likes to know what to expect (Item 6: 4 - Agree a little)
+  - Mixed feelings about impatience for quick solutions (Item 8: 2 - Disagree a little; Item 9: 3 - Neither agree nor disagree)
+- Need for Cognition:
+  - Prefers complex problems (Item 1: 5 - Agree strongly)
+  - Likes responsibility requiring thinking (Item 2: 4 - Agree a little)
+  - Only thinks as hard as necessary (Item 7: 5 - Agree strongly)
+  - Prefers puzzles and abstract thinking (Items 13,14: 5 - Agree strongly)
+  - Some ambivalence about enjoyment of thinking (Item 3: 3 - Neither agree nor disagree)
+- Maximizer:
+  - Never settles for second best (Item 6: 5 - Agree strongly)
+  - Sometimes checks for better options (Item 1: 4 - Agree a little)
+  - Has highest standards for self (Item 5: 2 - Disagree a little)
+- Self-monitoring:
+  - Can alter behavior in social situations (Item 1: 6 - Certainly true)
+  - Can control impression (Item 2: 4 - Somewhat true)
+  - Sometimes difficulty changing behavior (Item 3: 3 - Somewhat false)
+  - Generally can adjust behavior (Item 5: 5 - Generally true)
+- Self-concept clarity:
+  - Beliefs about self often conflict (Item 1: 4 - Agree a little)
+  - Spends time wondering about self (Item 3: 4 - Agree a little)
+  - Sometimes feels not really self (Item 4: 5 - Agree strongly)
+  - Clear sense of self: Disagree a little (Item 11: 2)
+  - Beliefs about self change frequently (Item 8: 4 - Agree a little)
+
+w_social estimate: 0.6 -- This estimate is based on moderate to high self-monitoring scores (Items 1 and 5), moderate need for cognition with some ambivalence, low to moderate need for closure, and moderate self-concept clarity indicating some internal conflict but also adaptability in social contexts.

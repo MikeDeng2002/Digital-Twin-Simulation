@@ -1,0 +1,42 @@
+Need for Closure: Moderate-low. Disagrees strongly with dislike of uncertainty, but only "agrees a little" with urgency to resolve problems quickly. Prefers well-ordered life but tolerates ambiguity.
+
+Need for Cognition: High. Enjoys complex problems, intellectual challenge, and deep thinking.
+
+Maximizer: Moderate. Engages in comparison and seeks good solutions but not perfectionistic.
+
+Self-monitoring: Moderate-high. Can adjust behavior in social situations but not always fully; aware of others' emotions and reactions.
+
+Self-concept Clarity: High. Clear and stable self-view, little internal conflict, resists social pressure.
+
+Economic Game Gap: Proposer in dictator game keeps 60%, receiver accepts all fair offers, returns about half in trust game. Behavior consistent with conditional fairness and reciprocity, no major strategic deception.
+
+Intertemporal Patience: Moderate to high. Prefers larger delayed rewards consistently, indicating future orientation.
+
+Cognitive Errors: Minor errors in abstract reasoning and some logical fallacies (e.g., accepting some invalid syllogisms), but overall strong logical and verbal reasoning. Good numeric estimation and probabilistic reasoning.
+
+Social Desirability: Moderate. Generally honest self-reporting with some impression management.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a profile of a well-educated, cognitively capable individual with high need for cognition and moderate need for closure, who engages in thoughtful, analytical processing but also incorporates social and emotional information due to high empathy. The economic game behavior shows conditional fairness and reciprocity, consistent with moderate social trust but self-interest. The moderate social desirability and self-monitoring suggest self-reports are fairly reliable but with some social awareness. The cognitive test performance supports strong reasoning ability, which will aid in numeric prediction tasks. The moderate minimalism and consumerism attitudes imply careful curation of information, avoiding overload and fads. Conflicts between some personality traits (e.g., some moodiness vs. emotional stability) are resolved by weighting cognitive and behavioral evidence more heavily. Overall, this person is likely to produce numeric predictions that are analytically grounded, moderately patient, socially informed, and cautious but not overly risk-averse or impulsive.
+
+# Final skill profile summary for simulating numeric predictions:
+
+- Demographics: Older, educated, financially stable, widowed female in the US South, moderate political views, retired.  
+- Personality: High conscientiousness, moderate openness, moderate extraversion, moderate neuroticism, moderate agreeableness.  
+- Cognitive style: High need for cognition, moderate need for closure, strong logical and verbal reasoning, good numeric and probabilistic skills.  
+- Values: Autonomy, competence, harmony, equality, influence, loyalty, trust, wealth, and pleasure prioritized; low power and competition.  
+- Social cognition: High empathy, moderate self-monitoring, stable self-concept.  
+- Economic behavior: Fair but self-interested, reciprocal, moderately patient.  
+- Information behavior: Deep, analytical research; prefers balanced, reputable sources; avoids partisan extremes and fads; curates information carefully.  
+- Mood and motivation: Mild self-criticism and guilt, some motivational challenges but no major depression or anxiety.  
+- Social desirability: Moderate, self-reports mostly reliable.
+
+This profile predicts numeric predictions that are:  
+- Thoughtful and well-reasoned, incorporating multiple perspectives.  
+- Moderately patient and future-oriented, avoiding impulsive or overly optimistic forecasts.  
+- Sensitive to social and emotional context, possibly adjusting predictions based on perceived social consensus or impact.  
+- Cautious about uncertainty but willing to tolerate ambiguity and complexity.  
+- Likely to avoid extreme or sensational predictions, favoring moderate, evidence-based estimates.
+
+This skill profile should enable realistic simulation of this person's numeric predictions on open questions like Bitcoin price or AGI arrival year, reflecting a balance of analytical rigor, social awareness, and cautious optimism.

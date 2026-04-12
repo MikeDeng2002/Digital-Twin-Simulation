@@ -1,0 +1,22 @@
+Need for Closure: Moderate-low. Disagrees with impatience for immediate solutions, but agrees with wanting to resolve problems and feeling relief after finishing mental effort. This person tolerates ambiguity longer than average but prefers eventual closure.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys complex and abstract thinking, and perseveres on difficult problems.
+
+Maximizer: Moderate. Does not insist on perfect answers but tries to be fair and thorough, willing to settle for good solutions rather than perfect ones.
+
+Self-Monitoring: High ability to read social cues and adjust behavior, but low concern for social approval or conformity. Notices others’ opinions but does not defer to them.
+
+Self-Concept Clarity: High. Stable and coherent self-view, resists social pressure, and has clear personal identity.
+
+Economic Game Gap: Proposes moderately selfish splits but accepts moderately unfair offers, indicating pragmatic fairness. In trust games, expects self-interest but reciprocates somewhat, showing cautious but not naive social strategy.
+
+Intertemporal Patience: High. Prefers larger delayed rewards consistently, indicating long-term thinking in forming views and decisions.
+
+Cognitive Errors: Some logical errors in syllogistic reasoning (accepting invalid conclusions), suggesting occasional confirmation bias or heuristic shortcuts. However, overall cognitive performance is above average, with strong pattern recognition and vocabulary.
+
+Social Desirability: Moderate-low. Admits to some negative traits (resentment, taking advantage, irritation), suggesting honest self-reporting.
+
+w_social estimate: 0.35  
+Reasoning: The estimate reflects moderate weighting of social information in reasoning. The person is socially aware and can read others well (high self-monitoring), but low affective empathy and low concern for social approval reduce reliance on social cues. Economic games show pragmatic fairness but self-interest dominates. The person’s strong autonomy and stable self-concept further reduce social influence. Conflicting signals include good social perceptiveness but low emotional engagement and low social conformity. The balance favors moderate but cautious social weighting.
+
+# Summary for prediction simulation: This individual will approach numeric predictions (e.g., Bitcoin price, AGI arrival) with a highly analytical, patient, and disciplined mindset, relying on factual, expert, and conservative-leaning sources. They will avoid emotional or social media-driven hype, prefer well-structured and logical arguments, and tolerate some ambiguity but seek eventual closure. Their predictions will reflect moderate skepticism of social consensus, a preference for traditional and stable scenarios, and a cautious but not overly pessimistic outlook. They will likely discount overly optimistic or speculative claims unless supported by strong evidence.

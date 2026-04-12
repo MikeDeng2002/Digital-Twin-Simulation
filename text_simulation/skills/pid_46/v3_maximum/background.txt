@@ -1,0 +1,48 @@
+Demographics: Male, age 30-49, Asian, living in the Southern US, married, Protestant (attends religious services a few times a year), US citizen, politically independent with moderate views, full-time employed, household size 2, family income $30,000-$50,000. This suggests a middle-income, moderately religious, family-oriented adult with a stable employment situation but modest financial means. The Southern US and Asian ethnicity may imply exposure to diverse cultural influences but also potential minority status in the region.
+
+Big Five Personality (44 items):  
+- Very low Extraversion: strongly disagree with talkative, full of energy, outgoing, assertive, enthusiastic; strongly agree with reserved, quiet, aloof, emotionally stable, relaxed.  
+- Very low Agreeableness: strongly agree with finding fault, cold and aloof, disagree strongly with helpfulness, forgiveness, kindness, cooperation, trust.  
+- Neutral Conscientiousness: mostly "neither agree nor disagree" on reliability, organization, efficiency, perseverance, carefulness.  
+- Very low Openness: strongly disagree with originality, imagination, ingenuity, artistic interests, sophistication, curiosity, intellectual engagement.  
+- Very low Neuroticism: disagree strongly with worry, tension, moodiness; agree strongly with emotional stability and calmness.
+
+Need for Cognition (18 items): Very low. Strongly disagree with preference for complex problems, intellectual challenges, abstract thinking, deep thought, and enjoyment of thinking. Strongly agree with preferring little thought, avoiding mental effort, and thinking only as hard as necessary.
+
+Values (24 items):  
+- Highest: Autonomy (9), Equality (6), Pleasure (6), Wealth (5), Trust (4), Power (4)  
+- Very low or not important: Forgiveness, Influence, Competence, Humility, Achievement, Altruism, Ambition, Loyalty, Harmony, Honesty, Compassion, Status, Civility, Recognition, Tradition, Superiority (mostly 1 or 2).  
+This indicates a worldview valuing independence, some social equality, moderate enjoyment of life, and moderate financial success, but little concern for social harmony, altruism, or traditional social values.
+
+Minimalism (12 items): Moderate minimalist tendencies. Agrees somewhat with avoiding excess possessions, drawn to sparse environments, preferring simplicity in design, leaving spaces empty, mindful selection of belongings. Less agreement on careful curation or strong mindfulness.
+
+Empathy (20 items): Very low empathy. Strongly agrees that friends’ emotions don’t affect him, does not get sad or frightened by others’ feelings, does not get caught up in others’ emotions, and generally does not notice or understand friends’ feelings well.
+
+Consumerism/Uniqueness: Strongly disagrees with seeking uniqueness or originality through products, breaking social rules in consumption, or avoiding popular products. Slight agreement with breaking customs/rules in product use, but overall low interest in consumer uniqueness or trend-following.
+
+Cognitive Test Performance:  
+- Correctly answered simple logic and reasoning puzzles (e.g., Emily’s daughter, cubic feet in a hole, race position).  
+- Correct on some syllogistic reasoning but made errors on others (e.g., incorrectly accepted invalid syllogisms).  
+- Moderate performance on spatial puzzles (selected plausible answers but some inconsistency).  
+- Word associations show a linear, concrete, and practical chain from snow to money, with no abstract or creative leaps.  
+- Vocabulary synonyms mostly correct except one error (FURTIVE synonym chosen as "heinous" instead of "stealthy"). Antonyms mostly correct except one (INDOLENT synonym chosen as "arduous" which is opposite).  
+- Self-estimated cognitive test score 21/42, below average estimate of 25/42 for US adults, indicating modest confidence in cognitive ability.
+
+Social Desirability: Low. Self-reports show little concern for social approval, e.g., admits to taking advantage of others, not always courteous, sometimes rude, does not forgive easily, and is skeptical of others’ honesty.
+
+Self-Concept Clarity: High. Strong agreement with stable, clear self-view, no internal conflicts, consistent personality self-description.
+
+Need for Closure: High. Strong agreement with disliking uncertainty, ambiguity, unpredictability, and desire for quick resolution.
+
+Maximizer Scale: Low. Disagrees with seeking best options, comparison shopping, or never settling for second best. Shows some acceptance of satisficing.
+
+Self-Monitoring: Moderate. Some ability to adjust behavior in social situations but limited sensitivity to others’ emotions or subtle social cues.
+
+Economic Games:  
+- Dictator game: keeps all money for self, sends nothing.  
+- Ultimatum game: rejects low offers, accepts only fair or better offers.  
+- Thoughts reveal cynical, distrustful, and self-interested attitudes toward others in economic sharing.
+
+Intertemporal Choice: Strong preference for immediate rewards over delayed ones, indicating impatience and short-term focus.
+
+Depression and Mood: Reports feeling sad, discouraged, hopeless, and having lost interest in others, but denies feeling worthless or like a failure. Some irritability and tiredness noted, but no major physical health worries or sleep problems.

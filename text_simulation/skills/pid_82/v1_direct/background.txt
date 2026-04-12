@@ -1,0 +1,74 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 18-29 (Question: How old are you? Answer: 18-29)
+- Education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Relationship status: Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as Liberal? Answer: Liberal)
+- Total family income last year: $50,000-$75,000 (Question: Last year, what was your total family income? Answer: $50,000-$75,000)
+- Household size: 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five, selected items):
+  - Does a thorough job (Agree strongly, #3)
+  - Is reserved (Agree strongly, #6)
+  - Is helpful and unselfish with others (Agree strongly, #7)
+  - Is curious about many different things (Agree strongly, #10)
+  - Is a reliable worker (Agree strongly, #13)
+  - Worries a lot (Agree strongly, #19)
+  - Values artistic, aesthetic experiences (Agree strongly, #30)
+  - Is sometimes shy, inhibited (Agree strongly, #31)
+  - Is considerate and kind to almost everyone (Agree strongly, #32)
+  - Has few artistic interests (Disagree a little, #41)
+  - Is sophisticated in art, music, or literature (Agree strongly, #44)
+- Need for Cognition scale responses indicate low enjoyment of thinking tasks and preference for less cognitive effort (e.g., prefers tasks requiring little thought, disagrees with enjoying complex problems, #1, #2, #4, #6, #8, #9)
+- Values rated highly (7-9 scale):
+  - Pleasure (9)
+  - Trust (9)
+  - Competence (8)
+  - Altruism (8)
+  - Loyalty (9)
+  - Politeness (9)
+  - Harmony (9)
+  - Excitement (9)
+  - Honesty (9)
+  - Compassion (9)
+  - Civility (9)
+  - Equality (9)
+- Values rated low (1-3 scale):
+  - Ambition (3)
+  - Power (2)
+  - Status (2)
+  - Recognition (1)
+  - Superiority (1)
+- Environmental concern is low to moderate (mostly disagree a little, some agree a little on wasting resources and willingness to be inconvenienced)
+- Empathy and social sensitivity: Generally agrees with being able to understand and feel others' emotions (e.g., "I can usually work out when my friends are scared" Agree strongly, #10; "I can often understand how people are feeling even before they tell me" Agree strongly, #12; "I can usually realize quickly when a friend is angry" Agree strongly, #16)
+- Cognitive test self-estimate: Believes answered 22 out of 42 correctly; estimates average person would answer 30 correctly
+- Financial literacy: Mixed; some correct answers, some "do not know" responses; e.g., does not know inflation effect on savings, unsure about risk diversification, unsure about long-term returns on stocks
+- Economic game behavior: Proposes to keep $3 and send $2 in ultimatum game; accepts all offers as receiver, including unfair ones; in trust game, keeps $3 and sends $2; as receiver, tends to keep majority but sends back some money (e.g., keeps $10 of $15, sends back $5)
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes given up due to low self-belief (True)
+  - Always a good listener (True)
+  - Always willing to admit mistakes (True)
+  - Always courteous (True)
+  - Sometimes jealous of others' good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Does not try to get even (False)
+  - Has been irked by differing ideas (False)
+  - Has deliberately hurt someone's feelings (False)
+- Self-concept: Aspires to be kindhearted, thoughtful, driven, hardworking, motivated, confident; believes ought to be driven and hardworking; actually is kind, sensitive, thoughtful, needs downtime
+- Spending habits: Neither tightwad nor spendthrift; sometimes has trouble limiting spending; rarely has trouble spending money; similar to Mr. A who spends despite not needing items
+- Depression symptoms: Feels sad and discouraged about future; feels guilty most of the time; feels disappointed in self; less interested in others than before; no loss of appetite or sleep problems; purposely trying to lose weight by eating less
+- Self-monitoring: Moderate; somewhat true that can alter behavior but with exceptions; generally good at reading others' emotions
+- Self-concept clarity: Mixed; some agreement that beliefs about self change; some uncertainty about self-knowledge; sometimes has difficulty making up mind
+- Need for Closure: Strong agreement with disliking uncertainty, preference for order and routine, discomfort with ambiguous situations, desire for quick solutions
+- Maximizer scale: Some tendency to check for better options (e.g., radio stations), but does not strongly seek better opportunities or have highest standards
+- Logical reasoning: Correctly answers all syllogistic logic questions affirming conclusions follow from premises
+- Language vocabulary tests: Mostly incorrect or inconsistent answers on synonym and antonym questions (e.g., synonym for CONCUR answered as "divulge" which is incorrect)
+- Cognitive puzzles: Correctly solves spatial and pattern puzzles (answers indicate understanding of rotations and pattern completion)
+- Lottery and risk preferences: Prefers certain smaller amounts over risky lotteries with equal or higher expected value, indicating risk aversion
+- Delay discounting: Prefers smaller-sooner rewards over larger-later rewards, indicating impatience or higher discount rate

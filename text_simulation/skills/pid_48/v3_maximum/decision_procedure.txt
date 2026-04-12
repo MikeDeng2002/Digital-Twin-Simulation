@@ -1,0 +1,22 @@
+Need for Closure: Moderate. The participant prefers clear decisions and structured life but tolerates some ambiguity. They feel relief after decisions and dislike unpredictable situations but do not become impatient quickly. This suggests a balanced approach to uncertainty, willing to wait for good information but not indefinitely.
+
+Need for Cognition: Very high. The participant enjoys complex problems, intellectual challenges, and deep thinking, but also strategically limits effort when sufficient. This implies a strong analytical approach to numeric predictions, with a preference for well-reasoned, evidence-based conclusions.
+
+Maximizer: Moderate. The participant seeks high standards and does not settle for second best but accepts "good enough" when appropriate. This suggests they will seek the best available numeric forecasts but will not be paralyzed by endless comparison.
+
+Self-Monitoring: High. The participant is socially aware, able to read others’ emotions, and adjust behavior accordingly. This implies sensitivity to social norms and expectations, which may influence expressed numeric predictions to align with perceived social desirability or group consensus.
+
+Self-Concept Clarity: Moderate to high. The participant has a generally clear self-view but acknowledges some variability and self-questioning. They are guarded about revealing their true self, indicating some resistance to social pressure but also some internal conflict.
+
+Economic Game Gap: The participant’s dictator and ultimatum game behavior shows moderate fairness but self-interest, with willingness to punish unfair offers. This suggests a pragmatic but socially aware decision style, balancing self-benefit with fairness norms.
+
+Intertemporal Patience: High. The participant consistently prefers delayed larger rewards over immediate smaller ones, indicating long-term thinking in forming views and predictions.
+
+Cognitive Errors: Minor errors in semantic synonym/antonym tasks and one logical fallacy suggest occasional overconfidence or semantic slips but overall strong logical reasoning. Spatial reasoning is moderate but not perfect. This implies numeric predictions will be generally logical and well-structured but may occasionally miss subtle nuances or overestimate certainty.
+
+Social Desirability: Moderate to high. The participant shows some guardedness and social desirability bias but also admits faults. Self-reports are mostly reliable but should be interpreted with some caution.
+
+w_social estimate: 0.75  
+Reasoning: The participant’s high self-monitoring, moderate social desirability, and guarded self-disclosure suggest that social context influences their expressed numeric predictions substantially, but their strong cognitive ability and clear self-concept provide a counterbalance. They are likely to produce predictions that are socially acceptable and norm-aligned but grounded in deep analytical reasoning. Conflicts between desire for autonomy (high autonomy value) and social conformity (high politeness, civility) are resolved by strategic self-presentation and selective disclosure.
+
+Summary: This person is a highly educated, cognitively capable, and socially aware older male with a conservative independent political stance and a strong preference for fairness, autonomy, and integrity. He approaches numeric prediction tasks with deep analytical effort, patience, and a moderate need for closure, balancing thoroughness with pragmatic satisficing. His predictions will be influenced by social norms and expectations but remain fundamentally reasoned and evidence-based. He is likely to consult high-quality, curated, and conservative-leaning information sources, avoid fads, and prefer stable, well-structured data. His economic game behavior and intertemporal choices indicate pragmatic fairness and long-term orientation, which will manifest in cautious but confident numeric forecasts.

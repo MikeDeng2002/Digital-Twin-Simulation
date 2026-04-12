@@ -1,0 +1,27 @@
+Given the individual’s high school education and moderate income ($30,000-$50,000), their access to information sources is likely limited to widely available, low-cost or free platforms rather than specialized academic or subscription-based resources. Their educational background suggests familiarity with mainstream digital and broadcast media but less comfort with dense or technical content, aligning with their low Need for Cognition score, which indicates a preference for simpler, less cognitively demanding information. This implies a shallow to moderate depth of research engagement, favoring easily digestible summaries or opinion pieces over in-depth analysis or primary source materials.
+
+Politically, as a very liberal Independent, they are likely to prefer sources that align with progressive viewpoints but may avoid highly partisan outlets, especially those with strong Republican or conservative biases. Their political independence suggests some openness to diverse perspectives but with a liberal leaning, so they might gravitate toward centrist to left-leaning news platforms that are perceived as credible and socially conscious.
+
+Their very high empathy scores indicate a strong reliance on social networks and interpersonal communication for information gathering. They likely trust friends, family, and community members as key sources, valuing emotional resonance and social validation over detached or purely factual reporting. This social reliance may extend to platforms with active community engagement, such as Facebook groups or WhatsApp chats, where information is shared within trusted circles.
+
+The individual’s strong minimalism orientation suggests they curate their information environment carefully, avoiding information overload and preferring concise, relevant content. They likely favor platforms that allow filtering or personalization, such as news apps with customizable feeds or curated newsletters, rather than broad, unfiltered information streams.
+
+Their low maximizer tendencies and moderate self-monitoring imply limited comparison-shopping across multiple sources; they may settle on a few trusted outlets rather than exhaustively seeking the “best” or most comprehensive information. This is consistent with their cognitive profile, which shows difficulties with abstract reasoning and logical evaluation, suggesting challenges in critically assessing source quality or detecting misinformation. They may be vulnerable to accepting information that confirms their existing beliefs or that is presented in an emotionally compelling way, rather than rigorously fact-checked or balanced.
+
+Based on these signals, likely information sources include:
+
+- Mainstream liberal-leaning news websites and apps such as NPR, Huffington Post, or Vox, which offer accessible language and socially conscious content. Confidence: moderate.
+
+- Social media platforms with strong community features, especially Facebook and WhatsApp, where information is shared among trusted social contacts. Confidence: high.
+
+- Local or regional news outlets from the Southern U.S., possibly accessed via online portals or local TV news websites, providing culturally relevant and familiar content. Confidence: moderate.
+
+Sources unlikely to be used include:
+
+- Academic journals, specialized databases, or subscription-based news services (e.g., The Wall Street Journal, The Economist) due to educational and economic constraints and low research depth. 
+
+- Highly partisan or ideologically extreme outlets, especially conservative or right-wing platforms, given the individual’s very liberal political orientation and low tolerance for conflicting views.
+
+- Complex or technical platforms requiring deep cognitive engagement, such as scientific publications or detailed policy analysis sites, due to low Need for Cognition and cognitive reasoning challenges.
+
+Overall, the individual’s information environment is characterized by shallow to moderate research depth, reliance on socially mediated and curated content, and preference for accessible, emotionally resonant sources aligned with liberal values. This profile is inferred with moderate confidence given the absence of direct media-use data.

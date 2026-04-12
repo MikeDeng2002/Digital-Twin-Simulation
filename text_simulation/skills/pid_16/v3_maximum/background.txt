@@ -1,0 +1,35 @@
+Demographics: Male, age 50-64, White, living in the U.S. Midwest, never married, Protestant (seldom attends services), politically independent but self-identifies as conservative, unemployed, household size 2, family income $50,000-$75,000, some college but no degree. This suggests a middle-aged, moderately educated individual with moderate income, likely with some economic constraints (unemployed), and a stable but modest social environment. Protestant background with low religious engagement implies cultural rather than devout religious influence.
+
+Big Five Personality (44 items): Scores cluster around moderate to slightly above average on Conscientiousness (thorough job, reliable worker, perseveres, organized 6/9, efficient 6/9, systematic 6/9), Agreeableness (helpful, forgiving, considerate, kind, trusting all agree a little), Emotional Stability (relaxed, not tense, not moody, not worried, calm), Openness to Experience (active imagination, inventive, original neutral, curious a little, artistic interests a little, sophisticated a little), and moderate Extraversion (neither agree nor disagree on talkative, reserved, outgoing). Overall, a conscientious, moderately agreeable, emotionally stable, moderately open, and socially neutral profile.
+
+Need for Cognition (18 items): Mostly neutral to slightly disagree on enjoying deep thinking or complex problems, but some slight agreement on abstract thinking and relief after mental effort. Overall, moderate to low engagement in deep cognitive effort, not strongly motivated by intellectual challenge.
+
+Need for Closure (15 items): Mostly neutral to slight disagreement with discomfort with uncertainty or unpredictability, slight preference for order and routine, but no strong urgency for quick resolution. Moderate tolerance for ambiguity.
+
+Maximizer scale (6 items): Slight disagreement with comparison shopping or always seeking best; neither strongly maximizing nor satisficing.
+
+Self-monitoring (13 items): Mixed responses, mostly "somewhat false but with exceptions" or "neither true nor false" on ability to adapt behavior to social situations, moderate ability to read others' emotions, some difficulty changing behavior. Suggests moderate self-monitoring, not highly socially chameleon-like.
+
+Self-concept clarity (12 items): Strong agreement on stable, clear self-concept, little internal conflict or fluctuation in self-view. High self-concept clarity.
+
+Values (24 items): Highest values (7-8) on Humility (8), Honesty (8), Compassion (8), Autonomy (8), Equality (8), Trust (7), Competence (7), Forgiveness (7), Harmony (7). Moderate importance on Wealth, Pleasure, Influence, Achievement, Ambition, Loyalty, Tradition, Politeness, Altruism, Civility, Recognition (mostly 5-6). Low importance on Power (3), Status (2), Superiority (3). This reveals a worldview valuing ethical behavior, social harmony, fairness, independence, and competence, with moderate material ambition but low desire for dominance or status.
+
+Minimalism (12 items): Mostly neutral to slight disagreement with minimalist attitudes (disagree a little on avoiding accumulation, sparse aesthetics), but agrees a little on mindfulness about possessions. Suggests not strongly minimalist, somewhat moderate consumer.
+
+Consumerism/Uniqueness (12 items): Disagrees with statements about seeking uniqueness via products, breaking social norms in consumption, or avoiding popular products. Strong disagreement with anti-mainstream consumerism. Indicates conventional consumer behavior, not trend-chasing but not countercultural.
+
+Empathy (20 items): Mostly agrees a little with being affected by friends' emotions, understanding others' feelings, but some neutral or slight disagreement on being easily swept up emotionally. Moderate empathy, socially aware but emotionally balanced.
+
+Social desirability scale: Not directly reported, but some self-critical answers and admission of negative traits (e.g., sometimes taking advantage, feeling resentful, jealousy) suggest moderate honesty in self-reporting.
+
+Cognitive test performance: Estimated 22/42 correct (about 52%), indicating average to below-average cognitive test performance relative to general population. Correct answers on logical syllogisms and basic math problems, but some errors on more complex or trick questions (e.g., bat and ball cost answer "9" instead of correct 0.05). Errors suggest some impulsivity or heuristic shortcuts rather than deep analytic processing.
+
+Word association chain: Starts with concrete nouns (table, pool, statue, leg, desk, pen, crate, bottle, rent), then shifts to abstract and technical terms (dynamic, stochastic, general, equilibrium, capital, transformation, problem, state, money, theory). This suggests a cognitive pattern moving from concrete to abstract, possibly reflecting a structured, analytical thought process.
+
+Economic games (Dictator and Ultimatum): As proposer, offers a fair split ($2/$3 or $3/$2). As responder, accepts offers down to $2/$3 but rejects very unfair offers ($4/$1 or $5/$0). In the trust game, sends all $5 to other person (maximal trust), but expects to keep a substantial share ($8 of $15) when receiving. This indicates moderate fairness, some strategic self-interest, and moderate trust in others.
+
+Intertemporal choice: Prefers larger later rewards over smaller sooner ones consistently until amounts are very close, indicating moderate to high patience and future orientation.
+
+Loss framing responses: More upset by larger single losses than by equivalent split losses, consistent with loss aversion and framing effects.
+
+Depression and mood: Reports feeling sad and discouraged about the future, less enjoyment in things than before, some self-criticism but no severe depressive symptoms or guilt. Slightly reduced interest in others. Mild subclinical depressive mood.

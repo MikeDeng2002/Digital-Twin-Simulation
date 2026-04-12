@@ -1,0 +1,31 @@
+Demographics: Female, age 18-29, White, US citizen living in the Northeast, college graduate/some postgrad education, full-time employed, living with a partner, family income $50k-$75k, politically liberal Democrat, non-religious (no particular religion, never attends services). Household size 4. These imply a young adult with moderate-middle income, likely urban or suburban Northeast lifestyle, with access to higher education and stable employment. Liberal political identity suggests openness to progressive ideas and possibly trust in expert/scientific sources.
+
+Big Five: High Conscientiousness (Does a thorough job 5, reliable worker 5, not careless 1, organized 8, efficient 8), high Agreeableness (helpful 5, considerate 5, forgiving 4, kind 5), moderate Neuroticism (worries a lot 5, nervous 5, somewhat moody 4, but also relaxed 2, emotionally stable 3), low Extraversion (reserved 5, quiet 4, not talkative 3, neither outgoing nor energetic), moderate Openness (curious 5, values artistic experiences 5, active imagination 4, but neither strongly original nor inventive 3). Overall, conscientious, socially warm but introverted, somewhat anxious but stable.
+
+Need for Cognition (NFC): Low to moderate. Disagrees with preferring complex problems (2), dislikes tasks requiring much thought (4 and 6), prefers routine and simple tasks (4,5,8,9 all strongly agree), only thinks as hard as necessary (4), relief rather than satisfaction after mental effort (4). This suggests low intrinsic motivation for deep analytical thinking or abstract problem solving.
+
+Need for Closure (NFClo): Moderate to high. Strongly agrees with disliking uncertainty (5), prefers ordered life (4), dislikes unpredictable situations (4), wants quick solutions (4), feels relief after decisions (4), somewhat impatient with ambiguity (4). This indicates a preference for decisiveness and closure, discomfort with ambiguity.
+
+Maximizer scale: Mixed but tending toward moderate maximizer. Strongly agrees with checking radio stations for better options (5), but disagrees with never settling for second best (2), and only somewhat agrees with having highest standards (4). This suggests some tendency to seek better options but not extreme perfectionism.
+
+Self-monitoring: Moderate. Some ability to adjust behavior (4), but also some difficulty changing behavior (3), mixed confidence in controlling impressions (3-4). Generally somewhat aware of social cues but not highly strategic.
+
+Self-concept clarity: Moderate to low. Neither agree nor disagree on clear self-view (3), some agreement that self-beliefs change frequently (4), some day-to-day variation in self-description (4), some difficulty making up mind (4). This suggests a somewhat unstable or evolving self-concept.
+
+Values: Highest rated values are Pleasure (9), Trust (9), Loyalty (9), Politeness (9), Harmony (9), Excitement (9), Honesty (9), Compassion (9), Civility (9), Equality (9), Altruism (8), Competence (8), Forgiveness (7), Humility (7). Low importance on Power (2), Status (2), Recognition (1), Superiority (1), Ambition (3), Achievement (4), Wealth (4). This reveals a worldview valuing social harmony, kindness, fairness, and enjoyment of life over dominance or status.
+
+Minimalism/Consumerism: Low minimalism. Disagrees or neutral on avoiding possessions, curating belongings, or preferring sparse environments (mostly 2 or 3). Also neither agrees nor disagrees on uniqueness/consumerism scales, tending to neither seek nor reject uniqueness in products. Shopping behavior aligns with some impulsivity (identifies with Mr. A who spends despite not needing items).
+
+Empathy: Moderate to high. Strong agreement on understanding friends’ feelings (5), recognizing emotions quickly (5), some emotional contagion (4), but also some emotional distance (3). Generally socially attuned but not overwhelmed by others’ emotions.
+
+Social desirability: Moderate. Some contradictory self-reports (e.g., admits to jealousy and irritation sometimes), but also claims to be courteous and forgiving. Social desirability scale not explicitly given but behavioral patterns suggest moderate honesty with some self-presentation bias.
+
+Cognitive test performance: Self-estimated 22/42 correct, believes average is 30/42. Actual test answers show some logical reasoning ability (correct on syllogisms), but errors in vocabulary (synonym and antonym tasks often incorrect), and some misunderstanding of financial literacy (e.g., mortgage interest false, inflation effect unknown). Cognitive puzzles mostly answered correctly, but some errors in synonym/antonym and financial questions indicate moderate cognitive skill with some gaps.
+
+Word association chain: Mostly concrete, social, and affective words (table, chair, dinner, food, pizza, friday, family, love, laugh, game, fun, movies, watch, horror, scary, mask, spa, feet, skin, hair). Shows associative thinking grounded in social and sensory experience, some affective valence (love, laugh, fun), some mild anxiety/fear (horror, scary, mask).
+
+Economic games: Proposes to keep $3 and send $2 in dictator game, accepts all offers in ultimatum game (even $0 to self). In trust game, sends $2 (tripled to $6), expects to get back about half ($10 kept, $5 returned on $15). This indicates moderate fairness preference but self-interested, expects reciprocity but keeps majority. Behavior consistent across games, no large gap between stated and strategic behavior.
+
+Intertemporal choice: Prefers immediate smaller rewards over delayed larger ones until the delayed reward is substantially better (e.g., prefers $6 in 6 weeks over $5.50 in 5 weeks, but switches at $5.75). Shows moderate impatience, discounting future rewards fairly steeply.
+
+Loss framing: Prefers to avoid losses, willing to accept sure smaller losses over risky larger losses. Consistently prefers safer options in loss lotteries.

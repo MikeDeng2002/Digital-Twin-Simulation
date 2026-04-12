@@ -1,0 +1,122 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Highest education level: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: 4 - Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 5 - Seldom)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: 1 - Republican)
+- Political views: Conservative (Question: In general, would you describe your political views as Conservative? Answer: 2 - Conservative)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2 - 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 3 - $50,000-$75,000)
+
+Personality (Big Five traits and related):
+- Does a thorough job (5 - Agree strongly)
+- Helpful and unselfish with others (5 - Agree strongly)
+- Relaxed, handles stress well (5 - Agree strongly)
+- Curious about many different things (5 - Agree strongly)
+- Reliable worker (5 - Agree strongly)
+- Emotionally stable, not easily upset (5 - Agree strongly)
+- Perseveres until task is finished (5 - Agree strongly)
+- Values artistic, aesthetic experiences (5 - Agree strongly)
+- Considerate and kind to almost everyone (5 - Agree strongly)
+- Does things efficiently (5 - Agree strongly)
+- Remains calm in tense situations (5 - Agree strongly)
+- Prefers work that is routine (5 - Agree strongly)
+- Makes plans and follows through (5 - Agree strongly)
+- Likes to reflect, play with ideas (5 - Agree strongly)
+- Is sometimes shy, inhibited (4 - Agree a little)
+- Can be cold and aloof (4 - Agree a little)
+- Tends to be moody (4 - Agree a little)
+- Is original, comes up with new ideas (2 - Disagree a little)
+- Is inventive (1 - Disagree strongly)
+- Has an assertive personality (1 - Disagree strongly)
+- Is outgoing, sociable (3 - Neither agree nor disagree)
+- Is talkative (3 - Neither agree nor disagree)
+- Is generally trusting (1 - Disagree strongly)
+
+Need for Cognition:
+- Mixed responses, but generally low enjoyment of thinking tasks:
+  - Disagrees with liking responsibility requiring a lot of thinking (2)
+  - Disagrees strongly that thinking is fun (1)
+  - Agrees a little that prefers tasks requiring little thought (4)
+  - Disagrees strongly with enjoying tasks involving new solutions (1)
+  - Strongly agrees that learning new ways to think doesn't excite (5)
+  - Agrees strongly that likes thinking abstractly (5)
+  - Agrees strongly that deliberates about issues even if not personally affected (5)
+
+Values:
+- Highly important: Trust (9), Humility (9), Loyalty (9), Honesty (9), Compassion (9)
+- Quite important: Forgiveness (8), Altruism (8), Autonomy (8), Equality (8), Harmony (7), Excitement (7), Civility (7), Politeness (6), Competence (6), Tradition (6)
+- Not important: Wealth (1), Influence (1), Power (1), Status (1), Recognition (1), Superiority (1), Ambition (2)
+
+Self-concept clarity:
+- Generally agrees to having a clear sense of who she is (4 - Agree a little)
+- Disagrees strongly with frequently changing beliefs about self or experiencing conflict in self-beliefs
+- Disagrees strongly with spending a lot of time wondering about who she really is
+
+Self-monitoring:
+- Generally true that she can alter behavior to suit situations (mostly 5 - Generally true)
+- Can read others' emotions well (6 - Certainly true)
+- Can tell when she says something inappropriate (6 - Certainly true)
+- Does not generally believe she can detect lies easily (2 - Generally false)
+
+Maximizer:
+- Disagrees a little with having highest standards for self (2)
+- Disagrees a little with never settling for second best (2)
+- Strongly agrees with often checking other radio stations to find better options (5)
+- Strongly agrees with being on lookout for better job opportunities (5)
+- Disagrees a little with difficulty shopping for gifts or finding clothing she loves (2)
+
+Need for Closure:
+- Dislikes questions with many possible answers (5 - Agree strongly)
+- Feels uncomfortable when not understanding reasons for events (5 - Agree strongly)
+- Dislikes ambiguous statements (5 - Agree strongly)
+- Mixed or neutral on preference for order and routine
+
+Economic games:
+- Proposes to keep $2 and send $3 to other person in a $5 split (fair offer)
+- Accepts all offers except $0 to self (rejects $0 for self, $5 for other)
+- In trust game with tripling, keeps $3 and sends $2; as receiver, keeps about half or slightly more of tripled amount, sending back roughly half
+- Thoughts during decisions: wants to be fair, humble, do what God would approve of
+
+Cognitive tests:
+- Correctly answers logical reasoning questions mostly correctly
+- Self-estimated correct answers on cognitive tests: 5 out of 42
+- Estimates average person would answer 30 out of 42 correctly
+- Some errors in basic math and probability (e.g., answers 9 for cubic feet in a hole 3x3x3, which is incorrect)
+- Vocabulary: mostly correct synonyms and antonyms except one error (FURTIVE synonym chosen as ecstatic, which is incorrect)
+- Logical reasoning: mostly correct answers except one (China communist question answered No, which is correct)
+- Some difficulty with spatial rotation puzzles (selected "I do not know" for some cube rotation questions)
+
+Financial literacy:
+- Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+- Correctly identifies inflation reduces purchasing power (Less than today)
+- Correctly identifies stocks have highest fluctuations
+- Correctly identifies possibility of losing money in stock mutual fund
+- Correctly identifies diversification reduces risk
+- Incorrectly identifies bonds as highest return over long term (selected bonds instead of stocks)
+- Correctly identifies required minimum distributions after age 70.5
+- Knows credit card debt with minimum payments and interest will never be eliminated
+- Correctly answers probability and percentage questions mostly, but some errors (e.g., 5% chance for 20 out of 100)
+- Some errors in math problems (e.g., ball cost $10 instead of $0.05)
+- Prefers smaller immediate amounts over larger delayed amounts (discounts future money heavily)
+- Prefers certain money over lotteries at values below expected value (risk averse)
+- Rejects unfair offers in ultimatum game
+
+Mental health:
+- Reports feeling sad, less interest in others and sex than before
+- Reports feeling disappointed in self, may feel punished
+- Does not feel guilty or worthless strongly
+- No significant sleep or appetite problems
+- Reports trying to lose weight by eating less
+- No significant irritability or crying changes
+- Can work as well as before, no increased tiredness
+
+Spending habits:
+- Describes self as rarely having trouble limiting spending (3 on scale)
+- Often has trouble spending money (4 on scale)
+- More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)

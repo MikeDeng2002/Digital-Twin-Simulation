@@ -1,0 +1,23 @@
+Education + Income: Some college, modest income ($30-50k) suggests access to mainstream digital and print media, likely uses free or low-cost sources. Probably familiar with major news websites, Wikipedia, Reddit, and possibly YouTube educational content. Less likely to subscribe to expensive journals or premium financial analysis. Confidence: High.
+
+Need for Cognition (very high): This person invests deep analytical effort, likely to research complex topics thoroughly, read long-form articles, white papers, and engage with detailed data. Likely to use platforms like Google Scholar, specialized forums (e.g., BitcoinTalk, AI research blogs), and analytical newsletters. Confidence: Very high.
+
+Political Identity (Independent, very liberal): Likely to prefer neutral or left-leaning sources, skeptical of partisan right-wing media. Likely to consult multiple perspectives but with a liberal bias. May avoid overtly partisan conservative outlets. Confidence: Moderate.
+
+Empathy (very high): Relies on social networks and interpersonal information for emotional context. Likely to engage in social media discussions, forums, and peer groups for sentiment and social consensus. Confidence: Moderate.
+
+Maximizer Scale (moderate to high): Strong agreement with looking for best opportunities, high standards for self, but some satisficing in consumerism. Likely to comparison-shop information sources, cross-check facts, and seek best available data. Confidence: Moderate.
+
+Consumerism/Uniqueness: Moderate openness to uniqueness but not strongly countercultural. Likely to follow mainstream trends with some personal curation. Confidence: Moderate.
+
+Minimalism: Not minimalist in quantity but highly mindful and curated. Likely to filter information carefully, avoid overload, and prefer quality over quantity in information consumption. Confidence: High.
+
+Likely Platforms and Source Types:  
+- News: NPR, BBC, The Guardian, Vox, Axios, or similar liberal-leaning but fact-based outlets.  
+- Finance: Investopedia, Motley Fool, Seeking Alpha, Reddit r/personalfinance, r/cryptocurrency.  
+- Technology/AI: arXiv, LessWrong, AI alignment blogs, Twitter threads from experts.  
+- Social: Reddit, Twitter, Facebook groups for social sentiment.  
+- Cognitive/Analytical: Google Scholar, Wikipedia, podcasts like EconTalk or Lex Fridman.  
+- Avoids: Partisan conservative media (Fox News, Breitbart), clickbait or low-quality sources, heavy consumerist or trend-chasing platforms (TikTok, Instagram for news).  
+Research Depth: Deep, with cross-checking and critical evaluation.  
+Confidence: High.

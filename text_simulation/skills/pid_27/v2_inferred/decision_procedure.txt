@@ -1,0 +1,27 @@
+- Need for Closure: Moderate. She neither strongly dislikes nor craves closure, agrees a little with liking order and routine (items 6, 12, 13, 14, 15). This suggests a balanced approach to uncertainty, not impulsive in decisions.
+
+- Need for Cognition: Moderate to low. She shows some enjoyment of thinking (item 6: agree a little), but many items are neutral or slightly disagree, indicating she does not seek out complex cognitive challenges regularly.
+
+- Maximizer: Low. She disagrees strongly with "never settle for second best" and "highest standards" (items 5 and 6 in Maximizer scale), indicating she is more satisficing than maximizing.
+
+- Self-monitoring: Moderate to high. She generally agrees with items indicating ability to adjust behavior and read social cues (items 1, 2, 7, 8), suggesting social adaptability.
+
+- Self-concept clarity: Moderate. She agrees a little with having a clear sense of self (item 11), but also agrees a little with difficulty making up her mind (item 12), indicating some internal conflict but overall reasonable clarity.
+
+- Economic games: Proposes to keep 60% ($3 of $5) and gives 40% ($2), accepts all offers, and reciprocates moderately generously in trust games. This indicates moderate social trust and fairness, balanced with self-interest.
+
+- Cognitive tests: Average performance, with some uncertainty and "I don't know" answers on spatial tasks, and some errors on logical reasoning. Financial literacy is moderate, with some misconceptions.
+
+Cross-scale inference:
+
+- Moderate self-monitoring and moderate self-concept clarity align with her social fairness and reciprocity in economic games.
+
+- Moderate Need for Cognition and low Maximizer suggest pragmatic decision-making rather than perfectionism.
+
+- Moderate Need for Closure and moderate cognitive ability suggest she can handle ambiguity but prefers some structure.
+
+- Economic game behavior aligns with moderate agreeableness and conscientiousness from Big Five items.
+
+No major contradictions are evident.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social orientation, as indicated by strong agreeableness traits (helpfulness, kindness), moderate self-monitoring (social adaptability), and fair but self-interested economic game behavior. Her moderate Need for Cognition and low Maximizer scores suggest pragmatic social decisions rather than idealistic or perfectionist social behavior. The agreement between personality scales and economic games supports a moderately social weighting in decision-making.

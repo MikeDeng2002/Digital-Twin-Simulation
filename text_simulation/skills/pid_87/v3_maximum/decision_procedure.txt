@@ -1,0 +1,21 @@
+Need for Closure: Moderate (mostly 4s), prefers timely resolution but tolerates some ambiguity, unlikely to rush to premature conclusions.
+
+Need for Cognition: High, invests significant analytical effort, enjoys intellectual challenge, but may rely on heuristics in verbal-logical tasks.
+
+Maximizer: Low to moderate, seeks good solutions but not necessarily the absolute best, balances effort and satisfaction.
+
+Self-monitoring: Moderate, notices social cues and others’ opinions but does not strongly alter behavior to conform; maintains authenticity.
+
+Self-concept Clarity: High, stable self-view, resists social pressure, confident in identity and values.
+
+Economic Game Gap: Proposes fair splits ($2 keep/$3 send), accepts fair offers, rejects unfair ones (rejects $4 keep/$1 send). As receiver, keeps a fair share but returns substantial amounts, indicating fairness and reciprocity with some self-interest. Behavior aligns with strategic fairness rather than pure altruism or selfishness.
+
+Intertemporal Patience: Prefers larger later rewards over smaller sooner ones consistently, indicating patience and long-term thinking.
+
+Cognitive Errors: Logical reasoning errors in syllogisms and verbal analogies suggest some difficulty with formal logic and abstract verbal reasoning; better at spatial and pattern tasks. This implies numeric predictions may be influenced by intuitive heuristics, with occasional systematic biases (e.g., underestimating probabilities, confusion about logical implications).
+
+Social Desirability: Low to moderate, self-reports are reliable and consistent.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate is driven by the individual’s high empathy, strong social values (forgiveness, altruism, equality), and fair, reciprocal economic game behavior, indicating a socially attuned and cooperative reasoning style. Moderate self-monitoring and high self-concept clarity suggest they integrate social information without losing authenticity. Cognitive test performance reveals some reasoning biases, especially in verbal-logical tasks, but strong spatial and pattern skills and high Need for Cognition indicate a thoughtful, analytical approach overall. The moderate Need for Closure and patience in intertemporal choices suggest they deliberate carefully but do not rush to conclusions. Their minimalism and low consumerism imply careful curation of information, likely favoring trusted, moderate-depth sources over sensational or partisan media. Conflicts between some cognitive errors and high Need for Cognition are resolved by weighting their preference for deep thinking and social information integration over occasional heuristic errors. This profile predicts numeric predictions that are socially informed, moderately patient, and analytically grounded but occasionally biased by heuristic shortcuts in abstract reasoning.

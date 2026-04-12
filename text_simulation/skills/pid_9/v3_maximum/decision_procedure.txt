@@ -1,0 +1,22 @@
+Need for Closure: Moderate to low. Disagrees with discomfort from uncertainty, dislikes unpredictable situations only slightly, prefers structured life but tolerates ambiguity. Willing to deliberate and delay closure for better understanding.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys complex and abstract thinking, likely to engage in extensive research before forming numeric predictions.
+
+Maximizer: Moderate. Seeks good answers, compares sources, but willing to settle once a sufficiently good answer is found. Not perfectionistic but careful.
+
+Self-monitoring: High. Notices social cues and others' opinions, can adjust behavior accordingly, but self-concept clarity is moderate (some internal conflict but generally stable self-view). Likely to resist social pressure when confident.
+
+Self-concept clarity: Moderate. Some day-to-day variation in self-view, occasional internal conflict, but overall clear sense of identity and values.
+
+Economic game gap: Proposer and responder behavior consistent with moderate fairness and strategic self-interest. Keeps majority but offers enough to avoid rejection. Trust is cautious but present.
+
+Intertemporal patience: Moderate patience with some present bias. Prefers delayed rewards unless immediate reward is substantially better.
+
+Cognitive errors: Minor semantic confusions in vocabulary tests, occasional logical missteps in complex syllogisms, but overall strong logical reasoning and spatial skills. Suggests good numeric prediction ability with some caution about semantic precision.
+
+Social desirability: Moderate. Some admission of negative traits and self-criticism, indicating reasonable self-report honesty.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by the high empathy, social monitoring, and trust game behavior indicating significant social influence on reasoning and predictions. However, moderate self-concept clarity and high Need for Cognition suggest this person integrates social information critically rather than uncritically adopting social views. The moderate social desirability and some self-criticism reduce the risk of biased self-reporting. Conflicts between moderate social conformity and strong autonomy are resolved by weighting the analytical and autonomous traits more heavily, but social context remains a strong influence.
+
+# Summary for simulation of numeric predictions: This person will engage in deep, analytical research, consult multiple moderate-to-high quality sources with a liberal slant, and incorporate social consensus cues but will critically evaluate them. They prefer structured, logical reasoning and are moderately patient with uncertainty, willing to revise predictions as new information arrives. Their predictions will reflect a balance of personal competence, social trust, and cautious optimism, avoiding extremes or sensationalism.

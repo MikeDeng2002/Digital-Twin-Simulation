@@ -1,0 +1,17 @@
+Need for Closure: Moderate to high (e.g., items 4, 8, 9, 15 all agree or strongly agree) indicating discomfort with ambiguity and desire for quick, definite answers.
+
+Need for Cognition: Low to moderate (items 1, 2 disagree strongly; items 4, 5, 7 agree a little), indicating avoidance of complex thinking but some appreciation for intellectual success.
+
+Maximizer: Low (disagree strongly with "I never settle for second best" and "I have highest standards" items), indicating satisficing rather than maximizing tendencies.
+
+Self-monitoring: Low (mostly disagree with items about social adaptability and impression management), indicating low social flexibility.
+
+Self-concept clarity: Low to moderate (disagree strongly with conflicting self-beliefs but also agree with not revealing true self and some uncertainty about self), indicating some internal confusion or guardedness.
+
+Economic games: Proposer in Ultimatum Game keeps all money (item: $5 for self, $0 for other), responder rejects unfair offers, accepts fair offers, indicating self-interest and low trust. In Trust Game, sends all money but expects to keep all when receiving, indicating distrust and self-protectiveness.
+
+Cross-scale inference: Need for Closure and low Self-monitoring agree on preference for order and discomfort with ambiguity/social complexity. Low Need for Cognition and Maximizer scores align with low engagement in complex or maximizing behavior. Economic games align with low agreeableness and low trust from personality scales.
+
+Contradictions: Some openness to artistic/aesthetic experiences (Big Five Openness items) contrasts with low social adaptability and low self-monitoring, suggesting a complex but internally focused personality.
+
+w_social estimate: 0.15 -- The respondent shows low social adaptability (Self-monitoring scale), low agreeableness, and low trust in economic games, indicating limited social engagement or cooperation. Moderate Need for Closure suggests preference for predictable social environments but not necessarily active social involvement. Depression and low self-concept clarity further reduce social connectedness. These scales consistently point to low social weighting.

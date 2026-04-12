@@ -1,0 +1,32 @@
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty (Item 1: 5)
+  - Strongly agrees with preference for well-ordered life (Item 3: 5)
+  - Strongly agrees feeling uncomfortable without understanding reasons (Item 4: 5)
+  - Strongly agrees relief after decision (Item 7: 5)
+  - Strongly agrees wanting quick solutions (Item 8: 5)
+  - Disagrees a little with impatience if no immediate solution (Item 9: 2)
+  - Strongly agrees disliking unpredictable situations (Item 15: 5)
+- Need for Cognition:
+  - Strongly agrees liking responsibility requiring thinking (Item 2: 5)
+  - Strongly disagrees that thinking is not fun (Item 3: 1)
+  - Strongly agrees satisfaction in deliberating hard (Item 6: 5)
+  - Strongly agrees enjoying problem solving (Item 11: 5)
+  - Strongly agrees preferring puzzles (Item 13: 5)
+  - Strongly agrees deliberating about issues even if not personal (Item 18: 5)
+- Maximizer:
+  - Strongly agrees highest standards for self (Item 5: 5)
+  - Strongly agrees being on lookout for better opportunities (Item 2: 5)
+  - Disagrees a little with checking for better options when satisfied (Item 1: 2)
+  - Neither agrees nor disagrees with never settling for second best (Item 6: 3)
+- Self-monitoring:
+  - Somewhat true but with exceptions in ability to alter behavior (Item 1: 4)
+  - Somewhat false but with exceptions in controlling impression (Item 2: 3)
+  - Generally true that has trouble changing behavior to suit situations (Item 4: 5)
+  - Certainly always true in reading emotions and detecting lies (Items 8-13: all 6)
+- Self-concept clarity:
+  - Beliefs about self sometimes conflict (Item 1: 4)
+  - Neither agree nor disagree on clear sense of self (Item 11: 3)
+  - Disagree a little that beliefs change frequently or conflict (Items 6,8: 2,1)
+  - Agree a little that self-description might vary day to day (Item 9: 4)
+  - Disagree a little that would not tell others what really like (Item 10: 2)
+- w_social estimate: 0.75 -- This person shows strong empathy and concern for fairness (empathy items 5,9,10,16; economic game fairness thoughts), moderate self-monitoring with good emotional intuition (self-monitoring items 8-13), and a preference for structured, predictable environments (Need for Closure items 1,3,4,6,7,8), indicating a relatively high but not maximal social reasoning weight.

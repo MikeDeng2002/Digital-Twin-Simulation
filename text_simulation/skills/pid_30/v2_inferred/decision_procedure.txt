@@ -1,0 +1,17 @@
+Need for Closure: Moderate-low (disagree a little or neutral on items indicating discomfort with uncertainty and desire for quick closure). He prefers order and routine (item 12: "establishing a consistent routine enables me to enjoy life more" - 5), but is not impatient or irritated by ambiguity (items 8, 9: disagree a little). This suggests a balanced approach to decision-making, not rushed or rigid.
+
+Need for Cognition: Moderately high (agree a little to strongly on items about enjoying thinking, solving problems, abstract thinking, and deliberation). He likes intellectual challenges but is not extreme.
+
+Maximizer: High standards for self, never settles for second best, but does not compulsively seek the best in all situations (disagree strongly with "I often find it difficult to shop for a gift" and "I often check other stations even if satisfied"). This indicates a selective maximizer profile.
+
+Self-monitoring: High (mostly 5s and 6s), indicating social sensitivity, adaptability, and awareness of social cues.
+
+Self-concept clarity: High (strongly disagrees with conflicting self-beliefs, agrees strongly to clear self-identity).
+
+Economic games: Proposes to keep $3 and send $2 in dictator game (moderate generosity), accepts all offers except $0, and in trust game sends full $5, expecting fair returns and reciprocates fairly. This indicates moderate social trust and fairness orientation.
+
+Cross-scale inference: High conscientiousness (Big Five) aligns with high self-monitoring and self-concept clarity, supporting disciplined, organized, and socially aware decision-making. Moderate need for cognition aligns with good cognitive test performance and financial literacy. Moderate-low need for closure aligns with balanced tolerance for uncertainty and preference for routine.
+
+No contradictions noted.
+
+w_social estimate: 0.7 -- The respondent shows high social adaptability (Self-monitoring scale), moderate generosity and fairness in economic games, and values loyalty, honesty, and civility highly. His moderate extraversion and agreeableness support social engagement but not extreme sociability. The combination of high conscientiousness and social sensitivity suggests a person who is socially competent and cooperative but also values personal boundaries and autonomy. The economic game behavior and fairness considerations further support a moderately high social weighting.

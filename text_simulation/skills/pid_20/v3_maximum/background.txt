@@ -1,0 +1,39 @@
+Demographics: Male, age 30-49, White, living in the Midwest US, married with a household of more than 4 people, full-time employed, postgraduate education, household income $100,000+, Roman Catholic with infrequent religious service attendance, politically Republican and conservative. This profile suggests a stable, middle-aged professional with high education and income, likely exposed to diverse information sources but with a regional Midwest cultural influence and conservative worldview.
+
+Big Five Personality (44 items): Moderately extroverted (talkative 4, reserved 4, quiet 4, outgoing 2), low neuroticism (depressed 2, emotionally stable 5, worries 2), moderately conscientious (does a thorough job 4, reliable 4, perseveres 4, disorganized 4), moderate openness (original 3, ingenious 4, imaginative 2, artistic interests 3-4), high agreeableness (helpful 5, forgiving 5, considerate 4, cold aloof 1). Overall, a conscientious, emotionally stable, somewhat reserved but socially considerate individual.
+
+Need for Cognition (18 items): Scores mostly 4-5, indicating a preference for complex problems, intellectual challenge, and deep thinking. Disagrees strongly with relief after mental effort (1), indicating enjoyment of cognitive effort. Moderate to high engagement with thinking tasks.
+
+Need for Closure (15 items): Mostly 4-5, indicating preference for order, predictability, dislike of ambiguity, and desire for quick resolution. Strong dislike for ambiguous or unpredictable situations, preference for routine and structure.
+
+Maximizer Scale (6 items): Mixed but tending toward moderate maximizer tendencies. Disagrees slightly with constant searching for better options, but agrees somewhat with finding interesting versions of products and curating uniqueness. Not a strong maximizer but somewhat selective.
+
+Self-monitoring (13 items): Generally high (mostly 4-5), indicating good ability to read social cues, adjust behavior, and regulate self-presentation. Some exceptions (3-4) suggest occasional difficulty but overall socially aware.
+
+Self-concept Clarity (12 items): High clarity and stability (mostly 4-5), strongly disagreeing with conflicting self-beliefs or frequent changes in self-view. Stable, coherent self-identity.
+
+Values (24 items): Highest values are Pleasure (9), Achievement (9), Harmony (9), Competence (8), Humility (8), Autonomy (8), Politeness (8), Trust (7), Forgiveness (7), Loyalty (7), Civility (7), Honesty (7). Low values on Power (2), Status (2), Compassion (2), Tradition (2), Recognition (1), Superiority (3). This suggests a worldview valuing personal success, social harmony, competence, and ethical behavior, with low emphasis on dominance or status seeking.
+
+Minimalism (12 items): Mixed to low minimalism. Agrees a little with avoiding accumulation and being thoughtful about possessions but disagrees or neutral on most other minimalism items, including curation and sparse aesthetics. Likely not a strong minimalist, somewhat moderate in consumption.
+
+Consumerism/Uniqueness: Disagrees with strong uniqueness or rule-breaking in consumption, but agrees a little with seeking interesting or less common products and avoiding mainstream brands. Moderate desire for uniqueness but within social norms.
+
+Empathy (20 items): Moderate empathy. Agrees a little with understanding and feeling others’ emotions, but disagrees or neutral on being easily swept up or strongly affected by others’ feelings. Somewhat socially attuned but emotionally regulated.
+
+Social Desirability: No direct score given, but some contradictory self-reports (e.g., admitting to taking advantage of others, feeling resentful, jealousy) suggest moderate honesty in self-reporting, not overly biased by social desirability.
+
+Cognitive Test Performance: Self-estimated 39/42 correct (high), average US adult 28/42. Actual test answers show good logical reasoning but some errors in syllogistic logic (incorrectly accepting invalid conclusions), indicating a tendency to accept plausible but logically invalid conclusions. Good vocabulary and synonym/antonym knowledge. Moderate to strong abstract reasoning (puzzle completions mostly correct). Some errors in cube rotation tasks, indicating occasional spatial reasoning challenges or cautious guessing. Overall, high cognitive ability with some reasoning biases.
+
+Word Association Chain: From "snow" to "sleep" via mostly concrete, sensory, and associative words (white, lotus, flower, power, cord, plug, ear, hear, music, sing, song, album, record, vinyl, flooring, carpet, soft, pillow, sleep). Shows a mostly linear, concrete associative style with some abstract jumps (power, cord). No signs of disorganized or tangential thinking.
+
+Economic Games (Dictator and Ultimatum): Proposes to keep $3 and give $2 in dictator game (moderate fairness), accepts all offers except $0 in ultimatum game (rational acceptance). In trust game, keeps $4 and sends $1, expects receiver to keep about half and return a fair amount. Shows moderate fairness, strategic thinking, and some self-interest.
+
+Intertemporal Choice: Prefers larger later rewards over smaller sooner ones consistently until amounts get very close, indicating moderate to high patience and future orientation.
+
+Loss Framing Responses: More upset by multiple smaller losses than single larger loss of same total, indicating loss aversion and sensitivity to framing effects.
+
+Depression and Anxiety Scales: No significant symptoms reported; emotionally stable, no sadness, guilt, or fatigue.
+
+Spending Habits: Slightly conservative spender, rarely has trouble limiting spending, sometimes has trouble spending money (anxiety about spending). Neither tightwad nor spendthrift.
+
+Summary: A well-educated, middle-aged, conservative Midwestern male with high cognitive ability, moderate to high need for cognition, moderate need for closure, socially aware and empathetic but emotionally regulated, moderately patient and future-oriented, values achievement, harmony, and competence, moderately selective consumer with some desire for uniqueness but within social norms, honest self-reporter, and moderate fairness in economic decisions.

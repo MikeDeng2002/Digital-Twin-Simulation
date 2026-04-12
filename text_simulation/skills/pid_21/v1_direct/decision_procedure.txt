@@ -1,0 +1,17 @@
+- Need for Closure:
+  - Strong preference for order and certainty (Item 1: 5 - Agree strongly; Item 3: 5; Item 4: 5; Item 5: 5; Item 6: 5; Item 7: 5; Item 9: 5; Item 15: 5)
+  - Dislikes ambiguity and unpredictability (Items 2, 10, 11: 4 - Agree a little)
+- Need for Cognition:
+  - Likes intellectual challenge and thinking (Items 1, 2, 6, 10, 11, 14, 15, 18: mostly 4 - Agree a little)
+  - Dislikes low-effort thinking (Items 3, 4, 5, 7, 8, 9, 12, 17: mostly 2 - Disagree a little)
+- Maximizer:
+  - Somewhat on lookout for better opportunities (Item 2: 5 - Agree strongly)
+  - Does not strongly endorse never settling for second best (Item 6: 2 - Disagree a little)
+- Self-monitoring:
+  - Generally able to adjust behavior to social situations (Items 1, 2, 5, 7, 11, 12: 5 - Generally true)
+  - Some exceptions in ability to change (Item 3: 4 - Somewhat true)
+  - Good at reading emotions (Items 8-10, 13: 4-5)
+- Self-concept clarity:
+  - Mostly stable self-concept with minor fluctuations (Items 1-5, 8: 2 - Disagree a little; Item 6: 4 - Agree a little; Item 7: 4; Item 9: 1 - Disagree strongly; Item 10: 4; Item 11: 3 - Neither agree nor disagree; Item 12: 2)
+  
+w_social estimate: 0.75 -- The person shows a strong preference for social harmony, cooperation, and fairness (economic game behavior and empathy items), combined with good self-monitoring and social sensitivity (Self-monitoring items 1,2,5,7,11,12), and values loyalty and trust highly (values section). The moderate to high Need for Cognition and strong Need for Closure suggest a preference for structured social environments. The economic game responses and thoughts emphasize kindness and fairness, supporting a relatively high social reasoning weight.

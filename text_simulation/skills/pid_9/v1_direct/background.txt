@@ -1,0 +1,214 @@
+- Lives in the Midwest region of the United States (Question: "Which part of the United States do you currently live in?" Answer: Midwest)
+- Male, aged 30-49 (Questions: "What is the sex that you were assigned at birth?" Answer: Male; "How old are you?" Answer: 30-49)
+- Has completed postgraduate education (Question: "What is the highest level of schooling or degree that you have completed?" Answer: Postgraduate)
+- White race/origin (Question: "What is your race or origin?" Answer: White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: Yes)
+- Never been married (Question: "Which of these best describes you?" Answer: Never been married)
+- Roman Catholic religion, attends religious services a few times a year (Questions: "What is your present religion?" Answer: Roman Catholic; "Aside from weddings and funerals, how often do you attend religious services?" Answer: A few times a year)
+- Politically Democrat and liberal (Questions: "In politics today, do you consider yourself a" Answer: Democrat; "In general, would you describe your political views as" Answer: Liberal)
+- Household size of 2 people (Question: "Including yourself, how many people currently live in your household?" Answer: 2)
+- Employed full-time (Question: "What is your current employment status?" Answer: Full-time employment)
+- Family income $100,000 or more (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Somewhat talkative (4/5)
+  - Somewhat fault-finding (4/5)
+  - Thorough and reliable worker (5/5)
+  - Slightly depressed (2/5 disagree a little)
+  - Somewhat original and creative (4/5)
+  - Somewhat reserved (4/5)
+  - Very helpful and unselfish (5/5)
+  - Careful (2/5 disagree a little on carelessness)
+  - Neutral on stress handling (3/5)
+  - Very curious (5/5)
+  - Somewhat energetic (4/5)
+  - Does not start quarrels (1/5 disagree strongly)
+  - Very reliable (5/5)
+  - Somewhat tense (4/5)
+  - Deep thinker and ingenious (5/5)
+  - Generates enthusiasm (4/5)
+  - Forgiving nature (4/5)
+  - Very organized (1/5 disagree strongly on disorganized)
+  - Worries a little (4/5)
+  - Active imagination (5/5)
+  - Somewhat quiet (4/5)
+  - Generally trusting (4/5)
+  - Emotionally stable (4/5)
+  - Inventive (4/5)
+  - Neutral on assertiveness (3/5)
+  - Not cold or aloof (2/5 disagree a little)
+  - Perseveres until task finished (5/5)
+  - Neutral on moodiness (3/5)
+  - Values artistic experiences (5/5)
+  - Somewhat shy (4/5)
+  - Considerate and kind (5/5)
+  - Efficient (5/5)
+  - Remains calm in tense situations (4/5)
+  - Dislikes routine work (2/5 disagree a little)
+  - Somewhat outgoing and sociable (4/5)
+  - Sometimes rude (4/5)
+  - Does not get nervous easily (2/5 disagree a little)
+  - Likes to reflect and play with ideas (4/5)
+  - Has artistic interests (1/5 disagree strongly on having few artistic interests)
+  - Likes to cooperate (5/5)
+  - Not easily distracted (2/5 disagree a little)
+  - Somewhat sophisticated in art/music/literature (4/5)
+- Need for Cognition:
+  - Prefers complex problems (4/5)
+  - Likes responsibility requiring thinking (4/5)
+  - Does not find thinking unfun (1/5 disagree strongly)
+  - Prefers challenging thinking tasks (1/5 disagree strongly on preferring little thought)
+  - Avoids avoiding thinking (1/5 disagree strongly)
+  - Finds satisfaction in deliberating hard (5/5)
+  - Thinks more than necessary (2/5 disagree a little)
+  - Prefers long-term projects (2/5 disagree a little)
+  - Likes intellectual, difficult tasks (5/5)
+  - Enjoys problem-solving (5/5)
+  - Likes puzzles (5/5)
+  - Likes abstract thinking (5/5)
+  - Prefers intellectual tasks over less thought tasks (5/5)
+  - Does not feel relief after mental effort (1/5 disagree strongly)
+  - Cares about how things work (2/5 disagree a little)
+  - Deliberates about issues even if not personal (4/5)
+- Values (rated as guiding principles):
+  - Trust (9/9)
+  - Achievement (9/9)
+  - Ambition (9/9)
+  - Harmony (9/9)
+  - Compassion (9/9)
+  - Autonomy (9/9)
+  - Competence (8/9)
+  - Altruism (8/9)
+  - Loyalty (8/9)
+  - Politeness (8/9)
+  - Excitement (8/9)
+  - Honesty (8/9)
+  - Wealth (7/9)
+  - Pleasure (8/9)
+  - Forgiveness (6/9)
+  - Humility (6/9)
+  - Civility (6/9)
+  - Status (3/9)
+  - Influence (3/9)
+  - Recognition (3/9)
+  - Power (2/9)
+  - Superiority (2/9)
+  - Tradition (1/9)
+  - Equality (5/9)
+- Self-concept clarity:
+  - Somewhat agrees that beliefs about self often conflict (4/5)
+  - Opinions of self vary day to day (4/5)
+  - Spends time wondering about true self (4/5)
+  - Does not strongly feel not the person they appear to be (2/5 disagree a little)
+  - Generally has a clear sense of self (4/5)
+  - Sometimes unsure about past self (1/5 disagree strongly)
+  - Sometimes knows others better than self (1/5 disagree strongly)
+  - Beliefs about self change somewhat (3/5 neither agree nor disagree)
+  - Descriptions of personality might vary day to day (4/5)
+  - Does not hide true self (1/5 disagree strongly)
+  - Sometimes hard to make up mind because unsure what wanted (4/5)
+- Need for Closure:
+  - Dislikes uncertainty a little (2/5 disagree a little)
+  - Dislikes ambiguous questions a little (2/5)
+  - Likes ordered life with regular hours (4/5)
+  - Does not feel uncomfortable not understanding reasons (2/5 disagree a little)
+  - Irritated when one person disagrees with group (4/5)
+  - Does not like to go into situations without knowing what to expect (2/5 disagree a little)
+  - Feels relieved when making decisions (4/5)
+  - Wants to reach solutions quickly (4/5)
+  - Does not become impatient if solution delayed (2/5 disagree a little)
+  - Does not dislike unpredictable people (2/5 disagree a little)
+  - Dislikes ambiguous statements a little (2/5)
+  - Likes consistent routine (4/5)
+  - Enjoys clear and structured life (4/5)
+  - Does not usually consult many opinions before forming view (1/5 disagree strongly)
+  - Dislikes unpredictable situations a little (2/5)
+- Maximizer tendencies:
+  - Sometimes checks other radio stations even if satisfied (4/5)
+  - Neither agrees nor disagrees on looking for better job opportunities (3/5)
+  - Disagrees a little on difficulty shopping for gifts (2/5)
+  - Agrees a little on difficulty finding clothing loved (4/5)
+  - Agrees a little on having highest standards for self (4/5)
+  - Neither agrees nor disagrees on never settling for second best (3/5)
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations (5/6)
+  - Can control impression given (5/6)
+  - Can change image if not working (5/6)
+  - Does not have trouble changing behavior to suit situations (2/6 generally false)
+  - Can adjust behavior to meet situation requirements (6/6 certainly true)
+  - Does not have difficulty putting up a good front (1/6 always false)
+  - Can regulate actions once situation known (5/6)
+  - Somewhat true in reading emotions through eyes (4/6)
+  - Somewhat true in sensitivity to facial expression changes (4/6)
+  - Generally good intuition about others' emotions and motives (5/6)
+  - Somewhat true in detecting inappropriate jokes (4/6)
+  - Somewhat true in detecting inappropriateness from listener's eyes (4/6)
+  - Somewhat true in detecting lies from mannerisms (4/6)
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 to other person in $5 split (Ultimatum game proposer)
+  - Accepts offers of $2 or more to self, rejects $1 or $0 offers (Ultimatum game responder)
+  - In trust game, sends $2 (tripled to $6) and keeps $3
+  - As receiver in trust game, keeps about half to slightly more than half and sends back less than half but close to half (e.g., keeps $8 of $15, sends back $7)
+  - Thoughts during proposer decisions: wants to ensure some money, maximize money, trusts a little but not fully, secures some money, hopes for some return
+  - Thoughts during receiver decisions: wants more than other, should be nice and send some back, sends back less than half but close to half
+- Cognitive test performance:
+  - Correctly answered 36 of 42 cognitive questions
+  - Estimates average US adult would answer 25 correctly
+  - Demonstrates good logical reasoning and understanding of syllogisms and conditional logic
+  - Correctly solved spatial puzzles and cube rotation tasks
+  - Good vocabulary knowledge (synonyms and antonyms), with some errors (e.g., "furtive" synonym chosen as "flimsy" which is incorrect)
+- Financial literacy:
+  - Correctly understands mortgage payment and interest tradeoffs
+  - Understands inflation effect on savings
+  - Recognizes stocks as highest fluctuation and highest return over long term
+  - Understands risk diversification reduces risk
+  - Knows about 401(k) withdrawal rules (though answered incorrectly that after age 70.5 you do not have to withdraw)
+  - Knows credit card debt can be never eliminated with minimum payments
+  - Correctly answers basic probability and percentage questions
+  - Correctly solves classic cognitive problems (bat and ball, lily pad doubling)
+- Spending habits:
+  - Self-reports as moderate spender (5/11 on scale)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Behavior more similar to a person who sometimes spends despite not needing to (between Mr. A and Mr. B, chose 4 on scale)
+- Emotional and mental health:
+  - Does not feel sad, discouraged, or like a failure generally
+  - Some feelings of disappointment and self-criticism
+  - No increased crying or irritability
+  - No loss of interest in others or sex
+  - Some difficulty making decisions and putting off decisions
+  - No significant sleep or appetite problems
+  - Purposely trying to lose weight by eating less
+- Environmental attitudes:
+  - Agrees somewhat that products should not harm environment and is willing to be inconvenienced for environmental reasons (all 4/5)
+- Materialism and uniqueness:
+  - Disagrees strongly with accumulating lots of stuff
+  - Prefers to restrict possessions and avoid excess
+  - Mindful and thoughtful about possessions
+  - Does not prefer visually sparse environments strongly
+  - Somewhat likes originality and uniqueness in products
+  - Strongly agrees with breaking social customs about products
+  - Somewhat goes against social rules on product use
+  - Neutral on challenging prevailing tastes
+  - Dislikes common products somewhat
+- Empathy and social sensitivity:
+  - Strongly disagrees that friends' emotions don't affect him
+  - Usually feels sad after friends are sad
+  - Strongly understands friends' happiness and sadness
+  - Somewhat frightened by scary movies
+  - Easily caught up in others' feelings
+  - Generally aware of friends' emotions and can read them well
+  - Strongly disagrees with being unaffected by others' feelings
+- Self-reports on personal attributes:
+  - Sometimes hard to continue work without encouragement (true)
+  - Sometimes feels resentful when not getting way (true)
+  - Does not give up due to low ability (false)
+  - Sometimes rebels against authority even if authority is right (true)
+  - Always a good listener (true)
+  - Never takes advantage of others (false)
+  - Always willing to admit mistakes (true)
+  - Sometimes tries to get even rather than forgive (true)
+  - Always courteous even to disagreeable people (true)
+  - Has been irked by differing ideas (false)
+  - Sometimes jealous of others' good fortune (true)
+  - Not irritated by people asking favors (false)
+  - Has deliberately hurt someone's feelings (false)

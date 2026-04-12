@@ -1,0 +1,17 @@
+Need for Closure: Moderate (items mostly 3-4, some 5), indicating some discomfort with ambiguity but not extreme. For example, "I don’t like situations that are uncertain" = 4, "I dislike questions which could be answered in many different ways" = 4, but "I do not usually consult many different opinions before forming my own view" = 1 (disagree strongly), indicating a preference for decisiveness.
+
+Need for Cognition: Moderate to high (items 4-5 mostly), e.g., "I like to have the responsibility of handling a situation that requires a lot of thinking" = 5, "I would prefer complex to simple problems" = 4, but some neutrality on enjoyment of thinking.
+
+Maximizer: High (items 5 on "I never settle for second best" and "I have the highest standards for myself"), indicating a strong drive for optimal outcomes.
+
+Self-monitoring: Moderate to high (items mostly 4-6), indicating good social adaptability and awareness.
+
+Self-concept clarity: Moderate (items 4-5), some internal conflict ("My beliefs about myself often conflict" = 4), but generally clear sense of self.
+
+Economic game behavior: Shows moderate self-interest and fairness concerns. Proposes to keep $3 of $5 and send $2, but rejects offers where she would get $2 or less. In trust games, keeps all money and returns nothing, indicating low trust or reciprocity. This suggests cautious social cooperation.
+
+Cross-scale inference: Need for Cognition and Maximizer scales agree on a preference for thoughtful, high-standard decision-making. Self-monitoring and empathy scales agree on good social perceptiveness, but economic games show cautious or low trust behavior, indicating possible social guardedness despite social skills.
+
+No major contradictions, but some tension between social empathy and low trust in economic games.
+
+w_social estimate: 0.6 -- The respondent shows moderate social engagement and empathy (Self-monitoring scale items 1,8,9,10,12 all 4-6; empathy items strongly endorsed), but economic game behavior reveals cautiousness and low trust (keeping all money in trust game, rejecting low offers). The moderate Need for Closure and high Maximizer suggest a preference for clear, optimal social interactions rather than broad social openness. Together, these scales indicate a socially aware but somewhat guarded individual, leading to a moderate social weighting estimate.

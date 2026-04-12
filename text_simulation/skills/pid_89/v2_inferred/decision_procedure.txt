@@ -1,0 +1,17 @@
+Need for Closure: Moderate to high (items 1,2,3,6,8,12,13,15 all 4-5), indicating preference for order, predictability, and quick decisions. She dislikes ambiguity and unpredictability.
+
+Need for Cognition: Mixed. She agrees somewhat with enjoying thinking and problem-solving (items 2,11,14), but also agrees with avoiding deep thinking (items 5,7,8,10,17). This suggests moderate engagement with cognitive effort but some avoidance.
+
+Maximizer: Moderate. She tries to find best options and has high standards (items 3,4,5,6), but does not strongly endorse never settling for second best (item 6 = 4). She is somewhat selective but not extreme.
+
+Self-monitoring: Moderate. She can adjust behavior in social situations (items 1,5,7 = 5), but sometimes struggles (items 2,3,6 = 3-4). She is somewhat sensitive to social cues (items 9-13 = 3-5).
+
+Self-concept clarity: Moderate to low. She reports internal conflicts and changing self-beliefs (items 1,2,3,5,8,9 = 4), some uncertainty about identity (item 12 = 5), and occasional feeling of not being the person she appears to be (item 4 = 2).
+
+Economic games: She proposes to keep $3 and send $2 in the dictator game, indicating moderate fairness but some self-interest. She accepts offers down to $2 for the other person but rejects very unfair offers ($4 for self, $1 for other). In the trust game, she sends $2 and returns roughly half or more of the multiplied amount, indicating moderate trust and reciprocity.
+
+Cross-scale inference: Need for Closure and Self-concept clarity agree on moderate discomfort with ambiguity and internal conflict. Economic game behavior aligns with high agreeableness and compassion values. Need for Cognition and Maximizer scales show moderate cognitive engagement but some avoidance of deep thinking, consistent with cognitive test performance below average.
+
+No major contradictions are evident.
+
+w_social estimate: 0.65 -- This estimate is driven by moderate to high agreeableness and compassion (Big Five and values), moderate self-monitoring (ability to adjust social behavior), and economic game behavior showing fairness and reciprocity. However, moderate neuroticism and some social withdrawal (living alone, retired, mild depressive symptoms) temper this estimate downward. The scales agree on moderate social engagement and empathy, supporting a moderately high social orientation.

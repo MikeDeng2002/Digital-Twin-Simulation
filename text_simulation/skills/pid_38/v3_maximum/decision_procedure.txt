@@ -1,0 +1,23 @@
+Need for Closure: Moderate. Agrees a little with disliking uncertainty, prefers ordered life and routine, wants quick solutions but not impatient or highly intolerant of ambiguity. This suggests a preference for reasonably fast resolution but not rash decisions.
+
+Need for Cognition: Low to moderate. Avoids complex or abstract thinking, prefers simple tasks, does not enjoy intellectual challenges. Invests minimal analytical effort, relying on heuristics and practical reasoning.
+
+Maximizer: Low. Does not seek the best possible answer, more likely to satisfice. Does not engage in extensive comparison or exhaustive search.
+
+Self-monitoring: Moderate to high. Generally aware of social cues and adjusts behavior accordingly, but not highly deferential. Can read facial expressions and social signals but not always intuitive about deception.
+
+Self-concept Clarity: Moderate. Some minor fluctuations in self-view but generally stable and clear sense of self. Some willingness to withhold true self from others, indicating moderate social self-presentation control.
+
+Economic Game Gap: Proposes to keep all money in dictator game and rejects unfair offers in ultimatum game, showing self-interested behavior as proposer and strategic rejection as responder. This matches typical strategic behavior, no large gap between stated and strategic behavior.
+
+Intertemporal Patience: Prefers immediate smaller rewards over delayed larger rewards in most intertemporal choice tasks, indicating impatience and short-term focus.
+
+Cognitive Errors: Logical reasoning errors in syllogisms and conditional reasoning, misunderstanding logical implications, and poor spatial reasoning (cube rotation). Tends to misinterpret or reject valid conclusions, indicating concrete, literal, and sometimes flawed reasoning style. This implies numeric predictions may be biased by misunderstanding probabilities and logical structures.
+
+Social Desirability: Moderate trustworthiness. Some admissions of negative traits balanced with positive self-presentation. Self-reports likely somewhat reliable but with mild positive bias.
+
+w_social estimate: 0.45
+
+Reasoning: The estimate balances moderate social awareness and self-monitoring with a generally self-interested and practical cognitive style. The participant shows moderate empathy but maintains emotional boundaries, indicating some social influence on reasoning but not strong reliance. Low Need for Cognition and moderate Need for Closure suggest a preference for quick, practical answers rather than deep analysis, which lowers the weight of complex reasoning in predictions. Economic game behavior confirms strategic self-interest, consistent with conservative values emphasizing autonomy and competence. Cognitive test errors and low confidence in complex tasks suggest numeric predictions may be prone to heuristic biases and errors in probabilistic reasoning. The participant’s moderate minimalism and consumerism attitudes imply careful but limited information curation, avoiding overload but also limiting exposure to diverse or novel data. Overall, the profile predicts a practical, somewhat conservative, satisficing approach to numeric predictions, with moderate social influence but primarily self-reliant and concrete reasoning.
+
+# End of profile.

@@ -1,0 +1,195 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Other (Question: What is your present religion, if any? Answer: Other)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as Liberal? Answer: Liberal)
+- Family income last year: $50,000-$75,000 (Question: Last year, what was your total family income? Answer: $50,000-$75,000)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: Part-time employment)
+- Personality traits (Big Five, from self-report):
+  - Talkative (Q1: Agree strongly)
+  - Tends to find fault with others: Disagree a little
+  - Does a thorough job: Agree strongly
+  - Is depressed, blue: Disagree strongly
+  - Is original, comes up with new ideas: Agree strongly
+  - Is reserved: Disagree a little
+  - Is helpful and unselfish with others: Agree strongly
+  - Can be somewhat careless: Disagree a little
+  - Is relaxed, handles stress well: Agree a little
+  - Is curious about many different things: Agree strongly
+  - Is full of energy: Agree a little
+  - Starts quarrels with others: Disagree strongly
+  - Is a reliable worker: Agree strongly
+  - Can be tense: Agree a little
+  - Is ingenious, a deep thinker: Agree strongly
+  - Generates a lot of enthusiasm: Agree strongly
+  - Has a forgiving nature: Agree strongly
+  - Tends to be disorganized: Disagree a little
+  - Worries a lot: Disagree strongly
+  - Has an active imagination: Agree strongly
+  - Tends to be quiet: Disagree strongly
+  - Is generally trusting: Disagree a little
+  - Tends to be lazy: Agree a little
+  - Is emotionally stable, not easily upset: Agree a little
+  - Is inventive: Agree strongly
+  - Has an assertive personality: Disagree a little
+  - Can be cold and aloof: Agree a little
+  - Perseveres until the task is finished: Agree strongly
+  - Can be moody: Disagree a little
+  - Values artistic, aesthetic experiences: Agree strongly
+  - Is sometimes shy, inhibited: Disagree a little
+  - Is considerate and kind to almost everyone: Agree a little
+  - Does things efficiently: Agree strongly
+  - Remains calm in tense situations: Agree a little
+  - Prefers work that is routine: Neither agree nor disagree
+  - Is outgoing, sociable: Agree strongly
+  - Is sometimes rude to others: Disagree a little
+  - Makes plans and follows through with them: Agree a little
+  - Gets nervous easily: Neither agree nor disagree
+  - Likes to reflect, play with ideas: Agree strongly
+  - Has few artistic interests: Disagree strongly
+  - Likes to cooperate with others: Neither agree nor disagree
+  - Is easily distracted: Agree a little
+  - Is sophisticated in art, music, or literature: Agree a little
+- Need for Cognition (selected items):
+  - Prefers complex to simple problems: Neither agree nor disagree
+  - Likes responsibility requiring thinking: Disagree a little
+  - Thinking is not fun: Agree a little
+  - Prefers little thought tasks over challenging ones: Disagree a little
+  - Tries to avoid deep thinking situations: Neither agree nor disagree
+  - Finds satisfaction in deliberating hard: Disagree a little
+  - Only thinks as hard as necessary: Agree a little
+  - Prefers small daily projects to long-term ones: Agree a little
+  - Likes tasks requiring little thought once learned: Disagree a little
+  - Idea of relying on thought to get ahead appeals: Agree a little
+  - Enjoys tasks involving new solutions: Agree a little
+  - Learning new ways to think doesn't excite: Agree a little
+  - Prefers life filled with puzzles: Agree a little
+  - Thinking abstractly appeals: Agree a little
+  - Prefers intellectual, difficult tasks: Agree a little
+  - Feels relief rather than satisfaction after mental effort: Disagree a little
+  - It's enough that something gets the job done; don't care how: Neither agree nor disagree
+  - Usually deliberates about issues even if not personally affected: Disagree strongly
+- Values (rated as guiding principles):
+  - Wealth: Highly important (9)
+  - Pleasure: Highly important (9)
+  - Forgiveness: Quite important (5)
+  - Influence: 3
+  - Trust: 8
+  - Competence: 8
+  - Humility: Quite important (5)
+  - Achievement: 4
+  - Altruism: 8
+  - Ambition: 4
+  - Loyalty: 8
+  - Politeness: Quite important (5)
+  - Power: Not important (1)
+  - Harmony: Highly important (9)
+  - Excitement: Quite important (5)
+  - Honesty: Highly important (9)
+  - Compassion: Highly important (9)
+  - Status: Quite important (5)
+  - Civility: 7
+  - Autonomy: Quite important (5)
+  - Equality: Quite important (5)
+  - Recognition: Not important (1)
+  - Tradition: 6
+  - Superiority: Not important (1)
+- Minimalism and simplicity preferences:
+  - Avoid accumulating lots of stuff: Agree a little
+  - Restrict number of things owned: Agree a little
+  - "Less is more" in owning things: Agree a little
+  - Actively avoid acquiring excess possessions: Disagree a little
+  - Drawn to visually sparse environments: Agree a little
+  - Prefer simplicity in design: Agree strongly
+  - Keep home aesthetic sparse: Agree a little
+  - Prefer leaving spaces visually empty: Agree a little
+  - Mindful of what owned: Agree a little
+  - Selection of things carefully curated: Agree a little
+  - Important to be thoughtful about what chosen to own: Agree a little
+  - Belongings mindfully selected: Agree a little
+- Empathy and emotional sensitivity:
+  - Friends’ emotions don’t affect me much: Disagree a little
+  - Usually feel sad after being with sad friend: Agree a little
+  - Can understand friend’s happiness: Agree strongly
+  - Get frightened watching scary movies: Agree strongly
+  - Get caught up in others’ feelings easily: Agree strongly
+  - Find it hard to know when friends frightened: Disagree a little
+  - Don’t become sad when others cry: Disagree strongly
+  - Other people’s feelings don’t bother me: Disagree strongly
+  - Can usually understand when someone is feeling down: Agree strongly
+  - Can usually work out when friends are scared: Agree a little
+  - Often become sad watching sad TV/films: Agree a little
+  - Can often understand feelings before told: Agree strongly
+  - Seeing angered person has no effect: Disagree a little
+  - Can usually work out when people are cheerful: Agree strongly
+  - Tend to feel scared when with scared friends: Disagree a little
+  - Can usually realize quickly when friend is angry: Agree strongly
+  - Often get swept up in friends’ feelings: Agree a little
+  - Friend’s unhappiness doesn’t make me feel anything: Disagree strongly
+  - Usually aware of friends’ feelings: Agree strongly
+  - Have trouble figuring out when friends happy: Disagree strongly
+- Environmental concern:
+  - Important that products do not harm environment: Agree a little
+  - Consider environmental impact in decisions: Agree a little
+  - Purchase habits affected by environmental concern: Agree a little
+  - Concerned about wasting planet’s resources: Agree a little
+  - Describe self as environmentally responsible: Agree a little
+  - Willing to be inconvenienced for environmentally friendly actions: Agree a little
+- Cognitive test performance:
+  - Estimated self-correct answers: 21/42
+  - Estimated average US adult correct answers: 25/42
+- Cognitive test answers indicate:
+  - Correct logical reasoning on syllogisms and conditional reasoning
+  - Some errors in synonym and antonym questions (several incorrect answers)
+  - Correct answers on spatial rotation and pattern puzzles mostly
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 to other person in $5 split (Ultimatum)
+  - Accepts all offers except $0 to self
+  - In trust game, sends $0 and sends all $5 to other person (maximally generous)
+  - As receiver, keeps about half and sends back about half (e.g., keeps $7 of $15, sends $8 back)
+  - Thoughts during decisions: fairness, kindness, generosity, just, simple
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement: True
+  - Sometimes feel resentful when don’t get way: True
+  - Have given up on things due to low self-belief: True
+  - Sometimes rebel against authority even if they are right: True
+  - Not always a good listener: False
+  - Have taken advantage of someone: True
+  - Willing to admit mistakes: True
+  - Do not try to get even rather than forgive: False
+  - Not always courteous to disagreeable people: False
+  - Never been irked by differing ideas: True
+  - Never jealous of others’ good fortune: False
+  - Not irritated by people asking favors: False
+  - Never deliberately hurt someone’s feelings: True
+- Self-concept clarity:
+  - Beliefs about self sometimes conflict: Agree a little
+  - Opinions of self vary day to day: Agree a little
+  - Spend little time wondering who really am: Disagree a little
+  - Sometimes feel not really the person I appear to be: Disagree a little
+  - Unsure about past self: Agree a little
+  - Seldom experience conflict between personality aspects: Disagree a little
+  - Sometimes think know others better than self: Agree a little
+  - Beliefs about self do not change frequently: Disagree a little
+  - Description of personality might differ day to day: Disagree a little
+  - Would tell others what really like: Disagree a little (i.e., would tell)
+  - Generally have clear sense of who I am: Agree a little
+  - Often hard to make up mind because unsure what want: Agree a little
+- Need for Closure:
+  - Neutral or slight agreement on disliking uncertainty and unpredictability
+  - Disagree with liking well-ordered life with regular hours
+  - Agree a little that dislike ambiguous statements and unpredictable people
+  - Mixed responses on impatience for quick solutions
+- Maximizer tendencies:
+  - Disagree a little with often checking for better options
+  - Disagree a little with always looking for better job opportunities
+  - Disagree a little with difficulty shopping for gifts or clothes
+  - Agree a little with having highest standards for self
+  - Agree a little with never settling for second best

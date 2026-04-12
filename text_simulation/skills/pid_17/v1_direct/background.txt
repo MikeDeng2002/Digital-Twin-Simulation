@@ -1,0 +1,98 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: 5)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Divorced (Question: Which of these best describes you? Answer: 3 - Divorced)
+- Religion: Atheist, never attends religious services (Questions: What is your present religion? Answer: 9 - Atheist; Aside from weddings and funerals, how often do you attend religious services? Answer: 6 - Never)
+- Political affiliation: Democrat, very liberal (Questions: In politics today, do you consider yourself a? Answer: 2 - Democrat; In general, would you describe your political views as? Answer: 5 - Very liberal)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: 2 - Part-time employment)
+- Income: Less than $30,000 last year (Question: Last year, what was your total family income? Answer: 1 - Less than $30,000)
+- Personality traits (Big Five, selected items):
+  - Low talkativeness (Q1: 2 - Disagree a little)
+  - Very low tendency to find fault (Q2: 1 - Disagree strongly)
+  - Slightly thorough and reliable (Q3: 4 - Agree a little; Q13: 4 - Agree a little)
+  - Emotionally stable, relaxed, not tense or moody (Q9: 5 - Agree strongly; Q14: 1 - Disagree strongly; Q29: 1 - Disagree strongly; Q24: 5 - Agree strongly)
+  - Highly original, ingenious, inventive, curious, deep thinker (Q5: 5; Q15: 5; Q25: 5; Q10: 5; Q40: 5)
+  - Somewhat reserved, helpful, forgiving, considerate, kind (Q6: 4; Q7: 4; Q17: 4; Q32: 5; Q19: 1 - worries strongly disagree)
+  - Prefers cooperation, generally trusting (Q42: 5; Q22: 5)
+  - Disagrees with being lazy, careless, disorganized (Q8: 2; Q18: 2; Q23: 1)
+  - Moderate energy and enthusiasm (Q11: 4; Q16: 2)
+  - Prefers efficiency and perseveres (Q33: 5; Q28: 4)
+  - Values artistic/aesthetic experiences (Q30: 5; Q44: 4)
+  - Disagrees with being shy or quiet (Q21: 2; Q31: 2)
+- Need for Cognition:
+  - Likes thinking and intellectual challenges (Q6: 5 - satisfaction in deliberating hard; Q11: 5 - enjoys new solutions; Q13: 5 - prefers puzzles; Q14: 5 - likes abstract thinking)
+  - Disagrees with thinking not fun or avoiding thinking (Q3: 1; Q5: 1; Q7: 1; Q12: 1)
+  - Somewhat neutral or mixed on preference for complex problems (Q1: 3; Q4: 3; Q8: 3; Q15: 3)
+  - Likes tasks requiring little thought once learned (Q9: 5)
+  - Usually deliberates about issues even if not personally affected (Q18: 4)
+- Values:
+  - Does not value wealth, pleasure, influence, ambition, power, status, recognition, tradition, superiority, excitement (all rated 1)
+  - Highly values compassion (9), equality (9), harmony (8), humility (7), altruism (7), honesty (7), civility (7), trust (6), autonomy (6), competence (5), politeness (3)
+- Environmental attitudes:
+  - Strongly agrees that products should not harm environment, considers environmental impact, purchase habits affected by environment, concerned about wasting resources, willing to be inconvenienced for environment (all 4 or 5)
+- Self-concept clarity:
+  - Strongly agrees to having a clear sense of who they are (Q11: 5)
+  - Strongly disagrees with conflicting beliefs about self or frequent changes in self-view (Q1-5, 7-10 all 1 or 5 as appropriate)
+- Self-monitoring:
+  - Generally low self-monitoring: difficulty changing behavior to suit situations (Q1-3: 2,1,1), trouble putting up a good front (Q6: 6 - always true), trouble adjusting behavior (Q4: 5 - generally true), low ability to read others' emotions (Q8-10: mostly 1 or 2)
+- Maximizer:
+  - Does not settle for second best (Q6: 2 - disagree a little)
+  - Has high standards for self (Q5: 4 - agree a little)
+  - Finds it difficult to shop for gifts and clothing (Q3,4: 5 - agree strongly)
+  - Does not seek recognition for achievements (Q9: 1 - definitely untrue)
+  - Agrees somewhat with being on lookout for better opportunities (Q2: 4)
+- Need for Closure:
+  - Dislikes uncertainty somewhat but not strongly (Q1: 2; Q4: 2; Q6: 2)
+  - Dislikes unpredictable situations strongly (Q15: 1)
+  - Likes ordered life and routine somewhat (Q3: 4; Q12: 4)
+  - Disagrees strongly with impatience for quick solutions (Q8,9: 1)
+- Economic games:
+  - Proposes to keep $3 and send $2 in a $5 split (Question: How much would you propose to keep? Answer: 4 - $3 for myself, $2 to other)
+  - Accepts offers down to $2 for self / $3 for other, rejects offers with $4 or $5 kept by other (accepts $3 for other, rejects $1 for other)
+  - In trust game with tripling, keeps $3 and sends $2; as receiver, keeps majority of money sent back (e.g., keeps $8 of $15, sends back $7)
+  - Thoughts during decisions indicate belief that "people on this platform are greedy" and "do not share, too greedy"
+- Cognitive tests:
+  - Correctly answered 38 of 42 cognitive questions (self-estimate)
+  - Estimates average US adult would answer 24 correctly
+  - Demonstrates good logical reasoning on syllogisms and conditional reasoning
+  - Performs well on spatial rotation and pattern recognition puzzles
+  - Good vocabulary knowledge (synonyms and antonyms)
+- Financial literacy:
+  - Correctly understands mortgage payments, inflation effects, risk diversification, stock returns
+  - Knows about 401(k) withdrawal rules (though answered false to required withdrawal after 70.5)
+  - Correctly answers credit card debt payoff time (20 years)
+  - Correctly answers probability and percentage questions
+  - Correctly solves classic bat and ball and lily pad doubling problems
+- Spending habits:
+  - Neither tightwad nor spendthrift (6 - about the same or neither)
+  - Rarely has trouble limiting spending or spending money
+  - Behavior similar to neither Mr. A nor Mr. B in shopping scenario
+- Mental health:
+  - Reports no sadness, discouragement, guilt, disappointment, or irritability
+  - No loss of interest in people or sex
+  - No sleep, appetite, or energy problems
+  - Not purposely trying to lose weight
+- Self-reported traits:
+  - Does not avoid work when not encouraged, does not feel resentful, willing to admit mistakes
+  - Sometimes irritated by people asking favors
+  - Never deliberately hurts others' feelings
+  - Prefers to depend on self, values personal identity independent of others
+  - Disagrees strongly with competition, winning as everything, or feeling tense when others do better
+  - Feels good cooperating with others
+  - Somewhat values respect for group decisions
+- Consumer uniqueness:
+  - Disagrees with seeking uniqueness via products or breaking customs except strongly agrees with breaking social group rules regarding products (Q5: 5)
+  - Strongly avoids products bought by general population (Q10-12: 5)
+- Self-concept clarity:
+  - Strongly agrees to clear, stable self-concept, no internal conflict
+- Need for closure:
+  - Disagrees with discomfort from uncertainty, dislikes unpredictability, prefers routine moderately
+- Maximizer:
+  - High standards for self, but does not seek recognition or settle for second best
+- Self-monitoring:
+  - Low ability and tendency to adjust behavior or read others' emotions
+- Economic game thoughts indicate distrust and perception of greed in others

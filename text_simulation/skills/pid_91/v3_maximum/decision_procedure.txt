@@ -1,0 +1,31 @@
+Need for Closure: Moderate. Does not strongly dislike uncertainty but prefers some order and closure. Not impatient for immediate answers but dislikes prolonged ambiguity.
+
+Need for Cognition: Moderate-low. Prefers to think as little as necessary, enjoys some intellectual challenge but not deep or prolonged analytical effort.
+
+Maximizer: Moderate. Has high standards but satisficing behavior; seeks good enough rather than perfect answers.
+
+Self-monitoring: High. Notices social cues and others' opinions, adapts behavior accordingly, but does not necessarily defer to social pressure.
+
+Self-concept Clarity: Moderate. Some internal conflict and occasional uncertainty but overall stable self-view, able to resist social pressure when needed.
+
+Economic Game Gap: Proposer behavior (dictator) is fair and generous; ultimatum acceptance is rational (accepts all but zero offers). Trust game shows willingness to trust but expects fair return, indicating strategic but fair-minded behavior. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: Moderate patience with some present bias; prefers sooner smaller rewards unless delayed rewards are significantly better.
+
+Cognitive Errors: Semantic confusion in vocabulary tests (synonyms and antonyms), some numeric reasoning errors (e.g., bat and ball cost, lily pad problem), but good logical syllogistic reasoning and spatial puzzle performance. Suggests moderate analytic reasoning with some gaps in verbal and numeric precision. This implies numeric predictions may be somewhat imprecise or biased by semantic misunderstandings.
+
+Social Desirability: Moderate. Some admissions of negative traits (taking advantage, resentment) but also some idealized self-descriptions. Self-reports are moderately reliable but may have some positive bias.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate to high reliance on social information and social norms in forming beliefs and predictions. High empathy and self-monitoring indicate sensitivity to social cues and opinions, while moderate maximizer and need for cognition suggest some independent evaluation but not exhaustive. The participant’s political identity and values imply preference for socially and ethically framed information consistent with liberal views. Cognitive test performance and numeric reasoning weaknesses suggest some vulnerability to semantic and numeric biases, which may be mitigated by social validation. Conflicts between moderate need for closure and moderate need for cognition are resolved by assuming a balanced approach: willing to tolerate some uncertainty but prefers reasonably clear answers, relying on trusted social sources and moderate analytical effort. Social desirability is moderate, so self-reports are somewhat trustworthy but should be interpreted cautiously.
+
+This profile predicts that for open numeric prediction questions like "What will Bitcoin's price be next year?" or "What year will AGI arrive?" this person will:
+- Use a mix of social consensus and moderate analytical reasoning.
+- Prefer sources that align with liberal, ethical, and compassionate values.
+- Show moderate patience in considering future outcomes.
+- Possibly underestimate numeric complexity or over-rely on heuristics due to some cognitive limitations.
+- Weight social and emotional framing heavily in their predictions.
+- Avoid extreme or fringe predictions, favoring moderate, socially acceptable estimates.
+
+# Final skill profile summary complete.

@@ -1,0 +1,27 @@
+Need for Closure: High. Strong dislike of uncertainty, preference for order, routine, and quick resolution. However, not impulsive; willing to deliberate moderately but wants closure.
+
+Need for Cognition: Moderate-high. Invests analytical effort but within limits; enjoys problem solving and deliberation but avoids highly abstract or novel intellectual challenges.
+
+Maximizer: Moderate-low. Seeks fair and good enough answers rather than perfect or optimal. Willing to settle once a reasonable solution is found.
+
+Self-monitoring: Moderate. Notices others’ emotions and social cues well but does not strongly change behavior to conform; maintains stable self-concept.
+
+Self-concept clarity: High. Stable, consistent self-view, resists social pressure, and has clear identity.
+
+Economic game gap: Behavior consistent with stated fairness and reciprocity. Proposes fair splits, accepts fair offers, expects moderate reciprocity. No major strategic deception or inconsistency.
+
+Intertemporal patience: High. Prefers larger delayed rewards, indicating long-term thinking in decisions.
+
+Cognitive errors: Some conservative errors in logic (rejecting valid syllogisms), slight confusion on antonyms, but overall strong logical reasoning. Likely cautious in numeric predictions, avoiding overconfidence or extreme estimates.
+
+Social desirability: Moderate-low. Self-reports include some negative traits and admit to imperfections, suggesting reliable self-reporting.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by high empathy, social concern, and moderate self-monitoring, indicating that social information and norms strongly influence this person’s reasoning and predictions. However, high self-concept clarity and moderate maximizer tendencies reduce blind conformity, allowing for independent judgment. The moderate social desirability and honest self-reporting support trusting the profile. Cognitive test performance and economic game behavior show a balanced, fair, and cautious reasoning style, consistent with moderate-depth research and a preference for closure. Conflicts between high need for closure and moderate need for cognition are resolved by moderate deliberation but a desire to reach timely conclusions. Overall, this person’s numeric predictions will be socially informed, fair-minded, cautious, and moderately analytical, with a preference for consensus-aligned but not extreme views.
+
+# Summary for simulation:  
+- Predicts numeric outcomes with moderate analytical depth, avoiding extremes.  
+- Uses socially validated information, values fairness and trustworthiness.  
+- Prefers stable, ordered narratives and dislikes ambiguous or highly uncertain scenarios.  
+- Likely to anchor predictions on mainstream consensus, adjusted by moderate personal judgment.  
+- Will weigh social and emotional factors alongside factual data in forming predictions.

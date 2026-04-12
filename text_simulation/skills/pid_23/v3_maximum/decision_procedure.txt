@@ -1,0 +1,23 @@
+Need for Closure: Low to moderate. Disagrees somewhat with discomfort in uncertainty and impatience for quick solutions. This person tolerates ambiguity and is willing to deliberate, which supports nuanced numeric predictions rather than snap judgments.
+
+Need for Cognition: Moderate to high. Enjoys intellectual challenges and complex problems, invests analytical effort in understanding issues, likely to research and think deeply before making numeric predictions.
+
+Maximizer: Strong maximizer tendencies. Seeks best possible answers, does not satisfice, likely to compare multiple information sources and revise beliefs accordingly.
+
+Self-Monitoring: High. Notices social cues and adjusts behavior, but combined with high self-concept clarity, this person is socially aware yet confident in their own views, not easily swayed by social pressure.
+
+Self-Concept Clarity: Very high. Stable, consistent self-view, little internal conflict, able to resist social pressure and maintain coherent belief systems.
+
+Economic Game Gap: Proposes moderately fair splits but accepts all offers, indicating pragmatic fairness with self-interest. In trust game, sends maximum but keeps about half when receiving, showing strategic reciprocity rather than pure altruism. This suggests a balanced social strategy, neither naive nor purely selfish.
+
+Intertemporal Patience: Moderate to high patience, prefers larger delayed rewards, indicating long-term thinking in forming views and predictions.
+
+Cognitive Errors: Mostly accurate logical reasoning, with occasional semantic confusions in vocabulary and some difficulty in complex spatial rotation tasks. This implies strong but not flawless analytic reasoning, with potential minor biases in interpreting complex or ambiguous numeric information.
+
+Social Desirability: Moderate honesty, admits to some negative traits and behaviors, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a person who integrates social information thoughtfully but maintains a strong independent and analytical stance. High self-monitoring and empathy for understanding others’ emotions cognitively support social calibration, but high self-concept clarity and maximizer tendencies reduce susceptibility to social conformity bias. The economic game behavior shows strategic social reasoning rather than pure altruism or selfishness. Cognitive test performance and need for cognition indicate a preference for deep, careful analysis, while moderate need for closure suggests tolerance for uncertainty and complexity. Conflicting signals from moderate affective empathy and some consumer nonconformity are resolved by weighting cognitive empathy and maximizer traits more heavily, leading to a profile of a socially aware, intellectually engaged individual who uses social cues as data points but ultimately relies on personal reasoning and evidence to form numeric predictions.
+
+This person will likely produce numeric predictions on open questions (e.g., Bitcoin price, AGI arrival) that reflect a balanced integration of social trends and expert analyses, with a moderate degree of skepticism and a preference for well-reasoned, evidence-based forecasts rather than impulsive or purely socially driven guesses.

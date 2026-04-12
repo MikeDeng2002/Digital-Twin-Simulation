@@ -1,0 +1,84 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Male (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age 65+ (Question: How old are you? Answer: 4 - 65+)
+- Highest education level: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: 4 - Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 6 - Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: 3 - Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: 3 - Moderate)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2 - 2)
+- Employment status: Retired (Question: What is your current employment status? Answer: 7 - Retired)
+- Income: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 4 - $75,000-$100,000)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (4 - Agree a little)
+  - Thorough and reliable worker (5 - Agree strongly)
+  - Original, inventive, deep thinker, curious, imaginative (mostly 4 or 5)
+  - Relaxed and handles stress well (5 - Agree strongly)
+  - Somewhat moody and tense (5 - Agree strongly)
+  - Somewhat reserved and quiet (2-4 range)
+  - Helpful and kind (4-5 range)
+  - Disagree strongly with being lazy or disorganized
+- Need for Cognition:
+  - Strong preference for complex problems and intellectual challenges (mostly 5 - Agree strongly)
+  - Dislikes tasks requiring little thought (1 - Disagree strongly)
+  - Enjoys thinking and problem solving
+- Values:
+  - High importance on Pleasure (9), Honesty (9), Civility (9), Autonomy (9), Politeness (9), Trust (8), Competence (8), Compassion (8), Wealth (8)
+  - Low importance on Power (1), Influence (2), Superiority (2), Tradition (2)
+- Environmental attitudes:
+  - Somewhat environmentally responsible and willing to be inconvenienced for environment (4-5)
+  - Less concern about wasting resources or purchase habits affected by environment (2-3)
+- Empathy and social sensitivity:
+  - Strongly agrees with being empathetic and understanding others’ feelings (mostly 4-5)
+  - Disagrees strongly with being unaffected by others’ emotions
+- Cognitive test performance:
+  - Estimated self-correct answers: 35/42
+  - Estimated average US adult correct answers: 21/42
+  - Correct answers on logical reasoning and puzzles indicate good logical and spatial reasoning skills
+- Financial literacy:
+  - Correct understanding of mortgage, inflation, risk diversification, and investment returns
+  - Correct answers on probability and percentages
+  - Knows credit card debt payoff time (12 years)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 out of $5 (fair offer)
+  - Accepts offers down to $1 sent to self, rejects $0 offers
+  - In trust game, sends $3 (keeps $2), expects receiver to keep $7 and send back $8 (reciprocal fairness)
+  - Thoughts during decisions emphasize fairness, altruism, and rewarding sharing
+- Self-reported personality attributes:
+  - Does not give up easily, sometimes feels resentful, sometimes rebels against authority, sometimes takes advantage of others, willing to admit mistakes
+  - Not always courteous or a good listener
+  - Sometimes irritated by others asking favors
+- Self-concept:
+  - Clear sense of self, little internal conflict, some uncertainty about past self
+  - Values independence and self-reliance strongly
+- Need for Closure:
+  - Strong preference for order, dislike of uncertainty, desire for quick decisions and solutions
+  - Dislikes unpredictable situations and ambiguous statements
+- Maximizer tendencies:
+  - Often checks for better options, but does not always seek highest standards or never settle for second best
+- Self-monitoring:
+  - High ability to alter behavior in social situations, read emotions, and adjust accordingly, but some difficulty changing behavior when image is not working
+- Depression and mood:
+  - Feels sad and discouraged about the future sometimes
+  - Does not feel like a failure or worthless
+  - Some difficulty sleeping (wakes 1-2 hours early)
+  - Appetite decreased, purposely trying to lose weight
+  - More easily irritated than before
+  - Less interested in others than before
+  - No major loss of interest in sex or work ability
+- Spending habits:
+  - Moderate spender (7 on scale 1-11)
+  - Sometimes has trouble limiting spending, rarely has trouble spending money
+  - Behavior somewhat similar to a person who can resist spending despite sales
+- Consumer uniqueness:
+  - Disagrees strongly with seeking uniqueness through possessions or breaking social rules about products
+  - Some agreement with breaking social rules about product use
+- Summary of cognitive and logical reasoning:
+  - Correctly identifies cards to test conditional rules
+  - Correctly solves syllogistic and logical reasoning problems
+  - Good vocabulary knowledge (synonyms and antonyms mostly correct)
+  - Good spatial reasoning (cube rotation puzzles)
+  - Good numerical and probabilistic reasoning

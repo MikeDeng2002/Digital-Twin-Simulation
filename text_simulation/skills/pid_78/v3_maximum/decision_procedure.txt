@@ -1,0 +1,34 @@
+Need for Closure: Moderate. Some discomfort with uncertainty (agrees a little with not liking to go into situations without knowing what to expect), but not strongly intolerant of ambiguity. Does not rush to immediate solutions but prefers some resolution. Confidence: Moderate.
+
+Need for Cognition: Moderate but with a tendency to minimize effort ("I only think as hard as I have to" strongly agreed). Engages in thinking when necessary but avoids deep or prolonged cognitive effort. Confidence: Moderate.
+
+Maximizer: Mixed; high personal standards but satisficing in information search and decision-making. Seeks good enough rather than best. Confidence: Moderate.
+
+Self-monitoring: Moderate. Can adjust behavior to social context but not perfectly or consistently. Notices others' reactions but does not always conform. Confidence: Moderate.
+
+Self-concept Clarity: Low to moderate. Some instability and self-questioning but generally stable enough to resist social pressure. Confidence: Moderate.
+
+Economic Game Gap: Proposer in dictator game is moderately generous ($2 kept, $3 given), receiver accepts all offers except zero, trust game shows moderate trust but cautious reciprocity. Behavior aligns reasonably with strategic considerations, no large discrepancies. Confidence: High.
+
+Intertemporal Patience: Moderate impatience; prefers immediate smaller rewards unless delayed rewards are significantly better. Suggests moderate discounting of future outcomes. Confidence: Moderate.
+
+Cognitive Errors: Some errors in abstract reasoning and logical inference (e.g., misunderstanding some syllogisms, synonym/antonym mistakes), indicating occasional reasoning biases or gaps in formal logic. However, overall cognitive performance is above average. This implies numeric predictions may be somewhat heuristic and influenced by concrete, practical reasoning rather than abstract modeling. Confidence: Moderate.
+
+Social Desirability: Moderate honesty with some self-critical admissions, suggesting self-reports are reasonably reliable but may underreport socially undesirable traits. Confidence: Moderate.
+
+w_social estimate: 0.55  
+Reasoning: The estimate balances moderate cognitive ability and engagement with a conservative, traditional worldview and moderate need for closure. The person is somewhat socially aware but not highly influenced by social desirability or social pressure, and shows moderate trust and reciprocity in economic games. Cognitive test performance and reasoning errors suggest a practical, heuristic approach to numeric predictions rather than deep analytical modeling. The moderate Need for Cognition and Maximizer scores imply moderate research depth and satisficing behavior in information gathering. The political and demographic context strongly suggests reliance on conservative, partisan sources with moderate research depth. Conflicting signals on empathy and self-concept clarity are resolved by weighting behavioral economic game data and cognitive test performance more heavily, indicating a stable but pragmatic reasoning style.
+
+# Final skill profile summary for simulating numeric predictions:
+
+- Research Depth: Moderate; uses mainstream conservative and financial news, some online sources, avoids academic or liberal sources.  
+- Reasoning Style: Practical, heuristic, moderately analytical but avoids deep abstract thinking. Occasional logical errors but generally above average cognitive ability.  
+- Social Influence: Moderate; notices social cues but maintains independent judgment.  
+- Decision Speed: Moderate need for closure; willing to tolerate some uncertainty but prefers resolution.  
+- Patience: Moderate discounting of future; prefers sooner smaller rewards unless delayed rewards are clearly better.  
+- Economic Rationality: Moderately strategic and fair-minded in social-economic decisions.  
+- Values and Worldview: Traditional, loyal, achievement-oriented, status-conscious, conservative, moderately ambitious and excited by success.  
+- Consumer and Information Behavior: Conventional, not trend-seeking, moderate minimalist aesthetic, satisficer in information and consumption.  
+- Emotional and Motivational State: Some irritability and self-criticism but no severe mood disorder; motivated by legacy, family, and self-improvement.
+
+This profile predicts numeric predictions will be anchored in practical, conservative heuristics, moderately optimistic about financial and technological futures but cautious about uncertainty and complexity, with moderate trust in social and economic systems.

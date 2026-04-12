@@ -1,0 +1,6 @@
+- Need for Closure: Strongly agrees with items indicating discomfort with uncertainty and preference for order and quick decisions (e.g., Q1=5, Q2=5, Q4=5, Q5=5, Q6=5, Q7=5, Q8=5, Q9=5, Q10=5, Q11=5, Q15=5)
+- Need for Cognition: Strongly disagrees with enjoying complex or effortful thinking (e.g., Q1=1, Q2=1, Q4=5, Q7=4, Q8=5, Q16=5)
+- Maximizer: Disagrees with having highest standards or never settling for second best (Q5=1, Q6=1)
+- Self-monitoring: Mixed responses, mostly "somewhat true but with exceptions" or "generally true" for ability to adjust behavior and read others (Q1=4, Q2=4, Q6=5, Q13=5)
+- Self-concept clarity: Generally agrees to having a clear sense of self, with some disagreement about frequent changes or conflicts (Q6=4, Q11=4)
+- w_social estimate: 0.7 -- This person shows strong need for closure (items Q1-Q15 all 5s), low need for cognition (prefers simple tasks, avoids deep thinking), moderate to high self-monitoring (Q6=5, Q13=5), and reasonably clear self-concept (Q11=4), indicating a social reasoning style that values order, clarity, and social attunement but avoids complex deliberation.

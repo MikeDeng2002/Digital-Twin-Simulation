@@ -1,0 +1,20 @@
+Need for Closure: Moderate. Likes order and clarity, wants to resolve uncertainty but not impatient or rigid. Scores 5 on wanting to reach solutions quickly but disagrees with impatience.
+
+Need for Cognition: Moderate to high. Enjoys complex problems and intellectual challenge, but also tries to think efficiently (agrees with "I only think as hard as I have to"). Cognitive test performance above average supports this.
+
+Maximizer: High. Seeks best answers and opportunities, has high standards for self and information, but willing to accept good enough when appropriate.
+
+Self-Monitoring: High. Skilled at reading social cues and adjusting behavior, aware of others’ expectations, but maintains own integrity.
+
+Self-Concept Clarity: Moderate to high. Some internal reflection and occasional conflict, but overall stable and clear self-view.
+
+Economic Game Gap: Dictator game shows moderate selfishness (keeps $4/$5), ultimatum game acceptance of all offers suggests strategic acceptance rather than pure fairness. Trust game shows moderate trust and reciprocity. Behavior aligns with pragmatic self-interest balanced with fairness.
+
+Intertemporal Patience: Moderate to high. Prefers larger delayed rewards consistently, indicating future-oriented thinking.
+
+Cognitive Errors: Occasional semantic confusion (ASTUTE synonym), some difficulty with complex 3D spatial rotations, and minor logical errors in syllogisms. Suggests strong but not flawless analytic reasoning; may occasionally rely on heuristics or partial information in numeric predictions.
+
+Social Desirability: Moderate. Self-reports credible with some admission of negative feelings (resentment, jealousy), high self-monitoring suggests some impression management but not excessive.
+
+w_social estimate: 0.75  
+Reasoning: The estimate reflects a moderately high weight on social and cognitive signals in this person's reasoning. The individual shows strong conscientiousness, moderate to high need for cognition, and high self-monitoring, indicating they carefully consider social context and information quality. Their economic game behavior and intertemporal choices reveal pragmatic, strategic thinking with moderate trust and fairness concerns. Cognitive test performance and vocabulary indicate above-average analytic ability but with some minor errors, suggesting numeric predictions will be thoughtful but not perfectly rational. Their political and demographic profile suggests they will favor conservative, mainstream, and financially oriented information sources, with moderate reliance on social networks for validation. Conflicts between high maximizer tendencies and some cognitive economy are resolved by assuming they invest significant but not exhaustive effort in research. Social desirability is moderate, so self-reports are generally reliable but should be cross-validated with behavioral data. Overall, this person is a careful, moderately analytical, socially aware decision-maker who balances self-interest with fairness and values autonomy and competence, making them likely to produce numeric predictions that are reasoned, somewhat conservative, and influenced by trusted social and partisan cues.

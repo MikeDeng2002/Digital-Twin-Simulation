@@ -1,0 +1,29 @@
+Need for Closure: Neutral to low. Neither strongly dislikes uncertainty nor impatient for immediate answers. Scores mostly neutral or slight agreement with structured life and relief after decisions, but no urgency or intolerance for ambiguity.
+
+Need for Cognition: Moderate. Willing to engage in thinking and problem-solving but not deeply or abstractly. Prefers practical, concrete problems over abstract puzzles.
+
+Maximizer: Low to moderate. Does not seek the absolute best answer or source, more satisficing. Disagrees strongly with comparison shopping for information.
+
+Self-monitoring: Moderate but inconsistent. Some ability to adjust behavior but not highly strategic or socially chameleon-like.
+
+Self-concept Clarity: Moderate to high. Stable self-view, little internal conflict, able to resist social pressure.
+
+Economic Game Gap: Proposer behavior is selfish (keeps all money), but responder behavior is accepting of all offers, indicating strategic acceptance but self-favoring giving. Trust game shows moderate reciprocity but cautious generosity. Self-reports align with behavior, indicating reasonable self-awareness.
+
+Intertemporal Patience: Moderate discounting, prefers sooner rewards unless delayed rewards are substantially better. Suggests moderate long-term thinking but some present bias.
+
+Cognitive Errors: Some difficulty with spatial rotation tasks and abstract puzzles, but strong logical syllogistic reasoning and verbal knowledge. Likely to perform well on numeric prediction tasks requiring logical deduction and verbal reasoning but may struggle with complex spatial or highly abstract problems.
+
+Social Desirability: Moderate. Some admissions of negative traits but also socially desirable answers. Self-reports are reasonably reliable but may underreport negative behaviors or emotions.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate cognitive engagement, stable self-concept, and pragmatic but self-interested economic behavior with moderate empathy and social awareness. The individual is neither a deep maximizer nor a shallow satisficer, showing moderate patience and a balanced need for closure. Cognitive test performance supports good logical reasoning but some spatial weaknesses, suggesting numeric predictions will be logical and conservative rather than highly speculative or imaginative. Social desirability and self-monitoring scores indicate moderate reliability of self-report and some awareness of social context, but not strong social conformity. Conflicts between selfish proposer behavior and accepting responder behavior were resolved by weighting the trust game and self-reports, indicating pragmatic self-interest tempered by social acceptance. Overall, this person will likely produce numeric predictions that are moderately confident, grounded in conventional wisdom and moderate-depth research, with some risk aversion and moderate temporal discounting.
+
+# Summary for simulation:  
+- Uses mainstream, moderate-liberal news and financial sources (NPR, WSJ, Bloomberg).  
+- Engages in moderate-depth research, prefers concrete and practical information.  
+- Relies moderately on social networks but not emotionally driven.  
+- Makes pragmatic, self-interested economic decisions but accepts fairness norms.  
+- Moderate patience and loss aversion influence risk assessments.  
+- Logical, verbal reasoning strong; spatial/abstract reasoning moderate.  
+- Numeric predictions will be conservative, moderately optimistic, and grounded in conventional data rather than speculative or highly innovative.

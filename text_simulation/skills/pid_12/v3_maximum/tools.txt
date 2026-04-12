@@ -1,0 +1,25 @@
+Education + Income: Postgraduate degree and $100k+ income imply access to high-quality information sources, likely comfortable with academic and professional literature, financial news, and specialized online platforms.
+
+Need for Cognition (moderate): Engages in some depth of research but may avoid overly complex or prolonged cognitive effort. Likely to read summaries, expert analyses, and trusted sources rather than deep technical papers.
+
+Political Identity (conservative Republican): Likely prefers partisan or ideologically aligned sources such as Fox News, Wall Street Journal, National Review, or conservative-leaning financial news. May distrust highly liberal or neutral sources.
+
+Empathy (moderate): Relies somewhat on social networks and interpersonal communication for information validation, but not overly influenced emotionally.
+
+Maximizer (high): Actively compares multiple sources, seeks best available information, likely cross-checks data, and avoids satisficing.
+
+Consumerism/Uniqueness (mild): Follows mainstream trends moderately, not strongly contrarian or trend-averse.
+
+Minimalism (moderate-high): Curates information carefully, prefers concise, well-structured, and relevant content, avoids information overload.
+
+Likely Information Platforms:  
+- Financial news: Bloomberg, CNBC, Wall Street Journal (moderate to deep research)  
+- Conservative news outlets: Fox News, National Review (moderate research, ideological filter)  
+- Professional and academic summaries: Research briefs, think tank reports (moderate)  
+- Social media: Limited, mostly for social validation, not primary source (shallow)  
+- Forums or Reddit: Unlikely to rely heavily (low confidence)  
+- Scientific journals: Probably limited direct engagement (low confidence)  
+
+Sources NOT used: Highly liberal or progressive media (e.g., MSNBC, The Guardian), casual social media as primary source, deep academic papers without summaries.
+
+Confidence: High confidence in education and income-based inferences; moderate confidence in political and empathy-based source preferences; moderate confidence in cognitive effort and maximizer-based research depth.

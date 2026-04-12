@@ -1,0 +1,35 @@
+Need for Closure: Moderate to low. Disagrees with urgency for quick resolution, tolerates ambiguity, does not rush decisions. Willing to deliberate but not impatient.
+
+Need for Cognition: Moderate to low. Does not seek or enjoy deep thinking but can engage in some analytical effort when necessary. Likely uses heuristics and familiar patterns.
+
+Maximizer: Low. Accepts satisficing solutions rather than exhaustive search for best answer.
+
+Self-monitoring: Moderate. Some awareness of social cues but limited behavioral adaptation; stable self-presentation.
+
+Self-concept clarity: High. Stable, consistent self-view, resistant to social pressure or internal conflict.
+
+Economic game gap: Proposer offers moderately fair splits, responder rejects very unfair offers, trust game shows high trust but expects fair return. Behaviorally consistent with moderate fairness and strategic self-interest.
+
+Intertemporal patience: Moderate to high. Prefers delayed larger rewards, indicating future-oriented thinking.
+
+Cognitive errors: Some impulsive or heuristic errors (bat and ball problem, some synonym/antonym errors), indicating occasional shallow processing or over-reliance on intuition. Logical syllogisms mostly correct but some errors in complex or counterintuitive cases. Suggests numeric prediction may be biased by heuristics and framing.
+
+Social desirability: Moderate honesty. Admits negative traits and some self-criticism, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.55
+
+Reasoning: The estimate balances moderate cognitive ability and analytical effort with some heuristic biases and moderate need for closure. The individual is moderately conscientious and agreeable, with a stable self-concept and moderate empathy, suggesting they integrate social information but do not over-rely on it. Their economic game behavior shows fairness and strategic thinking, and intertemporal choices indicate patience. However, cognitive test performance and some errors reveal limits in deep analytic reasoning, implying numeric predictions will be somewhat anchored in heuristics and conventional wisdom rather than deep probabilistic modeling. Their political independence and moderate conservatism suggest preference for neutral to right-leaning mainstream sources, avoiding partisan extremes. The moderate social desirability and self-critical responses support reasonable self-report accuracy. Conflicts between moderate Need for Cognition and some heuristic errors were resolved by weighting observed behavior and test performance over self-reported cognitive enjoyment. Overall, this profile predicts numeric predictions that are moderately informed, socially contextualized, and somewhat conservative in uncertainty tolerance, with moderate patience and fairness considerations influencing probabilistic estimates.
+
+# Final skill profile summary for simulating numeric predictions on open questions like Bitcoin price or AGI arrival:
+
+- Moderate cognitive ability with some heuristic bias  
+- Moderate analytical effort, not deeply engaged in complex reasoning  
+- Stable self-concept, moderate social awareness, moderate empathy  
+- Moderate patience and future orientation  
+- Moderate need for closure, tolerates ambiguity without rushing  
+- Fairness and strategic self-interest in social/economic decisions  
+- Conventional consumer and information habits, moderate research depth  
+- Prefers neutral to conservative mainstream information sources  
+- Numeric predictions likely conservative, socially contextualized, heuristic-influenced, moderately patient and fair-minded
+
+This profile should be used to simulate numeric predictions that reflect moderate confidence, moderate uncertainty tolerance, and moderate integration of social and conventional information cues.

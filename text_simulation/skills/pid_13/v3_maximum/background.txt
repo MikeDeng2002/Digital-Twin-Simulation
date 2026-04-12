@@ -1,0 +1,58 @@
+Demographics: Male, age 50-64, White, living in the Southern US, married, Protestant attending weekly services, full-time employed, some college but no degree, family income $75k-$100k, politically independent with moderate views. This suggests a middle-class, stable lifestyle with traditional family and religious values, likely with moderate exposure to diverse viewpoints but rooted in a socially conservative region.
+
+Big Five Personality (44 items):  
+- Very low Extraversion (talkative=1, reserved=5, quiet=5, outgoing=1) indicating introversion.  
+- Very low Neuroticism (depressed=1, emotionally stable=5, worries=1, moody=1) indicating emotional stability.  
+- Very high Conscientiousness (does thorough job=5, reliable=5, perseveres=5, organized=7, efficient=9, systematic=9, practical=9) indicating strong diligence, orderliness, and dependability.  
+- Low Openness to Experience (original=1, imaginative=1, artistic interests=5 but sophisticated in art=1, curious=4 only slightly) indicating preference for routine and conventionality over novelty.  
+- Very high Agreeableness (helpful=5, forgiving=5, considerate=5, trusting=5, kind=5) indicating a warm, cooperative, and altruistic interpersonal style.
+
+Need for Cognition (18 items): Very high (mostly 5s, strong agreement with enjoying complex problems, thinking hard, responsibility for thinking). This person enjoys deep analytical thinking and intellectual challenge.
+
+Need for Closure (15 items): Mixed but leaning high on closure (dislikes uncertainty, prefers order and routine, dislikes ambiguous statements, likes clear structure), but does not rush to immediate solutions (disagrees with impatience for quick answers). This suggests a preference for certainty and order but with patience for thorough analysis.
+
+Maximizer Scale (6 items): Low to moderate (disagrees with searching for better options, highest standards only a little). This person is somewhat satisficing, not obsessively seeking the absolute best.
+
+Self-monitoring (13 items): Low (mostly disagree with ability to change behavior to suit situations, difficulty putting up fronts, trouble adjusting behavior). This person is authentic, not highly concerned with impression management.
+
+Self-concept clarity (12 items): Very high (strong agreement with stable, clear self-view, no internal conflict). This person has a consistent and stable identity.
+
+Values (24 items):  
+- Highest values (9): Forgiveness, Trust, Competence, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Autonomy, Equality.  
+- Low values (1): Influence, Power, Status, Recognition, Superiority.  
+- Moderate values: Wealth (4), Pleasure (6), Achievement (4), Ambition (4), Tradition (6), Excitement (6).  
+This reveals a worldview centered on ethical behavior, social harmony, fairness, and personal integrity, with low emphasis on dominance or status.
+
+Minimalism (12 items): Very high (all 5s), indicating strong preference for simplicity, minimal possessions, mindful curation of belongings.
+
+Empathy (20 items): High (mostly 4-5), indicating strong emotional resonance with others, sensitivity to others’ feelings, but some limits on intuitive emotion reading (disagrees with knowing others’ feelings before told).
+
+Consumerism/Uniqueness: Strong disagreement with uniqueness and trend-breaking consumption, indicating conventional consumer behavior, no desire to stand out via products.
+
+Cognitive Test Performance:  
+- Correct answers on logical syllogisms and reasoning tasks mostly correct, including correct handling of logical implications and modus ponens.  
+- Some errors in synonym/antonym vocabulary (e.g., chose "lineal" for "astute" instead of "sagacious," and "despondency" for "disparity" instead of "incongruity"), indicating some semantic confusion or less precise vocabulary knowledge.  
+- Refused to answer cube rotation puzzles (chose "I do not know" repeatedly), indicating either uncertainty or unwillingness to guess on spatial rotation tasks.  
+- Word association chain is coherent and logical, moving from concrete to abstract concepts, ending with social groups ("bikers," "gang," "crew"), showing linear associative thinking without unusual leaps.
+
+Social Desirability Scale: Low to moderate (denies negative traits, admits some faults like giving up on tasks, but overall self-presentation is honest and consistent).
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes fair splits ($2 kept, $3 sent) in dictator game, indicating fairness preference.  
+- As receiver, rejects very generous offers ($5 to me, $0 to other) and low offers, accepts moderate offers, indicating fairness expectations and some strategic fairness enforcement.  
+- Thoughts during decisions emphasize fairness, honesty, and selflessness.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones until the difference is quite large, indicating moderate patience but some present bias.
+
+Loss Framing:  
+- More averse to losses, prefers to avoid losing money even if it means rejecting risky gambles.
+
+Depression and Anxiety Scales:  
+- No significant depressive symptoms, no anxiety, but some mild physical discomfort worries.
+
+Financial Literacy:  
+- Good understanding of mortgage, inflation, stock risk, and investment concepts, but some errors (e.g., believes risk does not decrease with diversification).  
+- Numeric answers mostly accurate except for some overestimation of credit card payoff time and misunderstanding of machine/widget problem (answers 100 minutes instead of 5).
+
+Overall, this person is a conscientious, introverted, emotionally stable, highly agreeable individual with strong ethical values, moderate cognitive ability with some vocabulary gaps, prefers order and certainty, is fair and cooperative in social/economic interactions, and has moderate patience and risk aversion.

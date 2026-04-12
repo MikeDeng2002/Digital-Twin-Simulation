@@ -1,0 +1,78 @@
+- Lives in the West region of the United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age group 65+ (Question: How old are you? Answer: 4 - 65+)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: 5)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Religion: Atheist (Question: What is your present religion, if any? Answer: 9 - Atheist)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 6 - Never)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: 2 - Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as Liberal? Answer: 4 - Liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: 1 - Full-time employment)
+- Total family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 2)
+- Personality traits (Big Five, selected items):
+  - Talkative (5 - Agree strongly)
+  - Does a thorough job (5)
+  - Original, comes up with new ideas (5)
+  - Helpful and unselfish with others (4)
+  - Relaxed, handles stress well (4)
+  - Curious about many different things (5)
+  - Reliable worker (5)
+  - Perseveres until task is finished (5)
+  - Values artistic, aesthetic experiences (5)
+  - Outgoing, sociable (5)
+  - Cooperative with others (5)
+  - Calm in tense situations (5)
+  - Generally trusting (4)
+  - Inventive (4)
+  - Assertive personality (2 - Disagree a little)
+  - Not cold or aloof (1 - Disagree strongly)
+- Need for Cognition (selected items):
+  - Prefers complex problems (4 - Agree a little)
+  - Likes responsibility requiring thinking (4)
+  - Thinking is somewhat fun (2 - Disagree a little)
+  - Dislikes low thought tasks (1 - Disagree strongly)
+  - Enjoys coming up with new solutions (5 - Agree strongly)
+  - Likes abstract thinking (5)
+  - Prefers intellectual, difficult tasks (4)
+- Values (rated as highly important or quite important):
+  - Competence (9 - Highly important)
+  - Altruism (9)
+  - Politeness (9)
+  - Harmony (9)
+  - Compassion (9)
+  - Civility (9)
+  - Equality (9)
+  - Trust (8)
+  - Humility (8)
+  - Pleasure (8)
+  - Forgiveness (7)
+  - Loyalty (7)
+  - Excitement (7)
+  - Achievement (5)
+  - Autonomy (5)
+- Environmental concern: Strongly agrees that products should not harm environment, considers environmental impact in decisions, is environmentally responsible, willing to be inconvenienced for environment (all 5 - Agree strongly except willingness to be inconvenienced 4 - Agree a little)
+- Self-reported financial literacy knowledge:
+  - Understands mortgage payment and interest tradeoffs (True)
+  - Understands inflation effect on savings (money loses buying power)
+  - Knows stocks have highest fluctuations and highest long-term returns
+  - Understands risk diversification reduces risk
+  - Knows required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payments at 12% APR will never be eliminated
+  - Correctly answers various financial literacy and numeracy questions (e.g., probability, logical reasoning, cognitive puzzles)
+- Cognitive test self-estimate: Believes answered 33/42 questions correctly; estimates US average at 30/42
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum game)
+  - Accepts all offers except $0 to self
+  - In a trust game, sends $3 (which triples to $9), keeps $2
+  - When receiving, returns roughly half or more of the tripled amount, balancing fairness and self-interest
+- Self-concept clarity: Strongly disagrees with statements indicating confusion or conflict about self; reports clear and stable self-concept
+- Need for Closure: Agrees a little with statements indicating preference for order, dislike of uncertainty, impatience for solutions, discomfort with ambiguity
+- Maximizer tendencies: Disagrees strongly with maximizing behavior (e.g., not on lookout for better opportunities, does not settle for second best is disagreed a little)
+- Self-monitoring: Generally true that can alter behavior to suit situations, read others' emotions, and adjust accordingly
+- Personality self-reports on traits related to interpersonal behavior: Admits to some resentfulness, irritation, jealousy, and taking advantage of others; denies always courteous or always admitting mistakes; acknowledges some vengefulness
+- Emotional state: Reports no significant depression, sadness, or anxiety symptoms; no loss of interest or motivation; no sleep or appetite problems; no feelings of worthlessness or failure
+- Spending habits: Identifies as a tightwad (difficulty spending money), often has trouble spending money even when should; similar to Mr. B in shopping scenario (hesitant to spend)
+- Aspiration and self-description: Aspires to be more patient, kind, and accepting of help; acknowledges current imperfection, tendency to refuse help, and need to improve

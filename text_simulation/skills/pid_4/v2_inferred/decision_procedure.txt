@@ -1,0 +1,17 @@
+Need for Closure (NfCl): Strong agreement with items indicating dislike of uncertainty, preference for order, routine, and predictability (e.g., "I don’t like situations that are uncertain" - 5, "I dislike unpredictable situations" - 5, "Rules and regulations are helpful and necessary" - 7). This suggests a high NfCl.
+
+Need for Cognition (NfC): Very high scores on items indicating enjoyment of thinking, intellectual challenge, and abstract reasoning (e.g., "I like to have the responsibility of handling a situation that requires a lot of thinking" - 5, "The notion of thinking abstractly appeals to me" - 5, "I really enjoy a task that involves coming up with new solutions" - 5).
+
+Maximizer: Disagrees with maximizing tendencies (e.g., "I never settle for second best" - 5, "No matter what I do, I have the highest standards for myself" - 5, but also "I often find it difficult to shop for a gift" - 1, "I often try to find a more interesting version of run-of-the-mill products" - 4). This suggests moderate maximization, with some selectivity but not compulsive maximizing.
+
+Self-monitoring: Very high (all items 6 or 7), indicating strong social adaptability and awareness.
+
+Self-concept clarity: High (mostly 5 or above), indicating a stable and coherent self-image.
+
+Economic games: Generous proposer behavior (giving all $5), but as receiver, rejects very generous offers, accepting only offers where the other keeps $3 or more. In the trust game, sends $3 and returns moderate amounts, indicating balanced trust and reciprocity but some caution or strategic thinking.
+
+Cross-scale inference: High NfC and high NfCl together suggest a person who enjoys deep thinking but prefers clear, structured, and certain environments. High conscientiousness and agreeableness support this, as does high self-monitoring.
+
+No contradictions are evident; the scales align well with a socially responsible, thoughtful, and emotionally stable individual who values fairness and kindness but also prefers order and predictability.
+
+w_social estimate: 0.85 -- This estimate is driven by very high agreeableness (Big Five items 7, 17, 32), high self-monitoring (all items 6 or 7), and prosocial economic game behavior (giving all in dictator game, moderate trust and reciprocity). The rejection of overly generous offers as receiver suggests some social caution or strategic thinking, but overall the profile indicates strong social engagement, empathy, and cooperation.

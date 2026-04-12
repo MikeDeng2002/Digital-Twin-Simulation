@@ -1,0 +1,48 @@
+Demographics: Female, age 30-49, living in the Western US (likely a state like CA, OR, WA, or nearby). White, US citizen, living with a partner, part-time employed, postgraduate education, family income $50k-$75k, politically liberal Democrat, agnostic with seldom religious attendance. This suggests a well-educated, moderately middle-income individual with a stable household and progressive political views, likely exposed to diverse and liberal cultural environments typical of the US West Coast.
+
+Big Five Personality (44 items):  
+- Low extraversion (talkative=2, reserved=4, quiet=4, outgoing=3)  
+- Moderate agreeableness (helpful=5, considerate=5, forgiving=3, trusting=3)  
+- Moderate conscientiousness (does thorough job=4, reliable=4, perseveres=4, organized=4, efficient=7 self-rating)  
+- Moderate neuroticism (depressed=4, tense=4, worries=4, moody=2, emotionally stable=3)  
+- High openness (curious=5, original=4, ingenious=4, active imagination=4, inventive=4, sophisticated=4)  
+Overall, a thoughtful, somewhat introverted, conscientious, and open individual with mild emotional sensitivity.
+
+Need for Cognition (18 items): Very high (mostly 5s, strong agreement with enjoying complex problems, intellectual challenges, abstract thinking, and deep deliberation). This person enjoys thinking deeply and persistently, indicating strong analytical engagement.
+
+Values (24 items):  
+- Highest: Altruism (9), Loyalty (9), Equality (9), Competence (8), Humility (8), Politeness (8), Compassion (8), Civility (8), Autonomy (8)  
+- Low: Wealth (1), Power (1), Superiority (1), Influence (2), Recognition (2), Ambition (3), Excitement (3), Status (3)  
+- Moderate: Forgiveness (7), Harmony (7), Honesty (7), Tradition (5), Pleasure (4)  
+This reveals a worldview prioritizing social justice, helping others, fairness, modesty, and personal integrity over material success or dominance.
+
+Minimalism (12 items): Very high minimalism (mostly 5s on avoiding excess possessions, curating belongings, preferring sparse environments). This suggests a preference for simplicity and careful curation, likely extending to information consumption and lifestyle.
+
+Empathy (20 items): High empathy (mostly 4s and 5s), strong emotional contagion and social sensitivity, good at reading others’ emotions, and affected by others’ feelings. This person likely values social connections and emotional information.
+
+Consumerism/Uniqueness: Neutral to low on uniqueness seeking and consumerism; disagrees with following trends or buying popular products, but not strongly driven to be unique or rebellious. Some mild agreement with breaking social rules about products, but no strong desire to stand out via consumption.
+
+Cognitive Test Performance:  
+- Self-estimated 21/42 correct (50%), matching estimated population average.  
+- Correct answers on logical syllogisms mostly, but some errors on conditional logic and negations (e.g., incorrectly accepting some invalid conclusions).  
+- Good performance on spatial/visual puzzles (cube rotations, pattern completions).  
+- Word associations show coherent semantic chains with farm and food-related imagery, ending with natural sky/cloud/blue, indicating organized, concrete associative thinking.  
+- Vocabulary synonyms mostly correct, but one error (ASTUTE synonym chosen as "lineal" instead of "sagacious") suggests occasional semantic slips or less precise vocabulary.  
+- Antonyms mostly correct.  
+- Wason selection task: chose all cards (A, F, 3, 7), indicating a cautious or over-inclusive approach to hypothesis testing, possibly reflecting a conservative or thorough reasoning style.
+
+Social Desirability: Moderate to low social desirability bias; some admissions of taking advantage of others, jealousy, and self-criticism, indicating relatively honest self-reporting.
+
+Mood and Mental Health: Mild depressive symptoms (feeling sad and discouraged about the future), but no severe dysfunction or loss of interest. Some self-critical tendencies but no feelings of worthlessness or failure.
+
+Self-Concept Clarity: Moderate to high clarity; disagrees with statements about unstable or conflicting self-beliefs, has a clear sense of self, and values independence and personal identity strongly.
+
+Maximizer Scale: Neutral to moderate; does not strongly seek the best or comparison shop for information or products, but does not satisfice either. Some ambivalence.
+
+Self-Monitoring: Moderate; generally able to adjust behavior in social situations, sensitive to others’ emotions, but not excessively concerned with social approval.
+
+Economic Games (Dictator and Ultimatum): Proposes and accepts fair splits (2/3 to self, 1/3 to other), accepts all offers as receiver, indicating fairness preference but also pragmatic acceptance. In the trust game, sends $3 of $5 (60%) and expects to receive back about half, showing moderate trust and reciprocity.
+
+Intertemporal Choice: Prefers larger later rewards over smaller sooner ones until the difference is quite large, indicating moderate patience and future orientation.
+
+Loss Framing: Prefers to avoid losses, but willing to accept some risk; shows loss aversion consistent with typical adult profiles.

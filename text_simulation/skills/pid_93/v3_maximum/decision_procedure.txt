@@ -1,0 +1,21 @@
+Need for Closure: Low to moderate. Disagrees with impatience for quick solutions, dislikes uncertainty somewhat but tolerates ambiguity, does not rush decisions. Prefers well-ordered, structured life but not rigid.  
+Need for Cognition: Very high analytical effort, enjoys complex, abstract, and intellectual challenges, deliberates extensively.  
+Maximizer: Moderate. High standards for self and work, but not compulsive comparison shopper or perfectionist in all domains. Seeks good, equitable solutions rather than obsessively best.  
+Self-monitoring: Moderate. Can adjust behavior somewhat but not excessively concerned with others’ opinions; self-concept clarity is high.  
+Self-concept Clarity: Very high. Strong, stable self-view, little internal conflict, consistent identity.  
+Economic Game Gap: Proposes to keep $3/$5 in dictator game, accepts all offers in ultimatum game, and as receiver in trust game keeps about half and returns about half. This suggests strategic fairness, balancing self-interest with reciprocity and fairness norms. Behavior matches strategic reasoning.  
+Intertemporal Patience: High patience. Prefers larger delayed rewards over smaller sooner ones consistently, indicating long-term thinking in decisions.  
+Cognitive Errors: None significant; logical reasoning intact, no fallacies in syllogisms or conditional reasoning. Minor overconfidence possible (self-estimated perfect score), but overall strong reasoning.  
+Social Desirability: Moderate to low bias; admits negative feelings and behaviors honestly, suggesting reliable self-report data.
+
+w_social estimate: 0.85  
+Reasoning: The estimate is driven by the high Need for Cognition and Conscientiousness, indicating deep, careful reasoning and research before making numeric predictions. The person’s empathy and social fairness in economic games suggest they incorporate social context and fairness considerations into judgments. Their political independence and liberal views imply preference for balanced, evidence-based sources rather than partisan extremes. High self-concept clarity and moderate self-monitoring indicate stable, internally consistent views resistant to social pressure but aware of social norms. Cognitive test performance shows strong logical and abstract reasoning, supporting accurate numeric prediction capability. Minimalism and consumerism attitudes suggest careful curation of information, avoiding overload and fads. Some minor conflicts (e.g., occasional resentment, worry) are outweighed by overall stability and conscientiousness. Conflicts between moderate impatience for closure and high deliberation were resolved in favor of deliberation given the strong Need for Cognition and patience in intertemporal choices. Social desirability is low enough to trust self-reports. Overall, this profile predicts a person who will produce numeric predictions that are well-reasoned, balanced, and incorporate social and probabilistic nuance, with moderate risk aversion and long-term perspective.
+
+# Summary for simulation:  
+- Uses deep, analytical research from balanced, liberal-leaning, and professional sources.  
+- Incorporates social fairness and empathy in judgments.  
+- Prefers stable, internally consistent views, resists social pressure.  
+- Exhibits strong logical reasoning and probabilistic understanding.  
+- Patient and long-term oriented in numeric predictions.  
+- Avoids impulsive or trend-driven judgments.  
+- Likely to produce moderate, well-calibrated numeric predictions on open questions like Bitcoin price or AGI arrival.

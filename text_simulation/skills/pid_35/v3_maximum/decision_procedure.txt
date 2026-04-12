@@ -1,0 +1,22 @@
+Need for Closure: Moderate. She prefers order, routine, and clear answers (scores 4 on liking ordered life, disliking uncertainty), but not impatient for immediate resolution (disagrees with dying to reach solution quickly). She tolerates some ambiguity but prefers to resolve it in a timely manner.
+
+Need for Cognition: Moderate-low. She does not seek complex problems or deep thinking for fun but will engage in some deliberation when necessary (agrees a little with liking abstract thinking and intellectual tasks). Likely to invest analytical effort when stakes or responsibilities demand it.
+
+Maximizer: Low. She satisficies rather than exhaustively searches for the best answer, as shown by low scores on comparison shopping and maximizer items.
+
+Self-Monitoring: Moderate. She can adjust behavior somewhat but is not highly strategic or image-focused. She is aware of social cues but maintains a stable self-concept.
+
+Self-Concept Clarity: Moderate to high. She has a generally stable and coherent self-view, which supports resistance to social pressure and consistent decision-making.
+
+Economic Game Gap: Proposes moderately generous splits but accepts all offers, indicating a cooperative, non-punitive social strategy. Trust game behavior shows balanced reciprocity, not purely self-interested.
+
+Intertemporal Patience: Moderate to high. Prefers delayed rewards consistently, indicating future-oriented thinking in decisions.
+
+Cognitive Errors: Some errors in logical reasoning (e.g., denying the antecedent fallacy) and spatial rotation tasks suggest occasional difficulties with abstract or complex reasoning under pressure. However, vocabulary and basic logic are strong, supporting good comprehension and verbal reasoning.
+
+Social Desirability: Moderate-low bias. Self-reports include admissions of envy, frustration, and occasional irritability, indicating honest reporting.
+
+w_social estimate: 0.65  
+Reasoning: The estimate reflects moderate to high reliance on social and normative cues in reasoning and prediction. Her empathy, values emphasizing trust and loyalty, and cooperative economic game behavior suggest she integrates social information and norms into her judgments. However, her moderate need for cognition and low maximizer tendencies indicate she does not deeply analyze all information independently but rather uses trusted social and institutional sources. Her conservative political and religious identity further anchor her worldview in established social frameworks. Cognitive test performance and moderate self-monitoring suggest she can apply logical reasoning but may default to heuristic or socially informed judgments under uncertainty. Conflicts between moderate cognitive engagement and strong social values were resolved by weighting social and normative signals more heavily, consistent with her profile.
+
+# Final skill profile summary: This person is a moderately analytical, socially attuned, and conventionally minded individual who prefers clear, structured information from trusted conservative and religious sources. She balances practical reasoning with social norms and values, showing moderate patience and cooperative tendencies. Her numeric predictions on open questions will likely reflect a blend of moderate analytical effort and strong social/normative framing, with a preference for stable, traditional outcomes rather than radical or speculative forecasts.

@@ -1,0 +1,113 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age between 50-64 (Question: How old are you? Answer: 50-64)
+- Some college, no degree completed (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- White race (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Married (Question: Which of these best describes you? Answer: Married)
+- Roman Catholic religion (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once a week)
+- Politically Republican (Question: In politics today, do you consider yourself a Republican? Answer: Republican)
+- Politically conservative (Question: In general, would you describe your political views as? Answer: Conservative)
+- Household size of 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employed full-time (Question: What is your current employment status? Answer: Full-time employment)
+- Family income $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Does a thorough job (5 - Agree strongly)
+  - Is original, comes up with new ideas (5 - Agree strongly)
+  - Is helpful and unselfish with others (5 - Agree strongly)
+  - Is relaxed, handles stress well (4 - Agree a little)
+  - Is curious about many different things (4 - Agree a little)
+  - Is full of energy (5 - Agree strongly)
+  - Has a forgiving nature (5 - Agree strongly)
+  - Is inventive (5 - Agree strongly)
+  - Values artistic, aesthetic experiences (4 - Agree a little)
+  - Is considerate and kind to almost everyone (4 - Agree a little)
+  - Does things efficiently (4 - Agree a little)
+  - Remains calm in tense situations (4 - Agree a little)
+  - Is outgoing, sociable (4 - Agree a little)
+  - Makes plans and follows through with them (4 - Agree a little)
+  - Is generally trusting (4 - Agree a little)
+  - Is emotionally stable, not easily upset (4 - Agree a little)
+  - Disagrees strongly with being careless, lazy, moody, cold, disorganized, talkative, starting quarrels, worrying, being rude, being shy, being easily distracted, having few artistic interests
+- Need for Cognition (self-report):
+  - Prefers complex problems (4 - Agree a little)
+  - Likes responsibility requiring thinking (5 - Agree strongly)
+  - Dislikes thinking not fun (1 - Disagree strongly)
+  - Prefers intellectual, difficult tasks (4 - Agree a little)
+  - Finds satisfaction in deliberating hard (4 - Agree a little)
+  - Does not think only as hard as necessary (2 - Disagree a little)
+  - Enjoys coming up with new solutions (4 - Agree a little)
+  - Likes puzzles and abstract thinking (4 - Agree a little)
+  - Does not feel relief but satisfaction after mental effort (4 - Agree a little)
+- Values (rated as guiding principles):
+  - Competence (9 - Highly important)
+  - Ambition (9 - Highly important)
+  - Wealth (8)
+  - Achievement (8)
+  - Trust (8)
+  - Honesty (8)
+  - Forgiveness (7)
+  - Influence (7)
+  - Loyalty (7)
+  - Politeness (7)
+  - Excitement (7)
+  - Compassion (7)
+  - Tradition (7)
+  - Altruism (5)
+  - Humility (5)
+  - Civility (3)
+  - Autonomy (2)
+  - Equality (1 - Not important)
+- Environmental concern:
+  - Agrees moderately to strongly that products should not harm environment, considers environmental impact, is willing to be inconvenienced for environment (mostly 4-5 Agree a little to Agree strongly)
+- Self-concept clarity:
+  - Generally agrees a little that beliefs about self sometimes conflict, but mostly stable and clear sense of self (answers mostly 2-4, with no strong disagreement)
+- Self-monitoring:
+  - Somewhat true with exceptions that can alter behavior to suit situations (mostly 4-5 on items)
+- Maximizer:
+  - Disagrees with never settling for second best (2 - Disagree a little)
+  - Strongly agrees with often checking for better options (5 - Agree strongly)
+- Spending habits:
+  - Moderate spending control (5 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Does not strongly identify with Mr. A or Mr. B shopping behavior, slightly towards neither (4)
+- Cognitive test performance:
+  - Estimated 32 correct out of 42 (self-estimate)
+  - Believes average US adult would get 29 correct
+- Financial literacy:
+  - Correctly identifies mortgage, inflation, risk diversification, and investment return concepts
+  - Correctly answers credit card debt question (never eliminated with minimum payment)
+  - Correctly answers probability and percentage questions
+  - Correctly answers logic and syllogism questions (all answered "Yes" to logical conclusions)
+- Economic games:
+  - Proposes to keep $4 and send $1 in ultimatum game
+  - Accepts all offers except $0 to self
+  - In trust game, keeps $4 and sends $1
+  - As receiver, returns some money but keeps majority (e.g., keeps $11 of $15)
+  - Thoughts during decisions: wants to keep most money, does not want to look cheap, wants to avoid giving nothing; wants to end up with most money possible
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no irritability, no crying, no disappointment, no worthlessness
+  - Reports normal sleep mostly, some less good sleep
+  - Reports no increased tiredness, no appetite loss, no weight loss, no health worries, no loss of interest in sex
+  - Purposely trying to lose weight by eating less
+- Empathy and social sensitivity:
+  - Generally agrees a little to moderately that they feel others' emotions, understand friends' feelings, get caught up in feelings, and are sensitive to others' emotions
+- Need for Closure:
+  - Agrees a little to moderately with preference for order, dislike of uncertainty, desire for quick solutions, dislike of ambiguous statements, preference for routine
+- Self-concept clarity:
+  - Agrees a little that self-beliefs are mostly stable and clear, with little internal conflict
+- Maximizer:
+  - Disagrees with "never settle for second best" (2 - Disagree a little)
+  - Strongly agrees with often checking for better options (5 - Agree strongly)
+- Self-monitoring:
+  - Somewhat true with exceptions that can alter behavior to suit situations (mostly 4-5 on items)
+- Self-reported personality traits (additional):
+  - Hardworking, honest, family-oriented, religious, helpful, cooperative, respectful, competitive but not overly tense about others' success
+- Self-reported aspirations:
+  - Aspires to be a good leader, inspire coworkers, have high integrity and honesty, be a role model, do good for community
+- Self-reported ought self:
+  - Should be honest, fair, respectful, helpful
+- Self-reported actual self:
+  - Hardworking, honest, family person, religious, likes to help people

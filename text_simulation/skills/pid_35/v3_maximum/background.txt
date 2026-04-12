@@ -1,0 +1,46 @@
+Demographics: Female, age 30-49, White, U.S. citizen living in the Northeast, married, Roman Catholic attending religious services more than once a week, part-time employed, household of 4, family income $75,000-$100,000, very conservative Republican. This suggests a stable middle-class lifestyle with strong family and religious commitments, likely valuing tradition and community. The Northeast location implies access to diverse information sources and cultural institutions.
+
+Big Five Personality (44 items):  
+- High Extraversion: Talkative (5), outgoing (4), sociable (4), but also somewhat reserved (4) and shy (4), indicating a nuanced social style—engages actively but with some social caution.  
+- Moderate Agreeableness: Helpful (4), forgiving (4), kind (4), trusting (4), but also tends to find fault (4) and sometimes lazy (4), suggesting a generally warm but realistic interpersonal style.  
+- Conscientiousness: Generally reliable (4), does a thorough job (4), organized (7/9 self-rating), efficient (7/9), but some ambivalence (neither agree nor disagree on perseverance and efficiency), indicating moderate conscientiousness with some variability.  
+- Neuroticism: Low to moderate; disagrees strongly with being depressed (1), moody (2), but worries a little (4), somewhat tense (3), and not relaxed (2), indicating mild anxiety but overall emotional stability.  
+- Openness: Mixed; low on originality (2), inventiveness (2), but agrees somewhat on curiosity (5), imagination (4), and aesthetic appreciation (4), suggesting moderate openness with a practical bent.
+
+Need for Cognition (18 items): Scores mostly around 2-4, with some ambivalence. Disagrees slightly with preferring complex problems and thinking as fun, but agrees a little with liking abstract thinking and intellectual tasks. Overall, moderate to low intrinsic motivation for deep cognitive engagement, preferring practical or routine thinking.
+
+Values (24 items):  
+- Highest: Forgiveness (9), Trust (9), Loyalty (9), Honesty (9), Compassion (9), Tradition (9) — strong emphasis on moral integrity, social harmony, family, and religious/cultural continuity.  
+- Moderate: Competence (7), Altruism (7), Humility (8), Pleasure (6), Politeness (6), Autonomy (6), Harmony (5), Equality (5).  
+- Low: Ambition (1), Power (1), Superiority (1), Influence (2), Status (2), Recognition (2), Wealth (2), Excitement (2). This profile reveals a person who values community, faith, and ethical behavior over personal gain or dominance.
+
+Minimalism (12 items): Uniformly agrees a little (4) with all minimalism items, indicating a preference for simplicity, mindful ownership, and curated possessions. This suggests a tendency to avoid clutter and unnecessary complexity in life, possibly extending to information consumption.
+
+Empathy (20 items): Mostly agrees a little (4) with items indicating emotional contagion and understanding others’ feelings, with some neutral responses. Strong ability to read and respond to others’ emotions, but not overwhelmed by them. High social sensitivity.
+
+Consumerism/Uniqueness: Strong disagreement with all uniqueness and anti-conformity items, indicating a conventional consumer style, not seeking to stand out or challenge social norms through purchases.
+
+Cognitive Test Performance:  
+- Correct answers on 35/42 cognitive questions, indicating above-average cognitive ability.  
+- Logical reasoning: Mostly correct on syllogisms and conditional logic, but some errors on more subtle logical inferences (e.g., denying the antecedent fallacy).  
+- Spatial reasoning: Mixed performance on cube rotation tasks, with some errors suggesting occasional difficulty with 3D mental rotation or visual-spatial integration.  
+- Word associations: Linear, concrete chain from toaster to sauce, showing practical, associative thinking without leaps or abstract jumps.  
+- Vocabulary: Correct synonym and antonym choices for moderately difficult words, indicating good verbal ability.  
+- Social desirability scale: Moderate to low social desirability bias; some self-critical admissions (e.g., occasional envy, frustration), suggesting relatively honest self-reporting.
+
+Economic Games:  
+- Dictator game: Proposes to keep $2 and give $3, showing moderate generosity.  
+- Ultimatum game: Accepts all offers, even $0, indicating high acceptance and low punitive behavior.  
+- Trust game: Sends $2 (out of $5), expecting fair return; as receiver, returns roughly half, indicating balanced reciprocity and fairness orientation.  
+- Loss framing: Prefers splitting losses and gains fairly, but shows sensitivity to losses (chooses person A as happier when winning $50+$25 vs. $75, and more upset with combined smaller losses than single larger loss), indicating loss aversion and mental accounting.
+
+Intertemporal Choice:  
+- Prefers larger delayed rewards over smaller sooner ones consistently until amounts nearly equalize, indicating moderate to high patience and future orientation.
+
+Self-Monitoring and Self-Concept Clarity:  
+- Self-monitoring: Mixed; some ability to adjust behavior but not strongly strategic or image-conscious.  
+- Self-concept clarity: Generally stable self-view (disagreeing with conflicting self-beliefs), but some ambivalence (neither agree nor disagree on some items), indicating moderately clear but not rigid self-concept.
+
+Mental Health:  
+- No signs of depression or anxiety; reports normal mood, sleep, appetite, and energy.  
+- Some physical health worries (aches, indigestion), but no major distress.

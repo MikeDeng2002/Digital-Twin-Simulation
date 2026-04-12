@@ -1,0 +1,20 @@
+Need for Closure: Moderate; agrees somewhat with preferring order and routine, dislikes uncertainty, but does not rush to premature conclusions or show impatience for immediate answers. Likely to tolerate ambiguity moderately well.
+
+Need for Cognition: Moderate to low; willing to engage in analytical effort when necessary but does not enjoy or seek out complex cognitive challenges. Likely to invest effort up to a point but avoid overthinking.
+
+Maximizer: Low to moderate; prefers good enough solutions rather than exhaustive search for best answer. Avoids excessive comparison or second-guessing.
+
+Self-monitoring: Moderate; can adjust behavior and presentation somewhat depending on social context but maintains stable self-concept and does not strongly defer to others’ opinions.
+
+Self-concept Clarity: High; clear, stable self-view with little internal conflict or fluctuation. Resists social pressure and maintains consistent identity.
+
+Economic Game Gap: Proposes fair splits in dictator and ultimatum games ($2/$3 split), accepts all offers as receiver, including unfair ones, and in trust game sends all money but expects to keep a substantial share when receiving. Indicates altruistic but pragmatic social preferences, moderate trust, and fairness orientation.
+
+Intertemporal Patience: Shows preference for delayed larger rewards over immediate smaller ones, but only when difference is substantial. Moderate patience and future orientation.
+
+Cognitive Errors: Some errors in conditional logic and abstract spatial reasoning puzzles suggest occasional reliance on heuristics and incomplete logical analysis. May misinterpret complex conditional statements or overgeneralize. This implies some vulnerability to framing effects and heuristic biases in numeric prediction tasks.
+
+Social Desirability: Moderate; self-reports appear generally reliable with minor positive bias. No strong impression management detected.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate cognitive engagement and analytical ability with a stable, clear self-concept and moderate need for closure, suggesting this person will produce numeric predictions that are reasonably thoughtful and consistent but not deeply analytical or speculative. Their altruistic and fairness-oriented values, combined with moderate empathy and social perceptiveness, imply they will incorporate social and ethical considerations into predictions, possibly discounting extreme or highly speculative outcomes. Their moderate patience and trust in conventional, credible sources suggest reliance on mainstream, data-driven information rather than fringe or highly uncertain forecasts. Cognitive test errors indicate some susceptibility to heuristic biases, so predictions may sometimes reflect simplified reasoning or framing effects. Overall, this profile predicts a cautious, pragmatic, socially aware reasoning style with moderate depth and moderate tolerance for uncertainty, producing numeric predictions that are balanced, socially contextualized, and moderately conservative in uncertainty estimates.

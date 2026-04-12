@@ -1,0 +1,55 @@
+Demographics: Female, age 18-29, White, living in the Southern US, college graduate/some postgrad education, full-time employed, never married, Protestant attending services once or twice a month, Republican with conservative political views, family income $50,000-$75,000, lives alone. This suggests a young adult with moderate socioeconomic status, likely exposed to a mix of traditional Southern cultural values and some urban or professional influences given education and employment. Being single and living alone may imply greater personal autonomy and self-reliance.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagrees slightly with being talkative (2), agrees somewhat with being reserved (4), somewhat shy (4), quiet (4), and not outgoing (3).  
+- High Conscientiousness: Strongly agrees with doing a thorough job (5), being reliable (5), persevering until task completion (5), doing things efficiently (5), and disagreeing with carelessness and disorganization.  
+- Moderate Neuroticism: Mixed signals; neither agrees nor disagrees with being depressed (3), but strongly agrees with worrying a lot (5), somewhat tense (4), moody (4), and not emotionally stable (2).  
+- Openness: Moderate; agrees strongly with curiosity (5), active imagination (5), and somewhat with being a deep thinker (4), artistic experiences (4), and sophistication in art/music/literature (4).  
+- Agreeableness: Generally high; agrees strongly with being forgiving (5), kind (5), helpful (4), trusting (4), considerate (5), and not cold or aloof.
+
+Need for Cognition (18 items): Scores mostly 4 (agree a little) and 2 (disagree a little) on items indicating preference for complex problems, thinking hard, intellectual tasks, and abstract thinking. Overall, moderate to moderately high Need for Cognition, indicating a preference for engaging in effortful thinking but not extreme.
+
+Values (24 items): Highest values are Pleasure (9), Ambition (9), Competence (8), Altruism (8), Politeness (8), Harmony (8), Excitement (8), Compassion (8), Civility (8), Achievement (7), Trust (7), Humility (7), Loyalty (7), Honesty (7). Lower values on Power (3), Influence (3), Superiority (3). This suggests a worldview valuing personal success and pleasure balanced with social harmony, kindness, and ethical behavior. Ambition and competence are important, but dominance and control less so.
+
+Minimalism (12 items): Mixed to low minimalism. Disagrees slightly with avoiding accumulating stuff (2), restricting possessions (2), actively avoiding excess (2), and preferring empty spaces (2). Agrees somewhat with preferring simplicity in design (4), being mindful of what is owned (5), and mindful selection (4). Overall, not minimalist but somewhat thoughtful about possessions.
+
+Empathy (20 items): Generally high empathy. Disagrees with statements indicating low emotional impact from others (mostly 2), agrees moderately to strongly (4-5) with feeling sad when friends are sad, understanding friends’ emotions, getting caught up in others’ feelings, and being sensitive to others’ emotional states.
+
+Consumerism/Uniqueness: Neutral to low on uniqueness and trend-breaking. Mostly "neither agree nor disagree" or "disagree a little" on statements about seeking unique or unusual products, breaking social rules in consumption, or avoiding popular products. Suggests moderate conformity and low emphasis on consumer uniqueness.
+
+Social Desirability: Moderate. Some tendency to admit to negative traits (e.g., admitting to taking advantage of someone, feeling jealous, irritation), but also some denial of negative behaviors (e.g., not admitting to making mistakes, not trying to get even). Self-monitoring scale responses indicate moderate ability to adjust behavior to social situations but with some exceptions.
+
+Cognitive Test Performance:  
+- Correct answers on cognitive tests: 31/42 (estimated self and population average 31 vs 28).  
+- Logical reasoning: Mostly correct on syllogisms and conditional logic, but some errors on negation and contrapositives (e.g., incorrectly concluding "Poodles do not have four legs" from "All animals with four legs are dangerous" and "Poodles are not dangerous").  
+- Cube rotation puzzles: Mixed performance, some errors in spatial reasoning (choosing incorrect rotations).  
+- Vocabulary: Mostly correct on synonyms and antonyms, indicating good verbal knowledge.  
+- Wason selection task: Correctly identified "A" card only, indicating partial understanding of logical falsification.  
+- Word association chain: The chain moves logically and semantically (bear → teddy → graham → cracker → marshmallow → fire → log → cabin → camping → tent → roadtrip → vacation → airplane → beach → ocean → oyster → hot sauce → water → lemon → lime), showing coherent semantic associations and moderate creativity.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $2 and give $3 in dictator game (fair, generous split).  
+- As receiver in ultimatum game, accepts all offers except $0 (rational acceptance of any positive offer, rejects zero).  
+- In trust game, sends $2 (out of $5), expecting tripling, and returns roughly half or more of received amounts, indicating moderate trust and reciprocity but also self-interest.  
+- Thoughts during economic games show awareness of balancing generosity and self-interest, concern about appearing selfish, and strategic reciprocity.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones consistently until amounts equalize, indicating moderate patience and future orientation.
+
+Loss Framing:  
+- More upset by larger single losses than equivalent split losses, indicating loss aversion and sensitivity to framing.
+
+Self-Concept Clarity:  
+- Moderate clarity; some day-to-day variation in self-view (agree a little with conflicting beliefs about self), but generally clear sense of identity and stable self-concept.
+
+Self-Monitoring:  
+- Moderate; can adjust behavior somewhat to social situations, sensitive to others’ emotions, but not highly strategic or manipulative.
+
+Consumer Spending:  
+- Moderate spending habits (score 5/11), sometimes has trouble limiting or spending money, neither tightwad nor spendthrift.
+
+Depression and Anxiety Symptoms:  
+- No significant depressive symptoms; no sadness, guilt, or hopelessness.  
+- Mild anxiety symptoms: some nervousness, worry, irritability, and physical symptoms like upset stomach.
+
+Overall, the profile is of a young, educated, moderately conscientious and agreeable female with moderate neuroticism, moderate to high cognitive engagement, balanced social and personal values emphasizing ambition, pleasure, and social harmony, moderate empathy, moderate patience, and rational economic behavior with some strategic thinking. Cognitive reasoning is generally good but with some typical logical errors in negation and spatial tasks. Self-reports are moderately reliable with some social desirability bias but also honest admissions.

@@ -1,0 +1,20 @@
+Need for Closure: Low to moderate. Disagrees with impatience and discomfort with uncertainty, enjoys structured life and clear routines, but does not rush to quick decisions. Shows patience in problem-solving and decision-making.
+
+Need for Cognition: Moderate to high. Enjoys intellectual challenges, complex problems, and abstract thinking, but not obsessive. Invests analytical effort but balances with practical considerations.
+
+Maximizer: High. Strong desire for best outcomes, high standards, does not settle for second best, comparison shops for information and products.
+
+Self-monitoring: Low to moderate. Does not strongly alter behavior to fit social situations, but is highly perceptive of others’ emotions and reactions. Likely to be authentic but socially aware.
+
+Self-concept Clarity: Moderate. Generally clear self-view but acknowledges some internal conflict and variability. Stable enough to resist social pressure but open to self-reflection.
+
+Economic Game Gap: Behavior consistent with strategic fairness. Dictator and ultimatum offers align with acceptance thresholds, indicating coherent social preferences and strategic thinking.
+
+Intertemporal Patience: Moderate. Shows some willingness to wait for larger rewards but also values immediacy in some contexts. Balanced temporal discounting.
+
+Cognitive Errors: Some errors in logical reasoning, especially in negation and converse fallacies, indicating occasional heuristic shortcuts or incomplete logical processing. Spatial reasoning good but some uncertainty. Verbal reasoning strong.
+
+Social Desirability: Moderate. Self-reports include some negative traits and inconsistencies, suggesting reasonable honesty but some self-protective bias.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate social desirability bias with evidence of honest self-reporting of flaws and negative traits. The participant shows high cognitive ability and analytical engagement, but some logical reasoning errors and moderate need for closure suggest occasional heuristic shortcuts. The high maximizer score and conscientiousness indicate thorough information processing and comparison-shopping behavior, while moderate empathy and low self-monitoring imply reliance on objective data over social cues. Political conservatism and high education/income suggest preference for ideologically aligned but competent sources, with moderate research depth. Conflicts between some self-concept clarity items and social monitoring are resolved by weighting stable identity and perceptiveness over behavioral conformity. Overall, this profile predicts numeric predictions that are moderately analytical, somewhat cautious, and influenced by competence and tradition values, with moderate patience and fairness considerations.

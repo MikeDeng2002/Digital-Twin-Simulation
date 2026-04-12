@@ -1,0 +1,15 @@
+Need for Closure: Moderate to high (agrees with liking order, structure, and quick solutions; disagrees with impatience and intolerance of ambiguity). This suggests a preference for decisiveness and clarity.
+
+Need for Cognition: Very high (strong agreement with enjoying complex problems, thinking hard, intellectual challenges). This aligns with high cognitive ability and preference for analytical thinking.
+
+Maximizer: Low (disagrees with never settling for second best, does not have highest standards for self). This suggests satisficing rather than maximizing tendencies.
+
+Self-monitoring: Moderate (generally able to adjust behavior in social situations but with some exceptions). This fits with introversion and reserved nature.
+
+Self-concept Clarity: High (strong agreement with clear, stable self-concept, little internal conflict).
+
+Economic Game Behavior: Proposes to keep majority of money for self in dictator and trust games, expects others to keep money too, and sends minimal amounts to others. Rejects unfair offers as receiver. This indicates pragmatic, self-interested, and somewhat distrustful social-economic behavior.
+
+Cross-scale inference: High conscientiousness (Big Five) aligns with high need for cognition and high self-concept clarity. Low extraversion and low empathy align with low emotional contagion and low social orientation in economic games. Conservative values align with low environmental concern and preference for tradition and autonomy.
+
+w_social estimate: 0.25 -- The respondent shows low social orientation and empathy (e.g., Self-report empathy items strongly disagreeing with emotional contagion), low extraversion, and pragmatic, self-interested economic behavior. However, moderate self-monitoring and some value placed on cooperation and family suggest some social engagement. The high need for cognition and conscientiousness indicate a preference for structured social interactions rather than spontaneous or highly affiliative ones. These scales mostly agree on a low to moderate social orientation, justifying a low w_social estimate.

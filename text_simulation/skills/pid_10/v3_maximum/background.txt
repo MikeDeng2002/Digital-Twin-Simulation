@@ -1,0 +1,52 @@
+Demographics: Male, age 30-49, living in the Northeast US, identifies as "Other" race/origin but is a US citizen. Lives with a partner in a 2-person household, currently a home-maker, with some college but no degree, and a family income over $100,000. Politically very liberal Democrat, attends religious services once or twice a month, religion "Other." This suggests a relatively stable middle-class urban or suburban lifestyle with progressive political views and moderate religious engagement. The home-maker status combined with high household income implies a partner likely the primary earner.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagree talkative (1), strongly agree reserved (5), strongly agree quiet (5), disagree outgoing (2), low energy (1).  
+- Moderate Agreeableness: somewhat helpful (4), forgiving (4), considerate (4), but also somewhat cold/aloof (4), somewhat rude (4), and tends to find fault (4).  
+- Conscientiousness mixed: agrees somewhat to doing a thorough job (4), reliable (4), makes plans and follows through (4), but also agrees somewhat to being careless (4), disorganized (4), inefficient (2), and easily distracted (5).  
+- Neuroticism high: agrees strongly to being tense (5), moody (5), worries a lot (4), nervous (5), gets annoyed more easily, and low emotional stability (2).  
+- Openness high: strongly curious (5), original (4), ingenious (4), active imagination (5), artistic interests (5), sophisticated in art/music/literature (5), likes to reflect and play with ideas (5).
+
+Need for Cognition (18 items):  
+- High preference for complex problems (5), likes thinking (disagree strongly that thinking is not fun), enjoys abstract thinking (5), intellectual tasks (5), deliberates hard (4), dislikes thinking only as hard as necessary (1).  
+- Somewhat moderate on liking new solutions (2) and responsibility for thinking (4). Overall, a strong analytical thinker who enjoys cognitive challenge.
+
+Values (24 items):  
+- Highest values (9): Altruism, Harmony, Honesty, Compassion, Autonomy, Equality.  
+- High values (8): Trust, Civility, Loyalty, Politeness.  
+- Low values (1): Ambition, Power, Excitement, Status, Superiority.  
+- Moderate values: Wealth (3), Pleasure (6), Achievement (4), Influence (3), Tradition (3), Recognition (2).  
+This profile reveals a worldview centered on social justice, fairness, kindness, and personal integrity, with low emphasis on material success or dominance.
+
+Minimalism (12 items):  
+- Agrees somewhat to avoiding accumulating stuff (4), restricting possessions (4), "less is more" (4), mindful of what they own (4), importance of thoughtful ownership (5).  
+- Disagrees strongly with sparse visual environments or sparse home aesthetic (1).  
+- Does not strongly curate belongings (2).  
+This suggests a moderate minimalist attitude focused on mindful ownership but not extreme minimalism or aesthetic sparseness.
+
+Empathy (20 items):  
+- Strong empathy: strongly agrees feeling sad when friends are sad (5), understanding others' feelings (5), catching others' emotions (4-5), sensitive to others' fear and anger, generally emotionally responsive.  
+- Disagrees strongly with statements denying emotional impact from others (1).  
+This indicates a high degree of emotional attunement and social sensitivity.
+
+Consumerism/Uniqueness:  
+- Slightly agrees to combining possessions for personal image (4), breaking customs/rules in product use (4).  
+- Disagrees or low on seeking uniqueness via products (2), avoiding popular products (2), or challenging prevailing tastes (2).  
+- Generally low on maximizer tendencies (disagree strongly on comparison shopping, settling for second best).  
+This suggests a moderate nonconformist streak but not strongly driven by consumer uniqueness or trendsetting.
+
+Cognitive Test Performance:  
+- Correct answers on 36/42 cognitive questions, self-estimated 36 correct vs. population average 16, indicating above-average cognitive ability.  
+- Logical reasoning mostly correct, except a few errors on syllogistic logic (e.g., denying the converse fallacy).  
+- Good performance on spatial puzzles and analogies, with some minor errors in cube rotation tasks (selected option B twice, which was incorrect in one case).  
+- Word associations show a chain from concrete (toaster, bread) to abstract (divinity, unity, multiplicity, interdependence, community, love, hate, division), indicating a capacity for abstract and integrative thinking.  
+- Social desirability scale not explicitly given, but self-reports show some candor about negative traits (e.g., admitting to sometimes being rude, careless, disorganized), suggesting moderate social desirability bias.
+
+Social Desirability:  
+- Some contradictory self-reports (e.g., admits to being sometimes rude, careless, and disorganized, but also claims to be reliable and thorough).  
+- Generally moderate social desirability, with some willingness to admit faults.
+
+Mental Health Indicators:  
+- Reports feeling sad and discouraged about the future, some difficulty pushing self to do things, some sleep disturbance, tiredness from doing almost anything, but no strong feelings of worthlessness or failure.  
+- Moderate anxiety symptoms (nervousness, fear of worst happening).  
+- Pain and physical health issues reported affecting focus and activity.

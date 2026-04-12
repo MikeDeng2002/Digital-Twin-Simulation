@@ -1,0 +1,21 @@
+Need for Closure: Moderate. Neither strongly impatient nor highly tolerant of ambiguity. Some discomfort with uncertainty (agree a little with discomfort when not understanding reasons), but not extreme.
+
+Need for Cognition: Moderate analytical effort. Some rumination and deliberation, but not strong intrinsic motivation for complex problem solving.
+
+Maximizer: Moderate. Seeks good answers but willing to settle for "good enough" rather than perfect.
+
+Self-monitoring: Moderate to low. Notices social cues but limited behavioral adjustment. Stable self-concept supports resistance to social pressure.
+
+Self-concept Clarity: Moderate. Clear sense of self, little internal conflict, consistent self-view.
+
+Economic Game Gap: No significant gap. Dictator and ultimatum offers consistent with fairness and strategic thinking.
+
+Intertemporal Patience: High. Prefers larger delayed rewards, indicating long-term thinking.
+
+Cognitive Errors: Some acceptance of invalid logical conclusions (e.g., affirming the consequent fallacy), indicating occasional reasoning biases. However, good performance on classic riddles and math problems suggests solid basic numeracy and logic.
+
+Social Desirability: Moderate. Some admissions of negative feelings and behaviors suggest honest self-reporting, but some guardedness remains.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects moderate to high confidence in the reliability of self-reports and cognitive performance, tempered by some inconsistencies in logical reasoning and moderate social desirability. The participant’s high empathy and social orientation suggest that social context influences their judgments, but their stable self-concept and moderate self-monitoring indicate they do not simply conform to social expectations. Their moderate need for cognition and closure imply they invest some analytical effort but also rely on heuristics and social validation. Economic game behavior shows fairness balanced with self-interest, consistent with a pragmatic but socially aware decision style. Overall, this profile predicts numeric predictions that are moderately analytical, socially informed, and somewhat cautious, with a tendency to avoid extreme or highly speculative answers.

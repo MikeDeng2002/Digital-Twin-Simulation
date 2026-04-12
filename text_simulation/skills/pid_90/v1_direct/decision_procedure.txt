@@ -1,0 +1,24 @@
+- Need for Closure:
+  - Neither agree nor disagree on liking uncertain situations (Q1:3)
+  - Agree a little that uncomfortable when not understanding reasons (Q4:4)
+  - Agree a little that dislike going into situations without knowing what to expect (Q6:4)
+  - Agree a little that feel relieved after making decisions (Q7:4)
+  - Disagree a little on impatience if no immediate solution (Q9:2)
+- Need for Cognition:
+  - Mostly neutral or low agreement on enjoying thinking tasks (Q1:3, Q2:3, Q3:3, Q4:3, Q5:2, Q6:2, Q9:2, Q11:2)
+  - Strong agreement on deliberating about issues even if not personally affected (Q18:5)
+  - Agree a little that learning new ways to think excites (Q12:4)
+  - Agree a little that feel relief rather than satisfaction after mental effort (Q16:4)
+- Maximizer:
+  - Neither agree nor disagree on checking for better options (Q1:3)
+  - Agree a little on having highest standards for self (Q5:4)
+  - Agree a little on difficulty finding clothing they really love (Q4:4)
+  - Neither agree nor disagree on never settling for second best (Q6:3)
+- Self-monitoring:
+  - Mixed responses, mostly somewhat true or somewhat false with exceptions (Q1:3, Q2:3, Q3:2, Q4:4, Q5:4, Q6:4)
+  - Generally true on sensitivity to others’ emotions and detecting lies (Q9:5, Q10:5, Q11:5, Q13:5)
+- Self-concept clarity:
+  - Disagree a little that beliefs about self conflict or vary (Q1:2, Q2:2, Q8:2)
+  - Disagree strongly on spending much time wondering who they really are (Q3:1)
+  - Agree a little on having clear sense of who they are (Q11:4)
+- w_social estimate: 0.7 -- The person shows moderate to high social awareness and empathy (Self-monitoring Q9-Q13: 5s), values cooperation and altruism highly (Values: Compassion 9, Altruism 8, Equality 9), and reports thoughts about fairness and goodwill in economic games, but also maintains some self-reliance and moderate need for closure (Need for Closure Q4,6,7: 4s).

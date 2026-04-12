@@ -1,0 +1,30 @@
+Need for Closure: High. Strong preference for quick resolution, order, and certainty. Dislikes ambiguity and unpredictability. This drives a tendency to form firm opinions quickly and resist ambiguous or conflicting information.
+
+Need for Cognition: Moderate. Willing to engage in analytical thinking and puzzles but not deeply or obsessively. Likely to invest some effort in understanding numeric predictions but may rely on heuristics or social cues when complexity is high.
+
+Maximizer: Low to moderate. Seeks good enough answers rather than exhaustive best. Will satisfice with reasonable confidence rather than endlessly compare.
+
+Self-Monitoring: Moderate. Notices social cues and others’ opinions but does not necessarily defer to them. Can adjust behavior somewhat but maintains stable self-concept.
+
+Self-Concept Clarity: High. Stable, consistent self-view, resistant to social pressure or internal conflict. This supports consistent numeric predictions aligned with personal values and worldview.
+
+Economic Game Gap: Proposes moderately selfish but fair splits; accepts all nonzero offers; reciprocates fairly but keeps a slight edge. Behavior matches strategic fairness with self-interest, indicating pragmatic social reasoning.
+
+Intertemporal Patience: Moderate patience, prefers delayed rewards but discounts future moderately. Likely to consider medium-term outcomes but not very long-term.
+
+Cognitive Errors: Occasional logical oversights (accepting invalid syllogisms), heuristic errors in numeric tasks (bat and ball cost), but generally good vocabulary and reasoning. Suggests numeric predictions may be reasonable but sometimes influenced by intuitive or heuristic shortcuts.
+
+Social Desirability: Moderate. Some social desirability bias possible but balanced by admission of negative feelings and moderate self-monitoring. Self-reports are fairly reliable.
+
+w_social estimate: 0.65  
+Reasoning: The estimate is driven by the high empathy and agreeableness scores, strong social values (altruism, trust, harmony), and moderate self-monitoring, indicating that social context and interpersonal considerations strongly influence this person's reasoning and predictions. However, the high self-concept clarity and moderate need for cognition suggest that while social factors matter, this person maintains a stable internal framework and does not simply conform to social pressure. The moderate need for closure and low maximizer tendencies imply that this person prefers clear, straightforward answers and will settle on reasonable predictions without exhaustive search. Cognitive test performance shows good but not perfect logical reasoning, so numeric predictions will be generally sound but may occasionally reflect heuristic biases or oversimplifications. The demographic context (older, retired, lower education, low income) suggests limited access to specialized or technical information sources, favoring mainstream and socially trusted channels. Conflicts between moderate cognitive engagement and high need for closure are resolved by favoring quick, socially informed, but not deeply analytical predictions.
+
+This profile predicts that on open numeric prediction questions like "What will Bitcoin's price be next year?" or "What year will AGI arrive?" this person will:  
+- Prefer predictions that are socially reasonable and align with their values (e.g., cautious optimism, fairness)  
+- Avoid extreme or highly speculative answers  
+- Use heuristics and social consensus cues rather than deep technical analysis  
+- Seek closure quickly, settling on a plausible numeric range without prolonged uncertainty  
+- Possibly discount highly volatile or uncertain outcomes due to loss aversion and need for closure  
+- Show moderate patience in considering future timelines, not overly optimistic or pessimistic.
+
+In sum, this person’s numeric predictions will be socially grounded, moderately analytical, and pragmatically cautious, reflecting a balance of empathy-driven social reasoning and a preference for clear, stable answers.

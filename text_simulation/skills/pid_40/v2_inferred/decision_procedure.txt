@@ -1,0 +1,17 @@
+Need for Closure: Moderate agreement with discomfort with uncertainty and desire for quick solutions (items 1,6,7,8 in Need for Closure scale mostly 4), but not extreme. This suggests a preference for order and decisiveness without rigidity.
+
+Need for Cognition: Mixed signals. Some disagreement with enjoying deep thinking (items 3,4,5 mostly 2), but strong agreement with enjoying problem-solving and new solutions (items 11,12,14 mostly 4-5). This suggests moderate NFC with preference for practical problem-solving over abstract or prolonged deliberation.
+
+Maximizer: Disagrees strongly with "never settle for second best" and "highest standards" (items 2 and 6 in Maximizer scale), indicating low maximization tendency, more satisficing.
+
+Self-monitoring: Moderate (items mostly 3-5), able to read others' emotions well but less flexible in changing behavior fully.
+
+Self-concept clarity: High (items 1,2,3,7,9,10 in Self-concept clarity scale mostly 1-2 disagree, item 11 agree strongly), indicating stable and clear self-identity.
+
+Economic games: Proposes to keep majority in trust game (keeps $5, sends $0), expecting others to keep most for themselves, indicating low trust. In ultimatum game, proposes $3/$2 split and accepts all offers, indicating pragmatic fairness.
+
+Cross-scale inference: The moderate Need for Closure and moderate Need for Cognition align with pragmatic decision-making and moderate cognitive engagement. Low maximizer tendency aligns with satisficing in economic games. Moderate self-monitoring and high self-concept clarity suggest social awareness but stable identity.
+
+No major contradictions detected.
+
+w_social estimate: 0.55 -- The respondent shows moderate social orientation, evidenced by high extraversion (Big Five items 1,5,26,36), moderate agreeableness (helpful 4, trusting 4, but low forgiving 2), and moderate self-monitoring (items 1,2,5,7 in Self-monitoring scale). Economic game behavior shows pragmatic fairness but low trust, indicating social engagement tempered by caution. The agreement between Big Five extraversion, moderate agreeableness, and self-monitoring scales supports a moderate social weighting.

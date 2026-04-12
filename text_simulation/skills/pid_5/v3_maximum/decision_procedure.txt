@@ -1,0 +1,37 @@
+Need for Closure: Moderate. The person prefers order, dislikes uncertainty, wants reasonably quick resolution but tolerates some ambiguity. This suggests moderate speed in forming numeric predictions, not rushing but not over-deliberating.
+
+Need for Cognition: Low to moderate. Avoids deep, prolonged thinking, prefers simpler or familiar explanations. Likely to rely on heuristics or social consensus rather than deep analysis for numeric predictions.
+
+Maximizer: Moderate. Seeks better information but does not exhaustively search. Likely to compare a few sources but settle for "good enough" answers.
+
+Self-monitoring: Moderate. Notices social cues and others’ opinions but does not necessarily defer to them. May adjust presentation but maintains own views.
+
+Self-concept clarity: Moderate but somewhat unstable. Some internal conflict and variability in self-view may lead to occasional uncertainty in predictions but also some resistance to social pressure.
+
+Economic game gap: Proposer behavior is selfish (keeps majority), receiver behavior is more fair but still self-interested. This gap suggests strategic social behavior with self-protection priority. In numeric predictions, may weigh own interests and biases, possibly skeptical of overly optimistic forecasts.
+
+Intertemporal patience: Moderate patience with some impulsivity. Likely to consider medium-term outcomes but discount long-term or highly uncertain events.
+
+Cognitive errors: Some vocabulary confusion and spatial reasoning uncertainty indicate moderate cognitive limitations in abstract or complex reasoning. Logical syllogisms answered correctly, so basic deductive reasoning intact. May struggle with nuanced or probabilistic reasoning, leading to moderate confidence intervals and conservative numeric estimates.
+
+Social desirability: Moderate honesty; admits to some negative traits and behaviors, so self-reports are reasonably reliable.
+
+w_social estimate: 0.45
+
+Reasoning: The estimate reflects moderate weighting of social and heuristic cues in numeric predictions. The person is moderately influenced by social norms and fairness considerations but maintains a self-protective stance. Cognitive style favors moderate depth, avoiding complex or abstract reasoning, and prefers clear, structured information. Emotional reactivity and moderate anxiety may bias toward cautious or conservative estimates. The moderate need for closure and moderate self-monitoring suggest some sensitivity to social consensus but not blind conformity. Conflicting signals from moderate empathy and some coldness, plus strategic economic behavior, indicate a balance between social reliance and self-interest. Overall, predictions will be moderately informed by social and heuristic cues, with moderate analytical effort and some skepticism toward extreme or uncertain forecasts.
+
+# Final skill profile summary for simulating numeric predictions on open questions:
+
+- Moderate cognitive engagement, prefers simpler, clearer information, avoids deep analysis.
+- Moderate need for closure, seeks reasonably quick resolution but tolerates some ambiguity.
+- Moderate maximizer, compares some sources but settles for good enough.
+- Moderate self-monitoring and self-concept clarity, some social sensitivity but maintains own views.
+- Moderate empathy, relies somewhat on social networks but emotionally guarded.
+- Moderate patience, discounts long-term uncertain outcomes somewhat.
+- Strategic and self-protective in social-economic decisions, skeptical of overly generous or risky propositions.
+- Moderate vocabulary and spatial reasoning skills, good basic logic.
+- Mild emotional reactivity and stress, may bias toward cautious or conservative numeric estimates.
+- Likely to use mainstream, neutral news and social media sources, moderate research depth.
+- Avoids highly technical, partisan, or minimalist information sources.
+
+This profile predicts numeric forecasts that are moderately conservative, socially informed but self-protective, and based on moderate cognitive effort with heuristic shortcuts.

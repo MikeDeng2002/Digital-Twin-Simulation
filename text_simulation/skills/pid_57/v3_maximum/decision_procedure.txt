@@ -1,0 +1,23 @@
+Need for Closure: Low. Disagrees with impatience for quick solutions, does not rush decisions, comfortable with some uncertainty.
+
+Need for Cognition: Low. Avoids complex or abstract thinking, prefers practical, straightforward tasks, minimal deep deliberation.
+
+Maximizer: Low. Does not seek the absolute best answer or extensive comparison; satisficer.
+
+Self-Monitoring: Low. Does not adjust behavior much to social cues, limited sensitivity to others' subtle emotional signals.
+
+Self-Concept Clarity: Very high. Stable, consistent self-view, resists social pressure, confident in identity.
+
+Economic Game Gap: Proposes selfish split in dictator game but rejects unfair offers as receiver, indicating strategic fairness. Trust game behavior shows moderate trust but guardedness. Behavior aligns with strategic self-interest rather than pure altruism.
+
+Intertemporal Patience: High. Prefers larger delayed rewards, indicating long-term thinking in decision-making.
+
+Cognitive Errors: Some logical reasoning errors and vocabulary misunderstandings suggest occasional lapses in abstract reasoning and semantic precision. Likely to rely on heuristics and practical reasoning rather than formal logic in numeric prediction tasks.
+
+Social Desirability: Moderate. Generally honest self-reporting with some positive self-presentation; self-reports are reasonably reliable.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances the subject's high empathy and social concern (which would increase social influence) against their low self-monitoring and high self-concept clarity (which reduce social conformity). Their strategic economic game behavior and moderate social desirability suggest some awareness of social norms but a preference for independent judgment. Cognitive test performance and low Need for Cognition imply reliance on heuristics and practical reasoning rather than deep analytical processing, which may moderate the influence of social information. Overall, this person is moderately socially influenced but retains a strong independent core, leading to a w_social around 0.65.
+
+# Summary for simulation: This individual will produce numeric predictions based on practical, moderately informed heuristics, influenced somewhat by social context but ultimately guided by a stable, self-assured worldview. They will avoid deep abstract reasoning, prefer moderate-depth research from mainstream liberal sources, and weigh social and ethical considerations moderately but not overwhelmingly. Their predictions on open numeric questions like Bitcoin price or AGI arrival will reflect cautious optimism, moderate patience, and pragmatic ambition rather than speculative or highly analytical forecasting.

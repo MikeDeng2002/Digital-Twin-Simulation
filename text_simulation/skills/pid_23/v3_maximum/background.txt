@@ -1,0 +1,33 @@
+Demographics: Male, age 30-49, White, living in the Southern US, married, college graduate/some postgrad education, full-time employed, household of 4, US citizen, moderate political views but identifies as Democrat, income $100,000 or more, no strong religious affiliation (nothing in particular, seldom attends services). This suggests a middle-aged, financially stable, moderately liberal professional with family responsibilities and a Southern cultural background, likely exposed to a mix of traditional and progressive social environments.
+
+Big Five Personality (44 items): High Extraversion (talkative 4, outgoing 5, full of energy 5), High Agreeableness (helpful 5, forgiving 5, considerate 5, trusting 5), High Conscientiousness (does a thorough job 4, reliable 5, perseveres 5, efficient 5), High Emotional Stability (relaxed 5, not tense 1, not moody 1), High Openness (curious 5, original 4, imaginative 5, artistic values 5). Overall, a socially engaged, emotionally stable, conscientious, and intellectually curious individual with a positive and cooperative interpersonal style.
+
+Need for Cognition (18 items): Mostly agree a little to agree strongly on enjoying complex problems, thinking hard, intellectual tasks, and new solutions (mostly 4s and 5s), with some neutrality on abstract thinking and preference for long-term projects. This indicates moderate to high engagement in analytical thinking and problem-solving, with a preference for intellectual challenge but not extreme.
+
+Values (24 items): Highest values are Altruism (9), Loyalty (9), Trust (8), Competence (8), Politeness (8), Honesty (8), Compassion (8), Equality (8), Achievement (7), Ambition (7), Forgiveness (7), Pleasure (6), Harmony (6), Civility (6), Tradition (7). Low values on Power (2), Influence (2), Status (1), Superiority (1), Recognition (4). This profile reveals a worldview centered on social harmony, fairness, helping others, and personal competence rather than dominance or status seeking.
+
+Minimalism (12 items): Mixed but leaning toward moderate minimalism. Disagrees somewhat with avoiding accumulation and restricting possessions (2s), but agrees somewhat with "less is more," preference for sparse, simple design, mindful ownership (4s). Indicates a moderate tendency to curate possessions thoughtfully but not strongly minimalist.
+
+Empathy (20 items): Mixed signals. Disagrees strongly with being easily caught up in others’ feelings or frightened by others’ emotions (1s), but agrees somewhat to strongly with understanding friends’ feelings, recognizing emotions quickly, and being considerate (4s and 5s). Suggests cognitive empathy (understanding others’ emotions) is present, but affective empathy (emotional contagion) is low.
+
+Consumerism/Uniqueness: Generally agrees a little (4s) with seeking uniqueness, originality in products, breaking social rules in consumption, and challenging prevailing tastes, but disagrees a little (2s) with avoiding popular products or brands. This indicates moderate interest in personal uniqueness and some nonconformity in consumer behavior, but not strong rejection of mainstream trends.
+
+Cognitive Test Performance: Self-estimated 36/42 correct (above average), believes average is 20/42. Correct answers on logical syllogisms mostly, except one error on a conditional logic question (China communist). Good performance on spatial rotation and analogy puzzles, with some errors in cube rotation tasks indicating occasional difficulty with 3D mental rotation or complex spatial transformations. Word synonym and antonym tests mostly correct, except a few errors (e.g., oscillate synonym chosen as irradiate, which is incorrect; indolent synonym chosen as contrite, incorrect; disparity synonym chosen as assiduity, incorrect; indigent antonym chosen as refractory, incorrect). These errors suggest occasional semantic confusion or lapses in vocabulary precision.
+
+Word Association Chain: Logical and thematic progression from candle → flame → fire → heat → warm → sunny → beach → family → fun → ocean → shark → teeth → sharp → saw → tool → wood → craft → art → artist → old. Shows concrete to abstract progression, with a focus on natural elements, social/family themes, and craftsmanship/artistic concepts, ending on "old" which may indicate reflection or maturity.
+
+Social Desirability: No direct score given, but self-reports show some socially undesirable admissions (e.g., admitting to taking advantage of someone, trying to get even, jealousy, irritation), suggesting moderate honesty and low social desirability bias.
+
+Economic Games: Proposes to keep $3 and send $2 in dictator game, accepts all offers as receiver (even $0), indicating moderate fairness but self-interest. In trust game, sends all $5 (maximizing cooperation), but as receiver keeps about half and returns about half, indicating strategic reciprocity and moderate trust. Thoughts during decisions include "nice," "thoughtful," "strategy," indicating reflective and strategic social reasoning.
+
+Intertemporal Choice: Prefers larger later rewards over smaller sooner ones consistently until the later reward is significantly better, indicating moderate to high patience and future orientation.
+
+Self-Monitoring: Generally high (mostly 5s), able to adjust behavior to social situations, read emotions, and regulate impressions, but self-concept clarity is also high (strong agreement on stable self-view, no internal conflict), indicating a confident but socially aware individual.
+
+Need for Closure: Neutral to low (mostly 2-3 on items about discomfort with uncertainty and desire for quick resolution), indicating tolerance for ambiguity and deliberation.
+
+Maximizer Scale: Mostly agree a little to agree strongly (4-5) on seeking best options, high standards, and not settling for second best, indicating a maximizer tendency.
+
+Consumer Spending: Self-reports as moderately spendthrift (7/11), rarely has trouble limiting spending, sometimes has trouble spending money, indicating moderate control with occasional lapses.
+
+Depression/Anxiety: No signs of depression or anxiety; reports no sadness, no guilt, no irritability, normal sleep, appetite, energy, and interest levels.

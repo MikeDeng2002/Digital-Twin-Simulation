@@ -1,0 +1,17 @@
+Need for Closure: Mixed but tending toward low closure needs — disagrees with impatience for quick solutions, dislikes unpredictability only mildly, and prefers some order and routine (items 3, 12, 13 on Need for Closure scale). This suggests moderate tolerance for ambiguity.
+
+Need for Cognition: Mostly neutral to slight disagreement with enjoying deep thinking and intellectual challenge, but some mild agreement with abstract thinking and mental effort (items 14, 16). Overall moderate to low Need for Cognition.
+
+Maximizer: Disagrees somewhat with "never settle for second best" and "highest standards for myself" (items 5, 6 on Maximizer scale), indicating low to moderate maximizing tendencies.
+
+Self-monitoring: Scores indicate moderate self-monitoring with some difficulty adapting behavior flexibly (items 1-13 on Self-monitoring scale mostly 2-4), suggesting moderate social awareness but not high social adaptability.
+
+Self-concept clarity: High clarity, strong agreement with stable and clear self-concept (items 11 on Self-concept clarity scale strongly agree, others strongly disagree with instability/conflict), indicating a well-defined self-image.
+
+Economic games: Proposes fair splits (2 keep / 3 give) in dictator game, accepts fair offers but rejects low offers, and in trust game sends all money but keeps majority when receiving. This pattern suggests moderate social trust and fairness orientation but also self-interest.
+
+Cross-scale inference: The moderate Need for Cognition and moderate self-monitoring align with average cognitive test performance and moderate social trust. The high self-concept clarity supports consistent decision-making and moderate social preferences.
+
+No major contradictions are evident; the scales align to depict a moderately conscientious, agreeable, and emotionally stable individual with moderate cognitive engagement and social preferences.
+
+w_social estimate: 0.55 -- This estimate is based on moderate agreeableness and conscientiousness (Big Five items), moderate social trust and fairness in economic games, moderate self-monitoring, and high self-concept clarity. The respondent shows willingness to cooperate and share but also maintains self-interest, indicating a balanced social orientation rather than highly social or highly self-focused. The agreement between personality, economic games, and self-concept clarity scales supports this moderate social weighting.

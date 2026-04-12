@@ -1,0 +1,118 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age between 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Conservative (Question: In general, would you describe your political views as? Answer: Conservative)
+- Family income last year: $50,000-$75,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $50,000-$75,000)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Unemployed (Question: What is your current employment status? Answer: Unemployed)
+- Personality traits (Big Five, selected items):
+  - Neither talkative nor reserved (Q1,6: Neither agree nor disagree)
+  - Slightly disagree with finding fault with others (Q2: Disagree a little)
+  - Does a thorough job (Q3: Agree a little)
+  - Slightly helpful and unselfish (Q7: Agree a little)
+  - Relaxed, handles stress well (Q9: Agree a little)
+  - Curious about many things (Q10: Agree a little)
+  - Reliable worker (Q13: Agree a little)
+  - Ingenious, deep thinker (Q15: Agree a little)
+  - Generates enthusiasm (Q16: Agree a little)
+  - Forgiving nature (Q17: Agree a little)
+  - Emotionally stable (Q24: Agree a little)
+  - Inventive (Q25: Agree a little)
+  - Assertive personality (Q26: Agree a little)
+  - Perseveres until task is finished (Q28: Agree a little)
+  - Values artistic, aesthetic experiences (Q30: Agree a little)
+  - Considerate and kind (Q32: Agree a little)
+  - Does things efficiently (Q33: Agree a little)
+  - Remains calm in tense situations (Q34: Agree a little)
+  - Makes plans and follows through (Q38: Agree a little)
+  - Likes to reflect, play with ideas (Q40: Agree a little)
+  - Generally trusting (Q22: Agree a little)
+- Need for Cognition scale (selected items):
+  - Neutral or slight disagreement on preference for complex problems and thinking (Q1,2,3,4: Neither agree nor disagree or disagree a little)
+  - Slightly agrees that abstract thinking appeals (Q14: Agree a little)
+  - Slightly agrees feeling relief after mental effort (Q16: Agree a little)
+  - Disagrees that "it's enough that something gets the job done" (Q17: Disagree a little)
+- Values (rated as guiding principles):
+  - Moderately important: Wealth, Pleasure, Influence, Achievement, Altruism, Ambition, Politeness, Excitement, Civility, Recognition (rated 5)
+  - Highly important: Forgiveness, Trust, Competence, Humility, Honesty, Compassion, Autonomy, Equality, Harmony (rated 7 or 8)
+  - Less important: Power (3), Status (2), Superiority (3)
+  - Loyalty and Tradition moderately important (6)
+- Environmental concern: Slightly concerned about wasting resources and willing to be inconvenienced for environment (Q4,6: Agree a little), but generally disagrees that products should not harm environment or that purchase habits are affected by environment (Q1-3: Disagree a little)
+- Empathy and social sensitivity:
+  - Disagrees that friends’ emotions don’t affect him much (Q1: Disagree a little)
+  - Agrees that he feels sad after being with a sad friend (Q2: Agree a little)
+  - Agrees understanding friends’ happiness (Q3: Agree a little)
+  - Disagrees finding it hard to know when friends are frightened (Q6: Disagree a little)
+  - Agrees understanding when someone is feeling down (Q9: Agree a little)
+  - Agrees can work out when friends are scared, cheerful, or angry (Q10,14,16: Agree a little)
+  - Disagrees that friend’s unhappiness doesn’t affect him (Q18: Disagree a little)
+  - Disagrees not being aware of friends’ feelings (Q19: Disagree a little)
+  - Disagrees having trouble figuring out when friends are happy (Q20: Disagree a little)
+- Self-reported traits about self:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful when doesn’t get way (True)
+  - Has given up on things due to low self-belief (True)
+  - Has felt like rebelling against authority even when authority was right (True)
+  - Has taken advantage of someone (True)
+  - Does not always admit mistakes (False)
+  - Does not try to get even rather than forgive (False)
+  - Not always courteous to disagreeable people (False)
+  - Has been jealous of others’ good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Has deliberately said things that hurt others (False)
+- Self-concept clarity:
+  - Strong agreement with having a clear sense of who he is (Q11: Agree strongly)
+  - Disagrees strongly with statements indicating conflicting or changing self-beliefs or identity confusion
+- Need for Closure:
+  - Mostly neutral or slight disagreement with discomfort with uncertainty, dislike of ambiguous situations, impatience for quick solutions, or need for order (mostly "Neither agree nor disagree" or "Disagree a little")
+  - Slight agreement with liking a well-ordered life and consistent routine (Q3,12,13: Agree a little)
+- Maximizer tendencies:
+  - Disagrees or neutral on always seeking better options or highest standards (mostly Disagree a little or Neither agree nor disagree)
+- Self-monitoring:
+  - Mixed responses, mostly "Somewhat true, but with exceptions" or "Somewhat false, but with exceptions" on ability to alter behavior or read others’ emotions
+- Economic game behavior:
+  - In dictator game, proposes to keep $2 and send $3 to other (Question: How much would you propose to keep/send? Answer: Keep $2, send $3)
+  - As receiver, accepts offers down to $1, rejects $0 offers
+  - In trust game, as sender, keeps $0 and sends $5 (maximally trusting)
+  - As receiver in trust game, keeps $8 of $15 and sends back $7 (reciprocates sharing)
+- Cognitive test performance:
+  - Estimated 22 out of 42 correct on cognitive tests (self-estimate)
+  - Believes average US adult would also get 22 correct
+  - Correctly answered various logic and reasoning questions, including syllogisms and conditional reasoning
+  - Correctly solved spatial rotation and pattern puzzles
+  - Vocabulary: mostly correct synonym and antonym selections, except one error (FURTIVE synonym chosen as "facile" which is incorrect)
+- Financial literacy:
+  - Correctly identifies mortgage, inflation, risk diversification, and investment return concepts
+  - Correctly estimates credit card payoff time (10 years)
+  - Correctly answers probability and percentage questions
+  - Correctly solves basic math and logic problems (bat and ball, lily pads)
+- Economic preferences:
+  - Prefers to keep $3 rather than smaller amounts in delayed monetary choices (discounting future money)
+  - Prefers immediate smaller amounts over delayed larger amounts in some cases (indicating some impatience)
+- Spending habits:
+  - Self-reports as neither tightwad nor spendthrift (middle of scale)
+  - Sometimes has trouble limiting spending and sometimes trouble spending money
+  - Neither strongly resembles impulsive spender nor extreme saver
+- Mood and mental health:
+  - Reports feeling sad and discouraged about the future, but not feeling like a failure or worthless
+  - Reports less enjoyment in things than before
+  - Does not feel guilty or punished
+  - Critical of self for weaknesses or mistakes
+  - No increased crying or irritability
+  - Less interested in other people than before
+  - Makes decisions as well as before
+  - Sleeps less well and tires more easily than before
+  - Appetite and weight stable
+  - No increased health worries or loss of interest in sex
+  - Not purposely trying to lose weight
+- Self-concept and identity:
+  - Aspires to be looked up to, wise, and a solver of philosophical problems
+  - Believes ought to be responsible, fulfill duties, and be caring brother
+  - Describes actual self as dependable, good listener, good communicator

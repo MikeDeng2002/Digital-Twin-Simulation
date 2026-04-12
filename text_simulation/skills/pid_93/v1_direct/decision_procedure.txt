@@ -1,0 +1,18 @@
+- Need for Closure:
+  - Dislikes uncertainty somewhat but not strongly (Item 1: 2 - Disagree a little)
+  - Strongly dislikes ambiguous questions (Item 2: 1 - Disagree strongly)
+  - Prefers well-ordered life and clear expectations (Item 3: 4; Item 6: 5)
+  - Does not become impatient quickly when solutions are delayed (Item 9: 2)
+- Need for Cognition:
+  - Strong preference for complex, intellectual tasks (Items 1,2,6,10,11,15,18 all 5 - Agree strongly)
+  - Enjoys thinking hard and solving problems
+- Maximizer:
+  - Has high standards for self (Item 5: 5 - Agree strongly)
+  - Never settles for second best (Item 6: 4 - Agree a little)
+- Self-monitoring:
+  - Generally true that can control impression and adjust behavior (Items 2,5,7: 5 - Generally true)
+  - Somewhat true that can change image if needed (Item 3: 4)
+- Self-concept clarity:
+  - Clear and stable self-view (Item 11: 5 - Agree strongly)
+  - Disagrees strongly with internal conflicts or changing self-beliefs (Items 1,8: 1)
+- w_social estimate: 0.7 -- This person shows moderate to high social reasoning and self-monitoring abilities (Self-monitoring items 2,5,7 rated generally true), values cooperation and family (agree strongly to cooperating and family sacrifice), and has a clear self-concept (Self-concept clarity items). Their Need for Cognition is very high, indicating deliberative reasoning, while Need for Closure is moderate, showing some preference for order but tolerance for ambiguity. This combination suggests a balanced social reasoning approach with a slight emphasis on thoughtful, deliberate decision-making in social contexts.

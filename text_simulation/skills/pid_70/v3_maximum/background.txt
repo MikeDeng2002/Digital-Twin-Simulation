@@ -1,0 +1,49 @@
+Demographics: Male, age 50-64, White, living in the Southern US, retired, married, Roman Catholic but does not attend services, Democrat with liberal political views, household size 2, family income $50,000-$75,000, some college but no degree. This suggests a middle-class, moderately educated individual with stable family and social ties, likely with traditional cultural roots but progressive political leanings. Retirement status implies more time for reflection and possibly less exposure to workplace-driven information sources.
+
+Big Five Personality (44 items):  
+- High Openness: Strong agreement with originality, curiosity, imagination, inventiveness, and artistic values (items 5,10,15,20,25,30).  
+- Moderate Extraversion: Agree a little to talkative, energetic, outgoing, but also somewhat reserved and shy (items 1,6,11,21,31,36).  
+- High Conscientiousness: Agree strongly to being reliable, efficient, organized, persevering, and doing thorough jobs (items 3,13,28,33,38).  
+- Low Neuroticism: Disagree strongly with being depressed, careless, lazy, tense, nervous; emotionally stable (items 4,8,23,24,39).  
+- Agreeableness: Mostly agree a little to helpful, forgiving, considerate, kind, trusting (items 7,17,22,32,42).  
+- Somewhat contradictory is a strong agreement with being moody (item 29), which may indicate emotional variability despite overall emotional stability.
+
+Need for Cognition (18 items): Mixed signals. Likes complex problems and intellectual tasks (items 1,10,11,14), but also prefers to avoid deep thinking and does not enjoy long deliberation (items 5,6). Neither strongly enjoys nor dislikes thinking hard (items 3,4,7,13,16,18). Overall moderate Need for Cognition, with some ambivalence about effortful thinking.
+
+Values (24 items):  
+- Highest importance (9): Altruism, Ambition, Loyalty, Politeness, Harmony, Compassion, Civility, Autonomy, Equality, Tradition.  
+- High importance (7-8): Wealth, Pleasure, Trust, Competence, Humility, Achievement, Forgiveness, Influence, Power, Honesty.  
+- Moderate importance: Status, Recognition, Superiority, Excitement.  
+This profile reveals a person who values social harmony, fairness, and moral virtues strongly, but also ambition and personal achievement. Tradition and autonomy are both highly valued, indicating a balance between respect for social norms and personal independence.
+
+Minimalism (12 items): Strong disagreement with minimalism and simplicity in possessions (items 1,2,4,5,7,8), but strong agreement with mindfulness and careful curation of belongings (items 9,11,12). This suggests a preference for meaningful, well-chosen possessions rather than minimal quantity or sparse aesthetics.
+
+Empathy (20 items): Generally high empathy, especially cognitive empathy (understanding others’ feelings, recognizing emotions quickly), but somewhat less emotional contagion (less likely to become sad or scared from others’ feelings). Strong agreement with being considerate and kind, and good at reading others’ emotions (items 3,9,14,16,17). Somewhat less affected by others’ sadness or fear (items 2,5,6,7,8,11).
+
+Consumerism/Uniqueness: Strong agreement with seeking uniqueness and originality in products, breaking social norms in consumption, and challenging prevailing tastes (items 2-8). Disagreement or neutrality about avoiding popular products (items 9-12). This indicates a consumer identity focused on personal distinctiveness and nonconformity.
+
+Cognitive Test Performance:  
+- Correct answers on 30/42 cognitive questions, self-estimated 30 correct vs. population average 25, indicating above-average cognitive ability.  
+- Logical reasoning: Correct on most syllogisms except some errors on conditional logic (e.g., incorrectly accepting invalid conclusions).  
+- Some errors in deductive reasoning (e.g., incorrectly concluding "Cigarettes are good for health" from false premises).  
+- Spatial reasoning: Mixed performance on cube rotation tasks, some confusion but mostly correct.  
+- Word associations: Logical and semantically coherent chain related to dining and food items, no unusual or tangential associations.  
+- Vocabulary: Mostly correct synonym and antonym choices, except one error (FURTIVE synonym chosen as "ecstatic" which is incorrect), indicating occasional lapses or guessing.  
+- Social desirability scale not explicitly reported, but self-reports show some admission of negative traits (resentment, jealousy, irritation), suggesting moderate honesty.
+
+Social Desirability: Moderate. The participant admits to some negative feelings and behaviors (resentment, jealousy, irritation, taking advantage of others), but also claims to be courteous and forgiving. This mixed pattern suggests reasonable self-awareness and moderate social desirability bias.
+
+Mental Health: No current sadness or depression, but some feelings of discouragement about the future and mild disappointment in self. Some sleep difficulties and slight weight loss, but no major impairments in decision-making or motivation.
+
+Economic Games:  
+- Dictator game: Keeps $3, gives $2 (60% to self).  
+- Ultimatum game: Rejects very generous offers ($5, $4), accepts fair offers ($3, $2), rejects low offers ($1, $0).  
+- As receiver, tends to keep majority of money returned, but sends back a fair portion (e.g., keeps $10 of $15, sends back $5).  
+- Thoughts during decisions focus on generosity, feelings, trust, reciprocity, and cost.  
+- Indicates moderate fairness concerns but also self-interest and strategic thinking.
+
+Intertemporal Choice: Strong preference for delayed rewards over immediate smaller rewards, consistently choosing larger later amounts even when delay is short. Indicates high patience and long-term orientation.
+
+Self-Monitoring: Very high (all items "certainly always true" except one "somewhat true"), indicating strong ability to read social cues and adjust behavior accordingly.
+
+Self-Concept Clarity: Moderate to high. Some minor fluctuations in self-view but generally clear and stable self-concept.

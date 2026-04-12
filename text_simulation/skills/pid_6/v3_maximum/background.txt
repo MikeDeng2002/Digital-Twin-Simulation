@@ -1,0 +1,57 @@
+Demographics: Male, age 50-64, White, U.S. citizen living in the Western U.S. (likely a state like CA, WA, or OR). Retired, with some college but no degree, and modest family income ($30k-$50k). Never married, atheist, politically independent with moderate views. Household size of 3 suggests possible family or roommates. These factors imply a middle-aged individual with moderate socioeconomic status, likely exposed to diverse cultural and political environments but not strongly affiliated with any political or religious group.
+
+Big Five Personality (44 items):  
+- Extraversion: Mixed signals; strongly talkative (5), full of energy (5), enthusiastic (5), but also somewhat reserved (4) and sometimes shy (4). Overall moderately extraverted but with some introverted tendencies.  
+- Agreeableness: High agreeableness; very helpful (4), forgiving (5), kind (5), trusting (4), polite (8/9 on politeness value), and low on quarrelsomeness and fault-finding.  
+- Conscientiousness: Very high; extremely organized (9), reliable (5), persevering (5), efficient (8), systematic (9), and careful (low carelessness).  
+- Neuroticism: Very low; emotionally stable (5), relaxed (5), not tense or moody, no worry or nervousness.  
+- Openness: Moderately high; original (4), ingenious (4), imaginative (5), artistic values high (5), but not sophisticated in art/music/literature (2). Likes new ideas but not strongly avant-garde.
+
+Need for Cognition (18 items): Moderate-low. Disagrees somewhat with preference for complex problems and heavy thinking (mostly 2s), but agrees a little (4s) with enjoying some mental effort, new solutions, and abstract thinking. Prefers tasks that are learned and routine but also likes intellectual challenges to some extent. Overall, not a deep thinker by preference but willing to engage moderately.
+
+Values (24 items):  
+- Highest: Pleasure (9), Trust (9), Humility (9), Loyalty (9), Honesty (9), Competence (8), Politeness (8), Altruism (7), Forgiveness (7), Autonomy (7).  
+- Low: Influence (1), Power (1), Status (1), Superiority (1), Ambition (2), Tradition (2), Recognition (3), Wealth (3).  
+This reveals a worldview valuing social harmony, ethical behavior, trustworthiness, modesty, and personal integrity over power, status, or material wealth. Pleasure is highly valued, but likely in social or experiential terms rather than materialism.
+
+Minimalism (12 items): Strong minimalist orientation. Strong agreement with avoiding excess possessions, mindful curation of belongings, preference for sparse and simple environments. Moderate agreement with visual sparsity and simplicity in design. This suggests careful, deliberate consumption and information curation.
+
+Empathy (20 items): Moderate empathy. Somewhat affected by others’ emotions (agree a little or strongly on some items), but also some emotional distance (disagree a little on being easily caught up in others’ feelings). Can read others’ emotions fairly well but not highly sensitive. Likely relies on social cues but maintains emotional boundaries.
+
+Consumerism/Uniqueness: Strong rejection of consumer uniqueness and trend-following. Disagrees strongly with seeking unique or special products, breaking social rules on consumption, or avoiding popular brands. Slight agreement (4) with occasionally breaking social rules about product use, but overall low desire for uniqueness or trendsetting.
+
+Cognitive Test Performance:  
+- Correct on most basic logic and syllogism tasks, but some errors on more complex or counterintuitive logic (e.g., incorrectly affirming some invalid conclusions).  
+- Correct on classic trick questions (Emily’s name, sheep count, race position).  
+- Moderate performance on spatial rotation and pattern puzzles (mostly correct answers).  
+- Vocabulary: Mostly correct synonyms and antonyms, but notable error on ASTUTE synonym (chose ascetic, which is incorrect; correct is sagacious). This suggests some gaps in nuanced vocabulary or semantic precision.  
+- Estimated 30/42 correct on cognitive tests, slightly above average but not high.  
+- Some logical errors suggest a tendency to accept plausible conclusions without fully testing alternatives, indicating moderate analytical rigor but some heuristic shortcuts.
+
+Word Association Chain: Progresses from concrete (paper, bag, donuts) to abstract and social (gratitude, forgiveness, friends, community), indicating a cognitive style that moves from tangible to relational and emotional concepts.
+
+Social Desirability Scale: Moderate to low social desirability bias. Admits to some negative behaviors (e.g., taking advantage of someone once), but also claims strong honesty and politeness. Self-reports appear generally reliable.
+
+Mood and Mental Health: No signs of depression or anxiety; stable mood, no guilt or self-criticism, some mild tiredness and recent weight loss (intentional). Overall mentally stable.
+
+Self-Concept Clarity: Very high. Strong agreement on stable, consistent self-view, low internal conflict, and clear identity. Some slight reluctance to fully disclose true self to others, indicating privacy but not instability.
+
+Need for Closure: Low to moderate. Disagrees with discomfort in uncertainty, dislikes quick closure, prefers ordered life but not impatient for immediate solutions. Likes structure but tolerates ambiguity.
+
+Maximizer Scale: Moderate to high. Agrees strongly with high personal standards, never settling for second best, and looking for better opportunities. Some difficulty shopping for gifts and clothing, indicating careful comparison and selection.
+
+Self-Monitoring: Generally high. Can adjust behavior to social situations, reads others’ emotions fairly well, and regulates self-presentation. Not rigid in behavior.
+
+Economic Games:  
+- Dictator game: Proposes to keep $2-$3 and give $3-$2, showing moderate generosity.  
+- Ultimatum game: Accepts all offers except $0, indicating fairness but some minimal threshold for acceptance.  
+- Trust game: Keeps $4, sends $1, expecting some return but cautious. As receiver, keeps about half or slightly more of returned money, indicating moderate trust but self-protective.  
+- Overall, behavior is fair, moderately altruistic but pragmatic.
+
+Intertemporal Choice: Strong preference for immediate rewards over delayed ones, consistently choosing smaller-sooner over larger-later rewards until amounts equalize. Indicates impatience or discounting of future gains.
+
+Economic and Financial Literacy: Good understanding of basic financial concepts (mortgages, inflation, risk diversification, investment returns). Correct answers on most financial literacy questions. Some difficulty with credit card payoff time (15 years is a reasonable estimate). Good grasp of probabilities and expected values.
+
+Consumer Spending: Moderate spender (8/11 on tightwad-spendthrift scale), sometimes has trouble limiting spending but rarely anxious about spending. Balanced approach.
+
+Depression and Mood: No significant depressive symptoms, stable mood, no irritability, some mild tiredness.

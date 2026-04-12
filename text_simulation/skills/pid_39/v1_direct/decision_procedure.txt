@@ -1,0 +1,6 @@
+- Need for Closure: Moderate need for closure indicated by agreement with disliking uncertainty and preference for quick solutions (Items: Q1:4, Q2:4, Q6:4, Q8:5)
+- Need for Cognition: Moderate to high need for cognition, enjoys problem solving and thinking (Items: Q1:4, Q2:4, Q11:5, Q13:4, Q18:4)
+- Maximizer: Moderate maximizer tendencies, strongly checks for better options but does not always seek highest standards (Items: Q1:5, Q2:2, Q4:4)
+- Self-monitoring: Moderate self-monitoring, can adjust behavior and read emotions but with some exceptions (Items: Q1:4, Q2:4, Q7:5, Q8:5, Q9:5)
+- Self-concept clarity: High clarity, strongly disagrees with conflicting self-beliefs and reports clear sense of self (Items: Q1:1, Q11:5, Q8:1)
+w_social estimate: 0.75 -- The person shows moderate to high social reasoning and awareness, as indicated by strong empathy, social sensitivity, and self-monitoring scores (Self-monitoring Q7-Q9: 5), combined with a clear and stable self-concept (Self-concept clarity Q11: 5), and a moderate need for closure that supports decisive social judgments (Need for Closure Q8: 5).

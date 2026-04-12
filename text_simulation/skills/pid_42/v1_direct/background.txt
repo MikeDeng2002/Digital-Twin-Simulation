@@ -1,0 +1,176 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: Postgraduate)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Widowed marital status (Question: Which of these best describes you? Answer: Widowed)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (4 - Agree a little)
+  - Disagree a little that they find fault with others
+  - Does a thorough job (5 - Agree strongly)
+  - Somewhat original, comes up with new ideas (4 - Agree a little)
+  - Somewhat reserved (4 - Agree a little)
+  - Helpful and unselfish with others (4 - Agree a little)
+  - Relaxed, handles stress well (4 - Agree a little)
+  - Curious about many different things (5 - Agree strongly)
+  - Disagree a little that full of energy
+  - Reliable worker (4 - Agree a little)
+  - Forgiving nature (4 - Agree a little)
+  - Disagree strongly that tends to be disorganized
+  - Worries a little (4 - Agree a little)
+  - Somewhat quiet (4 - Agree a little)
+  - Disagree a little that generally trusting
+  - Inventive (4 - Agree a little)
+  - Assertive personality (4 - Agree a little)
+  - Perseveres until task is finished (4 - Agree a little)
+  - Somewhat moody (4 - Agree a little)
+  - Values artistic, aesthetic experiences (4 - Agree a little)
+  - Sometimes shy, inhibited (4 - Agree a little)
+  - Does things efficiently (4 - Agree a little)
+  - Remains calm in tense situations (4 - Agree a little)
+  - Disagree a little that prefers routine work
+  - Outgoing, sociable (4 - Agree a little)
+  - Sometimes rude to others (4 - Agree a little)
+  - Makes plans and follows through (4 - Agree a little)
+  - Likes to reflect, play with ideas (4 - Agree a little)
+  - Disagree strongly that has few artistic interests
+  - Sophisticated in art, music, or literature (4 - Agree a little)
+- Need for Cognition scale:
+  - Prefers complex problems (4 - Agree a little)
+  - Likes responsibility requiring thinking (4 - Agree a little)
+  - Disagrees that thinking is not fun (2 - Disagree a little)
+  - Neither agrees nor disagrees on preferring low thought tasks
+  - Disagrees strongly that avoids thinking in depth (1 - Disagree strongly)
+  - Finds satisfaction in deliberating hard (4 - Agree a little)
+  - Disagrees that only thinks as hard as necessary (2 - Disagree a little)
+  - Disagrees that prefers small daily projects (2 - Disagree a little)
+  - Disagrees that likes tasks requiring little thought once learned (2 - Disagree a little)
+  - Likes relying on thought to get ahead (4 - Agree a little)
+  - Enjoys tasks involving new solutions (5 - Agree strongly)
+  - Disagrees strongly that learning new ways to think doesn't excite (1 - Disagree strongly)
+  - Neither agrees nor disagrees on preferring life filled with puzzles (3 - Neither)
+  - Likes thinking abstractly (4 - Agree a little)
+  - Neither agrees nor disagrees on preferring intellectual difficult tasks (3 - Neither)
+  - Disagrees that feels relief rather than satisfaction after mental effort (2 - Disagree a little)
+  - Disagrees strongly that only cares that something gets the job done (1 - Disagree strongly)
+  - Usually deliberates about issues even if not personally affected (4 - Agree a little)
+- Values (rated as guiding principles):
+  - Wealth: 7
+  - Pleasure: 7
+  - Forgiveness: 6
+  - Influence: 8
+  - Trust: 7
+  - Competence: 7
+  - Humility: 5
+  - Achievement: 8
+  - Altruism: 4
+  - Ambition: 3
+  - Loyalty: 7
+  - Politeness: 5
+  - Power: 1 (Not important)
+  - Harmony: 8
+  - Excitement: 4
+  - Honesty: 6
+  - Compassion: 7
+  - Status: 5
+  - Civility: 5
+  - Autonomy: 9 (Highly important)
+  - Equality: 8
+  - Recognition: 3
+  - Tradition: 4
+  - Superiority: 2
+- Minimalism and mindful ownership:
+  - Agrees somewhat that avoids accumulating lots of stuff (4)
+  - Disagrees a little on restricting number of things owned (2)
+  - Agrees somewhat that "less is more" (4)
+  - Agrees somewhat that actively avoids excess possessions (4)
+  - Agrees somewhat drawn to visually sparse environments (4)
+  - Prefers simplicity in design (4)
+  - Keeps home aesthetic sparse (4)
+  - Prefers leaving spaces visually empty (4)
+  - Mindful of what owns (5 - strongly agree)
+  - Selection of things owned carefully curated (4)
+  - Important to be thoughtful about what chooses to own (5 - strongly agree)
+  - Belongings mindfully selected (5 - strongly agree)
+- Empathy and emotional sensitivity:
+  - Disagrees strongly that friends' emotions don't affect her (1)
+  - Agrees a little that feels sad after being with sad friend (4)
+  - Agrees a little can understand friend's happiness (4)
+  - Disagrees strongly that frightened by scary movies (1)
+  - Agrees a little gets caught up in others' feelings (4)
+  - Disagrees strongly that finds it hard to know when friends are frightened (1)
+  - Disagrees a little that doesn't become sad when others cry (2)
+  - Disagrees a little that others' feelings don't bother her (2)
+  - Agrees a little can understand when someone is feeling down (4)
+  - Agrees a little can work out when friends are scared (4)
+  - Strongly agrees often becomes sad watching sad things on TV/films (5)
+  - Agrees a little can often understand feelings before told (4)
+  - Disagrees strongly that seeing angered person has no effect (1)
+  - Strongly agrees can work out when people are cheerful (5)
+  - Neither agrees nor disagrees on feeling scared with scared friends (3)
+  - Strongly agrees can realize quickly when friend is angry (5)
+  - Agrees a little often gets swept up in friends' feelings (4)
+  - Disagrees strongly that friend's unhappiness doesn't affect her (1)
+  - Disagrees a little not usually aware of friends' feelings (2)
+  - Disagrees a little has trouble figuring out when friends are happy (2)
+- Environmental concern:
+  - Agrees a little that products used should not harm environment (4)
+  - Neither agrees nor disagrees on considering environmental impact in decisions (3)
+  - Disagrees a little that purchase habits affected by environmental concern (2)
+  - Agrees a little concerned about wasting planet's resources (4)
+  - Agrees a little describes self as environmentally responsible (4)
+  - Agrees a little willing to be inconvenienced for environmentally friendly actions (4)
+- Cognitive test performance:
+  - Correctly answered 40 out of 42 cognitive test questions (self-estimate)
+  - Estimates average US adult would answer 38 correctly
+- Logical reasoning:
+  - Correctly identifies logical conclusions in syllogistic reasoning tasks (e.g., "All XARs are YOFs" and related questions)
+  - Correctly identifies when conclusions do or do not follow logically from premises
+- Financial literacy:
+  - Correctly understands mortgage payment and interest tradeoffs (True)
+  - Understands inflation reduces purchasing power (Less than today)
+  - Recognizes stocks have highest fluctuations and highest returns over long term
+  - Understands risk diversification reduces risk
+  - Knows 401(k) withdrawal rules incorrectly (answers False to required withdrawal after age 70.5)
+  - Knows credit card debt with minimum payments and interest may never be eliminated
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in $5 split (Ultimatum game)
+  - Accepts all offers except $0 to self
+  - In trust game, sends $3 (out of $5), keeps $2
+  - As receiver, tends to keep about half or slightly more of returned money, rewarding generosity
+  - Thought process includes fairness, reciprocity, and strategic considerations
+- Personality self-concept and self-monitoring:
+  - Agrees strongly to being practical, organized, systematic, efficient
+  - Disagrees strongly with being careless, sloppy, disorganized
+  - Self-reports willingness to admit mistakes, courteousness, and some jealousy
+  - Disagrees with taking advantage of others or being vengeful
+  - Self-concept clarity: generally clear sense of self, little internal conflict, some variability in self-opinion
+  - Self-monitoring: high ability to alter behavior in social situations, somewhat true ability to control impression, some difficulty changing behavior when image not working
+- Need for Closure:
+  - Somewhat dislikes uncertainty, prefers order and structure, feels uncomfortable without understanding reasons for events
+  - Likes to reach decisions and feels relief after deciding
+  - Does not like ambiguous statements or unpredictable situations
+- Need for Cognition:
+  - Enjoys thinking, problem solving, abstract thinking, and intellectual challenges
+- Maximizer tendencies:
+  - Somewhat agrees with searching for better options, difficulty shopping for gifts, high standards for self but does not always settle for best
+- Spending habits:
+  - Identifies as low on spending difficulty (3 on scale), rarely has trouble limiting spending, sometimes has trouble spending money
+  - Does not identify strongly with either Mr. A (impulsive spender) or Mr. B (hesitant spender), but leans toward neither
+- Depression and mood:
+  - Does not feel sad or discouraged, but reports lack of satisfaction, some guilt, disappointment, and self-criticism
+  - No loss of interest in others or sex
+  - Some difficulty starting work, but can sleep and work as usual
+  - Appetite slightly reduced, no significant weight loss
+  - Some worry about physical health but not excessive
+- Self-concept clarity:
+  - Generally clear sense of self, little internal conflict, some variability in self-opinion
+  - Somewhat willing to reveal true self to others

@@ -1,0 +1,29 @@
+- Need for Closure:
+  - Strongly agrees "I don’t like situations that are uncertain" (Item 1: 5 - Agree strongly)
+  - Agrees a little to disliking ambiguous questions and unpredictable situations (Items 2, 15: 4 - Agree a little)
+  - Strongly agrees that a well-ordered life suits temperament (Item 3: 5 - Agree strongly)
+  - Agrees a little to discomfort with not understanding reasons for events (Item 4: 4 - Agree a little)
+  - Agrees a little to relief after making decisions and desire for quick solutions (Items 7, 8: 4 - Agree a little)
+  - Agrees a little to impatience if no immediate solution (Item 9: 4 - Agree a little)
+- Need for Cognition:
+  - Disagrees a little with preference for complex problems and intellectual challenge (Items 1, 2, 6, 13, 14, 15: mostly 2 - Disagree a little)
+  - Agrees a little that thinking is not fun and prefers tasks requiring little thought (Items 3, 4, 5, 7, 8, 9: mostly 4 - Agree a little)
+  - Agrees a little with deliberating about issues even if not personally affected (Item 18: 4 - Agree a little)
+- Maximizer:
+  - Disagrees strongly with checking for better options when satisfied (Item 1: 1 - Disagree strongly)
+  - Neither agrees nor disagrees or agrees a little with looking for better opportunities and difficulty shopping (Items 2, 3, 4: 3-5)
+  - Disagrees a little with having highest standards and never settling for second best (Items 5, 6: 2 and 1)
+- Self-monitoring:
+  - Generally false that can alter behavior to suit situations (Items 1-5, 7: 2 - Generally false)
+  - Generally true that has difficulty putting up a good front (Item 6: 5 - Generally true)
+  - Somewhat true to good intuition about others’ emotions and detecting lies (Items 8-11, 13: 4-5)
+- Self-concept clarity:
+  - Disagrees a little that beliefs about self conflict (Item 1: 2)
+  - Agrees a little that opinions of self vary day to day (Item 2: 4)
+  - Disagrees strongly with feeling not like the person they appear to be (Item 4: 1)
+  - Agrees a little that sometimes knows others better than self (Item 7: 4)
+  - Agrees a little would not tell someone what really like (Item 10: 4)
+  - Agrees a little to having a clear sense of self (Item 11: 4)
+  - Agrees a little that it is hard to make up mind because unsure what want (Item 12: 4)
+
+w_social estimate: 0.3 -- This person shows low to moderate social reasoning and self-monitoring (Self-monitoring items mostly "generally false" except difficulty putting up a front), moderate empathy (mixed empathy items), and a preference for order and closure (Need for Closure strongly agreed), but low need for cognition and low maximizer tendencies, indicating a more self-reliant, structured, and less socially adaptive decision style.

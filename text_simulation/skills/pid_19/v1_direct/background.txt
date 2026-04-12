@@ -1,0 +1,97 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female, age 30-49 (Questions: Sex assigned at birth, Age; Answers: Female, 30-49)
+- Education: Postgraduate degree completed (Question: Highest level of schooling; Answer: Postgraduate)
+- Race: White (Question: Race or origin; Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Nothing in particular; attends religious services a few times a year (Questions: Present religion, Frequency of attendance; Answers: Nothing in particular, A few times a year)
+- Political affiliation: Democrat, liberal views (Questions: Political party, Political views; Answers: Democrat, Liberal)
+- Household size: 2 people (Question: Number of people in household; Answer: 2)
+- Employment status: Full-time employment (Question: Current employment status; Answer: Full-time)
+- Income: $100,000 or more family income before taxes (Question: Total family income last year; Answer: $100,000 or more)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative, somewhat fault-finding, does a thorough job, helpful, somewhat careless, somewhat curious, reliable, tense, worries a lot, assertive, perseveres until task is finished, efficient, prefers routine work, outgoing, makes plans and follows through, nervous easily, cooperative, sophisticated in art/music/literature (Matrix Big Five items with respective answers)
+- Need for Cognition (selected items):
+  - Prefers complex problems (agree a little), likes responsibility requiring thinking (agree strongly), dislikes learning new ways to think (disagree strongly), tries to anticipate and avoid deep thinking (neutral), enjoys deliberating (neutral), prefers intellectual tasks (agree a little), often deliberates about issues even if not personally affected (agree a little)
+- Values (rated as highly important or quite important):
+  - Competence, humility, achievement, loyalty, honesty, compassion, civility, equality, tradition (all rated 7-9)
+  - Also values pleasure, influence, trust, ambition, politeness, harmony, excitement, autonomy (rated 6-8)
+  - Power and status rated low importance
+- Material possessions:
+  - Mindful and thoughtful about what is owned; belongings carefully curated (agree strongly)
+  - Does not prefer sparse or minimalistic environments (disagree strongly on related items)
+- Empathy and social sensitivity:
+  - Strongly disagrees that friends' emotions don't affect her
+  - Usually feels sad after being with a sad friend (agree a little)
+  - Strongly agrees she can understand friends' happiness and feelings, can detect fear and anger in friends, often swept up in friends' feelings
+  - Disagrees strongly that she is unaware of friends' feelings
+- Environmental concern:
+  - Agrees a little that products should not harm environment, considers environmental impact in decisions, concerned about wasting resources, willing to be inconvenienced for environment
+- Cognitive test performance:
+  - Correctly answered various logic, spatial, and verbal reasoning questions (e.g., logical syllogisms, cube rotations, synonym/antonym tests)
+  - Self-estimated correct answers: 30 out of 42; estimated average for US adults: 35
+- Economic game behavior:
+  - In ultimatum game as proposer: keeps $3, offers $2
+  - As responder: accepts offers of $2 or more, rejects offers of $1 or less
+  - In trust game: keeps all money, sends $0 to other person; as receiver, keeps all money, sends $0 back
+  - Thoughts during decisions focused on bills, mortgage, credit card, car, internet, streaming
+- Self-reported personality attributes (selected):
+  - Sometimes hard to continue work without encouragement (true)
+  - Sometimes resentful when not getting way (true)
+  - Has given up on tasks due to low self-belief (true)
+  - Has rebelled against authority even when authority was right (true)
+  - Has taken advantage of someone (true)
+  - Willing to admit mistakes (true)
+  - Sometimes tries to get even rather than forgive (true)
+  - Always courteous even to disagreeable people (true)
+  - Has been jealous of others' good fortune (true)
+  - Sometimes irritated by people asking favors (true)
+  - Has deliberately hurt someone's feelings (false)
+- Self-rated organization and efficiency:
+  - Organized (6/9), efficient (7/9), systematic (6/9), practical (6/9)
+  - Disorganized (6/9), sloppy and inefficient (neutral to extremely inaccurate)
+- Anxiety symptoms:
+  - Severely unable to relax, moderate fear of worst happening, moderate dizziness/lightheadedness
+  - No other anxiety symptoms reported
+- Self-concept clarity:
+  - Beliefs about self sometimes conflict (agree a little)
+  - Opinions of self vary day to day (agree strongly)
+  - Spends a lot of time wondering about true self (agree strongly)
+  - Seldom experiences conflict between personality aspects (agree strongly)
+  - Clear sense of who self is (agree a little)
+- Need for Closure:
+  - Dislikes uncertainty, prefers ordered life, feels uncomfortable without understanding reasons for events (agree a little)
+  - Feels relieved after making decisions (agree a little)
+  - Quickly becomes impatient if no immediate solution (agree a little)
+  - Likes clear and structured life (agree a little)
+  - Does not consult many opinions before forming views (disagree strongly)
+- Maximizer scale:
+  - Strongly agrees with searching for better options, never settling for second best, highest standards for self
+- Self-monitoring:
+  - Generally true that can alter behavior in social situations, control impression, read emotions and facial expressions accurately
+- Depression-related self-reports:
+  - Feels sad, less interest in things and people than before, feels disappointed and critical of self, cries more than before, gets annoyed more easily, puts off decisions more than before, feels tired more easily, appetite not as good as before, worried about physical problems
+  - Does not feel guilty, worthless, or punished; sleeps as well as usual; no significant weight loss; less interested in sex than before
+  - Not purposely trying to lose weight
+- Spending habits:
+  - Rates self as 8 on scale from tightwad (1) to spendthrift (11)
+  - Sometimes has trouble limiting spending and sometimes trouble spending money
+  - More similar to Mr. A (who spends despite not needing items) than Mr. B (who refrains from spending)
+- Consumer uniqueness:
+  - Neutral on combining possessions for unique image, seeking original products, buying special brands
+  - Slightly agrees with breaking customs/rules in product use
+  - Disagrees with avoiding common products or brands
+- Economic preferences (delay discounting and lottery choices):
+  - Prefers smaller sooner amounts over larger later amounts consistently until amounts equal or exceed delayed amount
+  - Prefers certain money over lotteries with equal or higher expected value, indicating risk aversion
+  - Prefers to avoid losses and prefers sure outcomes over risky losses
+- Financial literacy:
+  - Correctly identifies mortgage payment and interest tradeoffs, inflation effects, stock volatility, investment risk, and other financial concepts
+  - Some uncertainty about risk diversification effects
+  - Some errors in numerical answers (e.g., time to pay off credit card, machine production time)
+- Logical reasoning:
+  - Correctly identifies logical conclusions from premises in all presented syllogisms
+- Self-described aspirational, ought, and actual self:
+  - Aspires to be a good leader, best partner/co-worker, more organized
+  - Feels ought to be perfect, well-organized, not overwhelmed by pressure
+  - Actually is anxious perfectionist, puts off self-care, overwhelmed easily, does not know how to relax

@@ -1,0 +1,99 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: 3 - South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age group 18-29 (Question: How old are you? Answer: 1 - 18-29)
+- Highest education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: 3 - Some college, no degree)
+- Race/origin: Other (Question: What is your race or origin? Answer: 5 - Other)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: 6 - Never been married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 2 - Once a week)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: 3 - Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: 3 - Moderate)
+- Total family income last year: Less than $30,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 1 - Less than $30,000)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3 - 3)
+- Employment status: Student (Question: What is your current employment status? Answer: 6 - Student)
+- Personality traits (Big Five, selected items):
+  - Disagree strongly with being talkative (Item 1: 1)
+  - Agree strongly with being thorough and doing things efficiently (Items 3:5, 33:5)
+  - Agree strongly with being original and reserved (Items 5:5, 6:5)
+  - Agree strongly with being quiet and sometimes shy/inhibited (Items 21:5, 31:5)
+  - Agree strongly with being moody (Item 29:5)
+  - Agree a little with being helpful, curious, ingenious, assertive, cold/aloof, persevering, prefers routine, likes to cooperate (Items 7:4, 10:4, 15:4, 26:4, 27:4, 28:4, 35:4, 42:4)
+  - Neither agree nor disagree on many other traits including fault-finding, carelessness, emotional stability, inventiveness, artistic values (various items)
+- Need for Cognition:
+  - Generally agrees a little with preferring complex problems, liking responsibility requiring thinking, satisfaction in deliberating, enjoying problem solving (Items 1:4, 2:4, 6:4, 11:4, 18:4)
+  - Disagrees a little with thinking not fun, learning new ways to think not exciting, thinking abstractly appealing (Items 3:2, 12:2, 14:2)
+  - Disagrees strongly with preferring puzzles to solve (Item 13:1)
+  - Agrees a little with only thinking as hard as needed and that it's enough if something gets the job done (Items 7:4, 17:4)
+- Values (rated as guiding principles):
+  - Highly important: Forgiveness, Trust, Competence, Humility, Achievement, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Tradition (Items 3,5,6,7,8,11,12,14,16,17,19,23 rated 9)
+  - Quite important: Wealth, Pleasure (5), Influence, Altruism, Ambition, Excitement, Equality (8), (Items 1,2,4,9,10,15,21 rated 5-8)
+  - Less important: Power, Status, Recognition, Superiority (Items 13,18,22,24 rated 2-4)
+- Minimalism and possessions:
+  - Agrees a little with avoiding accumulating lots of stuff and drawn to visually sparse environments and simplicity in design (Items 1:4,5:4,6:5,8:4,12:4)
+  - Disagrees strongly with actively avoiding acquiring excess possessions and careful curation of belongings (Items 4:1,10:1)
+  - Disagrees a little with being mindful of what they own (Item 9:2)
+- Empathy and emotional sensitivity:
+  - Disagrees strongly with being easily caught up in others' feelings or not noticing friends' feelings (Items 5:1,6:1,17:1,18:1,19:1,20:1)
+  - Agrees a little to strongly with understanding friends' happiness, sadness, fear, anger, and often becoming sad when watching sad things (Items 2:4,3:5,9:4,10:4,11:5,12:4,14:4,16:5)
+  - Disagrees a little with friends' emotions not affecting them much (Item 1:2)
+- Environmental concern:
+  - Agrees a little that products should not harm environment and strongly concerned about wasting planet resources (Items 1:4,4:5)
+  - Disagrees strongly that purchase habits are affected by environmental concern (Item 3:1)
+  - Neither agrees nor disagrees on other environmental responsibility items (Items 2,5,6)
+- Cognitive test performance:
+  - Estimated self-correct answers: 38 out of 42 (Question: How many questions do you think you answered correctly? Answer: 38)
+  - Estimated average US adult correct answers: 34 out of 42 (Question: How many do you think people from a representative sample would answer correctly? Answer: 34)
+- Logical reasoning: Correctly answered all presented syllogistic and logical reasoning questions affirming conclusions follow logically (multiple items)
+- Vocabulary: Correctly identified synonyms and antonyms for all tested words (multiple items)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in Ultimatum game (Question: How much would you propose to keep/send? Answer: $3/$2)
+  - Accepts all offers as receiver, including $0 for self and $5 for other (all offers accepted)
+  - In Trust game, proposes to keep $2 and send $3
+  - As receiver in Trust game, keeps $8 and sends back $7 when receiving $15; keeps $6 and sends back $6 when receiving $12; keeps $5 and sends back $4 when receiving $9; keeps $3 and sends back $3 when receiving $6; keeps $1 and sends back $2 when receiving $3
+- Personality self-assessments:
+  - Does not give up easily, is a good listener, willing to admit mistakes, sometimes tries to get even, sometimes irritated by favors, sometimes irked by differing ideas, sometimes jealous (mostly false for negative traits, true for positive)
+  - Extremely accurate in being organized, efficient, practical; definitely tries to be accurate and error-free; likes to do things in new ways; generally true for creativity and problem solving
+  - Prefers to depend on self, rarely relies on others, often does own thing, personal identity important, proud of co-workers' prizes, values family strongly, duty to family important, respects group decisions
+  - Aspires to be God-driven, faithful, fearless; sees self as trying and improving by God's grace
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Incorrectly believes 1% interest with 2% inflation means more buying power after 1 year (Answer: More than today)
+  - Correctly identifies stocks as highest fluctuation and highest return over long term
+  - Correctly understands risk decreases with diversification
+  - Incorrectly believes no mandatory withdrawals after age 70.5 (Answer: False)
+  - Calculates credit card payoff time as 3.6 years
+  - Correctly estimates probabilities and expected values in various probability questions
+  - Correctly solves cognitive math problems (bat and ball, lily pads, etc.)
+- Spending habits:
+  - Neither tightwad nor spendthrift (Answer: 6)
+  - Sometimes has trouble limiting spending and sometimes trouble spending money (Answer: 3 for both)
+  - More similar to Mr. A (who spends despite not needing) than Mr. B (who refrains due to money concerns) (Answer: 2)
+- Depression and mood:
+  - Does not feel sad, discouraged, like a failure, guilty, punished, disappointed, worthless, or like a failure
+  - Feels irritated all the time now
+  - Less interested in others than before
+  - Makes decisions as well as before
+  - Sleeps as well as usual
+  - Appetite not as good as before; lost more than 5 pounds
+  - Not more worried about health than usual
+  - No change in interest in sex
+  - Not purposely trying to lose weight
+- Self-concept clarity:
+  - Strongly agrees to having a clear sense of who they are
+  - Disagrees strongly with conflicting or frequently changing self-beliefs
+  - Neither agrees nor disagrees on spending time wondering about self or feeling not like the person they appear to be
+- Need for Closure:
+  - Agrees a little to disliking uncertain situations and likes clear, structured life
+  - Disagrees strongly with impatience for quick solutions or disagreement with group beliefs
+  - Disagrees strongly with consulting many opinions before forming views
+- Maximizer:
+  - Agrees a little with checking for better options, having high standards, but neither agrees nor disagrees on always looking for better opportunities or never settling for second best
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and read others' emotions
+  - Generally false that has trouble changing behavior or putting up a good front
+  - Certainly true that can tell when jokes are in bad taste and when said something inappropriate
+  - Generally true that can tell when someone is lying
+- Thoughts during economic games:
+  - When deciding how much to keep/send: "Do I really need this?", "What am I going to do with $2?", "I mean... I guess I can do something", "I don't need it", "I'll split", "They get the majority"
+  - When deciding how much to keep/send back: "How would this be even?", "How can I equally split this?", "How much will we both be getting?", "Will we be satisfied?", "How does this benefit us?", "Why do I need x amount?"

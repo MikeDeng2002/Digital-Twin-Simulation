@@ -1,0 +1,64 @@
+Demographics: Female, age 30-49, White, living in the Midwest US, some college but no degree, full-time employed, household of 4, moderate family income ($50k-$75k), politically Republican but moderate in views, agnostic with no religious service attendance. Living with a partner. This suggests a middle-class, moderately conservative Midwestern woman with some college education but no degree, likely exposed to mainstream US cultural and economic environments but not elite academic or professional circles.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagree a little with being talkative (2), strongly agree with being reserved (4), quiet (5), shy (4), low energy (1), low enthusiasm (2), low outgoingness (2).  
+- High Neuroticism: Strongly agree with being depressed (5), moody (5), tense (4), worries a lot (4), nervous (4), easily distracted (4), somewhat lazy (4), emotionally unstable (2 disagree a little but overall negative emotional stability).  
+- Low Conscientiousness: Strongly agree with being careless (5), disorganized (5), disagree strongly with making plans and following through (1), but agree a little with doing a thorough job (4) and being reliable (4). Mixed signals but overall low conscientiousness with some effort.  
+- Moderate Agreeableness: Agree a little with being helpful (4), considerate (2 disagree a little), forgiving nature (2 disagree a little), somewhat cold and aloof (4 agree a little), sometimes rude (4 agree a little).  
+- Low Openness: Disagree a little with originality (2), active imagination (2), inventiveness (2), but agree a little with being a deep thinker (4), sophisticated in art/music/literature (4), values artistic experiences strongly (5). Somewhat conflicted openness: low on novelty seeking but values aesthetics.
+
+Need for Cognition (18 items): Mostly low to moderate. Disagrees a little with preferring complex problems (2), handling situations requiring a lot of thinking (2), enjoying tasks involving new solutions (2), thinking abstractly (2), intellectual tasks (2). Agrees a little with thinking not fun (4), preferring little thought tasks (4), avoiding deep thinking (4), only thinking as hard as necessary (4). Overall, low to moderate Need for Cognition, tending to avoid deep or abstract thinking, preferring simpler or routine tasks.
+
+Values (24 items):  
+- Highest: Wealth (8), Competence (7), Achievement (7), Honesty (7), Status (7), Tradition (7), Power (6), Harmony (6), Superiority (6).  
+- Low: Forgiveness (1), Excitement (1), Ambition (2), Altruism (2), Influence (2).  
+- Moderate: Trust (5), Equality (5), Politeness (4), Compassion (4), Autonomy (4).  
+This suggests a worldview valuing financial success, competence, achievement, social status, and tradition, with relatively low emphasis on forgiveness, altruism, or excitement-seeking. Moderate value on trust and equality but less on influence or ambition.
+
+Minimalism (12 items): Strong disagreement with minimalism and curating possessions. Disagrees strongly with avoiding accumulation (1), restricting possessions (1), avoiding excess (1), prefers neither sparse environments nor simplicity in design (mostly 2 or 3). Slight agreement (4) only on mindful selection of belongings. Overall, low minimalism, likely more consumerist or accumulation-oriented.
+
+Empathy (20 items): Moderate empathy. Agrees a little or strongly with feeling others’ emotions (4-5), understanding friends’ feelings (4-5), getting sad when others are sad (4-5), but also some disagreement with being affected by others’ emotions (3 neither agree nor disagree, some disagree a little). Moderate social sensitivity but not highly empathic.
+
+Consumerism/Uniqueness: Disagrees a little with combining possessions for unique image (2), but agrees a little with seeking interesting or unusual products (4), developing uniqueness by buying special brands (4), avoiding common products (4). Somewhat values uniqueness in consumption but not strongly rebellious or rule-breaking.
+
+Cognitive Test Performance:  
+- Self-estimated correct answers: 25/42 (below average estimate of 38).  
+- Logical reasoning: Mostly correct on syllogisms and logical deductions except one error on China communist premise (answered No, correct is No, so correct).  
+- Cube rotation puzzles: Mixed, some errors (selected "None of the cubes could be a rotation" incorrectly once, and some wrong synonym/antonym choices).  
+- Word associations: Logical chain but some semantic jumps (candle → fire → sink → kitchen → food → burrito → california → beach → swim → bathing suit → bathroom → shower → towel → sun → orange → juice → apple → fruit → vegetables → chili). Shows concrete, everyday associations, some geographic and sensory links.  
+- Synonym/Antonym errors: Several incorrect choices (e.g., concur = divulge, furtive = heinous, covet = claim, oscillate = irradiate, indolent = arduous, disparity = mediocrity, indigent = tolerable). Indicates some vocabulary misunderstanding or guessing.  
+- Logical reasoning: Correct on most syllogisms, including conditional logic.
+
+Social Desirability: Moderate to low. Some admissions of negative traits (carelessness, laziness, irritability, jealousy, taking advantage of others), and self-critical statements. Social desirability scale not explicitly given but self-reports appear candid.
+
+Depression and Mood: Strong signals of severe depression and low mood:  
+- Self-reports of feeling sad all the time, hopeless about future, feeling like a complete failure, lack of satisfaction, guilt, self-disgust, blaming self for everything, inability to cry, irritability, loss of interest in others and sex, difficulty making decisions, fatigue, and low motivation.  
+- Reports being lazy, stuck in self-loathing cycle, hard to get motivated, yet works hard with little payoff.  
+- No major appetite or sleep disturbances reported, but significant emotional and motivational impairment.
+
+Economic Games:  
+- Dictator game: Keeps all $5, sends $0.  
+- Ultimatum game: Accepts all offers except $0, rejects $0 offer.  
+- In trust game (tripling money), keeps $4, sends $1; as receiver, keeps most money, sends back minimal amounts.  
+- Thoughts during decisions: Focused on maximizing own gain, but some concern about not being mean or leaving other with nothing.  
+- Indicates self-interested, somewhat strategic but not fully cooperative.
+
+Intertemporal Choice:  
+- Strong preference for immediate smaller rewards over delayed larger rewards consistently across multiple choices.  
+- Chooses smaller-sooner over larger-later until amounts equalize or immediate is better.  
+- Indicates high impatience, low future discounting patience.
+
+Self-Monitoring and Self-Concept Clarity:  
+- Moderate self-monitoring: Some ability to adjust behavior but with exceptions, some difficulty changing behavior to suit situations.  
+- Moderate to low self-concept clarity: Reports conflicting self-beliefs, changing self-views, uncertainty about self, some instability in self-image.
+
+Need for Closure:  
+- Strong agreement with disliking uncertainty, preference for order and routine, discomfort with ambiguous or unpredictable situations, desire for quick solutions.  
+- Moderate impatience with unresolved problems.
+
+Maximizer Scale:  
+- Disagrees a little with never settling for second best or having highest standards.  
+- Somewhat comparison-shopping behavior (agrees a little with checking radio stations for better options).  
+- Moderate maximizer tendencies, not extreme.
+
+Summary: This is a moderately educated, middle-income, moderately conservative Midwestern woman in her 30s-40s, with low extraversion, high neuroticism, low conscientiousness, moderate agreeableness, and low openness to new ideas but some appreciation for aesthetics. She has low need for cognition, avoids complex or abstract thinking, and prefers routine and order. She values wealth, competence, achievement, status, and tradition, with low altruism or forgiveness. She is not minimalist, tends to accumulate possessions, and moderately values uniqueness in consumption. Cognitive test performance is below average with some reasoning errors and vocabulary misunderstandings. She is severely depressed with low motivation, self-loathing, and social withdrawal. Economically, she is self-interested, strategic but not cooperative, impatient with future rewards, and has moderate self-monitoring but unstable self-concept. She desires closure and quick resolution, and is a moderate maximizer.

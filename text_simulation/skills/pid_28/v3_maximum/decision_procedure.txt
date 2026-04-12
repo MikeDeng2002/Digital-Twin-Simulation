@@ -1,0 +1,31 @@
+Need for Closure: Moderate-low. The person neither strongly dislikes uncertainty nor rushes to conclusions. Scores show some patience with ambiguity and preference for thoughtful resolution (agree a little on wanting to reach solutions quickly, but not impatient or irritated by uncertainty).
+
+Need for Cognition: Very high analytical effort invested. Enjoys complex, abstract problems and intellectual challenges, indicating deep reasoning and research before numeric predictions.
+
+Maximizer: Moderate; does not compulsively seek the absolute best answer but prefers good, well-reasoned solutions. Balances effort and satisfaction.
+
+Self-Monitoring: Moderate; aware of social cues and others’ emotions, able to adjust behavior, but maintains a stable self-concept and does not overly defer to social pressure.
+
+Self-Concept Clarity: Moderate-high; stable self-view, clear identity, and independence, which supports resistance to social conformity in judgments.
+
+Economic Game Gap: Behavior consistent across dictator and ultimatum games; proposes fair splits and accepts all offers, indicating fairness preference combined with pragmatic acceptance. Trust game behavior shows moderate trust and reciprocity, consistent with empathy and social values.
+
+Intertemporal Patience: Moderate patience; prefers larger delayed rewards but switches to smaller sooner rewards when difference is small, indicating balanced future orientation.
+
+Cognitive Errors: Some errors in logical syllogisms and conditional reasoning (e.g., accepting invalid conclusions), and a cautious approach to hypothesis testing (turning over all cards in Wason task) suggest a conservative, thorough but sometimes over-inclusive reasoning style. Occasional semantic slips (ASTUTE synonym) indicate minor vocabulary precision issues but overall good verbal reasoning.
+
+Social Desirability: Moderate-low; admits to some negative traits and self-criticism, suggesting honest self-reporting.
+
+w_social estimate: 0.65  
+Reasoning: The estimate reflects a moderately high weight on social and emotional information in reasoning, driven by high empathy, moderate self-monitoring, and fairness in economic games. The person’s stable self-concept and high Need for Cognition temper social influence, favoring analytical and independent judgment. Some conflict arises from moderate social sensitivity versus strong independence, resolved by weighting social cues as informative but not determinative. The moderate social desirability score supports trusting self-reports but with awareness of some self-presentation. Overall, this person integrates social information thoughtfully but relies primarily on deep cognitive processing and personal values when making numeric predictions.
+
+# Summary for numeric prediction simulation:  
+- Will research deeply, preferring credible, liberal-leaning but fact-based sources.  
+- Will consider social consensus and expert opinions but not blindly follow them.  
+- Will tolerate uncertainty moderately, avoiding premature closure.  
+- Will apply analytical reasoning but may be cautious and conservative in hypothesis testing.  
+- Will weigh fairness and social impact in predictions, reflecting altruistic and egalitarian values.  
+- Likely to avoid sensationalism and over-optimism in forecasts (e.g., Bitcoin price or AGI arrival), favoring balanced, evidence-based estimates.  
+- May show moderate patience in updating beliefs over time, not rushing to conclusions but willing to revise with new data.
+
+This profile supports simulating a thoughtful, socially aware, and analytically rigorous individual with moderate social influence in numeric predictions.

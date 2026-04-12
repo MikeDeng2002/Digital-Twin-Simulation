@@ -1,0 +1,17 @@
+Need for Closure: High (items 1-15 agree strongly with dislike of uncertainty, preference for order, quick decisions, discomfort with ambiguity).
+
+Need for Cognition: Very low (items 1-18 strongly disagree with enjoying thinking, intellectual challenges, and prefer minimal cognitive effort).
+
+Maximizer: Low (disagree strongly with maximizing behavior, no desire for highest standards or second best).
+
+Self-monitoring: Moderate to high (items 1-7 mostly "generally true," indicating ability to adjust behavior socially, but low on emotional intuition).
+
+Self-concept Clarity: Very high (all items strongly disagree with self-concept conflict or instability, indicating a clear, stable self-view).
+
+Economic games: Moderately self-interested but fair; proposes to keep majority but gives some to others; as receiver, accepts fair offers but rejects zero offers; in trust game, keeps majority of tripled amount but returns some.
+
+Cross-scale inference: High need for closure and low need for cognition align with preference for routine, order, and low openness. Self-concept clarity supports consistent behavior and stable identity. Economic games show moderate fairness but self-protection, consistent with low agreeableness and moderate self-monitoring.
+
+No contradictions noted; scales align coherently.
+
+w_social estimate: 0.35 -- The respondent shows moderate social awareness and concern for fairness (economic games, some empathy), but low extraversion, low openness, and low emotional contagion limit social engagement. High self-monitoring suggests some social adaptability, but high need for closure and low need for cognition reduce openness to new social experiences. Economic game behavior indicates moderate cooperation but self-interest. Together, these scales suggest a somewhat socially engaged but cautious and reserved social style.

@@ -1,0 +1,22 @@
+Need for Closure: High. This person prefers quick resolution, dislikes ambiguity, and seeks structured, certain answers. This drives a preference for definitive numeric predictions rather than open-ended uncertainty.
+
+Need for Cognition: High. She invests significant analytical effort, enjoys complex problems, and deliberates carefully, indicating that her numeric predictions will be well thought out and based on reasoning rather than intuition alone.
+
+Maximizer: Moderate. She seeks good answers and compares options but is willing to settle for a satisfactory solution rather than exhaustively searching for the perfect one. This suggests predictions will be balanced between thoroughness and practicality.
+
+Self-monitoring: Moderate-high. She notices social cues and others’ opinions but maintains her own views, indicating predictions may be influenced by social norms but not dominated by them.
+
+Self-concept clarity: Moderate-high. Stable self-view supports resistance to social pressure, so predictions will reflect her own reasoning and values rather than conformist bias.
+
+Economic game gap: Proposer and responder behavior align well, showing consistency between stated fairness and strategic behavior. This suggests her predictions will be coherent and internally consistent.
+
+Intertemporal patience: High. She values long-term outcomes, so predictions about future events (e.g., Bitcoin price, AGI arrival) will incorporate long-term trends and avoid impulsive or short-term biases.
+
+Cognitive errors: Some lexical and logical errors in vocabulary and syllogisms suggest occasional surface-level misunderstandings or inattentiveness, but spatial and pattern reasoning is strong. This implies numeric predictions may sometimes be influenced by semantic confusions or heuristic shortcuts but generally logical.
+
+Social desirability: Moderate. Self-reports appear honest with some admission of negative traits, so self-report data is reasonably trustworthy.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances her moderate social awareness and empathy with a stable self-concept and moderate maximizer tendencies. She is socially aware enough to consider others’ views but not so much as to be driven by social desirability or conformity. Her high Need for Cognition and Need for Closure suggest she will integrate social information selectively and prioritize clear, reasoned conclusions. Conflicting signals include moderate empathy (which could increase social influence) versus high self-concept clarity (which resists it). The moderate social weighting reflects this balance.
+
+Summary: This person’s numeric predictions on open questions will be characterized by a preference for clear, structured, and well-reasoned answers, integrating moderate social information but primarily driven by her own analytical thinking and values. She will be patient, deliberate, and moderately fair-minded, with some occasional semantic slips but overall coherent reasoning. She will avoid extreme or fringe sources, favoring mainstream, balanced information, and will likely produce predictions that reflect a blend of personal ambition, social harmony, and practical realism.

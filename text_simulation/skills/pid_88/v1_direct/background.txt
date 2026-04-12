@@ -1,0 +1,101 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male, aged 18-29 (Questions: Sex assigned at birth, Age; Answers: Male, 18-29)
+- Education level: College graduate/some postgraduate (Question: Highest level of schooling; Answer: College graduate/some postgrad)
+- Race: White (Question: Race or origin; Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Protestant, attends religious services once or twice a month (Questions: Present religion, Frequency of attendance; Answers: Protestant, Once or twice a month)
+- Political affiliation: Independent, politically conservative (Questions: Political party, Political views; Answers: Independent, Conservative)
+- Household size: 4 people (Question: Number of people in household; Answer: 4)
+- Employment status: Full-time employment (Question: Current employment status; Answer: Full-time employment)
+- Income: $75,000-$100,000 family income before taxes last year (Question: Total family income last year; Answer: $75,000-$100,000)
+- Personality traits (Big Five, self-report):
+  - Somewhat reserved (Agree a little to "Is reserved")
+  - Somewhat helpful and unselfish (Agree a little)
+  - Somewhat curious about many things (Agree a little)
+  - Somewhat energetic (Agree a little)
+  - Strongly a deep thinker and ingenious (Agree strongly)
+  - Strongly generates enthusiasm (Agree strongly)
+  - Somewhat forgiving (Agree a little)
+  - Somewhat worried (Agree a little)
+  - Somewhat inventive (Agree a little)
+  - Somewhat values artistic/aesthetic experiences (Agree a little)
+  - Somewhat efficient (Agree a little)
+  - Somewhat trusting (Agree a little)
+  - Disagrees a little with being talkative, careless, tense, moody, lazy, rude, nervous, easily distracted
+- Need for Cognition scale:
+  - Neither prefers complex to simple problems nor avoids thinking in depth (mostly neutral)
+  - Likes responsibility requiring thinking (Agree a little)
+  - Finds thinking somewhat fun (Agree a little)
+  - Disagrees a little with avoiding thinking
+  - Somewhat enjoys deliberating about issues (Agree a little)
+  - Prefers to rely on thought to get ahead (Agree a little)
+- Values (rated as guiding principles):
+  - High importance: Wealth (8), Humility (8), Achievement (8), Ambition (8), Loyalty (8), Politeness (8), Honesty (8)
+  - Moderate to high importance: Forgiveness (7), Trust (7), Influence (6), Competence (6), Altruism (6), Power (7), Harmony (7), Excitement (6), Status (7), Civility (7), Autonomy (6), Equality (7)
+  - Moderate importance: Pleasure (5), Compassion (5), Recognition (5), Tradition (5)
+  - Low importance: Superiority (3)
+- Environmental attitudes:
+  - Disagrees a little that products should not harm environment
+  - Neutral to slight agreement on considering environmental impact and purchase habits
+  - Willing to be inconvenienced for environmentally friendly actions (Agree a little)
+- Empathy and social sensitivity:
+  - Disagrees a little that friends’ emotions don’t affect him
+  - Agrees a little that he feels sad after being with a sad friend
+  - Agrees a little that he gets caught up in others’ feelings
+  - Agrees a little that he can usually work out when friends are scared or angry
+  - Mixed or neutral on other empathy items
+- Cognitive test performance:
+  - Correctly answered 35 out of 42 cognitive questions
+  - Estimates average US adult would answer 15 correctly
+  - Demonstrates good logical reasoning and problem-solving skills (e.g., syllogistic reasoning, puzzles, synonyms, antonyms)
+- Financial literacy:
+  - Correctly understands mortgage, inflation, investment risk and returns, required minimum distributions, credit card debt implications
+  - Correctly answers probability and percentage questions
+  - Demonstrates understanding of compound interest and exponential growth problems
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 to other person in a $5 split (fair offer)
+  - Accepts all offers as receiver, including offers where sender keeps all money
+  - In trust game, sends $3 (tripled to $9) and expects some return
+  - When receiving money, tends to keep a moderate portion and send back a fair amount, balancing fairness and self-interest
+  - Thought processes indicate concern for fairness, reciprocity, and maximizing outcomes
+- Self-reported personality and behavior:
+  - Admits to sometimes needing encouragement to continue work
+  - Sometimes feels resentful, jealous, irritated, and tries to get even
+  - Willing to admit mistakes and is courteous
+  - Describes self as determined, ambitious, hardworking, but sometimes struggles with self-doubt
+  - Values personal growth, responsibility, reliability, and balancing personal and societal expectations
+- Self-concept clarity:
+  - Somewhat clear sense of self, but experiences some internal conflict and occasional uncertainty
+  - Spends some time reflecting on self and identity
+- Need for Closure:
+  - Neither strongly dislikes uncertainty nor strongly seeks closure
+  - Somewhat uncomfortable with not understanding reasons for events
+  - Some impatience with unresolved problems
+  - Some preference for predictability and dislike of ambiguous statements
+- Maximizer tendencies:
+  - Sometimes checks for better options (e.g., radio stations)
+  - Has high standards for self and tries to be accurate and error-free
+  - Likes to try new things and be creative
+  - Somewhat concerned with recognition and others’ expectations
+- Self-monitoring:
+  - Moderately able to adjust behavior to social situations
+  - Generally good at reading others’ emotions and detecting lies
+- Mental health indicators:
+  - Reports feeling sad, discouraged, guilty, and worthless at times
+  - Experiences difficulty making decisions, loss of interest in others, tiredness, and sleep disturbances
+  - Reports crying frequently and feeling irritated often
+  - Reports weight loss and decreased appetite, worried about physical health
+  - Not purposely trying to lose weight
+- Spending habits:
+  - Rates self as somewhat spendthrift (7/11)
+  - Often has trouble limiting spending and also trouble spending money (anxiety)
+  - Behavior somewhat similar to a person who struggles with spending money despite good deals
+- Consumer uniqueness:
+  - Somewhat agrees with seeking personal uniqueness through possessions
+  - Sometimes breaks social rules about product use
+  - Avoids common products somewhat
+- Summary of self-descriptions:
+  - Aspires to be confident, compassionate, driven, resilient, impactful, and fulfilled
+  - Ought to be responsible, reliable, disciplined, and balanced between personal and societal expectations
+  - Actually is determined, ambitious, hardworking, but struggles with self-doubt and balancing aspirations with expectations

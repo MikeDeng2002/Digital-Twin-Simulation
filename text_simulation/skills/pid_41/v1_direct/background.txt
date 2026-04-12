@@ -1,0 +1,191 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: South)
+- Assigned female at birth (Question: "What is the sex that you were assigned at birth?" Answer: Female)
+- Age group 18-29 (Question: "How old are you?" Answer: 18-29)
+- Highest education level: College graduate/some postgrad (Question: "What is the highest level of schooling or degree that you have completed?" Answer: College graduate/some postgrad)
+- Race: White (Question: "What is your race or origin?" Answer: White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: Yes)
+- Marital status: Never been married (Question: "Which of these best describes you?" Answer: Never been married)
+- Religion: Protestant (Question: "What is your present religion, if any?" Answer: Protestant)
+- Frequency of religious service attendance: Once or twice a month (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: Once or twice a month)
+- Political affiliation: Republican (Question: "In politics today, do you consider yourself a" Answer: Republican)
+- Political views: Conservative (Question: "In general, would you describe your political views as" Answer: Conservative)
+- Family income last year: $50,000-$75,000 (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: $50,000-$75,000)
+- Household size: 1 person (Question: "Including yourself, how many people currently live in your household?" Answer: 1)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: Full-time employment)
+- Personality traits (Big Five, selected items):
+  - Disagree a little that they are talkative (Q1: 2)
+  - Agree strongly that they do a thorough job (Q3: 5)
+  - Agree a little that they are reserved (Q6: 4)
+  - Agree a little that they are helpful and unselfish (Q7: 4)
+  - Disagree a little that they can be careless (Q8: 2)
+  - Disagree a little that they are relaxed, handle stress well (Q9: 2)
+  - Agree strongly that they are curious about many different things (Q10: 5)
+  - Agree strongly that they are a reliable worker (Q13: 5)
+  - Agree a little that they can be tense (Q14: 4)
+  - Agree a little that they are ingenious, a deep thinker (Q15: 4)
+  - Agree strongly that they have a forgiving nature (Q17: 5)
+  - Agree strongly that they worry a lot (Q19: 5)
+  - Agree strongly that they have an active imagination (Q20: 5)
+  - Agree a little that they tend to be quiet (Q21: 4)
+  - Agree a little that they are generally trusting (Q22: 4)
+  - Disagree strongly that they have an assertive personality (Q26: 1)
+  - Agree strongly that they persevere until the task is finished (Q28: 5)
+  - Agree a little that they can be moody (Q29: 4)
+  - Agree a little that they value artistic, aesthetic experiences (Q30: 4)
+  - Agree a little that they are sometimes shy, inhibited (Q31: 4)
+  - Agree strongly that they are considerate and kind to almost everyone (Q32: 5)
+  - Agree strongly that they do things efficiently (Q33: 5)
+  - Agree a little that they prefer work that is routine (Q35: 4)
+  - Agree a little that they like to cooperate with others (Q42: 4)
+  - Agree a little that they are sophisticated in art, music, or literature (Q44: 4)
+- Need for Cognition (selected items):
+  - Agree a little that they prefer complex to simple problems (Q1: 4)
+  - Agree a little that they like responsibility requiring a lot of thinking (Q2: 4)
+  - Disagree a little that thinking is not fun (Q3: 2)
+  - Disagree a little that they would rather do something requiring little thought (Q4: 2)
+  - Agree a little that they find satisfaction in deliberating hard and long (Q6: 4)
+  - Agree a little that they like tasks involving new solutions (Q11: 4)
+  - Agree a little that they prefer life filled with puzzles to solve (Q13: 4)
+  - Agree a little that thinking abstractly appeals to them (Q14: 4)
+  - Agree a little that they prefer intellectual, difficult, important tasks (Q15: 4)
+  - Disagree a little that they feel relief rather than satisfaction after mental effort (Q16: 2)
+  - Agree a little that they usually deliberate about issues even if not personally affected (Q18: 4)
+- Values (rated as guiding principles):
+  - Pleasure: Highly important (9)
+  - Ambition: Highly important (9)
+  - Competence: Quite important (8)
+  - Altruism: Quite important (8)
+  - Politeness: Quite important (8)
+  - Harmony: Quite important (8)
+  - Excitement: Quite important (8)
+  - Compassion: Quite important (8)
+  - Civility: Quite important (8)
+  - Trust: Important (7)
+  - Humility: Important (7)
+  - Achievement: Important (7)
+  - Loyalty: Important (7)
+  - Honesty: Important (7)
+  - Wealth: Quite important (5)
+  - Status: Quite important (5)
+  - Autonomy: Quite important (5)
+  - Recognition: Quite important (5)
+  - Tradition: Moderately important (6)
+  - Equality: Moderately important (6)
+  - Forgiveness: Moderately important (6)
+  - Influence: Less important (3)
+  - Power: Less important (3)
+  - Superiority: Less important (3)
+- Self-reported mindful ownership and curation of possessions:
+  - Disagree a little with avoiding accumulating lots of stuff (Q1: 2)
+  - Agree strongly that they are mindful of what they own (Q9: 5)
+  - Agree a little that belongings are mindfully selected (Q12: 4)
+  - Mixed or neutral on preference for simplicity in design (Q6: 4)
+- Empathy and emotional sensitivity:
+  - Disagree a little that friends’ emotions don’t affect them much (Q1: 2)
+  - Agree a little or strongly that they feel sad after being with sad friends (Q2: 4)
+  - Agree strongly that they understand friends’ happiness (Q3: 5)
+  - Agree a little that they get frightened watching scary movies (Q4: 4)
+  - Agree a little that they get caught up in others’ feelings easily (Q5: 4)
+  - Disagree a little that they find it hard to know when friends are frightened (Q6: 2)
+  - Disagree a little that they don’t become sad when seeing others cry (Q7: 2)
+  - Agree a little that they can usually work out when friends are scared or cheerful (Q10, Q14: 4)
+  - Agree a little that they often become sad watching sad things on TV (Q11: 4)
+  - Agree a little that they can often understand feelings before told (Q12: 4)
+  - Disagree a little that seeing anger has no effect (Q13: 2)
+  - Agree a little that they tend to feel scared with scared friends (Q15: 4)
+  - Agree a little that they can realize quickly when a friend is angry (Q16: 4)
+  - Agree a little that they often get swept up in friends’ feelings (Q17: 4)
+  - Disagree a little that friend’s unhappiness doesn’t affect them (Q18: 2)
+  - Disagree a little that they are unaware of friends’ feelings (Q19: 2)
+  - Disagree a little that they have trouble figuring out when friends are happy (Q20: 2)
+- Environmental attitudes:
+  - Neither agree nor disagree on importance of products not harming environment (Q1: 3)
+  - Neither agree nor disagree on considering environmental impact in decisions (Q2: 3)
+  - Disagree a little that purchase habits are affected by environmental concern (Q3: 2)
+  - Neither agree nor disagree on concern about wasting planet resources (Q4: 3)
+  - Disagree a little on describing self as environmentally responsible (Q5: 2)
+  - Neither agree nor disagree on willingness to be inconvenienced for environment (Q6: 3)
+- Cognitive test performance:
+  - Correctly answered various logic, spatial, and verbal reasoning questions (e.g., cube rotation, syllogisms, synonyms, antonyms)
+  - Estimated self-correct answers: 31/42
+  - Estimated average correct answers for US adults: 28/42
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 out of $5 in Ultimatum game
+  - Accepts all offers except $0 to self
+  - In Trust game, keeps $3 and sends $2; as receiver, returns about half or more depending on amount sent
+  - Thought process reflects balancing fairness, kindness, and strategic considerations
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feel resentful when not getting own way (True)
+  - Never given up due to low self-ability (False)
+  - Never felt like rebelling against authority when they were right (False)
+  - Always a good listener (True)
+  - Sometimes took advantage of someone (True)
+  - Not always willing to admit mistakes (False)
+  - Not trying to get even rather than forgive (False)
+  - Always courteous, even to disagreeable people (True)
+  - Sometimes irked by differing ideas (False)
+  - Sometimes jealous of others’ good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Sometimes deliberately said something hurtful (False)
+- Self-rated organization and efficiency:
+  - Organized (6/9)
+  - Efficient (7/9)
+  - Systematic (6/9)
+  - Practical (8/9)
+  - Disorganized (4/9)
+  - Sloppy (2/9)
+  - Inefficient (3/9)
+  - Careless (2/9)
+- Anxiety symptoms past week: mild to moderate on nervousness, worry, tension; no severe symptoms
+- Self-concept clarity:
+  - Beliefs about self sometimes conflict (Agree a little)
+  - Opinions of self vary day to day (Agree a little)
+  - Spend some time wondering about who they really are (Neither agree nor disagree)
+  - Seldom experience conflict between personality aspects (Disagree a little)
+  - Clear sense of who they are (Agree a little)
+  - Beliefs about self change somewhat frequently (Agree a little)
+- Need for Closure:
+  - Neither like nor dislike uncertain situations (Neither agree nor disagree)
+  - Dislike questions with many possible answers (Disagree a little)
+  - Prefer well-ordered life with regular hours (Agree a little)
+  - Feel uncomfortable when not understanding reasons for events (Agree a little)
+  - Feel relieved when making decisions (Agree strongly)
+  - Desire quick solutions to problems (Agree strongly)
+  - Some impatience if no immediate solution (Agree a little)
+  - Enjoy clear and structured life (Agree a little)
+- Maximizer tendencies:
+  - Highest standards for self (Agree strongly)
+  - Never settle for second best (Agree a little)
+  - Some difficulty shopping for gifts and finding clothing they love (Agree a little)
+- Self-monitoring:
+  - Somewhat able to alter behavior in social situations (Somewhat true)
+  - Can control impression given (Somewhat true)
+  - Can change image if not working (Somewhat true)
+  - Some difficulty changing behavior to suit situations (Somewhat false)
+  - Can adjust behavior to meet situation requirements (Somewhat true)
+  - Can read emotions and facial expressions fairly well (Generally true)
+  - Can detect lies sometimes (Somewhat true)
+- Spending habits:
+  - Spending habits rated 5 on a 1-11 scale (mid-range)
+  - Sometimes have trouble limiting spending
+  - Sometimes have trouble spending money
+  - Neither strongly like Mr. A nor Mr. B in shopping scenario (about the same)
+- Depression and mood:
+  - Does not feel sad, discouraged, or like a failure
+  - Gets as much satisfaction as before
+  - Does not feel guilty or punished
+  - Does not feel disappointed or worse than others
+  - Does not cry more than usual
+  - Gets annoyed or irritated more easily than before
+  - Has not lost interest in others
+  - Makes decisions as well as before
+  - Does not feel worthless
+  - Can work as well as before
+  - Sleeps as well as usual
+  - Does not get more tired than usual
+  - Appetite no worse than usual
+  - Has not lost much weight
+  - Worried about physical problems (aches, upset stomach)
+  - No recent change in interest in sex
+  - Not purposely trying to lose weight

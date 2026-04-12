@@ -1,0 +1,20 @@
+Need for Closure: Moderate-low. The respondent neither strongly dislikes uncertainty nor is impatient for immediate answers. They prefer structured, ordered information and feel relief upon decision but do not rush to closure. This suggests a balanced approach to uncertainty, willing to tolerate some ambiguity but prefers clarity. Evidence: Neutral to slight agreement on disliking uncertainty, moderate impatience on problem-solving.
+
+Need for Cognition: Moderate-high. Enjoys thinking, puzzles, and intellectual challenges but not at extreme levels. Engages in analytical effort but cognitive test performance suggests limits in abstract reasoning and logical deduction. Evidence: Mostly 4s on Need for Cognition scale, but low cognitive test accuracy and some logical errors.
+
+Maximizer: Moderate. Holds high personal standards and does not settle for second best but does not obsessively comparison shop or seek perfect solutions. Likely to satisfice with good enough answers after moderate search. Evidence: High agreement on high standards, moderate on shopping difficulty.
+
+Self-monitoring: Moderate-low. Some ability to adjust behavior but with exceptions; not highly strategic in social impression management. Evidence: Mixed responses on self-monitoring scale.
+
+Self-concept clarity: Moderate. Generally stable self-view with some minor fluctuations but no major conflicts or instability. Evidence: Mostly disagreement with conflicting self-beliefs, some neutrality.
+
+Economic game gap: Moderate inconsistency. Keeps majority in dictator game (60%), accepts all offers in ultimatum game (even unfair ones), indicating low strategic enforcement of fairness norms. Trust game shows moderate trust but guardedness. Suggests pragmatic but self-interested social strategy. Evidence: Dictator $3/$2 split, ultimatum accepts all, trust game moderate returns.
+
+Intertemporal patience: Moderate impatience. Prefers immediate smaller rewards over delayed larger ones unless delayed amount is significantly better. Indicates moderate discounting of future rewards. Evidence: Prefers immediate money in many cases, switches when delayed amount is sufficiently larger.
+
+Cognitive errors: Logical reasoning errors in syllogisms and conditional reasoning, confusion in spatial rotation tasks, and some semantic errors in word associations. Suggests concrete, literal thinking style with difficulty in abstract or counterfactual reasoning. Implication: May struggle with complex probabilistic or abstract numeric predictions, prone to heuristic biases.
+
+Social desirability: Moderate-high. Self-reports show some positive bias (e.g., very high conscientiousness, kindness) but not extreme. Suggests some inflation of positive traits but overall reliable self-reporting.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances moderate-high Need for Cognition and moderate Need for Closure with low cognitive test performance and moderate social desirability bias. The respondent is moderately analytical and values fairness and social norms but has limited abstract reasoning ability and moderate impatience. Their economic game behavior shows pragmatic self-interest with some fairness concern but low strategic enforcement. Their political and demographic profile suggests moderate, mainstream information sources with some social network reliance. Conflicting signals include moderate analytical motivation but low cognitive accuracy, and moderate social desirability but some self-admitted irritability and jealousy. These conflicts are resolved by weighting actual behavior and test performance over self-report positivity, yielding a profile of a moderately thoughtful but concrete thinker with pragmatic social preferences and moderate patience. This profile predicts numeric predictions that are somewhat anchored in common sense and social fairness but may lack deep probabilistic reasoning or abstract forecasting sophistication.

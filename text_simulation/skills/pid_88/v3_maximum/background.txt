@@ -1,0 +1,57 @@
+Demographics: Male, age 18-29, White, living in the Midwest US, college graduate/some postgrad education, full-time employed, living with a partner, Protestant attending services once or twice a month, politically independent but self-identifies as conservative, household size 4, family income $75,000-$100,000. This suggests a young adult with moderate socioeconomic status, likely exposed to mainstream US cultural and economic environments, with some religious community involvement but moderate political partisanship.
+
+Big Five Personality (44 items): 
+- Low Extraversion (talkative=2, reserved=4, quiet=3, outgoing=3)
+- Moderate Agreeableness (helpful=4, forgiving=4, considerate=3)
+- Moderate Conscientiousness (does a thorough job=3, reliable=4, perseveres=3, organized=7/9 scale, efficient=8/9 scale)
+- Moderate Neuroticism (worries=4, nervous=3, moody=2, emotionally stable=3)
+- Moderate Openness (original=3, ingenious=5, imaginative=3, artistic interests=4, sophisticated=3)
+
+Need for Cognition (18 items): Mixed signals. Some agreement with liking responsibility requiring thinking (4), but also some ambivalence about enjoying deep thinking (3-4). Overall moderate Need for Cognition, neither strongly analytical nor avoidant of thinking.
+
+Values (24 items): Highest rated values include Wealth (8), Humility (8), Achievement (8), Ambition (8), Loyalty (8), Politeness (8), Honesty (8), Trust (7), Forgiveness (7), Power (7), Harmony (7), Status (7), Civility (7), Equality (7). This profile suggests a pragmatic, achievement-oriented individual who values social harmony, integrity, and status but also humility and loyalty. Moderate altruism and compassion (5-6). Somewhat traditional (tradition=5), but not strongly so.
+
+Minimalism (12 items): Mixed but leaning slightly towards mindful ownership and simplicity (agree a little on "less is more," actively avoiding excess possessions, mindful of what they own). Not strongly minimalist but somewhat selective and moderate in consumerism.
+
+Empathy (20 items): Moderate empathy, with some agreement on being affected by friends' emotions, catching feelings, and understanding others, but also some neutrality. Suggests moderate social sensitivity.
+
+Consumerism/Uniqueness: Moderate tendency to seek uniqueness and break social norms in consumption (agree a little on creating unique personal image, violating social rules about products, avoiding common brands). Not strongly trend-following but somewhat individualistic in consumption.
+
+Cognitive Test Performance: 
+- Correct answers on 35/42 cognitive questions, well above average (self-estimated 35 vs population 15).
+- Correct on logical syllogisms mostly, but some errors on conditional logic (e.g., China communist question answered correctly as "No" to invalid conclusion).
+- Correct on classic trick questions (Emily's name, zero cubic feet in hole).
+- Some errors in cube rotation puzzles, choosing options with starburst symbols not on original cube, indicating possible visual-spatial reasoning challenges or guessing.
+- Word association chain is coherent, thematic, and linear, indicating organized associative thinking.
+- Vocabulary synonyms and antonyms mostly correct, indicating good verbal reasoning.
+- Social desirability scale not explicitly given, but self-reports show some admission of negative traits (resentment, jealousy, irritation), suggesting moderate honesty.
+
+Economic Games (Dictator and Ultimatum): 
+- Proposes to keep $2 and give $3 in dictator game (generous split).
+- As receiver, accepts all offers including $0, indicating high acceptance and low rejection threshold.
+- In trust game, sends $3 (out of $5), expecting tripling, and expects moderate return ($3 kept, $12 sent back).
+- Receiver side returns moderate amounts, balancing fairness and self-interest.
+- Thoughts indicate strategic fairness, concern about reciprocity, and balancing self-interest with fairness.
+
+Intertemporal Choice: 
+- Prefers larger later rewards consistently over smaller sooner ones, even when delays are short (choosing $6 in 6 weeks over $5 in 5 weeks, etc.).
+- Shows patience and long-term orientation in monetary decisions.
+
+Loss Framing: 
+- Prefers avoiding losses, consistently choosing to avoid lotteries with losses or preferring sure smaller losses over probabilistic larger losses.
+- Risk averse in losses, risk neutral to slightly risk averse in gains.
+
+Depression and Mood: 
+- Reports feeling sad, discouraged, guilty, disappointed, worthless, and difficulty making decisions.
+- Reports crying all the time, irritability, loss of interest in others and sex, fatigue, poor sleep, appetite loss, and weight loss.
+- Indicates moderate to severe depressive symptoms, which may affect cognitive and emotional processing.
+
+Self-Monitoring and Self-Concept Clarity: 
+- Moderate self-monitoring (some ability to adjust behavior, but with exceptions).
+- Moderate self-concept clarity (some uncertainty about self, some internal conflict, but not extreme).
+- Some concern about social expectations and image.
+
+Social Desirability: 
+- Admits to negative feelings and behaviors, suggesting moderate social desirability bias, but not extreme.
+
+Summary: This is a young, moderately educated, moderately conservative Midwestern male with a balanced personality profile: somewhat introverted, conscientious, moderately open, and moderately neurotic. He values achievement, humility, loyalty, and honesty, with a pragmatic and somewhat individualistic consumer style. Cognitively, he performs well on verbal and logical tasks but shows some visual-spatial reasoning challenges. He is patient in intertemporal choices, strategic and fair in economic games, and moderately empathetic. However, he currently experiences significant depressive symptoms that may influence his affective and cognitive processing.

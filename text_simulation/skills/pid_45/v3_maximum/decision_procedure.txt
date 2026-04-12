@@ -1,0 +1,21 @@
+Need for Closure: Moderate. Prefers clear, structured, and ordered information, wants resolution but tolerates some ambiguity. Likely to form opinions once sufficient evidence is gathered but not rush to premature conclusions.
+
+Need for Cognition: Moderate-high. Invests analytical effort, enjoys problem-solving and intellectual challenges, but balances effort with practical constraints.
+
+Maximizer: Moderate. Seeks good quality information and solutions, compares options, but does not compulsively maximize.
+
+Self-monitoring: Moderate. Notices social cues and others' opinions, adjusts behavior accordingly, but maintains own views without excessive conformity.
+
+Self-concept Clarity: Moderate-high. Stable self-view, able to resist social pressure, consistent identity.
+
+Economic Game Gap: Proposes relatively selfish offers but accepts all reasonable offers, indicating pragmatic strategic behavior rather than pure altruism or spite. Trust game responses show moderate reciprocity but self-interest dominates.
+
+Intertemporal Patience: Moderate. Prefers larger delayed rewards but discounts future moderately, indicating balanced time perspective.
+
+Cognitive Errors: Logical reasoning strong, but vocabulary errors suggest occasional semantic confusion or less precise language skills. This may cause some misinterpretation of nuanced information or overconfidence in verbal reasoning.
+
+Social Desirability: Moderate. Self-reports generally reliable but with mild positive bias; likely to present self as honest and fair.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects a moderately high weighting on social and cognitive signals in forming numeric predictions. This person is analytical and conscientious, with moderate need for closure and cognition, and a pragmatic approach to social interactions and information gathering. Their political and value profile suggests reliance on mainstream conservative and financial news sources, with moderate engagement in social networks. Cognitive test performance indicates good logical reasoning but some semantic slips, suggesting predictions will be reasoned but may occasionally misinterpret nuanced or ambiguous data. Economic game behavior shows strategic self-interest tempered by fairness, implying numeric predictions will balance personal judgment with social norms and expectations. The moderate social desirability score and stable self-concept support trusting their self-reports and expressed values. Conflicts between moderate maximizer tendencies and some satisficing in economic games were resolved by weighting pragmatic strategy over ideal maximization. Overall, this profile predicts a person who will produce numeric predictions that are thoughtful, moderately conservative in uncertainty tolerance, and influenced by mainstream conservative and financial information sources, with moderate social influence.

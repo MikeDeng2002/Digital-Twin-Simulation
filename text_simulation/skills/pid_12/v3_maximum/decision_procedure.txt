@@ -1,0 +1,23 @@
+Need for Closure: High. Strong desire for quick, definite answers, discomfort with ambiguity, and preference for structured, predictable information. This drives a tendency to form firm beliefs early and resist contradictory or ambiguous data.
+
+Need for Cognition: Moderate. Will engage in analytical thinking but may avoid prolonged or highly complex cognitive tasks. Prefers manageable intellectual challenges and practical problem-solving.
+
+Maximizer: High. Seeks best possible answers, compares multiple sources, and does not settle for "good enough." This suggests thorough information gathering before finalizing judgments.
+
+Self-monitoring: High. Sensitive to social cues and others’ perceptions, able to adjust behavior accordingly, but combined with high self-concept clarity, this person notices social feedback without being easily swayed.
+
+Self-concept Clarity: Very high. Stable, consistent self-view, resistant to social pressure or internal conflict. This supports confidence in own judgments and reduces susceptibility to social conformity bias.
+
+Economic Game Gap: Proposes moderately selfish split in dictator game but shows trust and moderate reciprocity in trust game. Behavior is consistent with strategic fairness: willing to share but also protect self-interest. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: High. Consistently prefers delayed rewards, indicating long-term thinking and planning in decision-making.
+
+Cognitive Errors: Several logical reasoning errors (accepting invalid syllogisms, confusion in synonym/antonym tasks) suggest some gaps in formal reasoning and vocabulary. This implies potential biases or errors in numeric prediction tasks, especially where abstract logic or semantic precision is required. However, spatial and analogy tasks were mostly correct, indicating intact pattern recognition and visual reasoning.
+
+Social Desirability: Moderate. Some tendency to present self positively but admits minor negative feelings. Self-reports are generally reliable but may slightly underreport negative traits.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a generally high but not perfect reliability of self-reports and cognitive performance. The participant’s high education and income, combined with strong conscientiousness and maximizer tendencies, suggest careful and deliberate responses. However, cognitive test errors and some inconsistencies in vocabulary and logic reduce confidence somewhat. The high need for closure and moderate need for cognition imply that the participant will form firm numeric predictions relatively quickly, relying on trusted, ideologically aligned sources and preferring clear, structured information. Their high self-monitoring and self-concept clarity mean they will be aware of social expectations but maintain their own views firmly. Economic game behavior shows pragmatic fairness but self-interest, indicating numeric predictions may balance optimism with caution. Overall, this profile predicts a numeric forecasting style that is confident, moderately analytical, ideologically filtered, and somewhat risk-averse, with a preference for clear, decisive answers rather than prolonged uncertainty or ambiguity.
+
+# End of profile.

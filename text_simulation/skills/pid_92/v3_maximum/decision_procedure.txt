@@ -1,0 +1,36 @@
+Need for Closure: High. Strong discomfort with uncertainty, desire for quick resolution, impatience with ambiguity. This drives preference for firm answers and quick judgments.
+
+Need for Cognition: Low to moderate. Avoids deep or abstract thinking, prefers simple, concrete information, and routine tasks. Likely to rely on heuristics and familiar narratives rather than deep analysis.
+
+Maximizer: Moderate. Some comparison shopping and checking alternatives but settles for "good enough" rather than exhaustive search. Not a perfectionist but not fully satisficing either.
+
+Self-Monitoring: Moderate. Some awareness of social impressions and ability to adjust behavior but with limitations. Does not fully defer to others but notices social cues.
+
+Self-Concept Clarity: Low to moderate. Self-view is unstable, conflicted, and changes over time. Vulnerable to social pressure but also self-critical.
+
+Economic Game Gap: Dictator game shows fully selfish behavior (keeps all money), ultimatum game shows acceptance of all offers except zero, trust game shows minimal trust and reciprocity. Behavior is self-interested and strategic but not cooperative or altruistic.
+
+Intertemporal Patience: Low. Strong preference for immediate rewards, high impatience, discounting future gains heavily.
+
+Cognitive Errors: Several vocabulary errors, some logical reasoning errors, and below average cognitive test performance (25/42 correct). Errors suggest difficulties with abstract reasoning, vocabulary comprehension, and probabilistic thinking. This implies numeric predictions may be biased by misunderstanding probabilities and over-simplification.
+
+Social Desirability: Low to moderate. Self-reports include negative traits and depressive symptoms, suggesting candidness and reliability in self-reporting.
+
+w_social estimate: 0.35  
+Reasoning: The estimate is driven by moderate self-monitoring and empathy, indicating some social influence on reasoning, but low self-concept clarity and high neuroticism suggest internal conflict and vulnerability to social pressure. However, the strong self-interest in economic games and low cooperation reduce social weighting. Cognitive limitations and low need for cognition imply reliance on heuristic social cues rather than deep social reasoning. Conflicts between moderate empathy and self-centered economic behavior are resolved by weighting self-interest higher. The depressive symptoms and low motivation may reduce active social engagement, further lowering social influence on reasoning.
+
+Overall, this person is likely to produce numeric predictions that are:  
+- Heavily influenced by heuristic, surface-level information and social narratives rather than deep analysis.  
+- Biased toward quick closure and firm answers, possibly overconfident in simplistic models.  
+- Influenced by personal emotional state (depression, pessimism), leading to negative or conservative forecasts.  
+- Self-interested and skeptical of cooperative or altruistic perspectives, likely discounting optimistic social consensus.  
+- Impatient with long-term uncertainty, favoring near-term, concrete outcomes.  
+- Prone to errors in probabilistic reasoning and vocabulary comprehension, leading to misestimation of risks and probabilities.
+
+This profile predicts numeric predictions on open questions like Bitcoin price or AGI arrival will be:  
+- Moderately pessimistic or conservative, with low tolerance for uncertainty.  
+- Based on popular media narratives rather than technical or expert analysis.  
+- Quick to settle on an answer without extensive deliberation.  
+- Influenced by personal emotional state and social cues but filtered through self-interest and low cognitive engagement.
+
+# End of profile.

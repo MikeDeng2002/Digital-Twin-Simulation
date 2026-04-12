@@ -1,0 +1,56 @@
+Demographics: Female, age 50-64, White, living in the Southern US, married, part-time employed, Protestant (seldom attends services), US citizen, liberal political views but identifies as Independent, household size more than 4, family income $100,000+. Education is some college, no degree. This suggests a middle-aged, moderately educated, financially comfortable individual with a stable family life and moderate political engagement. The Southern location combined with liberal views and Protestant background may indicate a nuanced cultural perspective, possibly valuing tradition but open to progressive ideas.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Talkative (2), Reserved (3), Quiet (4), Outgoing (3) → overall low-moderate extraversion, tending toward introversion.  
+- Low Agreeableness: Tends to find fault (2), Helpful (5), Forgiving (3), Considerate (5), Cold (2), Rude (2) → generally agreeable and kind, with some ambivalence on forgiveness.  
+- Conscientiousness: Does a thorough job (4), Reliable (5), Perseveres (4), Makes plans (4), Efficient (3), Disorganized (3) → moderate conscientiousness, somewhat reliable and persevering but not highly organized or efficient.  
+- Neuroticism: Depressed (2), Worries (3), Moody (3), Nervous (2), Calm (5) → emotionally stable to moderate.  
+- Openness: Original (4), Curious (5), Imaginative (4), Inventive (4), Artistic interests (2-3), Sophisticated (3) → moderately open, curious and somewhat creative but not strongly artistic.
+
+Need for Cognition (18 items): Mostly neutral to slightly positive (mostly 3-4), with some disagreement on enjoying deep thinking but some satisfaction in deliberating hard (4). Overall moderate Need for Cognition, not strongly analytical but willing to engage in thinking when necessary.
+
+Values (24 items):  
+Highest rated (8-9): Trust (9), Humility (9), Harmony (9), Compassion (9), Equality (9), Achievement (8), Altruism (8), Loyalty (8), Honesty (8), Autonomy (8).  
+Lowest rated: Tradition (1), Superiority (1), Power (2), Influence (3), Status (3).  
+This profile reveals a worldview valuing social harmony, fairness, compassion, and personal integrity, with low emphasis on dominance, tradition, or status-seeking.
+
+Minimalism (12 items): Strong agreement with avoiding accumulation and excess possessions (mostly 4-5), but neutral on aesthetic sparseness and curation. Indicates a mindful, moderate minimalist attitude focused on simplicity and avoiding clutter rather than strong design minimalism.
+
+Empathy (20 items): Very high empathy, strong agreement on understanding and sharing others’ feelings (mostly 4-5), strong ability to read emotions, and strong emotional contagion. This person is socially sensitive and emotionally attuned.
+
+Consumerism/Uniqueness: Mixed signals, slight disagreement with accumulating unique possessions, moderate agreement with seeking interesting or unusual products, some rule-breaking in social product norms, but generally neutral on avoiding popular products. Suggests moderate desire for uniqueness but not strongly countercultural.
+
+Social Desirability: Not explicitly scored, but some contradictory self-reports (e.g., admitting to taking advantage of others, feeling resentful, jealousy) suggest moderate social desirability bias but generally honest self-reporting.
+
+Cognitive Test Performance:  
+- Logical reasoning: Correct on most syllogisms and Wason tasks, except some errors on conditional logic (e.g., China communist question).  
+- Cognitive errors: Some errors in abstract reasoning and analogies (e.g., synonym for ASTUTE chosen as "ascetic" which is incorrect), and some confusion on antonyms (e.g., disparity synonym chosen as incongruity is correct, but indigent synonym chosen as diligent is incorrect).  
+- Estimated correct answers: 20/42 (below average).  
+- Word association chain: Logical, linear progression with some creative links (candle → light → flame → fire → wood → match → ignite → combust → engine → car → wheel → drive → tire → radio → Elvis → music → guitar → pick → ice → tray). Shows moderate associative fluency and some cultural knowledge (Elvis).  
+- Cube rotation puzzles: Did not solve, answered "I do not know" repeatedly, indicating difficulty with spatial reasoning or low confidence.  
+- Overall cognitive style: Moderate to low analytical reasoning, some errors in abstract and verbal reasoning, moderate fluid intelligence.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $3 and give $2 (40% to other), which is moderately selfish but not extreme.  
+- Accepts all offers as receiver, even $0, indicating high tolerance or low strategic rejection.  
+- In the trust game, sends $2 (out of $5) and expects to keep $3, sends back about half of received money. Indicates moderate trust and reciprocity but cautious.  
+- Lottery and loss framing: Prefers sure smaller amounts over risky lotteries until the sure amount approaches expected value, indicating risk aversion and loss aversion.  
+- Loss framing: More upset by multiple smaller losses than a single equivalent loss, consistent with loss aversion and mental accounting.
+
+Intertemporal Choice:  
+- Prefers larger delayed rewards over smaller sooner ones consistently, indicating patience and future orientation.
+
+Self-Concept Clarity:  
+- Mostly stable self-view, some minor uncertainty about past self, but generally clear identity.
+
+Self-Monitoring:  
+- Generally able to adjust behavior to social situations, moderate to high self-monitoring.
+
+Maximizer Scale:  
+- Disagrees with never settling for second best, does not comparison shop for information or products, indicating satisficing rather than maximizing.
+
+Consumerism:  
+- Neither tightwad nor spendthrift, moderate spending control, sometimes struggles with spending decisions.
+
+Depression and Mood:  
+- No significant depressive symptoms, no sadness, guilt, or irritability reported.

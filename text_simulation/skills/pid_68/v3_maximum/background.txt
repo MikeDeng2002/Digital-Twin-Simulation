@@ -1,0 +1,80 @@
+Demographics: Male, age 30-49, White, living in the Southern US, married, Roman Catholic attending religious services more than once a week, Democrat with very liberal political views, household size more than 4, full-time employed, family income $100,000+. This suggests a middle-aged, financially stable, socially and politically engaged individual with strong community and family ties, likely exposed to diverse information sources but with a regional cultural influence from the South.
+
+Big Five Personality (44 items):  
+- Moderately talkative (4), somewhat careless (5), relaxed and handles stress well (5), perseveres strongly (5), but also moody (5) and easily distracted (5).  
+- Low originality (2), somewhat unreliable (disagree a little on reliable worker), somewhat cold (disagree a little on cold/aloof), moderately assertive (3), somewhat rude (4), outgoing (5).  
+- Curious about many things (4), somewhat inventive (4), values artistic experiences (4), but not strongly imaginative (3).  
+- Overall, a mix of conscientiousness (perseverance strong, but careless and easily distracted) and emotional instability (moody strong, some worry).  
+- Self-monitoring moderate to high (6/7 on ability to alter behavior, but some inconsistency).  
+- Self-concept clarity moderate-low: agrees strongly that self-beliefs conflict and change frequently, feels unsure about self, sometimes feels not the person they appear to be.
+
+Need for Cognition (18 items):  
+- Strong preference for complex problems (5), enjoys puzzles and abstract thinking (5), but also agrees strongly that they only think as hard as they have to (7), and prefer small daily projects (4).  
+- Mixed signals: likes intellectual challenges but also some avoidance of deep thinking.  
+- Moderate Need for Cognition overall, with some ambivalence.
+
+Need for Closure (15 items):  
+- Disagrees with strong need for order and certainty (mostly 1-2), dislikes routine and structured life (disagree strongly on liking routine and structured life).  
+- Somewhat comfortable with ambiguity, not impatient for quick solutions.  
+- Low to moderate Need for Closure.
+
+Maximizer scale (6 items):  
+- Somewhat high maximizer tendencies: never settle for second best (5), highest standards for self (though disagrees a little on always having highest standards).  
+- Some comparison shopping behavior (agrees a little on checking radio stations for better options).
+
+Self-monitoring (13 items):  
+- High ability to alter behavior (6), moderate ability to control impression (4), some difficulty changing behavior (3-4), generally able to regulate actions (5).  
+- Somewhat inconsistent self-monitoring, but overall aware of social cues.
+
+Self-concept clarity (12 items):  
+- Moderate-low clarity: agrees strongly that self-beliefs conflict and change, unsure about self, sometimes feels not the person they appear to be, but also some stability (seldom experiences conflict).  
+- Likely somewhat unstable self-view, vulnerable to social influence but also some resistance.
+
+Values (24 items):  
+- Highest values (9): Wealth, Pleasure, Forgiveness, Influence, Trust, Power, Compassion, Status, Civility, Tradition.  
+- High values (7-8): Competence, Humility, Altruism, Ambition, Politeness, Harmony, Honesty, Autonomy, Equality, Recognition, Superiority.  
+- This profile shows a strong drive for success, influence, and social status combined with compassion and forgiveness, indicating a complex worldview balancing ambition and social harmony.
+
+Minimalism (12 items):  
+- Strong agreement with avoiding accumulation (5), preferring simplicity and sparse environments (5), mindful of possessions (4-5), but less agreement on careful curation (2-3).  
+- Likely practices minimalism in a moderate way, values simplicity but not obsessively selective.
+
+Empathy (20 items):  
+- Mixed empathy: strongly agrees that friends’ emotions don’t affect him much (5), but also agrees somewhat with feeling sad after friends are sad (4), and getting caught up in others’ feelings (4).  
+- Some difficulty reading friends’ emotions (disagree a little on knowing when friends are frightened or cheerful).  
+- Overall moderate empathy, somewhat detached emotionally but cognitively aware.
+
+Consumerism/Uniqueness:  
+- Strong agreement with breaking social rules on product use (5), liking distinctive and unusual products (4-5), some avoidance of common brands (4), moderate desire for uniqueness.  
+- Likely to challenge norms and seek distinctiveness in consumption.
+
+Cognitive Test Performance:  
+- Self-estimated 40/42 correct, above average (US adult average estimated 30).  
+- Correct on most logical syllogisms, but some errors in logical inference (e.g., incorrectly concluding "If a glock is a XAR, it is certain it is not a YOF" contradicts the premise "All XAR are YOF").  
+- Errors suggest some misunderstanding or misapplication of logical rules, possibly confirmation bias or heuristic shortcuts.  
+- Analogies and spatial puzzles mostly correct, indicating good visual-spatial reasoning.  
+- Word association chain shows rhyming and phonetic patterning (toaster-holder-colder-shoulder...), indicating associative, phonological processing style.  
+- Vocabulary synonym/antonym tests show several incorrect or suboptimal choices (e.g., "CONCUR" synonym chosen as "ransack" instead of "acquiesce"), indicating some gaps in verbal semantic knowledge or careless errors.
+
+Social Desirability Scale:  
+- Moderate to high social desirability: agrees with being courteous even to disagreeable people, willing to admit mistakes (though some contradictions), some admissions of taking advantage of others.  
+- Some inconsistency suggests partial self-presentation bias but not extreme.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $4 and give $1 in dictator game (selfish).  
+- As receiver, accepts all offers including $0 (very accepting).  
+- In trust game, sends $2 (moderate trust), returns about half of received money (moderate reciprocity).  
+- Indicates strategic but self-interested economic behavior, somewhat pragmatic.
+
+Intertemporal Choice:  
+- Mixed patience: sometimes prefers immediate smaller rewards, sometimes waits for larger delayed rewards.  
+- Shows moderate discounting of future rewards, not extremely impulsive but not highly patient.
+
+Depression and Mood:  
+- Reports significant depressive symptoms: sad all the time, hopelessness, feelings of failure, guilt, disgust with self, irritability, loss of interest, difficulty making decisions, sleep disturbance, tiredness, appetite loss, weight loss, health worries, loss of interest in sex.  
+- Indicates moderate to severe depressive state, which may affect cognitive processing and decision-making.
+
+Spending Habits:  
+- Scores 9/11 on spending scale (tending toward spendthrift), but reports often having trouble spending money (anxiety about spending).  
+- More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender).  
+- Suggests ambivalence about spending, possibly conflicted between desire and restraint.

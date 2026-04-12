@@ -1,0 +1,33 @@
+Demographics: Female, age 30-49, White, living in the Southern US, never married, Roman Catholic but does not attend services, politically independent with moderate views, part-time employed, household size 3, family income $30,000-$50,000. This suggests a middle-lower-middle socioeconomic status with moderate political and religious engagement, likely balancing work and family life with some financial constraints.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagree a little with being talkative and outgoing, strongly agree with being quiet and reserved.  
+- High Conscientiousness: Strong agreement on being organized, reliable, efficient, persevering, and preferring routine work.  
+- Moderate Neuroticism: Some worry and moodiness, but generally emotionally stable and relaxed.  
+- Moderate Openness: Neither strongly original nor inventive, but agrees somewhat with being a deep thinker, curious, imaginative, and valuing artistic experiences.  
+- High Agreeableness: Strongly helpful, forgiving, kind, considerate, and cooperative; low on quarrelsomeness and fault-finding.
+
+Need for Cognition (18 items): Very high (mostly 5s on 5-point scale), indicating strong enjoyment of thinking, problem-solving, intellectual challenges, and abstract thinking. Disagrees strongly with avoiding thinking or doing easy tasks. This person invests significant cognitive effort.
+
+Values (24 items):  
+- Highest: Forgiveness (9), Trust (9), Competence (9), Humility (9), Loyalty (9), Honesty (9), Compassion (9), Loyalty (9), Politeness (8), Autonomy (8), Pleasure (8), Wealth (7), Harmony (7), Tradition (6), Altruism (6).  
+- Lowest: Influence (1), Recognition (1), Power (2), Status (3), Superiority (3), Ambition (4), Excitement (4).  
+This reveals a worldview valuing ethical behavior, social harmony, competence, and modesty over dominance or status seeking. Strong emphasis on trust, loyalty, and compassion suggests a socially oriented but humble individual.
+
+Minimalism (12 items): Very high agreement with avoiding excess possessions, preferring sparse environments, mindful curation of belongings, and simplicity in design. This person likely curates information and possessions carefully, avoiding clutter and distractions.
+
+Empathy (20 items): Very high empathy, strongly affected by others’ emotions, good at reading emotions, easily caught up in others’ feelings, sensitive to sadness and anger in others, but not easily frightened. This suggests reliance on social cues and emotional intelligence in processing information.
+
+Consumerism/Uniqueness: Strong disagreement with all items related to seeking uniqueness through products, breaking social norms, or rejecting popular brands. This person is not a trend-follower nor a countercultural consumer, but likely prefers conventional, functional choices.
+
+Social Desirability: Moderate to somewhat high (some items show probable truthfulness, others some self-monitoring). The person admits to some jealousy and occasional giving up, but denies taking advantage or being rude. Self-reports appear generally reliable but with some social desirability bias.
+
+Cognitive Test Performance:  
+- Correct answers on 28/42 cognitive questions, self-estimated average is 35/42, indicating some underconfidence or modesty.  
+- Logical reasoning: Mostly correct on syllogisms and conditional logic, but some errors on negation and converse fallacies (e.g., plants not animals, China communist).  
+- Spatial/analogical puzzles: Correct on most pattern completions, but some uncertainty on cube rotation tasks (selected "I do not know" once).  
+- Word associations: Synonyms and antonyms mostly correct, showing good vocabulary and verbal reasoning.  
+- Error pattern: Tends to accept invalid conclusions if premises are plausible, indicating some confirmation bias or difficulty with negations and contrapositives.  
+- Numeric reasoning: Correct on classic bat-and-ball and exponential growth problems, indicating good numeracy.
+
+Word Association Chain: Logical, thematic progression from candle → wax → beeswax → bees → honey → pollen → flowers → garden → vegetables → food → cooking → kitchen → dishes → serving → restaurant → date → relationship → marriage → family → children. This chain shows organized, concrete associative thinking with social and familial themes, consistent with high conscientiousness and agreeableness.

@@ -1,0 +1,82 @@
+- Resides in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female, aged 30-49 (Questions: Sex assigned at birth, Age; Answers: Female, 30-49)
+- Education level: College graduate/some postgraduate (Question: Highest level of schooling completed; Answer: College graduate/some postgrad)
+- Race: White (Question: Race or origin; Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Atheist, never attends religious services (Questions: Present religion, Frequency of attendance; Answers: Atheist, Never)
+- Political affiliation: Democrat, liberal views (Questions: Political party, Political views; Answers: Democrat, Liberal)
+- Household size: 2 people (Question: Number of people in household; Answer: 2)
+- Employment status: Full-time employed (Question: Current employment status; Answer: Full-time employment)
+- Income: $100,000 or more annually (Question: Total family income last year; Answer: $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Low talkativeness (Disagree strongly with "Is talkative")
+  - Slightly reserved (Agree a little with "Is reserved")
+  - Helpful and unselfish (Agree strongly)
+  - Reliable and thorough worker (Agree strongly with "Does a thorough job" and "Is a reliable worker")
+  - Emotionally stable (Agree a little with "Is relaxed, handles stress well" and "Is emotionally stable, not easily upset")
+  - Prefers routine work (Agree strongly)
+  - Quiet (Agree strongly)
+  - Disagrees with being lazy, careless, disorganized, moody, or tense (mostly disagree a little or strongly)
+  - Moderate openness to experience (mostly neither agree nor disagree or disagree a little on originality, imagination, inventiveness)
+- Need for Cognition (self-report):
+  - Slightly low to moderate: Disagrees a little with preference for complex problems, liking responsibility requiring thinking, and enjoyment of thinking
+  - Neither agrees nor disagrees on satisfaction from deliberating hard or enjoying problem solving
+  - Agrees a little with liking abstract thinking
+- Values (rated as guiding principles):
+  - High importance: Loyalty (9), Harmony (9), Compassion (9), Civility (9), Equality (9), Competence (8), Humility (8), Politeness (8), Honesty (8), Autonomy (8), Pleasure (8)
+  - Moderate importance: Wealth (7), Achievement (7), Forgiveness (6), Trust (6), Altruism (6)
+  - Low importance: Power (1), Tradition (1), Superiority (1), Ambition (2), Status (2), Influence (3)
+- Environmental concern: Strongly agrees that products should not harm environment, considers environmental impact in decisions, willing to be inconvenienced for environment
+- Self-concept clarity: Strongly agrees to having a clear sense of who they are, disagrees strongly with conflicting or changing self-beliefs
+- Self-monitoring: Generally true that can control behavior to suit situations, somewhat true with exceptions; can read others' emotions somewhat well
+- Maximizer tendencies: Disagrees strongly with behaviors indicating maximizer traits (e.g., checking for better options, always seeking better opportunities)
+- Economic behavior:
+  - Proposes to keep $2 and send $3 in a $5 split (Ultimatum game)
+  - Accepts all offers from $0 to $5 kept by other (Ultimatum game as receiver)
+  - In a trust game, would send all $5 to other and expects to receive a fair split back (keeps $0, sends $5; expects to keep $8 and send $7 back when receiving $15)
+- Cognitive test performance:
+  - Estimated self-correct answers: 35/42 (above average)
+  - Estimated average US adult correct answers: 32/42
+  - Correctly answered logical reasoning, syllogisms, and word synonym/antonym questions with high accuracy
+  - Correctly solved spatial rotation and pattern completion puzzles
+- Financial literacy:
+  - Correctly understands mortgage payment and interest tradeoffs
+  - Understands inflation effect on savings
+  - Recognizes stocks as highest risk and highest return over long term
+  - Knows diversification reduces risk
+  - Knows 401(k) withdrawal rules incorrectly (answered false to required withdrawal after 70.5)
+  - Knows credit card debt minimum payments may never eliminate debt
+  - Correctly estimates probabilities and expected values in lottery and disease risk questions
+- Decision preferences:
+  - Prefers to receive $6 in 6 weeks over smaller amounts sooner until certain thresholds
+  - Prefers to receive $8 in 7 weeks over smaller amounts sooner until certain thresholds
+  - Prefers to receive $10 in 7 weeks over smaller amounts sooner until certain thresholds
+  - Prefers immediate smaller amounts over delayed larger amounts in short delays (1-2 weeks)
+  - Prefers lottery over certain amounts until certain thresholds
+  - Prefers to avoid losses and prefers smaller sure losses over lotteries with larger potential losses
+- Personality self-assessments:
+  - Agrees somewhat to being organized, efficient, practical, systematic
+  - Disagrees strongly with being sloppy, careless, disorganized, inefficient
+  - Reports sometimes feeling resentful, giving up due to low ability, jealousy of others' good fortune
+  - Does not admit to taking advantage, being rude, or being irked by differing ideas
+  - Prefers to depend on self, values personal identity, but does not strongly endorse competition or winning as everything
+  - Values cooperation and well-being of coworkers
+  - Disagrees strongly with family obligation statements about sticking together no matter what
+- Emotional state:
+  - Does not feel sad, guilty, worthless, or like a failure
+  - Feels discouraged about the future
+  - Less interested in other people and sex than before
+  - No significant sleep, appetite, or energy problems
+  - Purposefully trying to lose weight by eating less
+- Spending habits:
+  - Neither tightwad nor spendthrift
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Behavior similar to neither Mr. A nor Mr. B in shopping scenario
+- Self-concept clarity: Strongly clear and consistent self-beliefs, no internal conflict
+- Need for closure: Slightly agrees with preference for order, dislike of uncertainty, and structured life
+- Maximizer: Disagrees strongly with maximizer behaviors (e.g., checking for better options)
+- Self-monitoring: Generally able to adjust behavior to social situations, somewhat good at reading emotions
+- Self-concept clarity: Strongly clear sense of self, no frequent changes or conflicts
+- Economic game thoughts: Focused on fairness, avoiding greed, and ensuring fair splits

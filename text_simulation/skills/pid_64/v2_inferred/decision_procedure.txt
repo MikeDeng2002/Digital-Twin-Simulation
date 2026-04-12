@@ -1,0 +1,15 @@
+Need for Closure: Moderate tolerance for uncertainty (items 1, 2, 4, 6, 8, 9, 10 in Need for Closure section mostly neutral or mildly agreeing to tolerance), indicating a balanced approach to decision-making without urgency or rigidity.
+
+Need for Cognition: Moderate to high (items mostly 4s), indicating enjoyment of thinking and problem-solving, consistent with conscientiousness and curiosity.
+
+Maximizer: Moderate (item 5 strongly agree to high standards, item 6 neither agree nor disagree to never settling for second best), indicating a preference for good outcomes but not perfectionism.
+
+Self-monitoring: Moderate to low (items 1-7 in Self-monitoring mostly 3-4), indicating some ability to adjust behavior but not highly flexible or strategic in social presentation.
+
+Self-concept clarity: Moderate (items 1, 6, 11 agree a little), indicating a fairly stable but not rigid self-view.
+
+Economic game behavior: Proposes to keep $3 and send $2 in the ultimatum game, and as receiver accepts all offers, indicating moderate fairness and pragmatic cooperation. In the trust game, sends $2 (tripled to $6) and expects to get back about half ($3), showing moderate trust and reciprocity expectations.
+
+Cross-scale inference: Conscientiousness (Big Five) aligns with high achievement and competence values, moderate need for cognition, and moderate maximizer tendencies. Empathy scales align with high agreeableness and social concern values. Cognitive test performance is low, contrasting with self-reported curiosity and need for cognition, suggesting possible underperformance or lack of confidence.
+
+w_social estimate: 0.6 -- The respondent shows moderate social engagement and empathy (agreeableness items 7, 17, 22, 32; empathy items 1-20), values family and cooperation highly, and demonstrates fairness in economic games. However, he is somewhat reserved (Big Five extraversion items 1, 6, 21, 36) and has moderate self-monitoring, indicating he is not highly socially assertive or outgoing. The moderate need for cognition and conscientiousness support thoughtful social behavior but not high social dominance or extroversion. These scales agree on a moderate social orientation, justifying a w_social estimate of 0.6.

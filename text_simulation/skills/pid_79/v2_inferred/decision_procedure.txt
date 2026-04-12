@@ -1,0 +1,17 @@
+Need for Closure: High (items 1,4,6,7,9,10,11,12,13,14,15 all 4-5), indicating preference for order, predictability, and quick decisions.
+
+Need for Cognition: Very high (items 1,2,3,4,5,7,10,11,13,14,15 all 5), indicating enjoyment of thinking and intellectual challenge.
+
+Maximizer: Moderate to low (items 5 and 6 show some standards but not extreme maximization).
+
+Self-monitoring: Mixed; some items high (6), others low (2), indicating moderate ability to adapt social behavior but some difficulty.
+
+Self-concept clarity: High (items mostly disagreeing with instability), indicating a stable and clear self-view.
+
+Economic games: Proposes fair splits ($2/$3), accepts fair offers, rejects very unfair offers, and returns fair amounts in trust game, indicating moderate social trust and fairness orientation.
+
+Cross-scale inference: High Need for Cognition and high Conscientiousness (Big Five) align with good cognitive test performance and practical, systematic approach. High Need for Closure aligns with preference for order and decisiveness in decision-making tasks. Moderate Self-monitoring aligns with some social adaptability but also a consistent self-concept.
+
+No contradictions apparent; scales align well.
+
+w_social estimate: 0.6 -- The respondent shows moderate social trust and fairness in economic games, moderate agreeableness and empathy in personality items, and a conscientious, practical personality. High Need for Closure and moderate Self-monitoring suggest some social caution and preference for predictable social interactions. Overall, these scales agree on a moderate level of social engagement and trust.

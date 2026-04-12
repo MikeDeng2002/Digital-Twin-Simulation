@@ -1,0 +1,185 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Male sex assigned at birth (Question: "What is the sex that you were assigned at birth?" Answer: 1 - Male)
+- Age group 30-49 (Question: "How old are you?" Answer: 2 - 30-49)
+- Highest education level: College graduate/some postgrad (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 5 - College graduate/some postgrad)
+- Race: White (Question: "What is your race or origin?" Answer: 1 - White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Marital status: Married (Question: "Which of these best describes you?" Answer: 1 - Married)
+- Religion: Nothing in particular (Question: "What is your present religion, if any?" Answer: 12 - Nothing in particular)
+- Attends religious services seldom (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: 5 - Seldom)
+- Political party: Democrat (Question: "In politics today, do you consider yourself a" Answer: 2 - Democrat)
+- Political views: Moderate (Question: "In general, would you describe your political views as" Answer: 3 - Moderate)
+- Family income last year: $100,000 or more (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 5 - $100,000 or more)
+- Household size: 4 people (Question: "Including yourself, how many people currently live in your household?" Answer: 4 - 4)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: 1 - Full-time employment)
+- Personality traits (Big Five, self-report):
+  - Talkative: Agree a little (Q1: 4)
+  - Tends to find fault with others: Disagree a little (Q2: 2)
+  - Does a thorough job: Agree a little (Q3: 4)
+  - Is depressed, blue: Disagree strongly (Q4: 1)
+  - Is original, comes up with new ideas: Agree a little (Q5: 4)
+  - Is reserved: Disagree strongly (Q6: 1)
+  - Is helpful and unselfish with others: Agree strongly (Q7: 5)
+  - Can be somewhat careless: Disagree strongly (Q8: 1)
+  - Is relaxed, handles stress well: Agree strongly (Q9: 5)
+  - Is curious about many different things: Agree strongly (Q10: 5)
+  - Is full of energy: Agree strongly (Q11: 5)
+  - Starts quarrels with others: Disagree strongly (Q12: 1)
+  - Is a reliable worker: Agree strongly (Q13: 5)
+  - Can be tense: Disagree strongly (Q14: 1)
+  - Is ingenious, a deep thinker: Agree a little (Q15: 4)
+  - Generates a lot of enthusiasm: Agree a little (Q16: 4)
+  - Has a forgiving nature: Agree strongly (Q17: 5)
+  - Tends to be disorganized: Disagree strongly (Q18: 1)
+  - Worries a lot: Disagree strongly (Q19: 1)
+  - Has an active imagination: Agree strongly (Q20: 5)
+  - Tends to be quiet: Disagree strongly (Q21: 1)
+  - Is generally trusting: Agree strongly (Q22: 5)
+  - Tends to be lazy: Disagree strongly (Q23: 1)
+  - Is emotionally stable, not easily upset: Agree strongly (Q24: 5)
+  - Is inventive: Agree a little (Q25: 4)
+  - Has an assertive personality: Agree a little (Q26: 4)
+  - Can be cold and aloof: Disagree strongly (Q27: 1)
+  - Perseveres until the task is finished: Agree strongly (Q28: 5)
+  - Can be moody: Disagree strongly (Q29: 1)
+  - Values artistic, aesthetic experiences: Agree strongly (Q30: 5)
+  - Is sometimes shy, inhibited: Disagree strongly (Q31: 1)
+  - Is considerate and kind to almost everyone: Agree strongly (Q32: 5)
+  - Does things efficiently: Agree strongly (Q33: 5)
+  - Remains calm in tense situations: Agree strongly (Q34: 5)
+  - Prefers work that is routine: Disagree a little (Q35: 2)
+  - Is outgoing, sociable: Agree strongly (Q36: 5)
+  - Is sometimes rude to others: Disagree strongly (Q37: 1)
+  - Makes plans and follows through with them: Agree a little (Q38: 4)
+  - Gets nervous easily: Disagree strongly (Q39: 1)
+  - Likes to reflect, play with ideas: Agree a little (Q40: 4)
+  - Has few artistic interests: Disagree a little (Q41: 2)
+  - Is sophisticated in art, music, or literature: Neither agree nor disagree (Q44: 3)
+- Need for Cognition (selected items):
+  - Prefers complex to simple problems: Agree a little (Q1: 4)
+  - Likes responsibility requiring thinking: Agree a little (Q2: 4)
+  - Thinking is not fun: Disagree a little (Q3: 2)
+  - Prefers little thought tasks: Disagree a little (Q4: 2)
+  - Avoids deep thinking situations: Disagree a little (Q5: 2)
+  - Satisfaction in deliberating hard: Agree a little (Q6: 4)
+  - Thinks only as hard as necessary: Disagree a little (Q7: 2)
+  - Prefers small daily projects: Neither agree nor disagree (Q8: 3)
+  - Likes tasks requiring little thought once learned: Disagree a little (Q9: 2)
+  - Relies on thought to get to top appeals: Neither agree nor disagree (Q10: 3)
+  - Enjoys tasks with new solutions: Agree a little (Q11: 4)
+  - Learning new ways to think doesn't excite: Disagree strongly (Q12: 1)
+  - Prefers life filled with puzzles: Agree a little (Q13: 4)
+  - Thinking abstractly appeals: Neither agree nor disagree (Q14: 3)
+  - Prefers intellectual, difficult tasks: Agree a little (Q15: 4)
+  - Feels relief rather than satisfaction after mental effort: Disagree a little (Q16: 2)
+  - Doesn't care how or why something works, just that it works: Disagree a little (Q17: 2)
+  - Deliberates about issues even if not personally affected: Agree a little (Q18: 4)
+- Values (rated as guiding principles):
+  - WEALTH: 4 (moderate importance)
+  - PLEASURE: 6
+  - FORGIVENESS: 7
+  - INFLUENCE: 2 (low)
+  - TRUST: 8
+  - COMPETENCE: 8
+  - HUMILITY: 5
+  - ACHIEVEMENT: 7
+  - ALTRUISM: 9 (high)
+  - AMBITION: 7
+  - LOYALTY: 9 (high)
+  - POLITENESS: 8
+  - POWER: 2 (low)
+  - HARMONY: 6
+  - EXCITEMENT: 7
+  - HONESTY: 8
+  - COMPASSION: 8
+  - STATUS: 1 (not important)
+  - CIVILITY: 6
+  - AUTONOMY: 7
+  - EQUALITY: 8
+  - RECOGNITION: 4
+  - TRADITION: 7
+  - SUPERIORITY: 1 (not important)
+- Environmental attitudes:
+  - Importance of products not harming environment: Neither agree nor disagree (3)
+  - Considers environmental impact in decisions: Neither agree nor disagree (3)
+  - Purchase habits affected by environment: Disagree a little (2)
+  - Concerned about wasting planet resources: Agree a little (4)
+  - Describes self as environmentally responsible: Disagree a little (2)
+  - Willing to be inconvenienced for environment: Agree a little (4)
+- Empathy and emotional sensitivity:
+  - Friends’ emotions don’t affect me much: Agree a little (4)
+  - After being with sad friend, usually feel sad: Neither agree nor disagree (3)
+  - Can understand friend’s happiness: Agree a little (4)
+  - Get frightened watching scary movies: Disagree strongly (1)
+  - Get caught up in others’ feelings easily: Disagree strongly (1)
+  - Find it hard to know when friends frightened: Disagree strongly (1)
+  - Don’t become sad when see others crying: Agree a little (4)
+  - Others’ feelings don’t bother me at all: Disagree a little (2)
+  - Can usually understand how someone feels when down: Agree a little (4)
+  - Can usually work out when friends are scared: Agree a little (4)
+  - Often become sad watching sad things on TV: Disagree strongly (1)
+  - Can often understand feelings before told: Agree a little (4)
+  - Seeing angered person has no effect: Disagree a little (2)
+  - Can usually work out when people are cheerful: Agree a little (4)
+  - Tend to feel scared with scared friends: Disagree strongly (1)
+  - Can usually realize quickly when friend is angry: Agree a little (4)
+  - Often get swept up in friends’ feelings: Disagree a little (2)
+  - Friend’s unhappiness doesn’t make me feel anything: Disagree strongly (1)
+  - Not usually aware of friends’ feelings: Disagree strongly (1)
+  - Have trouble figuring out when friends are happy: Disagree strongly (1)
+- Cognitive test performance:
+  - Self-estimated correct answers: 36 out of 42
+  - Estimated average correct answers for US adults: 20 out of 42
+- Financial literacy:
+  - Correctly understands mortgage payments and interest (True)
+  - Understands inflation effect on savings (money buys less)
+  - Recognizes stocks have highest fluctuations and returns over long term
+  - Understands risk decreases with diversification
+  - Knows 401(k) withdrawal rule after age 70.5 is false
+  - Knows credit card debt with minimum payments and interest may never be eliminated
+  - Correct answers to various financial and probability questions (e.g., die rolls, lottery odds)
+- Personality self-concept:
+  - Aspires to be a leader, dependable, personable
+  - Ought to take care of family, handle business, be generous
+  - Actually is dependable, honest, handles responsibilities timely
+- Spending habits:
+  - Self-rated spending habit: 7 (on scale where 1 = tightwad, 11 = spendthrift)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to a person who resists spending despite sales (not impulsive spender)
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and impressions
+  - Can read others’ emotions well
+- Self-concept clarity:
+  - Strongly agrees to having a clear and consistent self-concept
+  - Disagrees strongly with statements indicating internal conflict or uncertainty about self
+- Need for Closure:
+  - Mostly neutral or slight disagreement with statements indicating discomfort with uncertainty or desire for quick closure
+- Maximizer tendencies:
+  - Agrees a little to often checking for better options, looking for better opportunities, having high standards, never settling for second best
+- Logical reasoning:
+  - Correctly answers logical syllogism questions about premises and conclusions
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no irritability, no worthlessness, no sleep problems, no appetite loss, no weight loss, no health worries, no loss of interest in sex
+  - Reports some slight sleep and tiredness issues (disagrees with "sleep as well as usual" and "don't get more tired than usual" but no severe symptoms)
+- Anxiety symptoms:
+  - Reports no anxiety symptoms (all "Not at all" on anxiety symptom checklist)
+- Self-reported behaviors:
+  - Has taken advantage of someone (True)
+  - Sometimes tries to get even rather than forgive (True)
+  - Is always courteous even to disagreeable people (True)
+  - Has been jealous of others' good fortune (True)
+  - Sometimes irritated by people who ask favors (True)
+  - Has deliberately said something that hurt someone's feelings (False)
+- Self-reported traits:
+  - Extremely accurate on organized, efficient, systematic, practical
+  - Somewhat false on disorganized, sloppy, inefficient, careless
+- Beliefs about rules and obligations:
+  - Finds rules and regulations not true/helpful (2 - Not true)
+  - Very important to carry out obligations (6 - True)
+  - Generally solves problems creatively (6 - True)
+  - Likes to do things in new ways (5 - Probably true)
+  - Always tries to make work accurate and error-free (7 - Definitely true)
+  - Likes trying different things and often successful (7 - Definitely true)
+  - Importance of achievements recognized by others: Neither true nor untrue (4)
+  - Often thinks about what others expect: Neither true nor untrue (4)

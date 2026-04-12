@@ -1,0 +1,22 @@
+Need for Closure: Moderate to somewhat high (dislikes uncertainty, likes order, but not extreme impatience) — items 1,4,5,6,15 on Need for Closure scale.
+
+Need for Cognition: Very high (strong agreement on all items indicating enjoyment of thinking and intellectual challenge) — Need for Cognition scale items 1-18.
+
+Maximizer: Moderate (agrees with having high standards and not settling for second best, but disagrees with compulsive searching behaviors) — Maximizer scale items 1-6.
+
+Self-monitoring: Moderate (some ability to adjust behavior, but not fully flexible) — Self-monitoring scale items 1-13.
+
+Self-concept clarity: High (strong agreement with clear, stable self-identity) — Self-concept clarity scale items 1-12.
+
+Economic games: Proposes to keep $3 and send $2 in ultimatum game; accepts all offers except the most unfair; in trust game, keeps $3 and sends $2, expects receiver to keep about half and send back about half. This indicates moderate fairness, moderate trust, and moderate reciprocity.
+
+Cross-scale inference:
+
+- High need for cognition aligns with high cognitive test performance and logical reasoning skills.
+- Moderate need for closure aligns with moderate patience in decision-making and moderate tolerance for ambiguity.
+- Moderate maximizer and self-monitoring align with balanced decision-making, not overly perfectionistic or socially reactive.
+- High empathy and altruistic values align with generous economic game behavior and concern for others.
+
+No major contradictions detected.
+
+w_social estimate: 0.6 -- The respondent shows moderate social orientation, evidenced by high empathy (strong agreement on emotional contagion and understanding others), altruistic and compassionate values (rated 9), and fair behavior in economic games (proposing fair splits, accepting fair offers). However, moderate self-monitoring and some aloofness/coldness in personality (agreeing somewhat to being aloof and cold) temper this, as does a tendency toward being unforgiving and critical. The combination of scales suggests a socially aware but somewhat guarded individual, leading to a moderate social engagement estimate.

@@ -1,0 +1,75 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age between 30-49 (Question: How old are you? Answer: 30-49)
+- Education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services a few times a year (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: A few times a year)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Personality traits (Big Five, selected items):
+  - Disagree a little with being talkative (Q1: 2)
+  - Agree strongly to doing a thorough job (Q3: 5)
+  - Agree strongly to being reserved (Q6: 5)
+  - Agree strongly to being helpful and unselfish (Q7: 5)
+  - Disagree a little with being careless (Q8: 2)
+  - Disagree a little with handling stress well (Q9: 2)
+  - Agree strongly to being curious about many things (Q10: 5)
+  - Agree a little to being full of energy (Q11: 4)
+  - Disagree strongly to starting quarrels (Q12: 1)
+  - Agree strongly to being a reliable worker (Q13: 5)
+  - Agree a little to being tense (Q14: 4)
+  - Agree strongly to worrying a lot (Q19: 5)
+  - Agree a little to having an active imagination (Q20: 4)
+  - Agree strongly to being sometimes shy, inhibited (Q31: 5)
+  - Agree strongly to being considerate and kind (Q32: 5)
+  - Agree strongly to making plans and following through (Q38: 5)
+  - Agree strongly to getting nervous easily (Q39: 5)
+  - Disagree strongly to remaining calm in tense situations (Q34: 1)
+- Need for Cognition scale (selected items):
+  - Generally agrees a little to preferring complex problems, liking responsibility requiring thinking, and enjoying thinking (Q1:4, Q2:4, Q3:2, Q4:2, Q5:2)
+  - Neither agrees nor disagrees or agrees a little on various items about thinking and problem solving (Q6:3, Q7:2, Q8:4, Q9:4, Q10:4, Q11:3, Q12:4, Q13:4, Q14:3, Q15:4, Q16:4, Q17:4, Q18:4)
+- Values (rated as guiding principles):
+  - Highly important: Trust (9), Compassion (9), Recognition (9), Superiority (9)
+  - Quite important: Pleasure (7), Forgiveness (8), Humility (8), Achievement (5), Loyalty (7), Politeness (8), Honesty (8), Civility (8), Autonomy (8), Equality (8), Tradition (8), Status (7), Excitement (7)
+  - Less important: Wealth (3), Influence (2), Power (2), Altruism (3), Ambition (4)
+- Spending habits:
+  - Self-rated spending habit: 5 (mid-scale)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant to spend despite sales)
+- Self-concept clarity:
+  - Some disagreement with clear and consistent self-beliefs (e.g., Q11: 2 - Disagree a little on having a clear sense of who I am)
+  - Some agreement with fluctuating self-beliefs and wondering about self (Q3,4,5,7,8,9,10 all agree a little)
+- Self-monitoring:
+  - Somewhat true but with exceptions on ability to alter behavior and control impression (mostly 4s)
+  - Generally false on difficulty changing behavior (Q4,6)
+  - Generally true on regulating actions once situation known (Q7:5)
+- Maximizer scale:
+  - Agrees a little to looking for better opportunities, having high standards, sometimes difficulty shopping for gifts or clothes
+  - Disagrees a little with "never settle for second best"
+- Need for Closure:
+  - Strong agreement with disliking uncertainty and ambiguous situations (Q1,2: 5 - Agree strongly)
+  - Mixed agreement on preference for order and routine (some 5s, some 3s)
+  - Disagrees strongly with consulting many opinions before forming views (Q14:1)
+- Cognitive test performance:
+  - Estimated self-correct answers: 15/42
+  - Estimated average US adult correct: 11/42
+- Financial literacy:
+  - Correct understanding of mortgage payments, inflation, risk diversification, investment returns, required withdrawals from retirement accounts
+  - Correct answers on various financial and probability questions
+- Economic games:
+  - Proposes to keep all $5 for self and send $0 to other in dictator game
+  - Rejects offers of $0 to self in ultimatum game
+  - In trust game, keeps $3 and sends $2; as receiver, keeps majority of returned money but sends some back
+  - Thoughts during decisions: tries to be somewhat fair but also acknowledges selfishness and need for money
+- Depression and mood:
+  - Reports feeling sad, discouraged, disappointed in self, more irritated, crying more than usual, less interested in others, difficulty making decisions, feeling critical of self
+  - No feelings of worthlessness or guilt strongly endorsed
+  - Some increased tiredness, but no major appetite or sleep problems
+  - Purposefully trying to lose weight by eating less

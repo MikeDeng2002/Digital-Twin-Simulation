@@ -1,0 +1,19 @@
+- Need for Closure: High (items 1, 11: 5 - agree strongly; 2, 5, 9, 11: mostly 4-5), indicating discomfort with ambiguity, preference for order, and quick decision-making.
+
+- Need for Cognition: Moderate to low (item 6: 1 - strongly disagree with enjoying hard thinking; other items mostly 2-4), indicating limited intrinsic enjoyment of deep thinking.
+
+- Maximizer: Moderate (items 1, 2: 5 and 4 - agree strongly and a little), indicating some tendency to seek best options and avoid settling.
+
+- Self-monitoring: Moderate to high (items 1, 2, 7, 9: mostly 4-5), indicating ability to adjust behavior in social situations.
+
+- Self-concept clarity: Moderate (items 1, 2, 6, 9, 11: mostly 4 - agree a little), some internal conflict but generally clear self-view.
+
+- Economic games: Mixed prosocial and self-interested behavior. In ultimatum game, proposes to keep $3/$5 (60%) and rejects offers that are generous to other but less to self, indicating moderate self-interest. In trust game, fully generous both as sender and receiver, indicating high trust and reciprocity.
+
+- Cognitive tests: Good verbal and logical reasoning, moderate spatial/puzzle skills. Self-estimated performance above average.
+
+Cross-scale inference: High need for closure aligns with preference for routine, order, and dislike of ambiguity. Moderate maximizer tendencies align with checking for better options and some dissatisfaction with settling. Moderate self-monitoring aligns with social sensitivity and ability to adjust behavior. Economic game behavior shows a balance between self-interest and trust.
+
+No major contradictions detected; scales align to depict a moderately anxious, conscientious, socially aware individual with a preference for order and moderate cognitive engagement.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social orientation, evidenced by moderate agreeableness (Big Five), high politeness and civility values, moderate self-monitoring (scales 1 and 2), and generous behavior in trust games. However, the ultimatum game behavior reveals some self-interest, and moderate need for closure may limit openness to social ambiguity. The agreement among self-monitoring, values, and economic games supports a moderately high social weighting.

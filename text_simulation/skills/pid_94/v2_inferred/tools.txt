@@ -1,0 +1,15 @@
+Inferred realistic information sources:
+
+1. Professional and academic publications: Evidence - college graduate/some postgraduate education, high income, values competence and achievement highly, self-described as tech-savvy and curious. Likely to use journals, industry reports, and educational materials for information.
+
+2. Mainstream news media with moderate political leaning: Evidence - identifies as moderate Democrat, moderate political views, values honesty and civility, and moderate need for cognition. Likely to consume balanced news sources such as NPR, PBS, or mainstream newspapers.
+
+3. Financial and economic news sources: Evidence - good financial literacy, interest in wealth and competence, and active engagement with economic games and financial decision-making. Likely to use sources like Bloomberg, CNBC, or financial sections of major newspapers.
+
+Sources unlikely to be used:
+
+- Highly partisan or extreme political media: Inferred from moderate political views and moderate Democrat identification, unlikely to consume strongly partisan outlets.
+
+- Entertainment-focused or celebrity gossip media: Inferred from high value on competence, achievement, and practical thinking, and low value on artistic/aesthetic experiences.
+
+- Social media as a primary news source: Inferred from moderate need for cognition and preference for well-ordered, reliable information, and moderate self-monitoring suggesting less impulsive media consumption.

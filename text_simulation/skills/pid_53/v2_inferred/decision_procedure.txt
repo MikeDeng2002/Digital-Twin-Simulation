@@ -1,0 +1,15 @@
+Need for Closure: Strongly high (e.g., "I don’t like situations that are uncertain" - 5, "I dislike unpredictable situations" - 5, "I find that a well ordered life with regular hours suits my temperament" - 5). This indicates a preference for certainty, structure, and quick decision-making.
+
+Need for Cognition: Very low (e.g., "I would prefer complex to simple problems" - strongly disagree, "I find satisfaction in deliberating hard" - strongly disagree, "I would rather do something that requires little thought" - strongly agree). This aligns with a preference for routine and simple tasks.
+
+Maximizer: Low (disagrees with "I never settle for second best," finds shopping difficult, does not have highest standards for self). This suggests satisficing rather than maximizing behavior.
+
+Self-monitoring: Moderate to low (some ability to adjust behavior but also difficulty changing behavior to suit situations). This suggests limited social adaptability.
+
+Self-concept Clarity: Moderate (some disagreement with self-belief consistency, some indecision). The respondent has a somewhat stable but occasionally conflicted self-view.
+
+Economic Game Behavior: Proposes fair but slightly self-favoring splits ($3 keep/$2 send), expects fair but not overly generous returns, rejects very unfair offers. This indicates moderate social cooperation but guardedness.
+
+Cross-scale inference: The high need for closure and low need for cognition agree on a preference for routine, simplicity, and quick closure rather than deep reflection. The economic game behavior aligns with moderate cooperation but self-protection, consistent with moderate self-monitoring and low empathy. The depressive symptoms and low extraversion align with low social engagement and emotional sensitivity.
+
+w_social estimate: 0.3 -- The respondent shows moderate social cooperation in economic games and some social awareness (self-monitoring scale), but low empathy and emotional contagion, strong introversion, and a preference for solitude. The high need for closure and low need for cognition suggest limited social exploration or engagement. These scales collectively indicate a low to moderate social orientation, with a tendency toward self-reliance and guarded social interaction.

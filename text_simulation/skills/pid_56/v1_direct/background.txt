@@ -1,0 +1,247 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age 65+ (Question: How old are you? Answer: 65+)
+- Highest education level: High school graduate (Question: What is the highest level of schooling or degree that you have completed? Answer: High school graduate)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Divorced (Question: Which of these best describes you? Answer: Divorced)
+- Religion: Other (Question: What is your present religion, if any? Answer: Other)
+- Attends religious services more than once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: More than once a week)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Republican)
+- Political views: Conservative (Question: In general, would you describe your political views as? Answer: Conservative)
+- Family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five, from direct self-report items):
+  - Somewhat talkative (Q: Is talkative; Answer: Agree a little)
+  - Tends to find fault with others (Agree a little)
+  - Does a thorough job (Agree strongly)
+  - Not depressed (Disagree strongly)
+  - Somewhat original (Agree a little)
+  - Somewhat reserved (Agree a little)
+  - Helpful and unselfish (Agree a little)
+  - Not careless (Disagree a little)
+  - Relaxed, handles stress well (Agree strongly)
+  - Curious about many things (Agree a little)
+  - Full of energy (Agree a little)
+  - Does not start quarrels (Disagree a little)
+  - Reliable worker (Agree strongly)
+  - Neither tense nor relaxed (Neither agree nor disagree on tense)
+  - Not a deep thinker (Disagree strongly)
+  - Generates enthusiasm (Agree a little)
+  - Forgiving nature (Agree strongly)
+  - Neither disorganized nor organized (Neither agree nor disagree)
+  - Worries little (Disagree a little)
+  - Active imagination (Agree a little)
+  - Somewhat quiet (Agree a little)
+  - Neither trusting nor distrusting (Neither agree nor disagree)
+  - Not lazy (Disagree strongly)
+  - Emotionally stable (Agree strongly)
+  - Inventive (Agree a little)
+  - Assertive personality (Agree a little)
+  - Not cold and aloof (Disagree a little)
+  - Not moody (Disagree a little)
+  - Neutral on artistic/aesthetic values (Neither agree nor disagree)
+  - Sometimes shy (Agree strongly)
+  - Considerate and kind (Agree strongly)
+  - Does things efficiently (Agree strongly)
+  - Remains calm in tense situations (Agree strongly)
+  - Prefers routine work (Agree strongly)
+  - Neutral on outgoing/sociable (Neither agree nor disagree)
+  - Neutral on rudeness (Neither agree nor disagree)
+  - Makes plans and follows through (Agree a little)
+  - Gets nervous easily (Agree a little)
+  - Neutral on liking to reflect/play with ideas (Neither agree nor disagree)
+  - Neutral on artistic interests (Neither agree nor disagree)
+  - Not sophisticated in art/music/literature (Disagree strongly)
+- Need for Cognition (direct self-report):
+  - Prefers simple problems (Disagree strongly)
+  - Does not like responsibility requiring much thinking (Disagree strongly)
+  - Thinking is not fun (Agree strongly)
+  - Prefers low thought tasks (Agree strongly)
+  - Avoids deep thinking (Neither agree nor disagree)
+  - Does not enjoy deliberating hard (Disagree strongly)
+  - Thinks only as hard as necessary (Agree a little)
+  - Prefers small daily projects (Agree strongly)
+  - Likes tasks requiring little thought once learned (Agree strongly)
+  - Neutral on relying on thought to get ahead (Neither agree nor disagree)
+  - Neutral on enjoying new solutions (Neither agree nor disagree)
+  - Learning new ways to think not exciting (Agree a little)
+  - Neutral on liking puzzles (Neither agree nor disagree)
+  - Neutral on liking abstract thinking (Neither agree nor disagree)
+  - Prefers less intellectual tasks (Disagree a little)
+  - Feels relief, not satisfaction, after mental effort (Agree strongly)
+  - Cares only that something works, not how (Agree strongly)
+  - Does not deliberate about issues not personally affecting (Disagree strongly)
+- Values (rated as guiding principles):
+  - Wealth: 8 (quite important)
+  - Pleasure: 9 (highly important)
+  - Forgiveness: 5 (quite important)
+  - Influence: 4
+  - Trust: 7
+  - Competence: 9 (highly important)
+  - Humility: 6
+  - Achievement: 3
+  - Altruism: 4
+  - Ambition: 2 (low)
+  - Loyalty: 8
+  - Politeness: 7
+  - Power: 1 (not important)
+  - Harmony: 8
+  - Excitement: 6
+  - Honesty: 9 (highly important)
+  - Compassion: 8
+  - Status: 2 (low)
+  - Civility: 8
+  - Autonomy: 9 (highly important)
+  - Equality: 5
+  - Recognition: 1 (not important)
+  - Tradition: 8
+  - Superiority: 1 (not important)
+- Minimalism and possessions:
+  - Neither agrees nor disagrees on avoiding accumulating stuff
+  - Agrees a little on restricting number of things owned
+  - Agrees a little that "less is more" in owning things
+  - Agrees a little on actively avoiding excess possessions
+  - Neutral on being drawn to sparse environments
+  - Agrees a little on preferring simplicity in design
+  - Neutral on keeping home aesthetic sparse or leaving spaces empty
+  - Strongly agrees on being mindful of what is owned
+  - Neutral on careful curation of belongings
+  - Neutral on importance of thoughtful ownership
+  - Neutral on mindful selection of belongings
+- Empathy and emotional sensitivity:
+  - Disagrees a little that friends’ emotions don’t affect them much
+  - Agrees a little that after being with a sad friend, they feel sad
+  - Strongly agrees they can understand friends’ happiness
+  - Agrees a little they get frightened watching scary movies
+  - Neutral on getting caught up in others’ feelings easily
+  - Neutral on difficulty knowing when friends are frightened
+  - Disagrees a little that they don’t become sad seeing others cry
+  - Disagrees a little that others’ feelings don’t bother them
+  - Neutral on usually understanding how someone feels when down
+  - Agrees a little they can usually tell when friends are scared
+  - Strongly agrees they often become sad watching sad things on TV/films
+  - Neutral on understanding feelings before told
+  - Disagrees a little that seeing angered person has no effect
+  - Strongly agrees they can tell when people are cheerful
+  - Agrees a little they feel scared when friends are afraid
+  - Strongly agrees they can quickly realize when friend is angry
+  - Neutral on often getting swept up in friends’ feelings
+  - Disagrees a little that friend’s unhappiness doesn’t affect them
+  - Disagrees a little that they are usually unaware of friends’ feelings
+  - Disagrees strongly that they have trouble figuring out when friends are happy
+- Environmental concern:
+  - Agrees a little that products used should not harm environment
+  - Neutral on considering environmental impact in decisions
+  - Neutral on purchase habits affected by environmental concern
+  - Agrees a little about concern for wasting planet’s resources
+  - Neutral on describing self as environmentally responsible
+  - Neutral on willingness to be inconvenienced for environment
+- Cognitive test performance:
+  - Correctly answered logic and reasoning questions about syllogisms and conditionals (e.g., "All XARs are YOFs" questions)
+  - Correctly answered some but not all cognitive puzzles (e.g., cube rotation, pattern completion)
+  - Estimated self to have answered 20/42 cognitive questions correctly
+  - Estimated average US adult would answer 35/42 correctly
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in $5 split (Ultimatum proposer)
+  - Accepts all offers except $0 to self (Ultimatum responder)
+  - In trust game, keeps $4 and sends $1; as receiver, keeps majority and sends back smaller amounts, indicating cautious but somewhat reciprocal behavior
+  - Thoughts during decisions include feelings of difficulty, unfairness, nervousness, greed, dishonesty, sadness
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest
+  - Incorrectly believes inflation-adjusted purchasing power remains the same with 1% interest and 2% inflation
+  - Does not know which asset has highest fluctuations over time
+  - Correctly knows stock mutual funds can lose money
+  - Incorrectly believes spreading money among assets increases risk
+  - Incorrectly believes bonds normally give highest return over long periods
+  - Incorrect about required minimum distributions after age 70.5
+  - Estimates credit card debt payoff time as 15 years
+  - Makes several errors in numerical and probability questions (e.g., die rolls, lottery odds, cost problems)
+- Personality self-concept:
+  - Aspires to be more self-assured, make others happy, treat others with respect
+  - Believes ought to be at peace, get along with everyone, display kindness
+  - Describes self as sometimes quiet, sometimes talkative, usually happy
+- Self-reported personality attributes:
+  - Does not need encouragement to continue work
+  - Sometimes feels resentful, has given up due to low self-belief, has rebelled against authority
+  - Has taken advantage of someone
+  - Not always willing to admit mistakes
+  - Sometimes courteous even to disagreeable people
+  - Has been irked by differing ideas
+  - Does not report jealousy or irritation by favors
+  - Has deliberately hurt feelings
+- Self-reported organization and efficiency:
+  - Neutral on being organized
+  - High on efficiency, systematic, practical
+  - Neutral on disorganized, low on sloppy and careless
+- Anxiety and stress symptoms:
+  - Mostly not bothered by symptoms; slight inability to relax, slight dizziness, slight nervousness, slight fear of dying/scared
+- Self-concept clarity:
+  - Believes self is clear about who they are (Agree strongly)
+  - Some minor fluctuations in self-beliefs (Agree a little)
+  - Does not feel conflicted about self-beliefs
+  - Does not feel like a different person at times
+- Need for closure:
+  - Prefers order, dislikes uncertainty moderately (Agree a little to strongly on items)
+  - Likes clear, structured life and routines
+  - Feels relief after decisions
+  - Wants quick solutions but not extremely impatient
+- Maximizer tendencies:
+  - Often checks for better options (Agree strongly)
+  - Does not strongly seek better opportunities (Disagree a little)
+  - Has some difficulty shopping for gifts and clothing (Agree a little)
+  - Does not have highest standards or never settles for second best (Neutral to disagree a little)
+- Self-monitoring:
+  - Generally able to alter behavior to suit situations (Generally true)
+  - Can control impression given (Generally true)
+  - Some difficulty changing behavior sometimes (Somewhat true/false)
+  - Can read others’ emotions well (Mixed responses)
+  - Can tell when jokes are in bad taste and when something inappropriate is said (Generally true)
+  - Does not usually detect lies from mannerisms (Generally false)
+- Self-reported conflict and clarity in self-beliefs:
+  - Neither agrees nor disagrees that beliefs conflict
+  - Slightly agrees that beliefs change somewhat
+  - Disagrees strongly that descriptions of self vary day to day
+  - Generally clear sense of self (Agree strongly)
+- Depression and mood:
+  - Does not feel sad or discouraged
+  - Feels more failure than average person
+  - Gets as much satisfaction as before
+  - Feels guilty a good part of the time
+  - Feels may be punished
+  - Feels disappointed in self
+  - Does not feel worse than others
+  - Does not cry more than usual
+  - Gets annoyed more easily than before
+  - Less interested in others and sex than before
+  - Puts off decisions more than before
+  - Sleeps less well, gets tired more easily
+  - Appetite and weight stable
+  - Worried about physical health problems
+  - Purposely trying to lose weight
+- Consumer uniqueness and product use:
+  - Neutral on combining possessions for unique image
+  - Neutral on seeking original or special products
+  - Slightly agrees on breaking customs/rules in product use
+  - Slightly agrees on avoiding popular products
+- Spending habits:
+  - About average spending habits (neither tightwad nor spendthrift)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to cautious shopper who refrains from buying despite sales
+- Logical reasoning:
+  - Correctly identifies cards to test conditional rules (cards A and 3)
+  - Correctly answers syllogistic logic questions mostly
+  - Some errors in logical conclusions (e.g., some incorrect answers on syllogisms)
+- Decision making and preferences:
+  - Prefers to depend on self rather than others (Agree strongly)
+  - Values personal identity and doing job better than others (Agree strongly)
+  - Values cooperation and family duty (Agree strongly)
+  - Values pleasure in spending time with others (Agree strongly)
+  - Competitive but not overly tense about others’ success
+  - Accepts others’ success with some pride
+  - Values kindness and respect in groups
+- Economic game thoughts:
+  - Feels decisions about money splits are hard, uncomfortable, unfair, nervous
+  - Feels receiver decisions involve greed, dishonesty, sadness, unfairness

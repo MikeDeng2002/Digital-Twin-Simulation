@@ -1,0 +1,29 @@
+Education + Income: College graduate with some postgraduate education and moderate income ($30k-$50k) suggests access to academic and mainstream news sources, possibly online platforms like NPR, The New York Times, academic journals, and moderate subscription services. Likely familiar with financial and political news but limited discretionary income may limit expensive subscriptions.
+
+Need for Cognition (neutral to low): Moderate research depth, likely to engage in some analytical effort but not deep or prolonged. Likely to read summaries, opinion pieces, and moderate-depth analyses rather than primary research or technical papers.
+
+Political Identity (very liberal Democrat): Likely to prefer partisan-leaning sources aligned with liberal views (e.g., MSNBC, The Guardian, Vox), but may also consult neutral or fact-based sources to confirm information. Avoids conservative or right-leaning sources.
+
+Empathy (high): Relies on social networks and interpersonal communication for information validation. Likely to discuss topics with friends and community, values consensus and social proof.
+
+Maximizer (moderate): Some comparison shopping for information, but not exhaustive. May check multiple sources but settles once a satisfactory answer is found.
+
+Consumerism/Uniqueness (low consumerism, moderate uniqueness): Likely to avoid mainstream or trendy sources, prefers curated, thoughtful content. May avoid viral or clickbait content.
+
+Minimalism (high): Curates information carefully, avoids overload, prefers concise and relevant information.
+
+Likely Platforms and Sources:
+- NPR, The New York Times, The Atlantic (moderate to deep research)
+- Vox, Slate, or similar liberal-leaning outlets (moderate research)
+- Social media for social validation (Facebook groups, Twitter)
+- Podcasts on politics and culture (moderate depth)
+- Avoids Fox News, Breitbart, or highly partisan conservative sources (high confidence)
+- Avoids sensationalist or clickbait sites (high confidence)
+
+Confidence Levels:
+- Education and income-based source inference: High confidence
+- Political identity source preference: High confidence
+- Empathy and social network reliance: Moderate confidence
+- Maximizer and minimalism influence on source curation: Moderate confidence
+
+Research Depth: Moderate overall, with some analytical engagement but not exhaustive or highly technical.

@@ -1,0 +1,21 @@
+Need for Closure: Mixed signals. She dislikes ambiguous statements and prefers structured life (items 2,4,11 on Need for Closure scale agree strongly), but is neutral on some closure items and does not rush decisions (disagrees with impatience). Overall moderate need for closure.
+
+Need for Cognition: Low to moderate. Dislikes deep, prolonged thinking and intellectual challenges but enjoys some abstract thinking and reflection. This suggests a preference for manageable cognitive effort.
+
+Maximizer: Low. Disagrees with never settling for second best and having highest standards, indicating satisficing rather than maximizing tendencies.
+
+Self-monitoring: Moderate to high. Generally able to adjust behavior and read emotions, but some exceptions. High scores on items about reading emotions and adjusting behavior, but some difficulty changing behavior.
+
+Self-concept Clarity: Moderate to high. Disagrees with internal conflict and identity confusion, agrees with clear sense of self.
+
+Economic game behavior: Fair and altruistic. Proposes and accepts fair splits, rejects unfair offers. In the trust game, sends moderate amounts and returns fair shares, motivated by fairness and moral considerations.
+
+Cross-scale inference:  
+- Conscientiousness (Big Five) and high self-discipline align with high organization and persistence.  
+- Low openness and low need for cognition align with preference for routine and dislike of intellectual challenge.  
+- Moderate self-monitoring and empathy align with social sensitivity but emotional boundaries.  
+- Economic games and values align with altruism, fairness, and cooperation.
+
+No contradictions detected; scales are consistent.
+
+w_social estimate: 0.65 -- The respondent shows moderate social orientation, evidenced by high agreeableness traits like helpfulness and kindness (Big Five), strong altruistic values, and fair behavior in economic games. Moderate self-monitoring and empathy support social attunement, though some emotional distance (controlled empathy) and reserved nature temper this. The combination of cooperative values and social sensitivity, balanced with some aloofness and low extraversion, suggests a moderately socially engaged individual.

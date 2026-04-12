@@ -1,0 +1,27 @@
+- Need for Closure:
+  - Strongly dislikes uncertainty (Item 1: 5 - Agree strongly)
+  - Dislikes ambiguous statements (Item 11: 5 - Agree strongly)
+  - Prefers clear, structured life and routine (Items 12: 5, 13: 4)
+  - Dislikes unpredictable situations (Item 15: 5)
+  - Feels relieved when decisions are made (Item 7: 4)
+  - Feels uncomfortable without understanding reasons (Item 4: 4)
+  - Irritated when one person disagrees with group (Item 5: 4)
+- Need for Cognition:
+  - Enjoys complex, intellectual tasks (Items 1,2,10,11,14,15: mostly 4 or 5)
+  - Finds thinking satisfying (Item 6: 4)
+  - Deliberates about issues even if not personally affected (Item 18: 5)
+  - Does not avoid thinking (Item 5: 1 - Disagree strongly)
+- Maximizer:
+  - Has high standards for self (Item 5: 5)
+  - Never settles for second best (Item 6: 4)
+  - Sometimes checks for better options (Item 1: 4)
+  - Looks for better opportunities (Item 2: 4)
+- Self-monitoring:
+  - Generally able to alter behavior to suit social situations (Items 1,2,8,9,10,11,12,13: mostly 5)
+  - Somewhat true that can change image if needed (Item 3: 4)
+  - Some difficulty putting up a good front (Item 6: 4)
+- Self-concept clarity:
+  - Somewhat unclear or variable self-beliefs (Items 1,2,3,7,8: 4; Items 4,9: 3; Items 5,6,10: 2)
+  - Generally has clear sense of self (Item 11: 4)
+  - Finds it hard to make up mind due to uncertainty about wants (Item 12: 5)
+- w_social estimate: 0.7 -- This person shows moderately high self-monitoring (items 1,2,8,9,10,11,12,13), strong need for closure (items 1,4,5,6,7,11,12,15), and a high need for cognition (items 1,2,6,10,11,14,15,18), indicating a thoughtful but socially aware decision style. The moderate self-concept clarity and maximizer tendencies suggest careful consideration of options and social context, supporting a w_social estimate above average but not maximal.

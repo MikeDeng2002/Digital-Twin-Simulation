@@ -1,0 +1,22 @@
+Need for Closure: Low to moderate. Dislikes rushing to conclusions, comfortable with ambiguity and complexity, does not feel relief upon decision. Willing to tolerate uncertainty in forming predictions.
+
+Need for Cognition: Moderate. Engages in thinking and problem-solving but not strongly driven to intellectual challenge. Will invest analytical effort but may avoid overly complex or abstract reasoning.
+
+Maximizer: Low. Seeks good enough answers rather than exhaustive best. Will satisfice in information gathering and decision-making.
+
+Self-monitoring: Moderate. Notices social cues and adjusts behavior but limited in emotional intuition. Does not strongly defer to others but aware of social expectations.
+
+Self-concept clarity: High. Stable and consistent self-view, resistant to social pressure or contradictory information.
+
+Economic game gap: Proposes moderately fair splits, accepts all reasonable offers, shows moderate trust and reciprocity. Behavior aligns with stated fairness and social concern.
+
+Intertemporal patience: Moderate to high. Prefers delayed rewards consistently, indicating future-oriented thinking in decisions.
+
+Cognitive errors: Some semantic confusion in vocabulary tests and logical reasoning errors on negation and contraposition. Suggests occasional lapses in abstract reasoning and semantic precision, which may affect numeric prediction accuracy especially in complex or counterintuitive domains.
+
+Social desirability: Moderate. Some tendency to present self positively, but admits some negative traits and limitations. Self-reports generally reliable but with mild positive bias.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the moderate Need for Cognition and low Maximizer tendencies with high empathy and social concern, indicating a person who integrates social information and moderate analytical effort in predictions. The moderate cognitive test performance and some reasoning errors suggest caution in overestimating analytical depth. The high self-concept clarity and low Need for Closure imply stable but flexible views, not rushed to premature conclusions. Social desirability is moderate, so self-reports are mostly trustworthy but may slightly underreport negative traits. Overall, this person is a moderately analytical, socially attuned, fair-minded individual who will produce numeric predictions based on a blend of moderate research, social input, and satisficing heuristics rather than deep technical modeling or maximalist information search.
+
+# Summary for simulation: Expect moderate-depth research, reliance on mainstream liberal sources, social validation, moderate patience, and fairness concerns influencing numeric predictions. Cognitive errors may cause occasional under- or over-estimation in complex numeric domains. Predictions will be stable but open to revision with new information.

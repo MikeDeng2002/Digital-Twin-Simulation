@@ -1,0 +1,11 @@
+- Need for Closure: Moderate-low (disagreeing with discomfort about uncertainty, but agreeing with liking order and quick solutions). This suggests a balanced approach to decision-making, not rushed but preferring clarity.
+- Need for Cognition: Mixed signals; enjoys problem-solving and intellectual tasks but also avoids deep thinking situations. This may indicate selective cognitive engagement.
+- Maximizer: Low (disagree strongly with maximizing behaviors), indicating satisficing and contentment with "good enough" options.
+- Self-monitoring: Moderate-high (items 1-13 in self-monitoring scale mostly "generally true"), indicating social adaptability and awareness.
+- Self-concept clarity: High (strong agreement with clear, stable self-view).
+- Economic games: Proposes fair but self-beneficial splits; accepts fair offers; reciprocates moderately in trust games, indicating balanced social preferences.
+- Cognitive tests: Average performance, consistent with self-estimate and population norms.
+
+No major contradictions; scales align to depict a conscientious, emotionally stable, moderately agreeable individual with balanced social preferences and moderate cognitive engagement.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social orientation, as indicated by high agreeableness items (helpful, forgiving, kind), strong family and altruistic values, and cooperative behavior in economic games. Self-monitoring scores support social adaptability. However, moderate extraversion and some ambivalence in cognitive engagement temper this. The agreement across Big Five agreeableness, self-monitoring, and economic game reciprocity scales supports this estimate.

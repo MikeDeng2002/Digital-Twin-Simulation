@@ -1,0 +1,32 @@
+Need for Closure: Moderate to high (mostly 4s), wants reasonably quick resolution but tolerates some ambiguity. Likely to form conclusions after sufficient evidence but dislikes prolonged uncertainty.
+
+Need for Cognition: High (mostly 4-5), invests significant analytical effort, enjoys complex problem solving, likely to engage in detailed reasoning and data analysis.
+
+Maximizer: Moderate; seeks good answers but willing to satisfice once a reasonable solution is found. Does not compulsively search but compares options thoughtfully.
+
+Self-monitoring: High; notices social cues and adjusts behavior accordingly, though self-concept clarity is also high, so social influence is moderated by stable self-view.
+
+Self-concept Clarity: High; stable and coherent self-identity, resists social pressure that conflicts with self-view.
+
+Economic Game Gap: Dictator game offer ($3 keep/$2 give) and ultimatum acceptance of all offers except $0 indicate strategic fairness and rationality. Trust game behavior shows moderate trust and reciprocity expectations. No major gap between stated and strategic behavior.
+
+Intertemporal Patience: Prefers larger later rewards consistently, indicating future-oriented thinking and patience in decision-making.
+
+Cognitive Errors: Some errors in syllogistic logic (accepting invalid conclusions) and cube rotation puzzles suggest occasional reasoning biases or spatial reasoning challenges. However, high vocabulary and synonym/antonym accuracy indicate strong verbal reasoning. These errors imply some susceptibility to confirmation bias or heuristic shortcuts in complex logical tasks, which may affect numeric predictions by occasional overconfidence or misinterpretation of conditional logic.
+
+Social Desirability: Moderate honesty; admits to some negative traits (jealousy, taking advantage) and does not overstate positive traits, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate balances the high self-monitoring and empathy scores indicating social awareness with the high self-concept clarity and moderate need for closure suggesting resistance to social pressure. The economic games show strategic fairness rather than purely self-interested behavior, supporting moderate social weighting. Cognitive test performance and error patterns indicate strong reasoning but some heuristic biases, which may be moderated by social context. Social desirability is moderate, so self-reports are credible but not perfectly free of bias. Overall, social information moderately influences this person's numeric predictions, but they rely heavily on analytical reasoning and stable personal beliefs.
+
+# Summary for simulation of numeric predictions:
+- Likely to research deeply using a mix of ideologically aligned and neutral expert sources.
+- Will invest significant cognitive effort but will satisfice once a coherent narrative forms.
+- Prefers structured, ordered information and dislikes ambiguity, so predictions will tend to be confident and relatively precise.
+- Social context and peer opinions moderately influence predictions but are filtered through a stable self-concept.
+- Cognitive biases may cause occasional logical errors or overconfidence, especially in complex conditional or spatial reasoning.
+- Economic and intertemporal preferences suggest moderate risk tolerance and future orientation, so predictions will weigh long-term trends and moderate risk.
+- Likely to avoid fringe or sensationalist information, favoring reputable and somewhat conservative sources.
+
+This profile supports a simulation of numeric predictions that are analytically grounded, moderately socially informed, and somewhat conservative in uncertainty tolerance.

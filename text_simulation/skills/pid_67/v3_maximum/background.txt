@@ -1,0 +1,48 @@
+Demographics: Male, age 30-49, White, living in the U.S. Midwest, never married, agnostic with no religious service attendance, politically independent but self-identifies as very liberal, full-time employed, household size 1, family income $30,000-$50,000, some college but no degree. This suggests a middle-aged, moderately educated, single individual with modest income, likely urban or suburban Midwest, with liberal social views and secular worldview. The modest income and some college indicate moderate access to information and resources but not elite education or wealth.
+
+Big Five (44 items):  
+- High talkativeness (5), high fault-finding (5), very thorough and reliable (5), somewhat original and inventive (4), somewhat reserved (4), somewhat tense and moody (4-5), low forgiveness (1), low trust (1), low laziness and carelessness (1), high curiosity (5), high imagination (5), moderate energy (3), moderate assertiveness (3), somewhat cold/aloof (4), high perseverance (5), high artistic appreciation and sophistication (5), somewhat shy (5), moderate cooperation (4), low distractibility (2), moderate quarrelsomeness (4), moderate nervousness (4), high calmness in tense situations (5).  
+This profile shows a complex personality: highly conscientious, curious, imaginative, and somewhat socially reserved and moody, with low agreeableness (low forgiveness, low trust, somewhat cold, quarrelsome). The person is talkative but also shy and reserved, indicating possible social ambivalence or complexity.
+
+Need for Cognition (18 items): Very high scores (mostly 5s), strongly preferring complex problems, intellectual challenges, abstract thinking, and deep deliberation. Disagrees strongly with thinking being unpleasant or shallow. This person enjoys thinking hard and long, and seeks intellectual challenge.
+
+Values (24 items): Highest values are Altruism (9), Harmony (9), Compassion (9), Equality (9), Pleasure (8), Humility (8), Excitement (8), Honesty (8), Competence (7), Loyalty (7), Achievement (6). Low values on Politeness (1), Tradition (1), Power (2), Superiority (2), Status (3), Influence (3).  
+This indicates a worldview strongly oriented toward social justice, caring for others, equality, and harmony, with a strong moral compass (honesty, humility), and moderate ambition and competence. Low emphasis on power, status, and tradition suggests non-conformist, progressive values.
+
+Minimalism (12 items): Strong disagreement with minimalism statements about avoiding possessions or restricting ownership (mostly 1s and 2s), but strong agreement with mindfulness and curation of possessions (5s on mindful ownership and careful selection). This suggests the person is not minimalist in quantity but is selective and thoughtful about what they own.
+
+Empathy (20 items): Very high empathy, strongly affected by others’ emotions, easily catching others’ feelings, good at reading emotions, strongly disagreeing with statements about being unaffected by others’ feelings. This person is highly socially attuned emotionally.
+
+Consumerism/Uniqueness: Mixed signals. Neither strongly rejecting nor embracing uniqueness in products; some agreement with breaking social rules in consumption and seeking interesting/unusual products, but strong disagreement with avoiding popular products or brands. This suggests moderate openness to uniqueness but not strong countercultural consumerism.
+
+Social Desirability: Moderate to low. The person admits to negative traits (resentment, taking advantage, irritation, jealousy), and does not strongly endorse socially desirable self-presentation items. Self-monitoring is moderate (4s on ability to adjust behavior), but low on concern about others’ expectations (1 on thinking about what others expect). Self-concept clarity is very high (mostly 5s), indicating a stable and coherent self-view.
+
+Cognitive Test Performance:  
+- Correct answers on 40/42 cognitive questions, indicating very high cognitive ability.  
+- Logical reasoning: mostly correct, except a few errors on syllogistic logic (e.g., plants not animals conclusion incorrect, some confusion on negations).  
+- Cube rotation puzzles: some errors or inconsistent answers, indicating possible occasional spatial reasoning slips or overconfidence.  
+- Word associations: chain shows mostly concrete to abstract progression, with some thematic jumps (table → cloth → fabric → thread → needle → sword → medieval → chicken → roast → fond → umami → hamburger → ketchup → tomato → seeds → sunflower → samurai → Japan → newspaper → sumo). This shows associative flexibility, mixing concrete and cultural concepts, with some thematic coherence around food and culture.  
+- Synonym/antonym tests: near perfect, indicating strong vocabulary and verbal reasoning.  
+- Wason selection task: correctly identifies cards to test rule, showing good conditional reasoning.
+
+Economic Games:  
+- Dictator game: keeps $3, gives $2 (60/40 split), moderately selfish but fair.  
+- Ultimatum game: accepts all offers except $0, rejects $0 offer, indicating fairness norm enforcement.  
+- In the trust game (tripling money), keeps $3, sends $2; as receiver, returns about half of received money, showing moderate reciprocity and fairness.  
+- Thoughts during economic games emphasize fairness, acknowledging risk, and appreciation, indicating social fairness orientation but self-interest balanced.
+
+Intertemporal Choice:  
+- Prefers larger later rewards over smaller sooner ones consistently until amounts are very close, indicating moderate to high patience and future orientation.
+
+Financial Literacy:  
+- Correct understanding of mortgage, inflation, risk diversification, and investment returns.  
+- Correct numeric answers on probability and expected value questions.  
+- Recognizes credit card debt minimum payments will never eliminate debt, showing financial sophistication.
+
+Behavioral Tendencies:  
+- Self-reports as critical of self, unforgiving, quick to anger, somewhat moody, but also highly conscientious and persevering.  
+- Reports feeling sad and discouraged sometimes, with some guilt and self-disappointment, but no severe depression symptoms.  
+- Sleep and appetite slightly affected, some tiredness, but no major functional impairment.  
+- Tries to lose weight by eating less, indicating some health or self-control motivation.
+
+Summary: This is a moderately educated, middle-income, middle-aged white male from the Midwest with a complex personality profile: highly conscientious, curious, imaginative, socially reserved but talkative, emotionally empathetic but low in agreeableness (low trust, low forgiveness, somewhat cold). He values altruism, equality, and compassion highly, with progressive political views. Cognitively very strong, enjoys intellectual challenges and deep thinking, with good financial literacy and moderate patience. Socially fair but self-interested in economic games, with a stable self-concept and moderate self-criticism and mood vulnerability.

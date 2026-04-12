@@ -1,0 +1,17 @@
+Need for Closure: Moderate-low (items mostly neutral or slight agreement with liking order and routine, but no strong discomfort with uncertainty). This suggests some tolerance for ambiguity.
+
+Need for Cognition: Moderate (agrees a little with enjoying thinking tasks but neutral or slight disagreement on preference for complex or abstract problems). Indicates moderate engagement with cognitive effort.
+
+Maximizer: Low to moderate (disagrees with never settling for second best, and does not strongly endorse highest standards). Suggests satisficing tendencies rather than maximizing.
+
+Self-monitoring: Moderate with ambivalence (mostly "somewhat false, but with exceptions" on items about adjusting behavior and reading emotions). Indicates some social adaptability but not high self-monitoring.
+
+Self-concept clarity: Moderate (agrees a little with having a clear sense of self, mostly disagrees with self-concept confusion). Suggests reasonably stable self-identity.
+
+Economic games: Shows self-interested behavior in dictator game (keeps all money), but accepts all offers as receiver, and in trust game sends moderate amount but expects to keep majority when receiving. Thoughts indicate strategic self-interest with some consideration for fairness ("try to get more myself, but not take all").
+
+Cross-scale inference: The moderate need for cognition and moderate self-monitoring align with strategic but not overly complex social reasoning. The moderate need for closure and self-concept clarity support stable but flexible decision-making. The economic game behavior aligns with moderate self-interest and pragmatic cooperation.
+
+No contradictions are evident; scales consistently indicate a pragmatic, moderately self-interested, cognitively engaged individual with stable self-concept and moderate social adaptability.
+
+w_social estimate: 0.4 -- The respondent shows moderate social weighting: economic games reveal self-interest tempered by some fairness (sending some money in trust game, accepting all offers), moderate self-monitoring and empathy-related items (agree a little with understanding friends' feelings), and moderate agreeableness traits. However, the strong choice to keep all money in the dictator game and strategic thoughts about maximizing own gain indicate a substantial self-interest component. The moderate need for cognition and closure suggest balanced but not highly social or highly self-focused decision-making.

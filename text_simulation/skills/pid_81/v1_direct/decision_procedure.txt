@@ -1,0 +1,26 @@
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty (Item 1: Agree strongly)
+  - Strongly agrees with not liking to be without expectations (Item 6: Agree strongly)
+  - Strongly agrees with disliking unpredictable situations (Item 15: Agree strongly)
+  - Agrees a little with liking a well-ordered life (Item 3: Agree a little)
+  - Agrees a little with feeling uncomfortable without understanding reasons (Item 4: Agree a little)
+  - Disagrees a little with impatience for immediate solutions (Items 8 and 9: Disagree a little)
+- Need for Cognition:
+  - Generally agrees a little with enjoying thinking and intellectual challenges (multiple items, e.g., Items 1,2,10,11,14,15)
+  - Disagrees strongly with preferring puzzles or deliberating about irrelevant issues (Items 13 and 18)
+  - Some ambivalence about deep, prolonged thinking (Disagree a little on satisfaction from deliberating hard and long, Item 6)
+- Maximizer:
+  - Agrees a little that they look for better options (e.g., radio stations, Item 1: Agree a little)
+  - Strongly agrees that it is right to look for better opportunities (Item 2: Agree strongly)
+  - Disagrees a little that they have highest standards or never settle for second best (Items 5 and 6: Disagree a little)
+- Self-monitoring:
+  - Somewhat true that they can alter behavior and control impressions (Items 1-3,5,7: Somewhat true)
+  - Somewhat false that they have difficulty changing behavior or putting up a front (Items 4 and 6: Somewhat false)
+  - Generally true that they can read others' emotions and facial expressions (Items 8,11,12: Generally true)
+  - Somewhat false that they can usually detect lies (Item 13: Somewhat false)
+- Self-concept clarity:
+  - Disagrees strongly that beliefs about self conflict or change frequently (Items 1-5,7-9: Disagree strongly)
+  - Agrees strongly that seldom experiences conflict between personality aspects (Item 6: Agree strongly)
+  - Agrees a little that has a clear sense of who they are (Item 11: Agree a little)
+  - Disagrees strongly that it is hard to make up mind because of uncertainty (Item 12: Disagree strongly)
+- w_social estimate: 0.6 -- This estimate is based on moderate to strong need for closure (Items 1,6,15), moderate need for cognition (Items 1,2,10,11), moderate self-monitoring with ability to read social cues (Items 1-3,8,11,12), and a reasonably clear self-concept (Items 1-6,11). The person shows some social awareness and concern for social norms but also a preference for solitude and introversion, suggesting moderate social reasoning under uncertainty.

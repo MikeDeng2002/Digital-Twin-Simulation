@@ -1,0 +1,240 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 18-29 (Question: How old are you? Answer: 18-29)
+- Education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Household size: 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2)
+- Employment status: Unemployed (Question: What is your current employment status? Answer: Unemployed)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Personality traits (Big Five, selected items):
+  - Talkative (5 - Agree strongly)
+  - Finds fault with others (4 - Agree a little)
+  - Does a thorough job (5 - Agree strongly)
+  - Not depressed (2 - Disagree a little)
+  - Original, comes up with new ideas (5 - Agree strongly)
+  - Not reserved (2 - Disagree a little)
+  - Helpful and unselfish (5 - Agree strongly)
+  - Somewhat careless (4 - Agree a little)
+  - Not relaxed, does not handle stress well (1 - Disagree strongly)
+  - Curious about many things (5 - Agree strongly)
+  - Full of energy (4 - Agree a little)
+  - Does not start quarrels (3 - Neither agree nor disagree)
+  - Reliable worker (4 - Agree a little)
+  - Can be tense (5 - Agree strongly)
+  - Ingenious, deep thinker (5 - Agree strongly)
+  - Generates enthusiasm (5 - Agree strongly)
+  - Forgiving nature (4 - Agree a little)
+  - Somewhat disorganized (4 - Agree a little)
+  - Worries a lot (5 - Agree strongly)
+  - Active imagination (5 - Agree strongly)
+  - Not quiet (2 - Disagree a little)
+  - Generally trusting (5 - Agree strongly)
+  - Somewhat lazy (4 - Agree a little)
+  - Emotionally unstable (1 - Disagree strongly)
+  - Inventive (4 - Agree a little)
+  - Not assertive (2 - Disagree a little)
+  - Not cold and aloof (2 - Disagree a little)
+  - Perseveres until task finished (4 - Agree a little)
+  - Moody (5 - Agree strongly)
+  - Values artistic, aesthetic experiences (5 - Agree strongly)
+  - Sometimes shy (4 - Agree a little)
+  - Considerate and kind (5 - Agree strongly)
+  - Does things efficiently (2 - Disagree a little)
+  - Does not remain calm in tense situations (2 - Disagree a little)
+  - Prefers routine work (4 - Agree a little)
+  - Outgoing, sociable (5 - Agree strongly)
+  - Not rude (2 - Disagree a little)
+  - Makes plans and follows through (4 - Agree a little)
+  - Gets nervous easily (5 - Agree strongly)
+  - Likes to reflect, play with ideas (5 - Agree strongly)
+  - Has artistic interests (1 - Disagree strongly)
+  - Likes to cooperate with others (5 - Agree strongly)
+  - Easily distracted (5 - Agree strongly)
+  - Sophisticated in art, music, or literature (5 - Agree strongly)
+- Need for Cognition (selected items):
+  - Prefers complex problems (4 - Agree a little)
+  - Likes responsibility requiring thinking (4 - Agree a little)
+  - Thinking is fun (1 - Disagree strongly that it is not fun)
+  - Does not avoid thinking (1 - Disagree strongly)
+  - Finds satisfaction in deliberating hard (4 - Agree a little)
+  - Thinks more than necessary (2 - Disagree a little)
+  - Prefers long-term projects (1 - Disagree strongly preferring small projects)
+  - Likes intellectual, difficult tasks (5 - Agree strongly)
+  - Enjoys coming up with new solutions (5 - Agree strongly)
+  - Likes abstract thinking (5 - Agree strongly)
+  - Prefers intellectual tasks over less thought tasks (5 - Agree strongly)
+  - Deliberates about issues even if not personally affected (5 - Agree strongly)
+- Values (rated as guiding principles):
+  - Wealth: 8
+  - Pleasure: 9
+  - Forgiveness: 7
+  - Influence: 9
+  - Trust: 5
+  - Competence: 9
+  - Humility: 6
+  - Achievement: 9
+  - Altruism: 4
+  - Ambition: 9
+  - Loyalty: 8
+  - Politeness: 5
+  - Power: 1 (Not important)
+  - Harmony: 4
+  - Excitement: 8
+  - Honesty: 9
+  - Compassion: 9
+  - Status: 9
+  - Civility: 7
+  - Autonomy: 9
+  - Equality: 8
+  - Recognition: 9
+  - Tradition: 4
+  - Superiority: 4
+- Environmental concern:
+  - Strongly agrees that products should not harm environment (5)
+  - Considers environmental impact in decisions (5)
+  - Purchase habits somewhat affected by environment (4)
+  - Concerned about wasting planet resources (5)
+  - Describes self as environmentally responsible (5)
+  - Willing to be inconvenienced for environment (5)
+- Empathy and social sensitivity:
+  - Does not say friends’ emotions don’t affect her (1 - Disagree strongly)
+  - Feels sad after being with sad friend (5 - Agree strongly)
+  - Understands friends’ happiness (5 - Agree strongly)
+  - Gets frightened by scary movies a little (4)
+  - Easily caught up in others’ feelings (5)
+  - Does not find it hard to know when friends are frightened (1 - Disagree strongly)
+  - Does not become sad when seeing others cry (2 - Disagree a little)
+  - Other people’s feelings bother her (1 - Disagree strongly)
+  - Understands when someone is feeling down (5)
+  - Can tell when friends are scared (5)
+  - Often becomes sad watching sad things on TV (4)
+  - Understands feelings before told (5)
+  - Does not say seeing angered person has no effect (1 - Disagree strongly)
+  - Can tell when people are cheerful (5)
+  - Feels scared when friends are afraid (4)
+  - Can tell when friend is angry (5)
+  - Often swept up in friends’ feelings (5)
+  - Friend’s unhappiness affects her (1 - Disagree strongly)
+  - Usually aware of friends’ feelings (1 - Disagree strongly)
+  - Does not have trouble figuring out when friends are happy (1 - Disagree strongly)
+- Self-concept clarity:
+  - Beliefs about self sometimes conflict (4 - Agree a little)
+  - Opinions of self vary day to day (4 - Agree a little)
+  - Spends time wondering who she really is (4 - Agree a little)
+  - Sometimes feels not really the person she appears to be (3 - Neither agree nor disagree)
+  - Not sure what she was like in past (2 - Disagree a little)
+  - Seldom experiences conflict between personality aspects (2 - Disagree a little)
+  - Sometimes thinks she knows others better than herself (4 - Agree a little)
+  - Beliefs about self change frequently (4 - Agree a little)
+  - Description of personality might differ day to day (3 - Neither agree nor disagree)
+  - Would tell someone what she’s really like (2 - Disagree a little)
+  - Generally has clear sense of who she is (4 - Agree a little)
+  - Finds it hard to make up mind because unsure what she wants (5 - Agree strongly)
+- Need for Closure:
+  - Dislikes uncertainty (5 - Agree strongly)
+  - Dislikes questions with many possible answers (2 - Disagree a little)
+  - Prefers well-ordered life (3 - Neither agree nor disagree)
+  - Uncomfortable not understanding reasons for events (4 - Agree a little)
+  - Irritated when one person disagrees with group (4 - Agree a little)
+  - Dislikes going into situations without knowing what to expect (5 - Agree strongly)
+  - Feels relieved when decision made (4 - Agree a little)
+  - Does not feel dying to reach solution immediately (2 - Disagree a little)
+  - Would not become impatient if solution not immediate (2 - Disagree a little)
+  - Does not dislike people capable of unexpected actions (2 - Disagree a little)
+  - Dislikes ambiguous statements (5 - Agree strongly)
+  - Likes consistent routine (5 - Agree strongly)
+  - Enjoys clear and structured life (4 - Agree a little)
+  - Does not usually consult many opinions before forming view (1 - Disagree strongly)
+  - Dislikes unpredictable situations (5 - Agree strongly)
+- Maximizer tendencies:
+  - Checks other radio stations even if satisfied (4 - Agree a little)
+  - Looks for better job opportunities even if satisfied (4 - Agree a little)
+  - Does not find it difficult to shop for gifts (1 - Disagree strongly)
+  - Does not have hard time finding clothing she loves (1 - Disagree strongly)
+  - Has highest standards for self (5 - Agree strongly)
+  - Never settles for second best (4 - Agree a little)
+- Self-monitoring:
+  - Can alter behavior in social situations (5 - Generally true)
+  - Can control impression given to others (5 - Generally true)
+  - Can change image if not working (4 - Somewhat true)
+  - Does not have trouble changing behavior to suit situations (2 - Generally false)
+  - Can adjust behavior to meet situation requirements (4 - Somewhat true)
+  - Sometimes has difficulty putting up a good front (4 - Somewhat true)
+  - Can regulate actions once situation known (4 - Somewhat true)
+  - Often able to read emotions through eyes (5 - Generally true)
+  - Sensitive to slight facial expression changes (5 - Generally true)
+  - Good intuition about others’ emotions and motives (5 - Generally true)
+  - Can tell when joke is in bad taste (6 - Certainly true)
+  - Can tell when said something inappropriate by listener’s eyes (5 - Generally true)
+  - Usually knows when someone is lying from manner (5 - Generally true)
+- Financial literacy:
+  - Knows 15-year mortgage requires higher monthly payments but less total interest than 30-year (True)
+  - Knows 1% interest with 2% inflation means buying power stays the same (Answer: Exactly the same)
+  - Does not know which asset has highest fluctuations (Answer: Do not know)
+  - Knows stock mutual fund can lose money (True)
+  - Knows diversification decreases risk (Decreases)
+  - Does not know which asset normally gives highest return over long term (Do not know)
+  - Knows required minimum distributions after age 70.5 (True)
+  - Estimates credit card debt payoff time as 1 year (likely underestimation)
+  - Estimates 500 even numbers in 1000 die rolls (correct)
+  - Estimates 10 winners in 1000 tickets with 1% chance (correct)
+  - Converts 20/100 chance to 20% (correct)
+  - Converts 1 in 1000 chance to 0.01% (correct)
+  - Estimates 100 people get disease with 10% chance in 1000 (correct)
+  - Answers 100 minutes for 100 machines making 100 widgets (likely incorrect; correct is 5 minutes)
+  - Answers ball costs $0.10 (incorrect; correct is $0.05)
+  - Answers 24 days for lily pad to cover half lake (incorrect; correct is 47 days)
+- Logical reasoning:
+  - Correctly identifies some logical conclusions as not following (e.g., cigarettes are good for health)
+  - Correctly identifies some logical conclusions as following (e.g., roses are flowers)
+  - Some errors in logical reasoning (e.g., bicycle needing oil means it has motor - answered Yes)
+- Economic games:
+  - Proposes to keep all $5 and send $0 in ultimatum game
+  - Would accept any offer as receiver, including $0
+  - In trust game, keeps all money and sends $0
+  - As receiver in trust game, keeps all money and sends $0 back
+  - Thoughts during decisions indicate belief that other person is not real, and personal financial need
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful when not getting way (True)
+  - Has given up on tasks due to low self-belief (True)
+  - Has felt like rebelling against authority (True)
+  - Not always a good listener (False)
+  - Has taken advantage of someone (True)
+  - Willing to admit mistakes (True)
+  - Does not try to get even (False)
+  - Usually courteous (True)
+  - Has been irked by differing ideas (False)
+  - Has been jealous of others’ good fortune (True)
+  - Sometimes irritated by favors asked (True)
+  - Has deliberately hurt someone’s feelings (False)
+- Spending habits:
+  - Self-reports as a high spender (10 on scale)
+  - Often has trouble limiting spending
+  - Rarely has trouble spending money
+  - More similar to Mr. B (who refrains from buying due to spending concerns)
+- Depression and mood:
+  - Does not feel sad, discouraged, or like a failure
+  - Feels guilty a good part of the time
+  - Feels may be punished
+  - Feels disappointed in self
+  - Blames self for everything bad
+  - Does not cry more than usual
+  - Not more irritated than usual
+  - Has not lost interest in others
+  - Makes decisions as well as before but sometimes puts off decisions
+  - Does not feel worthless
+  - Has to push self very hard to do anything
+  - Sleeps as well as usual
+  - Does not get more tired than usual
+  - Appetite not as good as before
+  - Has not lost much weight
+  - Worried about physical problems
+  - No recent change in interest in sex
+  - Is purposely trying to lose weight

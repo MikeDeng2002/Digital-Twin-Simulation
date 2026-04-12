@@ -1,0 +1,23 @@
+Need for Closure: Low to moderate. Prefers ordered life and clear decisions but not impatient or intolerant of ambiguity. Willing to deliberate but not rush.
+
+Need for Cognition: Moderate-low. Engages in some analytical effort but avoids deep or prolonged cognitive strain. Prefers practical problem-solving over abstract complexity.
+
+Maximizer: Moderate-high. Seeks good solutions and compares options but willing to settle when differences are small or options limited.
+
+Self-Monitoring: High. Adjusts behavior to social context, reads social cues well, but maintains own standards and does not defer unnecessarily.
+
+Self-Concept Clarity: Very high. Stable, consistent self-view, confident in identity, resists social pressure.
+
+Economic Game Gap: Behavior consistent across dictator and ultimatum games; moderate generosity and fairness, pragmatic self-interest. Trust game shows cautious trust but willingness to cooperate.
+
+Intertemporal Patience: Low. Prefers immediate rewards, discounts future gains heavily, indicating impatience or present bias.
+
+Cognitive Errors: Some logical errors in syllogistic reasoning and vocabulary nuances suggest heuristic shortcuts and occasional overconfidence in intuitive judgments. Moderate analytical rigor but not flawless.
+
+Social Desirability: Moderate-low bias. Self-reports appear reliable and consistent, with some admission of faults.
+
+w_social estimate: 0.65
+
+Reasoning: The estimate of 0.65 reflects a moderately strong but not perfect weighting on social and behavioral signals in reasoning. The individual shows high agreeableness, conscientiousness, and self-monitoring, indicating sensitivity to social norms and fairness, which influence numeric predictions. However, moderate need for cognition and some cognitive errors suggest reliance on heuristics and practical reasoning rather than deep analytical modeling. Low need for closure and high self-concept clarity imply openness to revising views but within a stable identity framework. Economic game behavior shows pragmatic fairness, and intertemporal impatience suggests predictions may favor nearer-term, concrete outcomes over distant or abstract possibilities. The moderate social desirability and consistent self-reporting support trusting the profile. Conflicts between moderate cognitive effort and some reasoning errors were resolved by weighting behavioral tasks and economic games more heavily, as they reflect actual decision-making under uncertainty.
+
+This profile predicts that on open numeric prediction questions (e.g., Bitcoin price, AGI arrival), the person will produce moderately reasoned estimates grounded in practical knowledge and social fairness norms, with some bias toward present-focused, less speculative outcomes, and moderate openness to updating beliefs with new information.

@@ -1,0 +1,277 @@
+- Lives in the Northeast United States (PA, NY, NJ, RI, CT, MA, VT, NH, ME) (Demographics)
+- Assigned female at birth (Demographics)
+- Age group 50-64 (Demographics)
+- Highest education level: High school graduate (Demographics)
+- Race: White (Demographics)
+- U.S. citizen (Demographics)
+- Marital status: Married (Demographics)
+- Religion: Roman Catholic (Demographics)
+- Attends religious services seldom (Demographics)
+- Political affiliation: Democrat (Demographics)
+- Political views: Moderate (Demographics)
+- Household size: 3 people (Demographics)
+- Employment status: Part-time employment (Demographics)
+- Family income last year: $50,000-$75,000 (Demographics)
+
+- Personality traits (Big Five, from self-report):
+  - Somewhat talkative (4 - Agree a little)
+  - Neither agrees nor disagrees with finding fault with others (3)
+  - Does a thorough job (4)
+  - Not depressed (1 - Disagree strongly)
+  - Highly original and comes up with new ideas (5)
+  - Slightly disagrees with being reserved (2)
+  - Helpful and unselfish with others (4)
+  - Neither careless nor careful (3)
+  - Neutral on handling stress well (3)
+  - Very curious about many things (5)
+  - Somewhat energetic (4)
+  - Slightly disagrees with starting quarrels (2)
+  - Reliable worker (5)
+  - Slightly disagrees with being tense (2)
+  - Ingenious, deep thinker (4)
+  - Generates enthusiasm (4)
+  - Slightly disagrees with having a forgiving nature (2)
+  - Strongly disagrees with being disorganized (1)
+  - Neutral on worrying a lot (3)
+  - Has an active imagination (5)
+  - Somewhat shy (4)
+  - Generally trusting (4)
+  - Strongly disagrees with being lazy (1)
+  - Somewhat emotionally stable (4)
+  - Neutral on being inventive (3)
+  - Slightly disagrees with assertiveness (2)
+  - Slightly disagrees with being cold and aloof (2)
+  - Perseveres until task is finished (4)
+  - Slightly disagrees with being moody (2)
+  - Values artistic, aesthetic experiences highly (5)
+  - Considerate and kind to almost everyone (5)
+  - Does things efficiently (5)
+  - Remains calm in tense situations (4)
+  - Prefers routine work (4)
+  - Neutral on being outgoing/sociable (3)
+  - Slightly disagrees with being rude (2)
+  - Makes plans and follows through (5)
+  - Neutral on getting nervous easily (3)
+  - Likes to reflect and play with ideas (4)
+  - Has some artistic interests (4)
+  - Likes to cooperate with others (4)
+  - Slightly disagrees with being easily distracted (2)
+  - Sophisticated in art, music, or literature (5)
+
+- Need for Cognition (self-report):
+  - Prefers complex problems (4)
+  - Likes responsibility requiring thinking (4)
+  - Strongly disagrees that thinking is not fun (1)
+  - Neutral on preferring low thought tasks (3)
+  - Disagrees with avoiding deep thinking (2)
+  - Finds satisfaction in deliberating hard and long (5)
+  - Strongly disagrees with minimal thinking (1)
+  - Neutral on preferring small daily projects (3)
+  - Neutral on liking tasks requiring little thought after learning (3)
+  - Thinking to get to the top appeals (4)
+  - Enjoys coming up with new solutions (5)
+  - Disagrees that learning new ways to think doesn't excite (2)
+  - Prefers life filled with puzzles (4)
+  - Likes thinking abstractly (4)
+  - Neutral on preferring intellectual difficult tasks over less thought tasks (3)
+  - Feels relief after mental effort (5)
+  - Somewhat agrees that "just getting the job done" is enough (4)
+  - Usually deliberates about issues even if not personally affected (4)
+
+- Values (rated as guiding principles):
+  - Wealth: 7
+  - Pleasure: 9 (Highly important)
+  - Forgiveness: 4
+  - Influence: 5
+  - Trust: 8
+  - Competence: 8
+  - Humility: 6
+  - Achievement: 9 (Highly important)
+  - Altruism: 7
+  - Ambition: 8
+  - Loyalty: 8
+  - Politeness: 8
+  - Power: 6
+  - Harmony: 9 (Highly important)
+  - Excitement: 5
+  - Honesty: 9 (Highly important)
+  - Compassion: 9 (Highly important)
+  - Status: 4
+  - Civility: 7
+  - Autonomy: 9 (Highly important)
+  - Equality: 6
+  - Recognition: 4
+  - Tradition: 5
+  - Superiority: 7
+
+- Minimalism and mindful ownership:
+  - Strongly agrees with avoiding accumulating lots of stuff (5)
+  - Agrees a little with restricting number of things owned (4)
+  - Strongly agrees "less is more" in owning things (5)
+  - Strongly agrees actively avoiding excess possessions (5)
+  - Neutral on drawn to visually sparse environments (3)
+  - Strongly agrees preferring simplicity in design (5)
+  - Agrees a little keeping home aesthetic sparse (4)
+  - Disagrees a little with preferring empty spaces over filling (2)
+  - Agrees a little being mindful of what is owned (4)
+  - Agrees a little belongings carefully curated (4)
+  - Agrees a little importance of thoughtful ownership (4)
+  - Agrees a little belongings mindfully selected (4)
+
+- Empathy and emotional sensitivity:
+  - Disagrees a little that friends' emotions don't affect her (2)
+  - Neutral on feeling sad after being with sad friend (3)
+  - Agrees a little understanding friend's happiness (4)
+  - Neutral on getting frightened by scary movies (3)
+  - Agrees a little gets caught up in others' feelings (4)
+  - Disagrees a little finding it hard to know when friends frightened (2)
+  - Disagrees a little not becoming sad when others cry (2)
+  - Disagrees a little that others' feelings don't bother her (2)
+  - Agrees a little understanding when someone is down (4)
+  - Agrees a little can work out when friends are scared (4)
+  - Neutral on becoming sad watching sad TV/films (3)
+  - Neutral on understanding feelings before told (3)
+  - Disagrees a little that seeing angered person has no effect (2)
+  - Agrees a little can work out when people are cheerful (4)
+  - Neutral on feeling scared when friends are afraid (3)
+  - Agrees a little can realize quickly when friend is angry (4)
+  - Neutral on often getting swept up in friends' feelings (3)
+  - Disagrees a little that friend's unhappiness doesn't affect her (2)
+  - Disagrees a little not aware of friends' feelings (2)
+  - Disagrees a little having trouble figuring out when friends happy (2)
+
+- Environmental concern:
+  - Agrees a little that products used should not harm environment (4)
+  - Agrees a little considering environmental impact in decisions (4)
+  - Neutral on purchase habits affected by environmental concern (3)
+  - Agrees a little concerned about wasting planet's resources (4)
+  - Strongly agrees describing self as environmentally responsible (5)
+  - Agrees a little willing to be inconvenienced for eco-friendly actions (4)
+
+- Cognitive test self-assessment:
+  - Believes answered 28 out of 42 cognitive test questions correctly
+  - Estimates average US adult would answer 30 correctly
+
+- Cognitive test performance (selected answers indicate moderate to good logical reasoning and pattern recognition skills; some errors in synonym/antonym tasks)
+
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Understands inflation reduces purchasing power (money in account buys less)
+  - Recognizes stocks have highest fluctuations and highest long-term returns
+  - Knows it is possible to lose money in stock mutual funds
+  - Understands diversification reduces risk
+  - Knows about required minimum distributions after age 70.5
+  - Correctly answers "never" for credit card debt elimination with minimum payments
+  - Correctly estimates probabilities and percentages in various questions (e.g., die rolls, lottery odds)
+  - Some errors in basic math problems (e.g., bat and ball cost answer is 0.5, which is incorrect; correct is 0.05)
+  - Correctly answers logical syllogism questions mostly
+
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in $5 split (Ultimatum game)
+  - Accepts all offers except $0 to self
+  - In trust game, keeps $3 and sends $2
+  - As receiver, returns about half or more of tripled amount, showing moderate trust and fairness
+  - Thought process: "something for both of us," "being fair," "keeping myself more because I don't know the person," "just being nice"
+
+- Self-reported personality and behavior:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful when doesn't get way (True)
+  - Has given up on tasks due to low self-belief (True)
+  - Has felt like rebelling against authority even when authority was right (True)
+  - Always a good listener (True)
+  - Never took advantage of someone (False)
+  - Always willing to admit mistakes (True)
+  - Sometimes tries to get even rather than forgive (True)
+  - Always courteous even to disagreeable people (True)
+  - Never been irked by differing ideas (True)
+  - Never jealous of others' good fortune (False)
+  - Not irritated by people asking favors (False)
+  - Has deliberately hurt someone's feelings (False)
+
+- Self-rated traits (high accuracy):
+  - Organized (8/9)
+  - Efficient (7)
+  - Systematic (6)
+  - Practical (9)
+  - Disorganized (1)
+  - Sloppy (3)
+  - Inefficient (2)
+  - Careless (3)
+
+- Anxiety symptoms: mostly not bothered or very low levels
+
+- Self-concept clarity:
+  - Prefers to depend on self (7)
+  - Often does own thing (5)
+  - Personal identity independent of others very important (5)
+  - Important to do job better than others (4)
+  - Winning is everything (3)
+  - Competition is law of nature (4)
+  - Feels good cooperating with others (5)
+  - Family loyalty and duty important (4-5)
+  - Respects group decisions (5)
+
+- Aspirations and self-description:
+  - Aspires to be smart, modest, nice, understanding, not making others uncomfortable
+  - Ought to be smart, energetic, caring, helpful
+  - Actually is willing to help others, smart but not too trusting
+
+- Spending habits:
+  - Slightly towards tightwad (4 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Rarely has trouble spending money
+
+- Shopping behavior: neither impulsive nor overly cautious
+
+- Depression and mood:
+  - Does not feel sad, discouraged, guilty, worthless, or like a failure
+  - Somewhat less interest in others than before
+  - Makes decisions as well as before
+  - Sleeps less well than usual
+  - Not more tired than usual
+  - Appetite normal
+  - No significant weight loss
+  - Not worried about health
+  - No change in interest in sex
+  - Purposely trying to lose weight by eating less
+
+- Self-expression and uniqueness:
+  - Neutral to slight agreement on seeking uniqueness via products
+  - Disagrees with breaking social rules about products
+  - Disagrees with avoiding common products
+
+- Self-monitoring:
+  - Somewhat true that can alter behavior in social situations
+  - Generally true can control impression given
+  - Some difficulty changing behavior when image not working
+  - Somewhat true can adjust behavior to situations
+  - Generally good at reading others' emotions and detecting lies
+
+- Self-concept clarity:
+  - Neither agrees nor disagrees that beliefs about self conflict
+  - Disagrees strongly that opinions of self change day to day
+  - Disagrees a little with spending much time wondering who self really is
+  - Generally has clear sense of self (4)
+  - Disagrees a little with difficulty making up mind
+
+- Need for closure:
+  - Strongly agrees dislikes uncertainty (5)
+  - Agrees dislikes ambiguous questions (4)
+  - Agrees prefers ordered life (4)
+  - Agrees uncomfortable not understanding reasons for events (4)
+  - Agrees irritated when one person disagrees with group (4)
+  - Agrees dislikes unpredictable people and situations (5)
+  - Agrees enjoys clear, structured life (5)
+  - Agrees does not usually consult many opinions before forming view (4)
+
+- Maximizer tendencies:
+  - Neutral on checking radio stations for better options
+  - Agrees a little on looking for better job opportunities
+  - Strongly agrees difficulty shopping for gifts and clothing loved
+  - Agrees a little on having high standards and never settling for second best
+
+- Logical reasoning (Wason selection task):
+  - Correctly identifies cards to turn over (A and 3)
+
+- Economic game fairness and trust thoughts:
+  - "being fair," "something for both of us," "keeping myself more because I don't know the person," "just being nice"

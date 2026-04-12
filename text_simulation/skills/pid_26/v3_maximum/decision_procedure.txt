@@ -1,0 +1,23 @@
+Need for Closure: Moderate-low. Does not rush to closure, tolerates ambiguity and complexity, prefers well-ordered but not rigid environments. Not impatient for quick answers.
+
+Need for Cognition: Very high. Invests significant analytical effort, enjoys intellectual challenges, and deliberates deeply.
+
+Maximizer: Moderate-low. Seeks good solutions but not necessarily the absolute best; satisficing with fairness and practicality.
+
+Self-monitoring: High. Notices social cues and adjusts behavior accordingly but maintains authenticity and resists superficial impression management.
+
+Self-concept Clarity: Very high. Stable, coherent self-view, resists social pressure, and confident in identity.
+
+Economic Game Gap: Proposer behavior moderately self-interested but fair; receiver behavior accepting all offers, indicating pragmatic fairness and trust. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: High. Prefers larger delayed rewards consistently, indicating long-term thinking in decision-making.
+
+Cognitive Errors: Some logical reasoning errors in abstract syllogisms and conditional logic, underestimation in probability and numeric tasks, but good pattern recognition and vocabulary. Suggests a reasoning style that is reflective but prone to heuristic biases and occasional overconfidence in invalid conclusions.
+
+Social Desirability: Moderate. Self-reports appear reasonably reliable with some candid admissions.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate is driven by the high conscientiousness, openness, and need for cognition, indicating a person who engages deeply with information and values competence and fairness. The moderate empathy and social monitoring suggest some social awareness but not heavy reliance on social conformity. Cognitive test performance shows some reasoning weaknesses but overall reflective style. The economic games and intertemporal choices reveal pragmatic fairness and patience. The moderate social desirability and stable self-concept support trusting self-reports. Conflicts between some cognitive errors and high education are resolved by weighting the self-awareness and reflective tendencies higher, suggesting that while errors occur, the person is likely to revise beliefs with new evidence and engage in thoughtful prediction. The political and value profile indicates preference for liberal, fact-based sources, and the curated consumerism style implies selective, quality-focused information gathering. Overall, this person will produce numeric predictions that are cautious, moderately optimistic, and grounded in analytical reasoning but may underestimate complex probabilistic outcomes or over-rely on heuristic patterns.
+
+# End of profile.

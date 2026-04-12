@@ -1,0 +1,25 @@
+Need for Closure: Very high. Strong preference for order, routine, and quick resolution of uncertainty. Dislikes ambiguity and unpredictability. Wants clear, structured answers and feels relief upon decision-making. Confidence: High.
+
+Need for Cognition: Very high. Invests significant analytical effort, enjoys intellectual challenges, and persists in problem-solving even obsessively. Likely to deliberate extensively before finalizing numeric predictions. Confidence: High.
+
+Maximizer: Moderate. Has high standards and does not settle for second best, but also accepts practical constraints and does not compulsively comparison shop. Likely to seek a well-reasoned, good-enough answer rather than perfect. Confidence: Moderate.
+
+Self-monitoring: Moderate to somewhat low. Can read social cues and emotions well but does not strongly adjust behavior to fit others. Some difficulty changing behavior to suit different people/situations. Confidence: Moderate.
+
+Self-concept clarity: Moderate. Some minor internal conflicts and occasional shifts in self-view, but generally stable and clear sense of identity. Can resist social pressure but is somewhat reflective about self. Confidence: Moderate.
+
+Economic Game Gap: Proposes fair splits in dictator and ultimatum games ($2-$3 to other), accepts fair offers but rejects very unfair ones. As receiver, tends to keep a fair share but returns significant amounts, indicating reciprocity and fairness orientation. Behavior matches strategic fairness rather than pure self-interest. Confidence: High.
+
+Intertemporal Patience: Moderate to high. Prefers larger delayed rewards over smaller sooner ones, but with some discounting. Chooses to wait for better payoffs when difference is substantial. Confidence: Moderate.
+
+Cognitive Errors: Some errors in logical negation and contrapositives, occasional acceptance of invalid conclusions, but generally good numeracy and verbal reasoning. May be prone to confirmation bias and difficulty with complex conditional logic under time pressure. For numeric predictions, likely to rely on heuristics but also engage in analytical reasoning. Confidence: Moderate.
+
+Social Desirability: Moderate. Self-reports appear generally reliable with some social desirability bias, especially in positive traits and empathy. Admits some negative feelings (jealousy, giving up), indicating honesty. Confidence: Moderate.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the high empathy and social orientation (which increase social influence on reasoning) against the moderate self-concept clarity and self-monitoring (which allow some independence). The person is fair and cooperative in economic games, values trust and loyalty, and is sensitive to others’ emotions, suggesting social context matters in their judgments. However, their strong need for cognition and closure, combined with moderate maximizer tendencies, indicate they also rely heavily on internal reasoning and structured information. Conflicts between social and cognitive signals are resolved by weighting empathy and social values slightly higher, as these are strongly endorsed and behaviorally evident.
+
+---
+
+Summary for Simulation of Numeric Predictions:  
+This person will approach numeric prediction tasks (e.g., Bitcoin price, AGI arrival) with a strong preference for structured, logical analysis, investing significant cognitive effort and seeking closure quickly. They will weigh social consensus and trustworthiness of sources, likely favoring moderate, balanced views over extreme or partisan ones. Their predictions will reflect fairness and reciprocity considerations, avoiding overly optimistic or pessimistic extremes. They may struggle with complex conditional logic but compensate with persistence and problem-solving drive. Their minimalist and practical orientation suggests they will prefer clear, simple models or explanations rather than speculative or trend-driven forecasts.

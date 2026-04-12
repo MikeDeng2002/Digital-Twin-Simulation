@@ -1,0 +1,21 @@
+Need for Closure: High (items 1, 6, 11, 12, 15, 19 rated 4-5) — she prefers order, dislikes ambiguity, and seeks quick resolution.
+
+Need for Cognition: Moderately high (mostly 4-5) — enjoys thinking, problem-solving, and intellectual challenges.
+
+Maximizer: Moderate to high (items 5 and 6 agree strongly, 4 and 3 disagree) — she holds high standards and does not settle easily.
+
+Self-monitoring: Moderate to high (items mostly 4-5) — able to adjust behavior in social situations, sensitive to others' emotions.
+
+Self-concept Clarity: Moderate (mostly 3-4, some 2) — some fluctuation and conflict in self-beliefs, but generally clear sense of self.
+
+Economic Games: Highly self-interested — keeps all money in dictator and trust games, accepts all offers but keeps all money sent back, indicating low trust or willingness to share in anonymous contexts.
+
+Cross-scale inference:
+
+- High need for closure and moderate self-monitoring suggest a preference for predictable social environments and controlled social presentation.
+- High compassion and altruism values contrast with economic game behavior, indicating possible difference between ideal self and behavior in anonymous economic decisions.
+- Cognitive ability and need for cognition align with good problem-solving and logical reasoning, but some errors in spatial tasks suggest limits in certain cognitive domains.
+
+No major contradictions, but a notable gap between self-reported compassion and economic game selfishness.
+
+w_social estimate: 0.3 -- The respondent shows moderate social sensitivity and empathy (high self-monitoring, compassion values, and emotional attunement), but her economic game behavior reveals a strong self-interest and low willingness to share resources anonymously. The agreement between high need for closure and moderate self-monitoring supports some social adaptability, but the low sharing in economic games and self-reported unemployment and financial concerns likely reduce social trust and generosity in anonymous contexts, leading to a below-average social cooperation estimate.

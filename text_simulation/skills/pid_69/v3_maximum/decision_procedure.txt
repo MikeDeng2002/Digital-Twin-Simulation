@@ -1,0 +1,24 @@
+Need for Closure: Moderate-high. Agrees strongly with impatience for unresolved problems (5), discomfort with uncertainty (4), desire for ordered life (5), but some ambivalence about quick decisions (3). Wants resolution but not rash closure. Confidence: Moderate-high.
+
+Need for Cognition: Moderate-high. Enjoys thinking and problem-solving but also prefers to limit effort when possible. Some ambivalence about deep thinking. Confidence: Moderate.
+
+Maximizer: Moderate. Checks alternatives but does not exhaustively seek best answer. Some satisficing. Confidence: Moderate.
+
+Self-monitoring: Moderate-low. Some ability to adjust behavior but also difficulty changing behavior to suit situations. Generally aware of others’ emotions but limited in reading subtle cues. Confidence: Moderate.
+
+Self-concept clarity: Low to moderate. Conflicted self-view, frequent changes in self-beliefs, difficulty making decisions due to uncertainty about wants. Confidence: Moderate.
+
+Economic game gap: Strong discrepancy between dictator (keeps all) and ultimatum (rejects unfair offers) behavior. Self-interest dominates, but strategic behavior present to avoid rejection. Trust game shows low trust but some reciprocity. Confidence: High.
+
+Intertemporal patience: Low. Prefers immediate smaller rewards over delayed larger rewards until difference is large. High discounting of future. Confidence: High.
+
+Cognitive errors: Frequent logical fallacies (affirming the consequent, denying the antecedent), poor vocabulary synonym/antonym knowledge, difficulty with spatial puzzles. Suggests concrete, literal reasoning with poor abstract and verbal reasoning. This implies numeric predictions may be biased by misunderstanding probabilities and logical relations, and overreliance on heuristics. Confidence: High.
+
+Social desirability: Moderate honesty. Admits to negative traits and some socially undesirable behaviors, but some inconsistency. Self-reports moderately reliable. Confidence: Moderate.
+
+w_social estimate: 0.45  
+Reasoning: The estimate balances moderate social desirability and some admissions of negative traits, with some inconsistencies in self-monitoring and empathy. The person is somewhat aware of social norms but does not strongly conform or distort self-presentation. The moderate score reflects partial trust in self-reports but caution due to some contradictory answers.
+
+Summary: This individual is a moderately conscientious, somewhat reserved, politically conservative male with moderate cognitive engagement but below-average abstract reasoning and vocabulary skills. He prefers quick closure but tolerates some ambiguity, is self-interested in economic decisions, and impatient with delayed rewards. His information sources are likely partisan conservative media and moderate-depth financial news, avoiding liberal or academic sources. His numeric predictions on open questions like Bitcoin price or AGI arrival will likely be influenced by concrete, heuristic reasoning, moderate research effort, and a desire for clear, confident answers, but may underestimate complexity and uncertainty due to cognitive limitations and need for closure.
+
+# End of profile.

@@ -1,0 +1,38 @@
+Demographics: Male, age 18-29, White, living in the Midwest US, high school graduate, unemployed, very low family income (<$30k), never married, Protestant attending weekly services, very conservative Republican. This suggests a young adult with limited formal education and financial resources, likely exposed to Midwestern cultural and political norms emphasizing traditional values and conservatism. The unemployment and low income imply economic stress and limited access to high-level professional or academic information sources.
+
+Big Five Personality (44 items):  
+- Low Extraversion: strongly disagree talkative (1), strongly agree quiet (5), strongly disagree outgoing (1).  
+- Low Conscientiousness: strongly agree disorganized (5), agree careless (4), disagree reliable (3), strongly disagree perseveres (1), strongly disagree makes plans (1).  
+- High Neuroticism: strongly agree depressed (5), worries a lot (5), nervous (5), gets tense (3), can be moody (2).  
+- Moderate Openness: agree original (4), inventive (4), curious (4), active imagination (4), sophisticated in art/music/literature (5), but neither agree nor disagree on deep thinker (3).  
+- Moderate Agreeableness: neither agree nor disagree helpful (3), somewhat forgiving (2), neither agree nor disagree kind (3), disagree a little cooperative (2).
+
+Need for Cognition (18 items): Low to moderate. Strong disagreement with preference for complex problems and intellectual tasks (1), agreement with preferring little thought tasks (5), agreeing they only think as hard as necessary (4), and avoiding deep thinking (4). Slightly disagree with enjoying new solutions (2). Overall, low intrinsic motivation for deep analytical thinking.
+
+Need for Closure (15 items): Moderate to high. Agree discomfort with uncertainty (4-5), desire for quick solutions (5), irritation with ambiguous statements (4), preference for routine and order (mixed but some disagreement on routine work). Shows some impatience with ambiguity and desire for closure.
+
+Maximizer Scale (6 items): Low. Disagree strongly with never settling for second best (2), disagree strongly with having highest standards (1), but some agreement with comparison shopping (4-5). Suggests more satisficing than maximizing.
+
+Self-monitoring (13 items): Low. Generally disagree with ability to adjust behavior to social situations (mostly 2s), difficulty putting up a good front (5), trouble reading others’ emotions (mostly 2s), low social perceptiveness.
+
+Self-concept clarity (12 items): Low to moderate. Disagree strongly with conflicting self-beliefs (1), disagree with frequently changing self-view (1), but agree a little with uncertainty about past self (4), and agree strongly with not telling others what they are really like (5). Suggests somewhat unstable or guarded self-concept.
+
+Values (24 items):  
+- Highest: Ambition (9), Power (9), Achievement (8), Competence (8), Pleasure (8), Influence (7), Trust (7), Altruism (7), Excitement (7), Tradition (7).  
+- Low: Forgiveness (1), Equality (1), Recognition (1), Status (1), Superiority (2), Loyalty (3), Harmony (3).  
+This profile reveals a worldview focused on personal success, dominance, and control, with less emphasis on egalitarianism, forgiveness, or social harmony. Values pleasure and excitement but also tradition and trust.
+
+Minimalism (12 items): Mixed but tending toward low minimalism. Disagree with curating belongings (1), disagree with mindful ownership (2), but agree with preference for simplicity in design (5) and leaving spaces empty (5). Neither agree nor disagree on avoiding accumulation (3). Suggests some aesthetic preference for simplicity but not strong behavioral minimalism.
+
+Empathy (20 items): Low. Mostly disagree or neither agree nor disagree with feeling others’ emotions, understanding friends’ feelings, or being affected by others’ sadness. Somewhat detached emotionally.
+
+Consumerism/Uniqueness: Strongly disagree with seeking uniqueness via products, breaking social rules in consumption, or avoiding common brands. Indicates conventional consumer behavior, not trend-seeking or rebellious.
+
+Cognitive Test Performance:  
+- Correct on most logical syllogisms and reasoning tasks, but some errors on subtle logical inferences (e.g., incorrectly answered synonym and antonym questions, e.g., "CONCUR" synonym as "extricate" which is incorrect).  
+- Correct on spatial puzzles with some difficulty (selected plausible but not always optimal answers).  
+- Estimated self-correct answers 35/42, below average estimate of 40/42 for US adults.  
+- Some errors suggest surface-level or heuristic reasoning rather than deep analytic processing.  
+- Word association chain is coherent and conventional, no unusual cognitive patterns.
+
+Social Desirability: Low to moderate. Some contradictory self-reports (e.g., admitting to being careless, lazy, disorganized, and depressed), but also some denial of socially undesirable traits (e.g., never taking advantage of others, always admitting mistakes). Overall, self-reports appear fairly candid.

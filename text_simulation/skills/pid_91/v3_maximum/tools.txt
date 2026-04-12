@@ -1,0 +1,32 @@
+Education + Income: College graduate with some postgraduate education and moderate income ($50-75k) implies access to diverse information sources including online news, academic articles, and mainstream media. Likely comfortable with digital platforms but not necessarily expert-level research.
+
+Need for Cognition (moderate-low): Prefers moderate cognitive effort, likely to engage in some research but not deep or exhaustive. May rely on summaries, expert opinions, and trusted sources rather than primary data or complex analyses.
+
+Political Identity (Democrat, liberal): Likely prefers partisan-leaning sources aligned with liberal views (e.g., NPR, CNN, MSNBC, The New York Times), but moderate openness may allow some cross-checking.
+
+Empathy (high): Likely to rely on social networks, friends, and community opinions for information validation and emotional framing.
+
+Maximizer (moderate): Sets high standards but does not obsessively compare sources; likely to check a few trusted sources rather than exhaustive search.
+
+Consumerism/Uniqueness (high): May prefer niche or alternative sources that align with personal values and uniqueness, possibly independent blogs, podcasts, or specialized forums.
+
+Minimalism (moderate): Curates information carefully, avoids overload, prefers concise and clear information.
+
+Likely Platforms and Source Types:
+- Mainstream liberal news outlets (CNN, NPR, NYT) - moderate confidence
+- Social media for peer opinions and emotional framing (Facebook, Twitter) - moderate confidence
+- Specialized blogs or podcasts on finance and technology (e.g., personal finance blogs, crypto podcasts) - moderate confidence
+- Academic or educational websites for factual checks (e.g., Investopedia, government sites) - low to moderate confidence
+- Avoids highly partisan conservative or fringe sources - high confidence
+- Avoids overly technical or highly specialized academic journals - moderate confidence
+
+Research Depth: Moderate. Engages in some fact-checking and comparison but prefers accessible, digestible information. Likely to stop searching once a plausible, trustworthy answer is found.
+
+Confidence Levels:
+- Education and income imply moderate access and familiarity: High confidence
+- Need for Cognition moderate-low implies moderate research depth: High confidence
+- Political identity implies partisan source preference: High confidence
+- Empathy implies social network reliance: Moderate confidence
+- Maximizer moderate implies limited exhaustive search: Moderate confidence
+- Consumerism/uniqueness high implies preference for distinctive sources: Moderate confidence
+- Minimalism moderate implies curated information intake: Moderate confidence

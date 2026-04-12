@@ -1,0 +1,15 @@
+Need for Closure: Moderate to high (e.g., "I don’t like situations that are uncertain" 5, "I feel uncomfortable when I don’t understand reasons" 4, "I would quickly become impatient if no solution" 4). She prefers order and routine but tolerates some ambiguity.
+
+Need for Cognition: Low (e.g., "I would prefer simple problems" 2, "I find thinking hard not fun" 1, "I prefer tasks requiring little thought" 5). She avoids deep or abstract thinking.
+
+Maximizer: Low to moderate (e.g., "I never settle for second best" 2, "I have highest standards for myself" 4, "I often check other stations even if satisfied" 5). She shows some desire for better options but not strongly maximizing.
+
+Self-monitoring: Moderate with some difficulty (e.g., mixed responses on ability to adjust behavior, some ability to read emotions well, but also some trouble changing behavior).
+
+Self-concept clarity: Moderate (e.g., some fluctuation in self-beliefs, occasional uncertainty, but generally a clear sense of self).
+
+Economic game behavior: Proposes to keep $3 and send $2 in ultimatum and trust games, and as receiver returns substantial amounts (e.g., keeps $10 of $15, sends back $5), indicating moderate fairness and reciprocity. Accepts all offers, even low ones, showing high acceptance and low rejection sensitivity.
+
+Cross-scale inference: Need for Closure and low Need for Cognition align in preference for order and simplicity, avoidance of complex thinking. Economic game behavior aligns with moderate social fairness and reciprocity, consistent with high agreeableness and empathy. Self-monitoring moderate but not high, consistent with some social sensitivity but not strong impression management.
+
+w_social estimate: 0.6 -- The respondent shows moderate social orientation, reflected in high agreeableness, empathy, and fairness in economic games, but also some reservation and moderate self-monitoring. The moderate Need for Closure and low Need for Cognition suggest preference for clear, stable social environments rather than complex social strategizing. Economic game behavior supports moderate prosociality but with self-interest. These scales collectively support a moderate social engagement estimate.

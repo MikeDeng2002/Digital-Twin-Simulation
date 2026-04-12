@@ -1,0 +1,58 @@
+Demographics: Male, age 30-49, White, living in the Southern US, married, full-time employed, US citizen, associate’s degree, family income $100,000+, politically Republican and conservative, religious affiliation “Other” with infrequent attendance (a few times a year). Household size is more than 4, indicating likely family responsibilities.
+
+Big Five Personality (44 items):  
+- Extraversion: High talkative (5), outgoing (4), assertive (5), energetic (3), sociable (4), but not shy or reserved (2).  
+- Agreeableness: Moderate-low; somewhat fault-finding (4), somewhat helpful (4), somewhat forgiving (2), somewhat cold (2), somewhat inconsiderate (2).  
+- Conscientiousness: Moderately high; does thorough job (4), reliable (4), perseveres (4), organized (7/9 scale), efficient (7/9), but some distractibility (4).  
+- Neuroticism: Low to moderate; disagrees with being depressed (2), worries a little (2), somewhat tense (3), emotionally stable neutral (3).  
+- Openness: High; original (5), inventive (5), active imagination (5), curious (4), likes to reflect (4), but neutral on artistic interests (3) and sophistication (2).
+
+Need for Cognition (18 items): Mixed but leaning moderate. Disagrees strongly with “I only think as hard as I have to” (1), enjoys new solutions (5), likes abstract thinking (4), but neither agrees nor disagrees on preference for complex problems (3) and thinking long hours (3). Overall moderate engagement with thinking, not deeply driven but not shallow.
+
+Need for Closure (15 items): Slightly elevated need for closure; agrees a little to dislike uncertainty (4), likes clear structure (4), wants quick solutions (4), but not impatient (3). Prefers order but tolerates some ambiguity.
+
+Maximizer Scale (6 items): Low maximizer tendencies; strongly disagrees with “never settle for second best” (1), agrees strongly with “check other stations even if satisfied” (5), but overall does not seek the absolute best, more satisficing.
+
+Self-monitoring (13 items): Moderate self-monitoring; can alter behavior somewhat (4), can read others’ emotions well (5), but some difficulty changing behavior (3), not fully flexible.
+
+Self-concept Clarity (12 items): High clarity; strongly agrees with stable self-view (5), disagrees with conflicting self-beliefs (1), stable personality description (1), clear sense of self.
+
+Values (24 items):  
+- Highest: Trust (8), Altruism (8), Ambition (8), Loyalty (8), Excitement (8), Achievement (6), Competence (6), Wealth (6), Pleasure (6), Humility (6), Politeness (6), Harmony (6), Compassion (6), Civility (6), Honesty (7).  
+- Moderate: Influence (5), Equality (5), Recognition (4), Forgiveness (4).  
+- Low: Power (3), Status (3), Autonomy (3), Tradition (3), Superiority (2).  
+This suggests a worldview valuing social bonds, achievement, excitement, and trustworthiness, with moderate material success orientation but low desire for dominance or status.
+
+Minimalism (12 items): Strong rejection of minimalism; strongly disagrees with avoiding possessions (1), restricting number of things (1), preferring sparse environments (1), mindful curation (1-2). This person is likely a consumer who accumulates possessions without much restraint.
+
+Consumerism/Uniqueness: Disagrees with violating social norms in consumption (mostly 2s), does not seek uniqueness aggressively, somewhat indifferent or slightly disagreeing with breaking customs or buying unusual products. Some interest in originality (4 on “try to find more interesting versions”), but generally conventional consumer.
+
+Empathy (20 items): Moderate empathy; disagrees strongly that friends’ emotions don’t affect him (1), agrees a little to understanding friends’ feelings (4), can read emotions well (5), but sometimes neutral on getting caught up in feelings (3). Likely socially aware but emotionally regulated.
+
+Social Desirability: No direct score given, but some self-critical answers and admission of negative traits (resentment, jealousy, taking advantage) suggest moderate honesty in self-reporting.
+
+Cognitive Test Performance:  
+- Correct answers on 36/42 cognitive questions, self-estimated 36 correct vs. population average 15, indicating high cognitive ability.  
+- Logical reasoning: Mostly correct, but some errors in syllogistic reasoning (e.g., “Plants are not animals” judged incorrectly).  
+- Some errors in synonym/antonym tests (e.g., “Furtive” synonym chosen as “flimsy” instead of “stealthy,” “Oscillate” synonym “recapitulate” incorrect).  
+- Pattern recognition and spatial reasoning: Correct on most cube rotation and pattern completion tasks, indicating good visuospatial skills.  
+- Word association chain: Logical, sequential, emotionally positive, socially oriented (snow → ice → winter → cold → uncomfortable → ski → play → christmas → presents → family → love → turkey → thanksgiving → holiday → vacation → beach → drinks → fun → relaxing → chilling). Shows associative, thematic thinking with social and emotional salience.
+
+Economic Games:  
+- Dictator game: Keeps $3, gives $2 (60% to self), moderately selfish but not extreme.  
+- Ultimatum game: Accepts all offers, including $0, indicating high tolerance or low strategic rejection.  
+- Trust game: Keeps all money, sends $0, expects little reciprocity, low trust in others.  
+- As receiver, keeps moderate amounts, sends back some but keeps substantial share, indicating cautious reciprocity but self-protective.  
+- Thoughts confirm distrust in others, preference for certainty and control over resources.
+
+Intertemporal Choice:  
+- Prefers delayed larger rewards over smaller sooner ones consistently until amounts equalize, indicating patience and future orientation.  
+- Chooses delayed rewards over immediate ones even when difference is small, except when amounts equal or better now, showing rational discounting.
+
+Loss Framing:  
+- Prefers splitting gains over lump sums, happier with multiple smaller wins than one big win.  
+- More upset by multiple smaller losses than one big loss, indicating loss aversion and sensitivity to framing.
+
+Depression and Mood:  
+- No current sadness or discouragement, but some guilt and self-criticism present.  
+- Reports difficulty sleeping, reduced appetite, some weight loss, increased irritability, less interest in sex and social interactions, and fatigue, indicating mild to moderate depressive symptoms or stress.

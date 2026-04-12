@@ -1,0 +1,20 @@
+- Need for Closure:
+  - Some agreement with disliking uncertainty and ambiguous statements (Q1: Agree a little; Q2: Agree a little; Q10: Agree a little; Q11: Agree a little; Q13: Agree strongly)
+  - Does not become impatient quickly (Q9: Disagree strongly)
+  - Feels relieved after making decisions (Q7: Agree a little)
+- Need for Cognition:
+  - Mostly neutral to slight agreement with enjoying thinking and problem solving (Q7: Agree a little; Q11: Agree a little; Q16: Agree a little)
+  - Somewhat prefers to think as little as necessary (Q7: Agree a little)
+- Maximizer:
+  - Neither strongly maximizer nor satisficer; some disagreement with "never settle for second best" and "highest standards" (mostly neutral or disagree a little)
+- Self-monitoring:
+  - Mixed responses; some difficulty changing behavior but generally able to adjust (items mostly 3-5 on 6-pt scale)
+  - Somewhat true that can read others' emotions and detect inappropriate statements
+- Self-concept clarity:
+  - Clear sense of self (Q11: Agree strongly)
+  - Beliefs about self do not conflict (Q1: Disagree strongly)
+  - Seldom experiences conflict between personality aspects (Q6: Agree a little)
+  - Does not spend much time wondering about self (Q3: Disagree strongly)
+  - Does not have difficulty making up mind (Q12: Disagree strongly)
+
+w_social estimate: 0.7 -- The person shows moderate need for closure with some discomfort about uncertainty but not extreme; moderate need for cognition with some enjoyment of thinking but also some preference for minimal effort; moderate self-monitoring with some ability to adjust behavior; and high self-concept clarity, indicating stable and consistent self-views. These traits suggest a balanced but socially aware decision-making style.

@@ -1,0 +1,17 @@
+Need for Closure: Moderate preference for order and decisiveness (items 1,3,7: agree a little to true), dislikes uncertainty somewhat (item 1: agree a little), but not strongly intolerant of ambiguity.
+
+Need for Cognition: Low to moderate; prefers simpler tasks, feels relief after mental effort, avoids complex problems (items 1,2,4,7,8,9).
+
+Maximizer: Moderate to low; neither strongly maximizes nor satisficing (items on highest standards and never settling for second best: 3 neither agree nor disagree).
+
+Self-monitoring: Moderate to high; generally able to adjust behavior and read social cues (items 1,2,12: 4-5), but with some exceptions.
+
+Self-concept clarity: Moderate to high; clear and consistent self-view (items 3-5: disagree strongly with confusion; 11: agree a little).
+
+Economic games: Proposer in ultimatum game is fully self-interested (keeps all $5), but as responder accepts all offers except $0, indicating some fairness sensitivity. In trust game, sends moderate amount ($2) and returns fair shares, indicating moderate reciprocity and social trust.
+
+Cross-scale inference: The moderate self-monitoring and moderate fairness in economic games align with moderate social sensitivity. The low need for cognition and moderate need for closure align with preference for routine and order, and low maximizing tendencies. The economic game behavior shows some self-interest but also fairness concerns, consistent with moderate social orientation.
+
+No contradictions noted.
+
+w_social estimate: 0.55 -- The respondent shows moderate social orientation, evidenced by moderate self-monitoring (ability to adjust behavior and read emotions), moderate fairness and reciprocity in economic games, and high values on trust, altruism, and loyalty. However, the fully self-interested ultimatum proposer behavior and moderate need for cognition suggest some self-focus and preference for simplicity. The scales generally agree on a moderate social orientation, leading to a mid-level estimate.

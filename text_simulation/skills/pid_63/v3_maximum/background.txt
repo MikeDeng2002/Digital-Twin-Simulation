@@ -1,0 +1,52 @@
+Demographics: Female, age 50-64, White, living in the Southern US, married, full-time employed, some college but no degree, family income $30,000-$50,000, identifies as very conservative Republican, US citizen, religious affiliation "Other" but never attends services. Household size 2. These demographics suggest a middle-aged, working-class woman with moderate education and modest income, likely with traditional social values and conservative political views. The Southern location and conservative identity imply exposure to conservative media and cultural norms, possibly less urban and more community/family oriented.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagrees with being talkative, outgoing, energetic; strongly agrees being reserved, quiet, shy, and prefers routine work.  
+- Moderate Agreeableness: Strongly helpful and unselfish, but also somewhat fault-finding and cold/aloof.  
+- High Conscientiousness: Strongly agrees being thorough, reliable, efficient, organized, persevering, calm under stress, and making plans/following through.  
+- Low Openness: Strongly disagrees with originality, curiosity, imagination, artistic interests, and intellectual engagement.  
+- High Emotional Stability: Strongly disagrees with depression, worry, nervousness, moodiness; strongly agrees relaxed and emotionally stable.
+
+Need for Cognition (18 items): Very low (mostly "disagree strongly" with enjoying thinking, complex problems, intellectual tasks; strongly agrees preferring little thought, avoiding deep thinking, and feeling relief after mental effort). This indicates a strong preference for low cognitive effort and avoidance of abstract or challenging thinking.
+
+Values (24 items):  
+- Highest: Harmony (9), Autonomy (9), Competence (8), Compassion (8), Tradition (8), Altruism (7), Honesty (7), Loyalty (6), Civility (6), Forgiveness (6).  
+- Low: Power (1), Status (3), Recognition (1), Ambition (2), Superiority (2), Excitement (2), Wealth (4), Influence (3).  
+This profile reveals a worldview valuing social harmony, personal independence, competence, kindness, and tradition, with low emphasis on dominance, status, or material success.
+
+Minimalism (12 items): Mixed but leaning toward mindful curation and avoiding excess possessions. Strong agreement with actively avoiding excess, being mindful of what is owned, and careful selection. Disagrees with aesthetic minimalism or sparse environments. Suggests practical minimalism focused on necessity and thoughtfulness rather than style.
+
+Empathy (20 items): Low to moderate empathy. Disagrees strongly with being affected by friends' emotions, getting swept up in feelings, or intuitive emotional understanding. Somewhat agrees with understanding others' feelings and being considerate. Suggests limited emotional contagion and moderate cognitive empathy.
+
+Consumerism/Uniqueness: Strong disagreement with all items related to seeking uniqueness, breaking social norms in consumption, or avoiding popular products. Indicates conventional consumer behavior, no desire to stand out via possessions.
+
+Social Desirability: Not explicitly scored, but some contradictory self-reports (e.g., admitting to taking advantage of others, feeling resentful and jealous) suggest moderate honesty in self-reporting, not overly socially desirable.
+
+Cognitive Test Performance:  
+- Correct answers on logical syllogisms mostly accurate except one error on a valid conclusion (Poodles question).  
+- Correctly answered Wason selection task (cards F and 7).  
+- Analogies and spatial puzzles mostly correct, except some uncertainty or "I don't know" on cube rotation tasks, indicating some difficulty with 3D spatial reasoning.  
+- Word associations show typical chain with no unusual leaps, indicating linear, concrete associative thinking.  
+- Vocabulary synonyms mostly correct except one error (confiscate = harass, incorrect). Antonyms mostly correct.  
+- Numeric and probabilistic reasoning mixed: correct on basic probability and percentages, but some errors (e.g., lily pad doubling time answer 24 days instead of 47).  
+- Cognitive self-assessment: believes answered 20/42 correctly, underestimates average (30/42). Indicates low confidence and awareness of own cognitive limits.
+
+Economic Games:  
+- Dictator game: proposes to keep $3 and give $2 (60% self, 40% other).  
+- Ultimatum game: accepts all offers except $0, rejects $0 offer.  
+- Trust game: keeps $4, sends $1; as receiver, returns about half of received amount.  
+- Indicates moderate fairness but self-interested, somewhat cautious generosity.
+
+Intertemporal Choice: Strong preference for delayed larger rewards over smaller sooner ones, consistently choosing to wait for more money even with short delays. Indicates high patience and long-term orientation.
+
+Self-Monitoring: Generally high ability to adjust behavior to social situations, aware of others' reactions, but low emotional intuition. Can read social cues about appropriateness and deception well.
+
+Self-Concept Clarity: Very high clarity and stability of self-concept, no internal conflicts or frequent changes in self-view.
+
+Need for Closure: Very high, strong dislike of uncertainty, ambiguity, and unpredictability. Prefers order, routine, and quick resolution.
+
+Maximizer Scale: Very low; does not seek best possible options, does not comparison shop for information or products, satisficer.
+
+Consumerism: Moderate spending habits, rarely has trouble limiting spending, sometimes has trouble spending money (anxiety about spending).
+
+Depression/Anxiety Symptoms: Mild depressive symptoms (discouraged about future, some self-criticism and disappointment), some increased irritability and tiredness, but no severe depression or anxiety.

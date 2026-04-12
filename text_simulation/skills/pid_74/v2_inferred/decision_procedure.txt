@@ -1,0 +1,23 @@
+Need for Closure: Moderate-low. The respondent shows some preference for order and routine (items 4,6,12,13,15 agree a little), but low impatience or discomfort with ambiguity (items 7-9 disagree a little). This suggests a balanced approach to decision-making, not rushed or rigid.
+
+Need for Cognition: Moderately high (mostly agree a little). The respondent enjoys thinking, complex problems, and intellectual challenges, indicating deliberative decision-making.
+
+Maximizer: Low to moderate. Disagrees a little with "never settle for second best" and "highest standards" (items 5,6 in maximizer section), suggesting satisficing rather than maximizing tendencies.
+
+Self-monitoring: Moderate. Some ability to adjust behavior socially but not strongly high, indicating moderate social awareness.
+
+Self-concept clarity: Moderate. Mostly disagree a little with conflicting self-beliefs, some agreement on clear self-identity, indicating stable but not rigid self-concept.
+
+Economic games:  
+- Ultimatum game: Proposes to keep $3, send $2; accepts all offers except $0 offer. This is moderately fair, slightly self-interested.  
+- Trust game: Sends all $5, expects fair return (keeps $8 of $15, sends back $7). Shows trust and reciprocity.  
+- Dictator game (implied): Thoughts emphasize fairness and equity.
+
+Cross-scale inference:  
+- Need for Cognition and cognitive test performance agree on above-average cognitive ability and deliberation.  
+- Economic games and fairness-related thoughts align with moderate agreeableness and trust.  
+- Need for Closure and self-monitoring moderate levels align with balanced social and decision flexibility.
+
+No major contradictions observed.
+
+w_social estimate: 0.65 -- The respondent demonstrates moderate social trust and fairness (economic games), moderate agreeableness and empathy (Big Five and empathy items), and moderate self-monitoring, indicating a reasonably socially engaged individual. However, some mild depressive symptoms and moderate self-focus suggest social engagement is balanced but not highly extroverted or socially dominant. The estimate reflects this moderate social orientation.

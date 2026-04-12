@@ -1,0 +1,7 @@
+- Need for Closure: Mixed. Dislikes ambiguous questions and statements (items 2,4,11 agree strongly), but neutral or disagree on impatience and discomfort with uncertainty (items 1,6,7,8,9,15). For example, item 2 (dislike questions with many answers) = 5, item 4 (uncomfortable not understanding reasons) = 5, item 9 (impatience to find solution) = 1 (disagree strongly).
+- Need for Cognition: Generally low. Disagrees strongly with enjoying thinking hard (item 3 = 1), enjoys abstract thinking (item 14 = 5), but overall prefers less thinking (items 2,4,6,7,11).
+- Maximizer: Low. Disagrees a little with having highest standards and never settling for second best (items 5,6 = 2), but strongly agrees with searching for better options (items 1,2 = 5).
+- Self-monitoring: Generally high. Mostly "generally true" or "certainly true" on ability to adjust behavior and read emotions (items 1,2,5,7,8,9,10,11,12).
+- Self-concept clarity: Moderate to high. Mostly disagrees with self-belief conflicts and changes (items 1,2,3,4,5,7,8,9), agrees a little with clear sense of self (item 11 = 4).
+
+w_social estimate: 0.7 -- The person shows generally high self-monitoring (items 1,2,5,7,8,9,10,11,12), moderate self-concept clarity (item 11), and values trust, loyalty, and compassion highly, indicating a social orientation. However, some coldness and aloofness (item 27 = 4) and low general trust (item 22 = 1) moderate this estimate.

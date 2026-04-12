@@ -1,0 +1,17 @@
+Need for Closure: Moderate to high (items 6, 7, 8, 12 agree strongly or a little), indicating preference for order, predictability, and quick resolution, but not impatient or intolerant of ambiguity (item 9 disagree strongly). This suggests a balanced approach to decision-making, valuing structure but not rigid.
+
+Need for Cognition: Moderately high (items 1, 2, 6, 10, 11 strongly or moderately agree), indicating enjoyment of thinking and problem-solving.
+
+Maximizer: Moderate (items 2, 5 agree strongly or a little), indicating high standards and desire for best outcomes but not extreme difficulty in choice.
+
+Self-monitoring: High (items 1, 2, 3, 5, 7 strongly agree), indicating social adaptability and awareness of others’ emotions.
+
+Self-concept clarity: Moderate to high (items 3, 11 strongly agree), with some internal reflection and minor conflict (items 1, 2 agree a little).
+
+Economic game behavior: Proposes to keep most money (80%), accepts all offers, and returns a fair share when in receiver role, indicating pragmatic fairness with self-interest.
+
+Cross-scale inference: High conscientiousness (Big Five) aligns with high self-monitoring and moderate need for closure, supporting a profile of a socially aware, organized, and responsible decision-maker. Moderate need for cognition aligns with cognitive test performance and financial literacy.
+
+No contradictions noted; scales are consistent.
+
+w_social estimate: 0.65 -- The respondent shows high social awareness and adaptability (Self-monitoring scales 1,2,3,5,7), moderate empathy (somewhat mixed but generally positive on emotional understanding), and values fairness and cooperation in economic games, though with a pragmatic self-interest bias. The moderate need for closure and high conscientiousness support structured social behavior but not extreme social risk-taking. This combination suggests a moderately high social weighting in decisions, balancing self-interest with social considerations.

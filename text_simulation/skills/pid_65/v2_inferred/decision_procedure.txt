@@ -1,0 +1,22 @@
+Need for Closure: Low to moderate. Dislikes uncertainty (items 1, 6, 8, 9, 10, 15 all agree strongly or agree), but does not avoid ambiguity completely (some items neutral). She prefers order and quick solutions but tolerates some ambiguity.
+
+Need for Cognition: Very high. Strong preference for complex problems, intellectual challenge, and abstract thinking (all items 1-18 mostly 5).
+
+Maximizer: Low. Disagrees with "never settle for second best" and "highest standards" (items 5 and 6: 1), indicating satisficing.
+
+Self-monitoring: Moderate to low. Some ability to adjust behavior (items 1,2,5,7: 4), but also difficulty changing behavior (item 4: 5), and some inconsistency (item 3: 2).
+
+Self-concept clarity: Low. Strong agreement with conflicting self-beliefs and frequent changes in self-view (items 1-5: 5), disagreement with clear sense of self (item 11: 2).
+
+Economic games: Proposes to keep majority share but offers fair split; accepts all fair and moderately unfair offers; in trust game, sends all money but keeps majority of returned funds, indicating moderate trust and reciprocity but some self-protection.
+
+Cross-scale inference:
+
+- High Need for Cognition aligns with high openness and intellectual curiosity.
+- Low Maximizer aligns with satisficing behavior in economic games and moderate self-monitoring.
+- Low Self-concept clarity and moderate neuroticism align with reported depressive symptoms and internal conflict.
+- High agreeableness and empathy align with altruistic values and generous behavior in trust games.
+
+No major contradictions detected; scales are coherent.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social orientation, evidenced by high agreeableness, strong empathy (emotional contagion and understanding others' feelings), altruistic and equality values, and generous behavior in economic games. However, low extraversion and some social withdrawal (living alone, separated, loss of interest in others) temper this. The moderate self-monitoring and low self-concept clarity suggest some social uncertainty but a genuine concern for others. The agreement across empathy, values, and economic behavior supports a moderately high social weighting.

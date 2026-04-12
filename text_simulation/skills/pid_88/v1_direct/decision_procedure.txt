@@ -1,0 +1,20 @@
+- Need for Closure:
+  - Disagrees a little with disliking uncertainty (Q1=3)
+  - Agrees a little with discomfort when not understanding reasons (Q4=4)
+  - Agrees a little with impatience for solutions (Q9=4)
+  - Agrees a little with disliking ambiguous statements (Q11=4)
+- Need for Cognition:
+  - Mostly neutral to slight agreement with enjoying thinking and responsibility (Q2=4, Q3=4, Q10=4, Q18=4)
+  - Disagrees a little with avoiding thinking (Q5=2)
+- Maximizer:
+  - Sometimes checks for better options (Q1=4)
+  - Has high standards for accuracy and achievement (Q2=8, Q4=7, Q7=6, Q9=5)
+  - Somewhat concerned with recognition and others’ expectations (Q9=5, Q10=6)
+- Self-monitoring:
+  - Moderately able to adjust behavior (Q1=3, Q2=4, Q3=4, Q5=5)
+  - Generally good at reading emotions and detecting lies (Q8=4, Q9=4, Q10=5, Q13=5)
+- Self-concept clarity:
+  - Somewhat clear but with occasional conflict and uncertainty (Q1=2, Q3=4, Q6=4, Q12=4)
+- Overall, this person shows moderate need for closure with some tolerance for ambiguity, moderate need for cognition with some enjoyment of thinking, moderate maximizer tendencies with high standards, moderate self-monitoring with social sensitivity, and somewhat clear but evolving self-concept.
+
+w_social estimate: 0.7 -- The person shows moderate to high social awareness and sensitivity (Self-monitoring Q2=4, Q5=5; empathy items), balanced decision-making under uncertainty (Need for Closure mostly neutral to slight agreement), and a thoughtful approach to social exchanges (economic game thoughts), supporting a moderately high social reasoning weight.

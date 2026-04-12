@@ -1,0 +1,9 @@
+- Need for Closure: Moderate to high (items 1,2,4,6,7,8,9,10,11,15,16,18,19,20 mostly agree a little to strongly) — indicates preference for order, predictability, and discomfort with ambiguity.
+- Need for Cognition: Moderate to low (items mostly neutral or disagree a little, except some liking for new solutions and abstract thinking) — suggests limited intrinsic motivation for deep thinking.
+- Maximizer: Moderate to high (items 1,2,5,6 agree strongly or a little) — indicates striving for best outcomes, high standards.
+- Self-monitoring: Moderate to high (items 1,2,5,6,7,8,9,10,11,12 mostly agree a little to strongly) — good social awareness and adaptability.
+- Self-concept Clarity: Low to moderate (items 1,2,8 agree strongly; items 3,4,5,6 mixed) — some internal conflict and identity uncertainty.
+- Economic games: Highly self-interested, non-cooperative (keeps all money, sends nothing, expects no return) — low social trust or altruism in economic decisions.
+- Cross-scale inference: Need for Closure and Maximizer agree on preference for control and high standards; Self-monitoring supports social adaptability but economic games contradict social trust; Self-concept clarity low, indicating internal conflict despite social adaptability.
+
+w_social estimate: 0.3 -- The respondent shows moderate social awareness and empathy (Self-monitoring items mostly agree), but economic game behavior reveals strong self-interest and low willingness to share resources. The moderate need for closure and maximizer tendencies suggest a focus on personal success and control rather than social cooperation. The scales agree on a cautious, self-protective social stance with limited social trust, leading to a low to moderate social weighting estimate.

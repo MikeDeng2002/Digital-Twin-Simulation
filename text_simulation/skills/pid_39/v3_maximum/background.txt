@@ -1,0 +1,39 @@
+Demographics: Female, age 50-64, White, living in the Western US (likely a state like CA, OR, WA, or nearby). Some college education but no degree, unemployed, married, Protestant attending weekly services, very conservative Republican with a family income of $75,000-$100,000, living in a 2-person household. This suggests a stable, middle-class lifestyle with traditional family and religious values, likely with a strong community and social network influence.
+
+Big Five Personality (44 items): Moderately extroverted (talkative 4, outgoing 4), emotionally stable (disagree strongly with depression and quarrels, agree a little with relaxed and calm), conscientious (agree a little with doing a thorough job, reliable, persevering, efficient, and making plans), open to experience moderately (agree a little with originality, curiosity, imagination, inventiveness, but disagrees a little with being a deep thinker), very agreeable (strongly helpful, forgiving, kind, trusting, cooperative), low on neuroticism (disagree a little with worry, neutral on moodiness). Overall, a socially warm, conscientious, moderately curious but practical individual.
+
+Need for Cognition (18 items): Mixed signals. Likes complex problems and responsibility (agree a little to strongly), enjoys new solutions (strongly), but also prefers to think only as hard as necessary (agree a little), and tries to avoid deep thinking situations (agree a little). Shows some ambivalence about intellectual challenge (disagree a little with preferring intellectual difficult tasks). Overall moderate Need for Cognition with some avoidance of excessive mental effort.
+
+Values (24 items): Highest values are forgiveness, humility, altruism, loyalty, politeness, harmony, honesty, compassion, civility, tradition (all rated 9). Moderate importance to pleasure, trust, competence, achievement, ambition, excitement, autonomy, equality, wealth, influence (5-8). Very low importance to power, status, recognition, superiority. This reveals a worldview centered on social harmony, moral integrity, family and community loyalty, and humility rather than dominance or status.
+
+Minimalism (12 items): Slightly minimalist, agreeing a little with avoiding excess possessions, simplicity in design, mindful curation of belongings, but neutral or slightly disagreeing with sparse aesthetics or empty spaces. Suggests moderate minimalism focused on thoughtful ownership rather than extreme minimalism.
+
+Empathy (20 items): High empathy, strongly disagreeing that friends’ emotions don’t affect her, strongly agreeing with understanding and feeling others’ emotions, sadness, happiness, fear, anger. Somewhat mixed on being easily swept up in feelings (neutral). Overall, socially sensitive and emotionally attuned.
+
+Consumerism/Uniqueness: Strongly rejects consumerism and uniqueness seeking. Disagrees strongly with buying to be original or to challenge social norms, avoids products popular with general population, does not seek uniqueness through consumption. Slightly agrees that interesting products help establish image but overall low on consumer uniqueness.
+
+Cognitive Test Performance: Correct on all logical syllogisms and deductive reasoning tasks, including Wason selection task (correctly identified cards A and 3), and most analogy and pattern completion tasks except for the cube rotation puzzles where she chose "None of the cubes could be a rotation" (D) consistently, indicating difficulty or uncertainty with 3D spatial rotation tasks. Word synonym and antonym tests mostly correct except for a few errors: chose "lineal" instead of "sagacious" for ASTUTE (a semantic error), and "impervious" instead of "slothful" for INDOLENT (incorrect synonym). This suggests strong verbal reasoning but some semantic confusion and moderate spatial reasoning challenges.
+
+Self-estimated cognitive test score: 24/42 correct, but believes average is 35/42, indicating underconfidence or modest self-assessment.
+
+Social Desirability Scale: Low to moderate social desirability bias. She admits to some faults (e.g., sometimes giving up on tasks, not always admitting mistakes), but also claims to be courteous and a good listener. No strong evidence of faking good.
+
+Economic Games (Dictator and Ultimatum): Proposes fair splits ($2 keep/$3 send), accepts all offers except the lowest ($4 keep/$1 send rejected). As receiver, tends to keep moderate amounts and return fair shares, indicating fairness preference but also strategic self-interest. Thought process emphasizes fairness, thinking of others, and selflessness.
+
+Intertemporal Choice: Strong preference for delayed larger rewards over smaller sooner ones, consistently choosing to wait for higher amounts even with short delays, indicating patience and long-term orientation.
+
+Loss Framing: Prefers to avoid losses, rejects lotteries with negative expected values, and only accepts lotteries with positive expected values or better. Shows risk aversion especially for losses.
+
+Word Association Chain: Words cluster around warmth, comfort, home, and routine (toaster → white → bread → sourdough → heat → hot → crumbs → smell → cozy → warm → winter → breakfast → crunchy → stove → plug → counter → electric → lever → sound → kitchen). This suggests a concrete, sensory, and familiar cognitive style, focused on everyday life and comfort.
+
+Self-Concept Clarity: Very high clarity and stability of self-concept (disagrees strongly with conflicting self-beliefs, changing self-views, or uncertainty about self). Clear and stable identity.
+
+Self-Monitoring: Moderate self-monitoring (some ability to adjust behavior in social situations, read emotions, and regulate impressions, but not extreme). Sensitive to social cues but maintains stable self.
+
+Need for Closure: Moderate to high. Dislikes uncertainty and ambiguity (agree a little with disliking uncertain situations, wanting quick solutions), but not extreme impatience or intolerance.
+
+Depression and Mood: No signs of depression or anxiety. Reports no sadness, guilt, irritability, or loss of interest. Some mild fatigue and extra effort needed to start tasks, but overall emotionally stable.
+
+Spending Habits: Balanced spender (score 5/11 on tightwad-spendthrift scale), rarely has trouble limiting or spending money, neither impulsive nor overly frugal.
+
+Summary: A socially warm, conscientious, moderately curious, and practical woman with strong traditional and moral values, high empathy, moderate intellectual engagement, and a stable self-concept. She is patient, fair-minded, and risk-averse, with some difficulty in spatial reasoning but strong verbal and logical reasoning. She is moderately minimalist and rejects consumerist uniqueness. Politically and religiously conservative, with a strong family orientation.

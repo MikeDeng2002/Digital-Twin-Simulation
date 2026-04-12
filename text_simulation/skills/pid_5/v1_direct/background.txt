@@ -1,0 +1,106 @@
+- Lives in the South region of the United States (Question: Which part of the United States do you currently live in? Answer: South)
+- Assigned female at birth (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education completed: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Nothing in particular (Question: What is your present religion, if any? Answer: Nothing in particular)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Independent (Question: In politics today, do you consider yourself a? Answer: Independent)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Family income last year: $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Household size: More than 4 people (Question: Including yourself, how many people currently live in your household? Answer: More than 4)
+- Employment status: Home-maker (Question: What is your current employment status? Answer: Home-maker)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (4 - Agree a little)
+  - Somewhat fault-finding (4 - Agree a little)
+  - Neither agree nor disagree on thoroughness and reliability
+  - Slightly original and inventive (4 - Agree a little)
+  - Somewhat reserved (4 - Agree a little)
+  - Somewhat careless and disorganized (4 - Agree a little)
+  - Somewhat tense and moody (4 - Agree a little)
+  - Somewhat worried and nervous (4 - Agree a little)
+  - Somewhat quiet and shy (4 - Agree a little)
+  - Somewhat cold and aloof (4 - Agree a little)
+  - Disagrees somewhat with being assertive (2 - Disagree a little)
+  - Disagrees somewhat with being relaxed and emotionally stable (2 - Disagree a little)
+  - Values artistic/aesthetic experiences somewhat (4 - Agree a little)
+- Need for Cognition scale responses indicate:
+  - Dislikes tasks requiring long, hard deliberation (6. I find satisfaction in deliberating hard and for long hours: 1 - Disagree strongly)
+  - Prefers tasks requiring little thought (4. I would rather do something that requires little thought than something that is sure to challenge my thinking abilities: 4 - Agree a little)
+  - Avoids deep thinking (5. I try to anticipate and avoid situations where there is likely chance I will have to think in depth: 4 - Agree a little)
+  - Only thinks as hard as necessary (7. I only think as hard as I have to: 4 - Agree a little)
+  - Prefers small daily projects (8. I prefer to think about small, daily projects to long-term ones: 4 - Agree a little)
+  - Enjoys tasks involving new solutions (11. I really enjoy a task that involves coming up with new solutions to problems: 4 - Agree a little)
+  - Likes abstract thinking somewhat (14. The notion of thinking abstractly appeals to me: 4 - Agree a little)
+  - Feels relief rather than satisfaction after mental effort (16. I feel relief rather than satisfaction after completing a task that requires a lot of mental effort: 4 - Agree a little)
+  - Usually deliberates about issues even if not personally affected (18. I usually end up deliberating about issues even when they do not affect me personally: 4 - Agree a little)
+- Values (rated as guiding principles):
+  - Highly important: Loyalty (9), Harmony (14), Honesty (16), Equality (21)
+  - Quite important: Wealth (1), Competence (6), Achievement (8), Politeness (12), Autonomy (20), Tradition (23), Civility (19), Humility (7)
+  - Less important: Influence (4), Power (13), Status (18), Recognition (22), Superiority (24)
+- Environmental concern: Strongly disagrees with environmental responsibility and concern (all environmental items rated 1 or 2 - Disagree strongly or a little)
+- Empathy and social sensitivity:
+  - Strongly agrees to understanding friends' happiness (3 - Agree strongly)
+  - Somewhat agrees to getting caught up in others' feelings (5 - Agree a little)
+  - Disagrees somewhat with being unaffected by others' emotions
+  - Mixed responses on ability to detect friends' emotions, generally somewhat aware
+- Cognitive test performance:
+  - Estimated self-correct answers: 30/42
+  - Estimated average US adult correct answers: 27/42
+  - Correct answers on logical reasoning and syllogistic tasks (all answered "Yes" to logical conclusions)
+  - Some uncertainty or "I do not know" on cube rotation puzzles; selected "I do not know" or uncertain answers on some
+  - Vocabulary synonyms and antonyms mostly correct except one error (CONCUR synonym chosen as "concoct" incorrectly)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Correctly understands inflation effect on savings (money buys less)
+  - Correctly identifies stocks as highest fluctuation asset
+  - Incorrectly believes bonds give highest return over long term (selected bonds over stocks)
+  - Incorrectly believes risk increases when spreading money among assets (selected "Increases" instead of "Decreases")
+  - Incorrect about required minimum distributions after age 70.5 (selected False)
+  - Credit card debt payoff time estimated as 10 years
+  - Correct answers on probability and percentage questions
+  - Some errors in basic math problem (bat and ball cost: answered 0.5 instead of 0.05)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 in $5 split (Ultimatum game)
+  - Accepts all offers as receiver, including $0 for self
+  - In Trust game, keeps all $5 and sends $0
+  - As receiver in Trust game, keeps majority and sends back less than half
+  - Thoughts indicate distrust and self-interest in money splitting decisions
+- Personality self-reports on personal attributes:
+  - Admits sometimes giving up due to low self-confidence
+  - Sometimes resentful, sometimes tries to get even
+  - Does not always admit mistakes or always courteous
+  - Sometimes jealous and irritated by others
+  - Mixed feelings about helpfulness and kindness
+- Self-concept clarity:
+  - Somewhat agrees that beliefs about self conflict and change
+  - Somewhat agrees that personal identity is important
+  - Sometimes unsure about self, but generally has a clear sense of who they are
+- Need for Closure:
+  - Agrees a little with disliking uncertainty, unpredictability, and ambiguity
+  - Prefers order, routine, and quick decisions
+- Maximizer tendencies:
+  - Somewhat agrees with checking for better options, looking for better opportunities
+  - Finds it hard to shop for gifts, has high standards but does not strongly maximize
+- Self-monitoring:
+  - Somewhat true that can alter behavior to suit situations, but with exceptions
+  - Generally able to read others' emotions and adjust behavior
+- Depression and mood:
+  - Does not feel sad or discouraged
+  - Feels guilty a good part of the time
+  - Feels disappointed in self but not worthless or a failure
+  - Gets annoyed more easily than before
+  - Less interested in others and sex than before
+  - Takes extra effort to start work, gets tired more easily
+  - Purposely trying to lose weight by eating less
+- Spending habits:
+  - Rates self as 4 on spending scale (1 = tightwad, 11 = spendthrift)
+  - Never has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant to spend despite sales)
+- Personal uniqueness and consumption:
+  - Somewhat agrees with seeking originality in products and avoiding common brands
+  - Somewhat disagrees with breaking social rules about products
+- Self-concept clarity items indicate some internal conflict and variability in self-beliefs

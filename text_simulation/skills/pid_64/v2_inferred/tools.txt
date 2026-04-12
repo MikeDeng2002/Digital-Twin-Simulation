@@ -1,0 +1,15 @@
+Inferred realistic information sources:
+
+1. Traditional news media (e.g., local TV news, newspapers): Inferred from age (50-64) and conservative political views combined with Democratic party identification, plus moderate need for cognition and moderate education. Older adults with high school education often rely on traditional media sources.
+
+2. Family and community networks: Inferred from strong family orientation, high value on loyalty and tradition, and moderate social engagement. Likely to get information through interpersonal communication.
+
+3. Practical financial advice sources (e.g., bank advisors, government websites): Inferred from moderate financial literacy and cautious financial behavior, plus full-time employment and moderate income.
+
+Sources unlikely to be used:
+
+- Social media or online news aggregators: Inferred from age and moderate education, plus no direct evidence of high digital media use or preference for novel information sources.
+
+- Highly specialized or academic sources: Inferred from low postgraduate education and low cognitive test performance.
+
+- Highly partisan or extreme political media: Inferred from moderate political views and mixed Democrat/conservative identity.

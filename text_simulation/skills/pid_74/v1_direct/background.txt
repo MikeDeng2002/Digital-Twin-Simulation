@@ -1,0 +1,97 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: 1 - Northeast)
+- Male (Question: What is the sex that you were assigned at birth? Answer: 1 - Male)
+- Age 65+ (Question: How old are you? Answer: 4 - 65+)
+- Highest education level: Associate's degree (Question: What is the highest level of schooling or degree that you have completed? Answer: 4 - Associate's degree)
+- Race: White (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Living with a partner (Question: Which of these best describes you? Answer: 2 - Living with a partner)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: 1 - Protestant)
+- Attends religious services a few times a year (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: 4 - A few times a year)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: 2 - Democrat)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: 3 - Moderate)
+- Family income last year: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: 2 - $30,000-$50,000)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3 - 3)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: 4 - Self-employed)
+- Personality traits (Big Five, selected items):
+  - Talkative: Agree a little (Item 1: 4)
+  - Finds fault with others: Disagree a little (Item 2: 2)
+  - Does a thorough job: Agree strongly (Item 3: 5)
+  - Is original, comes up with new ideas: Agree a little (Item 5: 4)
+  - Helpful and unselfish: Agree a little (Item 7: 4)
+  - Relaxed, handles stress well: Agree a little (Item 9: 4)
+  - Curious about many things: Agree a little (Item 10: 4)
+  - Reliable worker: Agree strongly (Item 13: 5)
+  - Perseveres until task is finished: Agree strongly (Item 28: 5)
+  - Emotionally stable: Agree a little (Item 24: 4)
+  - Assertive personality: Agree a little (Item 26: 4)
+  - Outgoing, sociable: Agree a little (Item 36: 4)
+  - Makes plans and follows through: Agree a little (Item 38: 4)
+  - Likes to reflect, play with ideas: Agree a little (Item 40: 4)
+- Need for Cognition scale (selected items):
+  - Prefers complex problems: Agree a little (Item 1: 4)
+  - Likes responsibility requiring thinking: Agree a little (Item 2: 4)
+  - Thinking is not fun: Disagree a little (Item 3: 2)
+  - Prefers intellectual, difficult tasks: Agree a little (Item 15: 4)
+  - Enjoys coming up with new solutions: Agree a little (Item 11: 4)
+  - Usually deliberates about issues even if not personal: Agree a little (Item 18: 4)
+- Values (selected):
+  - Trust: Highly important (8)
+  - Competence: Highly important (8)
+  - Honesty: Highly important (9)
+  - Politeness: Quite important (7)
+  - Harmony: Quite important (7)
+  - Compassion: Quite important (7)
+  - Autonomy: Quite important (7)
+  - Achievement: Moderately important (6)
+  - Loyalty: Moderately important (6)
+  - Equality: Moderately important (6)
+  - Forgiveness: Quite important (5)
+  - Altruism: Quite important (5)
+  - Wealth: Low importance (2)
+- Environmental concern: Disagree a little on importance and behaviors related to environment (Items 1-6)
+- Empathy and social sensitivity:
+  - Usually feels sad after friend is sad: Agree a little (2)
+  - Understands friend's happiness: Agree a little (3)
+  - Can usually work out when friends are scared or cheerful: Agree a little (10,14)
+  - Disagrees that others' feelings don't affect them (various items)
+- Cognitive test performance:
+  - Estimated correct answers: 35/42 (self-report)
+  - Estimated average US adult correct: 32/42 (self-report)
+  - Correct answers on logical reasoning and syllogisms (e.g., all XAR are YOF): mostly correct
+  - Correct answers on synonym and antonym vocabulary tests: mostly correct, with some errors (e.g., ASTUTE synonym chosen as "lineal" which is incorrect)
+- Financial literacy:
+  - Correct understanding of mortgage payments, inflation, risk diversification, and investment returns
+  - Knows that credit card debt with minimum payments at 12% APR will never be eliminated
+- Economic game behavior (Ultimatum and Trust games):
+  - Proposes to keep $3 and send $2 out of $5 (Ultimatum game)
+  - Accepts all offers except $0 to self
+  - In trust game, sends $0 and sends full $5 to other person (maximally trusting)
+  - As receiver, keeps $8 of $15 and sends back $7 (reciprocal fairness)
+- Spending habits:
+  - Moderate spending (5 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Does not identify strongly with being a spendthrift or tightwad
+- Depression and mood:
+  - Does not feel sad or like a failure
+  - Feels discouraged about the future
+  - Does not feel guilty or punished
+  - Reports waking up several hours earlier than usual and cannot get back to sleep
+  - Reports getting tired more easily than before
+  - Reports less interest in others and sex than before
+  - Reports some irritability
+- Self-concept clarity:
+  - Generally agrees to having a clear sense of self (Item 11: Agree a little)
+  - Disagrees with statements about conflicting or changing self-beliefs
+- Need for Closure:
+  - Neither agrees nor disagrees with disliking uncertainty
+  - Agrees a little to disliking ambiguous questions and unpredictable situations
+  - Agrees a little to liking a well-ordered life and consistent routine
+  - Disagrees a little with impatience for quick solutions
+- Maximizer tendencies:
+  - Disagrees a little with statements about always seeking better options or highest standards
+- Self-monitoring:
+  - Somewhat true but with exceptions for ability to alter behavior in social situations
+  - Generally true for ability to tell when said something inappropriate
+- Self-concept clarity:
+  - Mostly stable and clear self-concept, little internal conflict

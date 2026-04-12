@@ -1,0 +1,20 @@
+Need for Closure: Moderate. The respondent prefers order and quick resolution but is not impatient or intolerant of ambiguity. They want closure but tolerate some uncertainty.
+
+Need for Cognition: Moderate. They engage in analytical effort but sometimes avoid deep or prolonged thinking. They deliberate but also satisfice.
+
+Maximizer: Moderate. They seek good solutions and compare options but do not insist on perfect answers.
+
+Self-Monitoring: High. They are socially perceptive and adjust behavior to context, aware of others' views.
+
+Self-Concept Clarity: Moderate to low. Some internal conflict and variability in self-view, which may make them somewhat susceptible to social influence but also reflective.
+
+Economic Game Gap: Behavior is consistent and strategic. Offers and acceptance rates align with fairness and reciprocity norms. No major discrepancy between stated and strategic behavior.
+
+Intertemporal Patience: Moderate to high. Prefers delayed rewards unless immediate reward is equal or better, indicating future orientation in decision-making.
+
+Cognitive Errors: Occasional errors on simple riddles and attention to wording suggest some lapses in attention or overthinking simple problems. Logical reasoning is strong overall. This implies numeric predictions will be generally sound but may occasionally misinterpret simple cues or overcomplicate.
+
+Social Desirability: Moderate. Some admissions of negative traits suggest reasonable honesty, but some social desirability bias likely present.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by the respondent’s high self-monitoring, moderate empathy, and social perceptiveness, combined with moderate self-concept clarity and some internal conflict. Their cognitive style is analytical but not exhaustive, with a preference for fairness and reciprocity in social and economic interactions. Their values emphasize competence, autonomy, and equality, suggesting they integrate social information with personal principles. The occasional cognitive lapses on simple tasks are balanced by strong logical reasoning on complex tasks, indicating a generally reliable but not infallible reasoning process. Their consumerism and uniqueness orientation suggest they seek diverse and non-mainstream information, which may introduce some bias or idiosyncrasy in numeric predictions. Overall, they are socially attuned and moderately influenced by social context, but maintain a stable enough self-view to resist extreme social pressure, leading to a moderately high social weighting in their reasoning.

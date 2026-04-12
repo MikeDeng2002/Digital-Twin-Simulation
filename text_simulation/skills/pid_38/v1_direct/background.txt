@@ -1,0 +1,77 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female, age 50-64 (Questions: Sex assigned at birth, Age. Answers: Female, 50-64)
+- Highest education completed: High school graduate (Question: Highest level of schooling or degree completed. Answer: High school graduate)
+- Race: White (Question: Race or origin. Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Roman Catholic, attends religious services a few times a year (Questions: Present religion, Frequency of attendance. Answers: Roman Catholic, A few times a year)
+- Political affiliation: Independent, politically conservative (Questions: Political party, Political views. Answers: Independent, Conservative)
+- Household size: 4 people (Question: Including yourself, how many people currently live in your household? Answer: 4)
+- Employment status: Full-time employment (Question: Current employment status. Answer: Full-time employment)
+- Family income last year: $100,000 or more (Question: Total family income last year. Answer: $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Somewhat talkative (4 - Agree a little)
+  - Neither agree nor disagree on faultfinding, reserved, quarrelsome, quiet, shyness, rudeness
+  - Slightly conscientious (does a thorough job, reliable worker, perseveres, makes plans, does things efficiently, prefers routine) (mostly 4 - Agree a little)
+  - Emotionally stable, relaxed, not tense, not moody (mostly 4 - Agree a little or 2 - Disagree a little)
+  - Low openness to experience (disagree strongly or disagree a little on originality, imagination, inventiveness, artistic interests, sophistication)
+  - Agree a little on being helpful, forgiving, considerate, kind, trusting, outgoing, assertive, cold and aloof (mixed social traits)
+  - Values wealth, forgiveness, influence, trust, competence, altruism, ambition, loyalty, politeness, honesty, compassion, civility, autonomy highly (ratings mostly 6-8)
+  - Values power moderately (4), status moderately (5), tradition and humility somewhat (6)
+  - Prefers simplicity and minimalism in possessions and environment (all 4 - Agree a little on avoiding excess possessions, simplicity in design, mindful ownership)
+  - Mixed empathy: agrees somewhat that friends’ emotions affect her, but also some neutral or disagree responses on emotional contagion and awareness
+- Cognitive test performance:
+  - Estimated self-correct answers: 25/42 (Question: How many questions do you think you answered correctly? Answer: 25)
+  - Estimated average US adult correct: 30/42 (Question: How many do you think average US adults would answer correctly? Answer: 30)
+  - Correct answers on logical reasoning and syllogisms mixed; some errors on logical conclusions (e.g., answered "No" to valid syllogisms)
+  - Some errors on synonym and antonym questions (e.g., incorrect synonym for CONFISCATE, FURTIVE, COVET, INDOLENT)
+- Financial literacy:
+  - Correctly understands mortgage payments, inflation effects, risk diversification, and investment returns (Questions on mortgage, inflation, asset fluctuation, risk spreading, returns)
+  - Correctly understands required minimum distributions from retirement accounts
+  - Knows credit card debt payoff time (30 years)
+  - Some errors in probability estimates (e.g., die rolls 70 out of 1000, lottery car winning percent 10% instead of 0.1%)
+  - Correct answers on basic math and logic puzzles (e.g., bat and ball cost, lily pad doubling)
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep all money for self and send $0 to other (Ultimatum game proposer)
+  - Rejects offers where self would get $2 or less (rejects $2 or $1 or $0 offers)
+  - As receiver in trust game, keeps all money and sends back $0 regardless of amount received
+  - Thoughts during decisions focused on self and money, with no mention of fairness or other-regarding preferences
+- Self-reported personality and behavior:
+  - Does not give up easily but has given up on some tasks due to low self-belief
+  - Good listener, willing to admit mistakes, sometimes takes advantage of others, sometimes tries to get even
+  - Courteous even to disagreeable people, sometimes irritated by favors, sometimes irked by differing ideas
+  - Organized, efficient, systematic, practical, not careless or sloppy
+  - Prefers to depend on self, values competition and winning, but also values cooperation and family loyalty
+  - Aspires to be honest, trusting, helpful, courteous, courageous, and a good person
+  - Actually tries to be honest, loyal, caring, helpful, courteous, and wants respect from others
+- Self-concept clarity:
+  - Generally clear sense of self, little internal conflict, beliefs about self do not change frequently
+  - Somewhat reluctant to reveal true self to others
+- Need for Closure:
+  - Somewhat dislikes uncertainty, prefers order and routine, likes to reach solutions quickly, dislikes ambiguous statements
+- Need for Cognition:
+  - Dislikes complex problems and deep thinking, prefers tasks requiring little thought, tries to avoid thinking hard, does not enjoy intellectual challenges
+- Maximizer:
+  - Does not strongly endorse maximizing tendencies; disagrees with "never settle for second best" and similar items
+- Self-monitoring:
+  - Generally able to adjust behavior to social situations, control impressions, read others’ emotions moderately well, but not highly intuitive about lies or subtle emotions
+- Mental health:
+  - Reports no significant symptoms of depression, anxiety, or physical health worries
+  - Does not feel sad, discouraged, guilty, worthless, or disappointed in self
+  - No loss of interest in people or sex, no sleep or appetite problems
+  - Purposely trying to lose weight by eating less
+- Spending habits:
+  - Identifies as a tightwad (difficulty spending money)
+  - Never has trouble limiting spending
+  - Always has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Consumer uniqueness:
+  - Disagrees or neutral on seeking uniqueness or originality in products
+  - Agrees a little that dislikes common products and avoids popular brands
+- Logical reasoning:
+  - Correctly identifies cards to test conditional rules (e.g., card A)
+- Lottery and risk preferences:
+  - Prefers certain smaller amounts over lotteries with equal or higher expected value (risk averse)
+  - Prefers immediate smaller amounts over delayed larger amounts (impatient)
+  - Prefers to keep all money in trust game, sends nothing to other
+  - Thoughts during economic games focused on maximizing own gain, ignoring others

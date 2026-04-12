@@ -1,0 +1,74 @@
+Demographics: Female, age 30-49, White, living in the Southern US, married, US citizen, associate’s degree, household size >4, home-maker, family income $75k-$100k, politically independent with moderate views, no religious affiliation or practice. This suggests a middle-income, family-focused lifestyle with moderate political engagement and secular worldview. The Southern US context may imply some cultural conservatism but the moderate political stance and independence suggest openness to diverse views.
+
+Big Five Personality (44 items): 
+- Extraversion: Mixed signals; somewhat talkative (4), but also reserved (4) and quiet (4), low energy (2), low enthusiasm (2), low outgoingness (2). Overall, low-moderate extraversion with introverted tendencies.
+- Agreeableness: Mixed; somewhat fault-finding (4), somewhat cold/aloof (4), low forgiving (2), low trust (2), somewhat rude (4), neutral helpfulness (3), neutral kindness (3). Suggests lower agreeableness, somewhat critical and less trusting.
+- Conscientiousness: Neutral to low; neither thorough nor reliable (3), somewhat careless (4), somewhat disorganized (4), somewhat inefficient (3), somewhat lazy (3), moderate planning (3). Indicates moderate to low conscientiousness with some disorganization and carelessness.
+- Neuroticism: Elevated; somewhat tense (4), worries a lot (4), moody (4), nervous (4), low emotional stability (2), low relaxation (2). Indicates moderate anxiety and emotional reactivity.
+- Openness: Moderate; somewhat original (4), curious (4), active imagination (4), inventive (4), values artistic experiences (4), but not strongly sophisticated (3). Moderate openness with creative tendencies.
+
+Need for Cognition (18 items): Scores indicate low to moderate engagement with thinking:
+- Prefers less complex problems (3), dislikes long mental effort (1), tries to avoid deep thinking (4), thinks only as hard as necessary (4), prefers short-term projects (4), relief rather than satisfaction after mental effort (4). 
+- However, some liking for new solutions (4), abstract thinking (4), and deliberation (4). 
+Overall, low to moderate Need for Cognition, tending to avoid deep or prolonged cognitive effort but open to some intellectual engagement.
+
+Values (24 items): Highest rated values are Loyalty (9), Harmony (9), Honesty (9), Equality (9), Trust (8), Competence (8), Politeness (7), Autonomy (7), Tradition (7). Low importance on Status (2), Recognition (1), Superiority (1), Power (3), Influence (3). This reveals a worldview valuing social harmony, fairness, trustworthiness, and competence, with low emphasis on dominance or fame.
+
+Minimalism (12 items): Mostly low minimalism; strong disagreement with avoiding accumulation (1), restricting possessions (1), sparse environments (2), mindful curation (2-3). Slight agreement with simplicity in design (4) and thoughtfulness about ownership (4). Overall, not minimalist, tends to own and keep many possessions, less focused on curation.
+
+Empathy (20 items): Mixed but generally moderate empathy:
+- Strongly agrees understanding friends’ happiness (5), somewhat caught up in others’ feelings (4), can usually tell when friends are cheerful or angry (4), but also some disagreement with being affected by others’ emotions (1-2). 
+- Does not get frightened by scary movies (1), less sadness from others’ distress (2-3). 
+Suggests moderate cognitive empathy but somewhat limited emotional contagion.
+
+Consumerism/Uniqueness: Moderate desire for uniqueness; agrees somewhat with seeking interesting or unusual products (4), developing personal uniqueness (4), avoiding common brands (4), but disagrees with breaking social rules or customs (2-3). Indicates moderate trend-consciousness with some desire to stand out but within social norms.
+
+Social Desirability: Not explicitly scored but some contradictory self-reports (e.g., admits to taking advantage of others, being rude, not always courteous) suggest moderate honesty in self-reporting, not strongly biased by social desirability.
+
+Cognitive Test Performance:
+- Correctly answered most logical syllogisms and conditional reasoning (all answered "Yes" correctly).
+- Correctly answered basic riddles and numeric puzzles (e.g., "Emily" question, cubic feet, race position).
+- Some errors in synonym and antonym tests: e.g., chose "concoct" for "concur" (incorrect), "recapitulate" for "oscillate" (incorrect), "calculating" for "verbose" (incorrect). Indicates some vocabulary confusion or guessing.
+- Moderate performance on spatial cube rotation tasks: chose "I do not know" once, and some inconsistent choices, indicating moderate spatial reasoning.
+- Estimated self-correct answers on cognitive tests: 30/42 (above average).
+- Actual performance inferred as moderate.
+
+Word Association Chain: The chain moves from "table" to "fork," "knife," "napkins," "plates," "cloth," "dinner," "cooking," "meat," "noodles," "vegetables," "shopping," "money," "stress," "job," "family," "paycheck," "budget," "economy," "anxiety." This chain shows a concrete, practical, and somewhat stress-tinged cognitive pattern, moving from household/dining to financial and emotional concerns, indicating a focus on daily life and economic stress.
+
+Economic Games (Dictator and Ultimatum):
+- Proposes to keep $3 and give $2 in dictator game (somewhat selfish).
+- Accepts all offers in ultimatum game, even $0 (high acceptance).
+- In trust game, keeps all money and sends nothing (maximally selfish).
+- As receiver in trust game, keeps majority (~60%) and returns less than half.
+- Thoughts reveal distrust and self-interest when proposer; fairness and reciprocity when receiver.
+- Indicates strategic but self-protective social economic behavior.
+
+Intertemporal Choice:
+- Prefers larger later rewards over smaller sooner ones mostly, but with some impatience at close delays.
+- Shows moderate patience but some impulsivity.
+
+Depression and Mood:
+- No major depression symptoms; no sadness, no hopelessness, no failure feelings.
+- Some guilt and disappointment in self.
+- Some increased irritability and less interest in others and sex.
+- Some physical worries and tiredness.
+- Actively trying to lose weight.
+- Overall mild subclinical depressive symptoms or stress.
+
+Self-Monitoring and Self-Concept Clarity:
+- Moderate self-monitoring (4/6), can adjust behavior somewhat but not fully.
+- Moderate self-concept clarity; some internal conflict and variability in self-view.
+- Somewhat stable but with occasional uncertainty.
+
+Need for Closure:
+- Moderate need for closure; dislikes uncertainty, prefers order and routine, wants quick solutions but not extreme impatience.
+
+Maximizer Scale:
+- Moderate maximizer; checks for better options sometimes, but not obsessively.
+- Shopping behavior shows some difficulty finding loved items, but not extreme.
+
+Consumer Spending:
+- Not a spendthrift, but often reluctant to spend money.
+- Prefers to save or limit spending, possibly anxious about finances.
+
+Summary: The profile is of a moderately anxious, somewhat introverted, moderately open and creative woman in her 30s-40s, family-oriented, with moderate cognitive engagement but some avoidance of deep thinking, moderate social empathy but guarded in trust, moderate patience, and a pragmatic, somewhat self-protective economic decision style. She values social harmony, loyalty, honesty, and equality, but is not minimalist and has some disorganization and emotional reactivity. Cognitive performance is moderate with some vocabulary and spatial reasoning weaknesses. Mood is mildly stressed with some guilt and irritability but no major depression.

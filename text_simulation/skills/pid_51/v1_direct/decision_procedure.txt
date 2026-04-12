@@ -1,0 +1,17 @@
+- Need for Closure:
+  - Agrees a little to disliking uncertainty and unpredictability (Q1: 4, Q2: 4, Q3: 4, Q4: 4, Q6: 4, Q10: 4, Q11: 4, Q12: 4, Q13: 5)
+  - Disagrees a little with impatience when no immediate solution (Q9: 2)
+- Need for Cognition:
+  - Generally agrees a little to enjoying thinking, complex problems, intellectual tasks (Q1:4, Q2:4, Q11:5, Q15:4)
+  - Disagrees a little with avoiding thinking or feeling relief rather than satisfaction after mental effort (Q3:2, Q4:2, Q5:2, Q16:2)
+- Maximizer:
+  - Agrees a little to never settling for second best and looking for better opportunities (Q1:4, Q2:5, Q6:4)
+  - Disagrees a little with difficulty shopping for gifts or finding clothing loved (Q3:2, Q4:2)
+- Self-monitoring:
+  - Somewhat true but with exceptions in ability to alter behavior and regulate actions (Q1:4, Q5:4, Q7:5)
+  - Generally true in detecting lies and inappropriate statements (Q12,13:5)
+  - Somewhat false but with exceptions in controlling impression (Q2:3, Q3:2, Q4:3)
+- Self-concept clarity:
+  - Mostly agrees a little to having a clear sense of self and little internal conflict (Q6:4, Q11:4)
+  - Disagrees a little or strongly with conflicting or changing self-beliefs (Q1,2,3,4,5,7,8,9,10,12: mostly 1-2)
+- w_social estimate: 0.7 -- The person shows moderate to high social awareness and concern for fairness (economic game thoughts: "be fair," "be nice"), moderate self-monitoring (Q1:4, Q7:5), empathy (agree a little to understanding others’ feelings), and values cooperation and family (values loyalty, politeness, compassion highly). However, some self-monitoring items are only somewhat true, and the person is somewhat reserved and shy, indicating moderate social engagement rather than very high.

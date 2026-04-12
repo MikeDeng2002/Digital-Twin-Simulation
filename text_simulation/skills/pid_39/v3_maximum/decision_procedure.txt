@@ -1,0 +1,21 @@
+Need for Closure: Moderate to high. She prefers quick resolution and dislikes ambiguity but is not impulsive or intolerant. She seeks closure but tolerates some uncertainty.
+
+Need for Cognition: Moderate. She enjoys problem-solving and new solutions but avoids excessive mental effort and deep abstract thinking. She balances effort with practicality.
+
+Maximizer: Moderate-low. She seeks fair and good solutions rather than the absolute best. Satisficing behavior in information and decision-making.
+
+Self-Monitoring: Moderate. She notices social cues and adjusts behavior somewhat but maintains a stable self-view and does not defer excessively to others.
+
+Self-Concept Clarity: High. Stable and clear self-identity, resistant to social pressure and internal conflict.
+
+Economic Game Gap: Behavior in dictator and ultimatum games is consistent with stated fairness and altruism values. Proposes and accepts fair splits, rejects very unfair offers, and reciprocates fairly. No strategic deception detected.
+
+Intertemporal Patience: High. Prefers larger delayed rewards consistently, indicating long-term thinking in forming views and decisions.
+
+Cognitive Errors: Minor semantic confusions (e.g., ASTUTE synonym), difficulty with 3D spatial rotation puzzles (cube rotations), but strong logical syllogistic reasoning and verbal comprehension. This implies numeric predictions will be logically consistent but may struggle with complex spatial or abstract probabilistic reasoning.
+
+Social Desirability: Moderate. Some admission of faults and balanced self-reporting suggest reasonable reliability of self-reports.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate is driven by high empathy, strong social and moral values, and moderate self-monitoring, indicating that social context and interpersonal considerations heavily influence her reasoning and predictions. Her political and religious conservatism, combined with moderate Need for Cognition and moderate Maximizer tendencies, suggest she integrates social consensus and trusted community sources rather than independent deep research. Cognitive test performance shows solid logical reasoning but some limitations in abstract spatial tasks, implying numeric predictions will be coherent but possibly conservative and anchored in familiar frameworks. Social desirability is moderate, so self-reports are fairly trustworthy. Conflicts between moderate Need for Cognition and avoidance of deep thinking were resolved by weighting her expressed preferences for fairness, social harmony, and practical reasoning over abstract intellectual challenge. Overall, she is a socially attuned, conscientious, and moderately analytical individual whose numeric predictions will reflect her values, social context, and practical reasoning style rather than purely technical or speculative analysis.

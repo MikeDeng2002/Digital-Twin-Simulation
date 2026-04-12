@@ -1,0 +1,20 @@
+Need for Closure: Moderate to high. Wants quick resolution, dislikes ambiguity, prefers structured, predictable information. Will likely form firm opinions quickly once sufficient evidence is gathered.
+
+Need for Cognition: Moderate. Will invest analytical effort but may avoid overly complex or prolonged cognitive tasks. Likely to engage in some reasoning and research but not exhaustive.
+
+Maximizer: Low to moderate. More satisficer than maximizer; seeks good enough answers rather than perfect ones. Will not endlessly compare sources or options.
+
+Self-Monitoring: Moderate. Notices social cues and others’ opinions, may adjust presentation but maintains own views.
+
+Self-Concept Clarity: Moderate. Some internal conflict but overall stable self-view, able to resist social pressure but open to reconsideration.
+
+Economic Game Gap: Proposes moderately fair offers but keeps majority; accepts fair offers but rejects very low ones. Behavior consistent with strategic fairness and self-interest.
+
+Intertemporal Patience: Moderate patience with some present bias. Prefers immediate rewards in short term but can wait for better outcomes in longer term.
+
+Cognitive Errors: Some semantic confusion in vocabulary tests, occasional logical reasoning errors (especially in syllogisms), moderate spatial reasoning difficulties. Suggests numeric prediction may be prone to occasional heuristic errors, overconfidence in some logical deductions, and some difficulty with complex abstract patterns.
+
+Social Desirability: Moderate honesty, admits to some negative traits, so self-reports are reasonably reliable.
+
+w_social estimate: 0.65  
+Reasoning: The estimate is driven by moderate Need for Cognition and Closure, moderate self-monitoring, and moderate empathy, indicating a person who integrates social information but also relies on personal reasoning and stable self-concept. The moderate Maximizer score and minimalism suggest selective, curated information use rather than exhaustive search. Cognitive test performance indicates above-average but imperfect reasoning, with some heuristic biases. Economic games show strategic fairness but self-interest. The person’s conservative political identity and moderate education imply preference for mainstream and conservative-leaning sources, with some openness to unique perspectives. Conflicts between emotional volatility and self-reported emotional stability were resolved by weighting self-report honesty and behavioral consistency, indicating a complex but coherent reasoning style. Overall, this person is likely to produce numeric predictions that are moderately analytical, somewhat conservative in uncertainty, and influenced by social and pragmatic considerations rather than purely abstract or maximalist reasoning.

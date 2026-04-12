@@ -1,0 +1,17 @@
+Need for Closure: Moderate (items mostly 4s and some 2s), indicating preference for order, routine, and decisiveness but not extreme intolerance of ambiguity.
+
+Need for Cognition: Low to moderate (mostly 2s and 3s), indicating limited intrinsic motivation for deep thinking or complex problem solving.
+
+Maximizer: Low (disagree strongly with maximizing items), indicating satisfaction with good enough rather than always seeking the best.
+
+Self-monitoring: Moderate (3-4 on items), some ability to adjust behavior but not highly strategic or image-conscious.
+
+Self-concept clarity: Moderate to high (mostly disagree with conflicting self-beliefs, agree somewhat with clear self-view).
+
+Economic games: Proposes to keep a moderate share ($3/$5) but sends a fair amount ($2), accepts all offers as receiver, and thinks about fairness and mutual benefit. This suggests moderate social cooperation and fairness orientation.
+
+Cross-scale inference: Need for Closure and Need for Cognition agree on moderate preference for order and routine but low engagement with complex thinking. Maximizer and self-monitoring scales agree on low competitiveness and moderate social adaptability. Economic game behavior aligns with values emphasizing trust, forgiveness, and altruism.
+
+No contradictions apparent.
+
+w_social estimate: 0.65 -- The respondent shows moderate social cooperation and fairness in economic games, moderate empathy and social sensitivity, and values loyalty, trust, and compassion highly. Her moderate self-monitoring and self-concept clarity support stable social behavior. However, her moderate Need for Cognition and low maximizer tendencies suggest she is not highly strategic or competitive socially, placing her social weighting in the moderate range.

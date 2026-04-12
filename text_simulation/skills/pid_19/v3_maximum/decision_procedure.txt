@@ -1,0 +1,32 @@
+Need for Closure: Moderate. Agrees somewhat with discomfort in uncertainty and desire for order and routine, but not extreme impatience. Wants resolution but tolerates some ambiguity.
+
+Need for Cognition: Moderate. Willing to engage in thinking and responsibility but not deep or prolonged abstract thought. Prefers practical, efficient problem-solving.
+
+Maximizer: Strong. Seeks best answers, high standards, comparison shopping for information and opportunities.
+
+Self-monitoring: Moderate to high. Can adjust behavior in social situations, sensitive to others' emotions, but some difficulty changing self-image. Notices others' opinions and expectations.
+
+Self-concept clarity: Moderate. Some internal conflict and variability in self-view, but generally stable and clear sense of self.
+
+Economic game gap: Proposer behavior moderately selfish but fair ($3/$2 split), receiver behavior rejects unfair offers, trust game shows low trust (keeps all money, sends none). Behavior matches strategic self-interest with fairness concerns.
+
+Intertemporal patience: Prefers immediate smaller rewards over delayed larger ones consistently, indicating impatience or discounting future gains steeply.
+
+Cognitive errors: 
+- Logical syllogisms: Tends to affirm conclusions even when invalid, indicating confirmation bias and weak formal logic.
+- Semantic tests: Several errors in synonyms and antonyms, indicating occasional vocabulary or semantic confusion.
+- Spatial puzzles: Mixed performance, some difficulty with complex 3D mental rotation.
+- Overestimates own cognitive errors (30/42 vs 35/42 average), indicating moderate metacognitive awareness but some underconfidence.
+
+Social desirability: Moderate. Willing to admit faults and negative feelings, but some answers may be influenced by desire to appear competent and ethical.
+
+w_social estimate: 0.65  
+Reasoning: The estimate balances the participant’s high empathy, social sensitivity, and self-monitoring (which increase social influence on reasoning) against their strong self-concept clarity and maximizer tendencies (which support independent, high-standard reasoning). The moderate Need for Closure and moderate Need for Cognition suggest a balanced approach to information processing, neither rushing to closure nor overdeliberating. Cognitive errors in logic and vocabulary indicate some vulnerability to heuristic biases and confirmation bias, which may be socially influenced. Economic game behavior shows strategic self-interest tempered by fairness concerns, consistent with moderate social weighting. Social desirability is moderate, so self-reports are somewhat reliable but should be interpreted with caution. Overall, this person’s numeric predictions will reflect a blend of socially informed reasoning, moderate analytical effort, and a tendency to seek the best available information but with some cognitive biases and impatience for resolution.
+
+# Summary for simulation:  
+- Likely to research Bitcoin price or AGI arrival using mainstream, liberal-leaning, reputable sources with moderate depth.  
+- Will incorporate social consensus and peer opinions due to high empathy and social monitoring.  
+- Will seek best available data but may shortcut logic or over-affirm plausible conclusions.  
+- Will discount long-term uncertainty somewhat, favoring more immediate or concrete information.  
+- Predictions will be cautious but assertive, with moderate confidence and some anxiety about uncertainty.  
+- May underweight highly abstract or counterintuitive scenarios due to moderate openness and cognitive style.

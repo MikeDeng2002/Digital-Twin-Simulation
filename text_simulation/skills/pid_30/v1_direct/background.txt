@@ -1,0 +1,134 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male, aged 50-64 (Questions: Sex assigned at birth, Age; Answers: Male, 50-64)
+- Education level: College graduate/some postgraduate (Question: Highest level of schooling completed; Answer: College graduate/some postgrad)
+- Race: White (Question: Race or origin; Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Living with a partner (Question: Which of these best describes you? Answer: Living with a partner)
+- Religion: Orthodox, attends religious services a few times a year (Questions: Present religion, Frequency of attendance; Answers: Orthodox, A few times a year)
+- Political identification: Independent, moderate views (Questions: Political party, Political views; Answers: Independent, Moderate)
+- Family income last year: $30,000-$50,000 (Question: Total family income; Answer: $30,000-$50,000)
+- Household size: 2 people (Question: Number of people in household; Answer: 2)
+- Employment status: Full-time employment (Question: Current employment status; Answer: Full-time employment)
+
+- Personality traits (Big Five, self-report):
+  - Low talkativeness (Q: Is talkative; Answer: Disagree a little)
+  - Very low tendency to find fault with others (Disagree strongly)
+  - Very thorough and reliable worker (Agree strongly)
+  - Emotionally stable, relaxed, not tense (Agree strongly or disagree strongly on negative items)
+  - Highly original, inventive, ingenious, deep thinker (Agree strongly)
+  - Helpful and unselfish (Agree a little)
+  - Curious about many things (Agree strongly)
+  - Somewhat energetic and enthusiastic (Agree a little)
+  - Forgiving nature (Agree strongly)
+  - Not disorganized or careless (Disagree strongly)
+  - Not moody or shy (Disagree a little or strongly)
+  - Values artistic and aesthetic experiences (Agree strongly)
+  - Considerate and kind (Agree strongly)
+  - Makes plans and follows through (Agree strongly)
+  - Calm in tense situations (Agree strongly)
+  - Outgoing and sociable to some extent (Agree a little)
+  - Generally trusting (Neither agree nor disagree)
+  - Not easily distracted (Disagree strongly)
+  - Sophisticated in art, music, or literature (Agree strongly)
+
+- Need for Cognition (self-report):
+  - Likes responsibility requiring thinking (Agree a little)
+  - Dislikes thinking not fun (Disagree strongly)
+  - Does not avoid thinking hard (Disagree strongly)
+  - Finds satisfaction in deliberating hard (Agree a little)
+  - Enjoys coming up with new solutions (Agree strongly)
+  - Likes thinking abstractly (Agree strongly)
+  - Often deliberates about issues even if not personally affected (Agree strongly)
+  - Prefers intellectual, difficult tasks somewhat (Neither agree nor disagree)
+  - Does not feel relief but satisfaction after mental effort (Disagree strongly)
+  - Does not think only as hard as necessary (Disagree strongly)
+
+- Values (rated as guiding principles):
+  - Highly values loyalty (9)
+  - Highly values honesty (9)
+  - Highly values equality (9)
+  - Values humility (8), politeness (8), civility (8)
+  - Values competence (7), ambition (7), altruism (6), compassion (6), trust (6)
+  - Values achievement, influence, harmony, autonomy, tradition moderately (5)
+  - Does not value power, recognition, superiority, status (1-2)
+  - Low importance on wealth (2) and pleasure (3)
+
+- Environmental attitudes:
+  - Agrees somewhat that products should not harm environment and considers environmental impact in decisions (Agree a little to strongly)
+  - Concerned about wasting planet resources (Agree strongly)
+  - Willing to be inconvenienced for environmentally friendly actions (Agree a little)
+
+- Empathy and social sensitivity:
+  - Strongly disagrees with being unaffected by friends’ emotions
+  - Strongly agrees with understanding friends’ happiness, sadness, fear, anger
+  - Does not get easily caught up in others’ feelings emotionally
+  - Can read friends’ emotions well (agree strongly)
+  - Does not get frightened by scary movies or sad things on TV
+
+- Self-concept clarity:
+  - Strongly agrees to having a clear sense of who they are
+  - Strongly disagrees with conflicting or changing self-beliefs
+  - Seldom experiences conflict between personality aspects
+
+- Self-reported personality attributes:
+  - Organized, efficient, practical (rated 8 out of 9)
+  - Not disorganized, sloppy, careless, or inefficient (rated extremely inaccurate)
+  - Prefers to depend on self, values personal identity independent of others (agree strongly)
+  - Willing to admit mistakes, courteous, good listener, forgiving, not resentful or jealous
+  - Does not get irritated easily, not moody, not shy
+  - Values family and duty to family strongly
+  - Cooperative and considerate to others (agree a little to strongly)
+  - Does not get tense or aroused by competition, but values doing job better than others somewhat
+
+- Financial literacy:
+  - Correctly understands mortgage payment and interest relationship (True)
+  - Understands inflation effect on savings (money loses buying power)
+  - Knows stocks have highest fluctuations and highest long-term returns
+  - Understands risk diversification reduces risk
+  - Knows required minimum distributions after age 70.5
+  - Correctly estimates credit card payoff time (15 years)
+  - Correctly answers probability and percentage questions (e.g., die rolls, lottery odds)
+  - Correctly solves classic cognitive problems (bat and ball, lily pads)
+  - Correctly answers logical syllogisms mostly (with one exception)
+  - Estimates own cognitive test performance as 30/42, above average (25/42)
+
+- Spending habits:
+  - Neither tightwad nor spendthrift (6 on 11-point scale)
+  - Never has trouble limiting or spending money
+  - Does not impulsively overspend in sales situations, but also not overly reluctant to spend
+  - Prefers fair splitting in economic games, but keeps slightly more for self
+  - In dictator and trust games, tends to keep some money but also sends fair amounts
+  - Thinks about fairness and reciprocity in economic decisions
+
+- Depression and mood:
+  - Reports no symptoms of sadness, discouragement, guilt, irritability, or loss of interest
+  - Reports no problems with sleep, appetite, weight, or energy
+  - Reports no feelings of worthlessness or failure
+  - Reports normal decision-making ability and no increased tiredness or health worries
+
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations and impressions
+  - Can read others’ emotions and facial expressions well
+  - Can tell when jokes are in bad taste or when something inappropriate is said
+  - Does not have trouble putting up a good front when advantageous
+
+- Need for Closure:
+  - Neither agrees nor disagrees with disliking uncertainty
+  - Slightly agrees that a well-ordered life suits temperament
+  - Disagrees with impatience for quick solutions
+  - Likes consistent routine and structured life
+  - Disagrees with consulting many opinions before forming views
+
+- Maximizer tendencies:
+  - Strongly agrees with having highest standards for self
+  - Strongly agrees with never settling for second best
+  - Agrees strongly with being on lookout for better opportunities
+  - Disagrees with difficulty shopping for gifts or finding clothing loved
+
+- Self-concept clarity (again):
+  - Strongly agrees to clear and stable self-beliefs
+  - Disagrees strongly with conflicting or changing self-beliefs
+
+- Economic game thoughts:
+  - When deciding how to split money, thinks about fairness, what others would do, and kindness
+  - When deciding how much to return in trust game, thinks about fairness and reciprocity

@@ -1,0 +1,58 @@
+Demographics: Male, age 65+, White, living in the Southern US, retired, married, Protestant but seldom attends services, US citizen, moderate political views, identifies as Independent, family income $30,000-$50,000, household size 2, some college but no degree. This suggests a likely working-class or lower-middle-class background with moderate political and religious engagement, typical of older Southern males who may have experienced traditional social roles and values but limited formal education.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagrees slightly with being talkative and outgoing, somewhat shy (item 31=5), neither strongly outgoing nor quiet.  
+- Very low Neuroticism: Strongly disagrees with depression, moodiness, worry; emotionally stable (item 24=5).  
+- High Conscientiousness: Strongly agrees with being thorough, reliable, persevering, organized, efficient, systematic, practical, and careful.  
+- Moderate Openness: Strongly curious, active imagination, inventive, original a little, likes abstract thinking, artistic interests, and sophistication in art/music/literature (mostly 4-5).  
+- High Agreeableness: Helpful, forgiving, considerate, kind, generally trusting, cooperative (mostly 4s).  
+Overall, a conscientious, emotionally stable, moderately open, somewhat introverted, and agreeable profile.
+
+Need for Cognition (18 items):  
+- High Need for Cognition: Strongly agrees with liking responsibility requiring thinking, preferring complex problems, intellectual tasks, abstract thinking, and thinking hard. Disagrees strongly with avoiding thinking or preferring simple tasks.  
+- Some ambivalence about satisfaction after mental effort (item 6=3), but mostly high engagement with thinking.  
+Indicates a person who enjoys cognitive challenge and deliberation.
+
+Values (24 items):  
+- Highest values (8): Pleasure, Trust, Competence, Achievement, Compassion, Civility.  
+- Moderately high (7): Loyalty, Politeness, Harmony, Excitement, Honesty, Autonomy.  
+- Moderate (6): Forgiveness, Altruism, Equality, Tradition.  
+- Low values (2-3): Power, Status, Recognition, Superiority, Influence.  
+This suggests a worldview valuing social harmony, competence, achievement, trustworthiness, kindness, and personal autonomy, with low emphasis on dominance or status.
+
+Minimalism (12 items):  
+- Mixed signals: Strong agreement with preference for visually sparse environments and simplicity in design (5s), but disagrees with restricting possessions or actively avoiding excess (1-2).  
+- Somewhat mindful and thoughtful about possessions but not strongly minimalist or ascetic.  
+Suggests aesthetic minimalism preference without strong behavioral minimalism.
+
+Empathy (20 items):  
+- Generally low to moderate empathy: Disagrees or neutral on being affected by friends’ emotions, sadness, or fear; some agreement with understanding friends’ happiness and recognizing emotions.  
+- Scores mostly 2-4, indicating limited emotional contagion but some cognitive empathy or awareness.  
+Suggests moderate social sensitivity but not highly emotionally reactive.
+
+Consumerism/Uniqueness:  
+- Strong disagreement with seeking uniqueness or breaking social norms in consumption.  
+- Dislikes following trends but also does not actively avoid common products.  
+- Indicates conventional consumer behavior, low desire for uniqueness or rebellion in consumption.
+
+Social Desirability:  
+- Moderate social desirability: Some admissions of negative traits (e.g., taking advantage of others, jealousy, irritation), but also claims to be courteous and a good listener.  
+- Self-monitoring moderate (3-4), some ability to adjust behavior but not fully flexible.  
+- Self-concept clarity moderate: Mostly stable self-view, little internal conflict, some uncertainty about self in social contexts.  
+- Overall, self-reports appear reasonably reliable with some social desirability bias but not extreme.
+
+Cognitive Test Performance:  
+- Correct answers on 25/42 cognitive questions, self-estimated 25 correct vs. population average 22, indicating slightly above average cognitive ability for age group.  
+- Logical reasoning: Correct on basic syllogisms but errors on some conditional logic and negation tasks, indicating some difficulty with complex logical inference.  
+- Word associations: Logical chain with some thematic shifts (toaster → oven → mitt → baseball → bat → wings → buffalo → snow → drift → car → gas → oil → whale → boat → sail → fish → chips → dip → rise → dough), showing associative but somewhat concrete and thematic thinking.  
+- Some errors in spatial cube rotation tasks and Wason selection task, indicating moderate spatial and conditional reasoning skills but not expert.  
+- Numeric and probabilistic reasoning: Some errors (e.g., die roll estimate 50 instead of ~500), misunderstanding of exponential growth (lily pad question answered 24 days instead of 47), and credit card debt question answered "never" (correct in spirit).  
+- Financial literacy moderate: Correct on mortgage, inflation, risk diversification, but error on highest return asset (chose bonds over stocks).  
+- Overall, cognitive style is deliberate, somewhat literal, with occasional heuristic errors and moderate numeracy.
+
+Economic Games:  
+- Dictator game: Keeps $3, gives $2 (60% to self), moderately selfish but not maximally so.  
+- Ultimatum game: Rejects offers less than or equal to $3, accepts $3 offer, indicating fairness concerns and willingness to punish unfairness.  
+- Trust game: Sends $2 (out of $5), expects moderate reciprocity, returns about 1/3 to 1/2 of received amount, indicating moderate trust and reciprocity but cautious.  
+- Loss framing: Prefers sure smaller gains over lotteries, risk averse for gains, risk seeking for losses, consistent with prospect theory.  
+- Intertemporal choice: Prefers immediate smaller rewards over delayed larger ones until difference is substantial, indicating moderate impatience.

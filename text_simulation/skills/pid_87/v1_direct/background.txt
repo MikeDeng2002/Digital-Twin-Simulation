@@ -1,0 +1,104 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Female (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age between 50-64 (Question: How old are you? Answer: 50-64)
+- Education level: Some college, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Divorced (Question: Which of these best describes you? Answer: Divorced)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Liberal (Question: In general, would you describe your political views as? Answer: Liberal)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Self-employed (Question: What is your current employment status? Answer: Self-employed)
+- Income: $30,000-$50,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $30,000-$50,000)
+- Personality traits (Big Five, self-report):
+  - Very talkative (Item 1: Agree strongly)
+  - Slightly disagree with finding fault with others (Item 2: Disagree a little)
+  - Very thorough and reliable worker (Items 3 and 13: Agree strongly)
+  - Not depressed, emotionally stable (Items 4 and 24: Disagree strongly and Agree strongly)
+  - Very original, creative, and curious (Items 5, 10, 20, 25: Agree strongly)
+  - Helpful and unselfish (Item 7: Agree strongly)
+  - Not careless or disorganized (Items 8 and 18: Disagree strongly)
+  - Slightly relaxed but can be tense (Items 9 and 14: Agree a little)
+  - Ingenious and deep thinker (Item 15: Agree a little)
+  - Enthusiastic and forgiving (Items 16 and 17: Agree strongly)
+  - Generally trusting and considerate (Items 22 and 32: Agree strongly)
+  - Assertive personality (Item 26: Agree a little)
+  - Not cold or aloof (Item 27: Disagree strongly)
+  - Perseveres until task is finished (Item 28: Agree strongly)
+  - Values artistic and aesthetic experiences (Items 30 and 44: Agree strongly and Agree a little)
+  - Outgoing and sociable (Items 36: Agree a little)
+  - Does things efficiently and makes plans (Items 33 and 38: Agree strongly)
+  - Likes to reflect and play with ideas (Item 40: Agree strongly)
+- Need for Cognition (direct items):
+  - Prefers complex problems (Item 1: Agree a little)
+  - Likes responsibility requiring thinking (Item 2: Agree a little)
+  - Dislikes thinking not fun (Item 3: Disagree strongly)
+  - Avoids little thought tasks (Item 4: Disagree strongly)
+  - Finds satisfaction in deliberating hard (Item 6: Agree strongly)
+  - Enjoys problem solving and abstract thinking (Items 11 and 14: Agree strongly)
+  - Prefers intellectual, difficult tasks (Item 15: Agree a little)
+  - Does not feel relief after mental effort (Item 16: Disagree a little)
+  - Does not think only as hard as necessary (Item 7: Disagree strongly)
+  - Usually deliberates about issues (Item 18: Agree a little)
+- Values (rated as guiding principles):
+  - Highly values forgiveness, altruism, compassion, equality (Items 3, 9, 17, 21: Rated 9)
+  - Values trust, humility, loyalty, harmony, civility, politeness, honesty, tradition (Items 5, 7, 11, 14, 19, 12, 16, 23: Rated 6-8)
+  - Low importance on power, superiority, status, recognition (Items 13, 24, 18, 22: Rated 1-3)
+  - Moderate value on pleasure, influence, competence, ambition, excitement, autonomy (Items 2, 4, 6, 10, 15, 20: Rated 4-7)
+- Minimal materialism; prefers simplicity and minimal possessions (Items 1-12 in minimalism scale: mostly Agree strongly or Agree a little, except item 10: Disagree a little)
+- High empathy and emotional sensitivity to others (Items 1-20 in empathy scale: mostly Agree strongly or Agree a little, with strong disagreement to statements denying empathy)
+- Strong environmental concern and responsibility (Items 1-6 in environmental concern: mostly Agree strongly or Agree a little)
+- Cognitive test performance self-estimate: Believes answered 20 out of 42 correctly (Question: How many questions do you think you answered correctly? Answer: 20)
+- Believes average US adult would answer 30 correctly (Question: How many do you think average US adult would answer correctly? Answer: 30)
+- Financial literacy:
+  - Understands mortgage payment and interest tradeoffs (True)
+  - Understands inflation reduces purchasing power (Less than today)
+  - Recognizes stocks have highest fluctuations and returns over long term
+  - Understands investment risk diversification reduces risk
+  - Knows 401(k) withdrawal rules incorrectly (False)
+  - Knows credit card debt minimum payments may never eliminate debt (Answer: never)
+- Logical reasoning:
+  - Correctly identifies some logical conclusions as not following (e.g., cigarettes good for health)
+  - Correctly identifies some logical conclusions as following (e.g., postal strike causes unemployment to double)
+  - Some errors in syllogistic reasoning (e.g., poodles and four legs)
+- Personality self-concept:
+  - Sees self as super organized, creative, analytical (Text entry)
+  - Aspires to have more wisdom, grace, and patience (Text entry)
+  - Acknowledges impatience with self and others (Text entry)
+- Social and cooperative preferences:
+  - Proposes to keep $2 and send $3 in dictator game
+  - Accepts offers down to $1 in ultimatum game, rejects $4 offer to self
+  - In trust game, sends $3 and keeps $2; as receiver, keeps majority but returns some money
+  - Thoughts during decisions: wants to be fair, feels guilt about keeping more money
+- Spending habits:
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Depression and mood:
+  - Reports no sadness, no discouragement, no feelings of failure, no guilt, no disappointment, no irritability, no loss of interest in others or sex
+  - Some difficulty sleeping as usual
+  - No significant weight loss or appetite change
+  - No increased health worries
+- Self-monitoring:
+  - Somewhat low ability to alter behavior to suit situations (mostly somewhat false or somewhat true with exceptions)
+  - Generally able to read others’ emotions and detect inappropriate remarks
+- Self-concept clarity:
+  - Generally clear sense of self, little internal conflict, little fluctuation in self-beliefs
+- Need for Closure:
+  - Somewhat agrees with preference for order, dislike of uncertainty, desire for quick solutions
+  - Does not strongly dislike ambiguity or unpredictability
+- Maximizer tendencies:
+  - Disagrees strongly with behaviors indicating maximizer tendencies (e.g., checking other radio stations, always looking for better job)
+  - Does not have highest standards for self but tries to be accurate and creative
+- Cognitive style:
+  - Prefers to work without instructions (probably true)
+  - Values rules and obligations (true)
+  - Solves problems creatively (true)
+  - Likes accuracy and error-free work (definitely true)
+  - Likes trying new things and doing them successfully (true)
+  - Does not care much about recognition or others’ expectations (probably not true)
+- Logical reasoning about cards: identifies card A must be turned over to test rule
+- Lottery and risk preferences: prefers certain smaller amounts over risky lotteries until amounts get close to expected value; risk averse for losses
+- Language and synonym/antonym knowledge: some errors in synonym and antonym questions (e.g., furtive synonym chosen as flimsy, astute synonym chosen as ascetic, indigent synonym chosen as refractory)

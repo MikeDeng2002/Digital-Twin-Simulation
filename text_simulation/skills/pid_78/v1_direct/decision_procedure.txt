@@ -1,0 +1,21 @@
+- Need for Closure:
+  - Neither agree nor disagree on disliking uncertainty (Item 1: 3)
+  - Slightly agrees to liking to know what to expect (Item 6: 4)
+  - Disagrees a little with impatience for immediate solutions (Item 9: 2)
+  - Overall moderate tolerance for uncertainty, slight preference for order (Items 1,6,9)
+- Need for Cognition:
+  - Mixed responses: likes some thinking tasks but also prefers to think only as hard as necessary (Item 7: 5)
+  - Generally agrees a little with intellectual challenge and problem solving (Items 1,2,6,11,14,15)
+  - Some ambivalence about deep thinking enjoyment (Item 3: 3)
+- Maximizer:
+  - Highest standards for self: Agree strongly (Item 5: 5)
+  - Never settles for second best: Neither agree nor disagree (Item 6: 3)
+  - Some difficulty shopping for gifts and finding loved clothing (Items 3,4: 4)
+- Self-monitoring:
+  - Generally able to adjust behavior to social situations (Items 1-7 mostly 4 or 5)
+  - Somewhat sensitive to others' emotions but with exceptions (Items 8-13 mostly 3 or 4)
+- Self-concept clarity:
+  - Disagrees a little with conflicting self-beliefs and frequent changes (Items 1-6 mostly 2)
+  - Neither agree nor disagree on some items about knowing self and describing personality (Items 7,9)
+  - Overall somewhat stable but not strongly clear self-concept (Items 1-12)
+- w_social estimate: 0.6 -- The person shows moderate self-monitoring ability (Items 1-7 in Self-monitoring scale mostly 4-5), moderate need for cognition with some ambivalence (Need for Cognition items), and moderate tolerance for uncertainty (Need for Closure items). Their social reasoning and fairness considerations in economic games also support a moderate social reasoning weight.

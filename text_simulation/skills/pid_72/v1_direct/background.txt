@@ -1,0 +1,169 @@
+- Lives in the Northeast United States (Question: "Which part of the United States do you currently live in?" Answer: Northeast)
+- Male (Question: "What is the sex that you were assigned at birth?" Answer: Male)
+- Age between 30-49 (Question: "How old are you?" Answer: 30-49)
+- Some college, no degree completed (Question: "What is the highest level of schooling or degree that you have completed?" Answer: Some college, no degree)
+- White race/origin (Question: "What is your race or origin?" Answer: White)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: Yes)
+- Living with a partner (Question: "Which of these best describes you?" Answer: Living with a partner)
+- Religion: Jewish (Question: "What is your present religion, if any?" Answer: Jewish)
+- Never attends religious services aside from weddings and funerals (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: Never)
+- Political affiliation: Independent (Question: "In politics today, do you consider yourself a" Answer: Independent)
+- Political views: Moderate (Question: "In general, would you describe your political views as" Answer: Moderate)
+- Household size: 2 people (Question: "Including yourself, how many people currently live in your household?" Answer: 2)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: Full-time employment)
+- Family income last year: $100,000 or more (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Somewhat talkative (Q: "Is talkative" Answer: Agree a little)
+  - Disagree a little that they find fault with others
+  - Does a thorough job (Agree strongly)
+  - Disagree strongly that they are depressed or blue
+  - Neither agree nor disagree on originality and ingenuity
+  - Disagree a little that they are reserved
+  - Helpful and unselfish with others (Agree strongly)
+  - Disagree a little that they can be careless
+  - Relaxed, handles stress well (Agree a little)
+  - Curious about many different things (Agree strongly)
+  - Full of energy (Agree a little)
+  - Disagree strongly that they start quarrels
+  - Reliable worker (Agree strongly)
+  - Disagree a little that they can be tense
+  - Neither agree nor disagree on being a deep thinker
+  - Neither agree nor disagree on generating enthusiasm
+  - Disagree a little on having a forgiving nature
+  - Disagree a little on being disorganized
+  - Neither agree nor disagree on worrying a lot
+  - Neither agree nor disagree on having an active imagination
+  - Disagree a little on being quiet
+  - Neither agree nor disagree on being generally trusting
+  - Disagree strongly on being lazy
+  - Emotionally stable, not easily upset (Agree a little)
+  - Neither agree nor disagree on being inventive
+  - Neither agree nor disagree on having an assertive personality
+  - Disagree a little on being cold and aloof
+  - Perseveres until task is finished (Agree strongly)
+  - Disagree a little on being moody
+  - Values artistic, aesthetic experiences (Agree strongly)
+  - Disagree a little on being shy or inhibited
+  - Considerate and kind to almost everyone (Agree a little)
+  - Does things efficiently (Agree strongly)
+  - Remains calm in tense situations (Agree a little)
+  - Disagree a little on preferring routine work
+  - Outgoing, sociable (Agree a little)
+  - Disagree strongly on being rude
+  - Makes plans and follows through (Agree strongly)
+  - Disagree a little on getting nervous easily
+  - Likes to reflect, play with ideas (Agree a little)
+  - Disagree a little on having few artistic interests
+  - Likes to cooperate with others (Agree a little)
+  - Disagree a little on being easily distracted
+  - Neither agree nor disagree on being sophisticated in art, music, or literature
+- Need for Cognition (self-report):
+  - Neither agree nor disagree on preferring complex to simple problems
+  - Likes responsibility requiring thinking (Agree a little)
+  - Disagrees a little that thinking is not fun
+  - Disagrees a little on preferring low-thought tasks
+  - Disagrees a little on avoiding deep thinking
+  - Finds satisfaction in deliberating hard (Agree a little)
+  - Disagrees a little on thinking only as hard as necessary
+  - Neither agree nor disagree on preferring small daily projects
+  - Disagrees a little on liking tasks requiring little thought once learned
+  - Likes idea of relying on thought to succeed (Agree a little)
+  - Enjoys tasks involving new solutions (Agree a little)
+  - Disagrees a little on not liking to learn new ways to think
+  - Prefers life filled with puzzles (Agree a little)
+  - Likes thinking abstractly (Agree a little)
+  - Prefers intellectual, difficult, important tasks (Agree a little)
+  - Neither agree nor disagree on feeling relief rather than satisfaction after mental effort
+  - Disagrees a little on caring only that something gets the job done
+  - Usually deliberates about issues even if not personally affected (Agree a little)
+- Values (rated as guiding principles):
+  - Competence (7)
+  - Humility (7)
+  - Loyalty (7)
+  - Harmony (7)
+  - Excitement (7)
+  - Honesty (8)
+  - Compassion (8)
+  - Autonomy (7)
+  - Trust (6)
+  - Altruism (6)
+  - Equality (6)
+  - Politeness (6)
+  - Pleasure (6)
+  - Forgiveness (5)
+  - Achievement (5)
+  - Ambition (5)
+  - Civility (5)
+  - Wealth (4)
+  - Status (4)
+  - Recognition (4)
+  - Tradition (4)
+  - Influence (3)
+  - Power (3)
+  - Superiority (3)
+- Self-reported mindful minimalism in possessions (all agree a little on 12 items about avoiding excess possessions and preferring simplicity)
+- Empathy and emotional awareness:
+  - Disagrees a little that friends’ emotions don’t affect them much
+  - Disagrees a little that they usually feel sad after being with a sad friend
+  - Strongly agrees they can understand friends’ happiness
+  - Disagrees a little on getting frightened by scary movies
+  - Neither agree nor disagree on getting caught up in others’ feelings easily
+  - Disagrees a little on difficulty knowing when friends are frightened
+  - Disagrees a little on not becoming sad when seeing others cry
+  - Disagrees a little on others’ feelings not bothering them
+  - Agrees a little they can usually understand when someone is feeling down
+  - Agrees a little they can usually work out when friends are scared
+  - Neither agree nor disagree on often becoming sad watching sad things on TV
+  - Neither agree nor disagree on understanding feelings before told
+  - Disagrees a little on seeing anger having no effect on feelings
+  - Agrees a little on working out when people are cheerful
+  - Neither agree nor disagree on feeling scared with scared friends
+  - Agrees a little on realizing quickly when a friend is angry
+  - Neither agree nor disagree on often getting swept up in friends’ feelings
+  - Disagrees a little on friend’s unhappiness not affecting them
+  - Disagrees a little on not usually aware of friends’ feelings
+  - Disagrees a little on having trouble figuring out when friends are happy
+- Environmental concern (all agree a little on 6 items about environmental responsibility and willingness to be inconvenienced)
+- Cognitive test self-estimate: Believes answered 32/42 correctly; estimates average US adult would answer 22/42 correctly
+- Financial literacy:
+  - Correctly identifies mortgage, inflation, asset risk, investment risk, diversification, retirement withdrawal rules
+  - Knows credit card debt with minimum payment at 12% APR would never be eliminated
+  - Correct answers on basic math and logic problems (e.g., bat and ball cost, lily pad doubling)
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in $5 split game (proposer)
+  - Accepts all offers except $0 to self (responder)
+  - In trust game, keeps all $5 and sends $0 (proposer)
+  - As receiver in trust game, keeps all money and sends back $0 regardless of amount received
+  - Thoughts during decisions: "they are a stranger and will never know who kept all the money," "i don't owe that person anything," "i want to maximize my profit," "i need it more than them," "what's the least amount i would accept if I was the other person"
+- Self-reported personality traits (additional):
+  - Does not find it hard to continue work without encouragement
+  - Sometimes feels resentful when doesn't get own way
+  - Has not given up on things due to low self-belief
+  - Has felt like rebelling against authority even when authority was right
+  - Not always a good listener
+  - Has not taken advantage of others
+  - Not always willing to admit mistakes
+  - Sometimes tries to get even rather than forgive
+  - Not always courteous to disagreeable people
+  - Has been irked by differing ideas
+  - Has been jealous of others' good fortune
+  - Sometimes irritated by people asking favors
+  - Has deliberately hurt someone's feelings
+- Self-rated organization and efficiency: Mostly high (7 on organized, efficient, practical; 5 neutral on systematic; low on disorganized, sloppy, inefficient, careless)
+- Anxiety symptoms: Mostly low or none; slight numbness/tingling and slight nervousness reported
+- Self-concept clarity: Strongly agrees to having a clear sense of self; strongly disagrees with conflicting or changing self-beliefs
+- Need for Closure: Generally low to moderate; mostly disagrees or neutral on discomfort with uncertainty or ambiguity
+- Maximizer tendencies: Disagrees a little on searching for better options or high standards; neither agrees nor disagrees on never settling for second best
+- Self-monitoring: Generally high; agrees mostly that can alter behavior to suit situations, read emotions, and regulate actions accordingly
+- Spending habits: Slightly below midpoint (4 on 1-11 scale, where 1 is tightwad and 11 is spendthrift)
+- Trouble limiting spending: Rarely
+- Trouble spending money: Sometimes
+- Similarity to shoppers: Neither Mr. A nor Mr. B strongly; answer 4 (between)
+- Depression and mood: Reports no sadness, no discouragement, no feelings of failure, no loss of interest, no guilt, no punishment feelings, no disappointment, no crying, no irritability, no loss of interest in others, no decision-making problems, no worthlessness, no work impairment, no sleep problems, no fatigue, no appetite loss, no weight loss, some worry about physical problems, no loss of interest in sex, not purposely trying to lose weight
+- Consumer uniqueness: Disagrees a little on seeking uniqueness or breaking social rules in product use; generally does not avoid common products or brands
+- Self-monitoring (social adaptability): Generally true that can adjust behavior and read others' emotions well
+- Self-concept clarity: Strongly clear and consistent self-beliefs; no frequent changes or conflicts
+- Need for Closure: Disagrees a little or neutral on discomfort with uncertainty, dislike of ambiguous statements, impatience for solutions, and preference for routine
+- Maximizer: Disagrees a little on always seeking better options; neither agrees nor disagrees on highest standards or never settling for second best
+- Logical reasoning: Correct on all presented syllogistic logic questions
+- Vocabulary: Mixed accuracy on synonym and antonym questions (some incorrect answers)

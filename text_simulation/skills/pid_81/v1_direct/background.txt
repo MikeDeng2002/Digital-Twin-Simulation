@@ -1,0 +1,165 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male sex assigned at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level: College graduate/some postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Never been married (Question: Which of these best describes you? Answer: Never been married)
+- Religion: Atheist (Question: What is your present religion, if any? Answer: Atheist)
+- Never attends religious services aside from weddings and funerals (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Never)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Very liberal (Question: In general, would you describe your political views as? Answer: Very liberal)
+- Total family income last year: Less than $30,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: Less than $30,000)
+- Household size: 1 person (Question: Including yourself, how many people currently live in your household? Answer: 1)
+- Employment status: Part-time employment (Question: What is your current employment status? Answer: Part-time employment)
+- Personality traits (Big Five items, direct self-report):
+  - Disagree strongly that they are talkative (Item 1: Disagree strongly)
+  - Slightly disagree with tendency to find fault with others (Item 2: Disagree a little)
+  - Agree a little that they do a thorough job (Item 3: Agree a little)
+  - Agree a little that they are depressed, blue (Item 4: Agree a little)
+  - Agree a little that they are original, come up with new ideas (Item 5: Agree a little)
+  - Agree a little that they are reserved (Item 6: Agree a little)
+  - Agree a little that they are helpful and unselfish with others (Item 7: Agree a little)
+  - Disagree a little that they can be somewhat careless (Item 8: Disagree a little)
+  - Neither agree nor disagree that they are relaxed, handle stress well (Item 9: Neither agree nor disagree)
+  - Agree a little that they are curious about many different things (Item 10: Agree a little)
+  - Neither agree nor disagree that they are full of energy (Item 11: Neither agree nor disagree)
+  - Disagree strongly that they start quarrels with others (Item 12: Disagree strongly)
+  - Agree strongly that they are a reliable worker (Item 13: Agree strongly)
+  - Neither agree nor disagree that they can be tense (Item 14: Neither agree nor disagree)
+  - Agree a little that they are ingenious, a deep thinker (Item 15: Agree a little)
+  - Neither agree nor disagree that they generate a lot of enthusiasm (Item 16: Neither agree nor disagree)
+  - Agree a little that they have a forgiving nature (Item 17: Agree a little)
+  - Disagree a little that they tend to be disorganized (Item 18: Disagree a little)
+  - Neither agree nor disagree that they worry a lot (Item 19: Neither agree nor disagree)
+  - Agree a little that they have an active imagination (Item 20: Agree a little)
+  - Agree a little that they tend to be quiet (Item 21: Agree a little)
+  - Disagree a little that they are generally trusting (Item 22: Disagree a little)
+  - Disagree a little that they tend to be lazy (Item 23: Disagree a little)
+  - Neither agree nor disagree that they are emotionally stable, not easily upset (Item 24: Neither agree nor disagree)
+  - Agree a little that they are inventive (Item 25: Agree a little)
+  - Disagree a little that they have an assertive personality (Item 26: Disagree a little)
+  - Agree a little that they can be cold and aloof (Item 27: Agree a little)
+  - Agree a little that they persevere until the task is finished (Item 28: Agree a little)
+  - Disagree a little that they can be moody (Item 29: Disagree a little)
+  - Agree a little that they value artistic, aesthetic experiences (Item 30: Agree a little)
+  - Agree a little that they are sometimes shy, inhibited (Item 31: Agree a little)
+  - Disagree a little that they are considerate and kind to almost everyone (Item 32: Disagree a little)
+  - Neither agree nor disagree that they do things efficiently (Item 33: Neither agree nor disagree)
+  - Disagree a little that they remain calm in tense situations (Item 34: Disagree a little)
+  - Neither agree nor disagree that they prefer work that is routine (Item 35: Neither agree nor disagree)
+  - Disagree a little that they are outgoing, sociable (Item 36: Disagree a little)
+  - Agree a little that they are sometimes rude to others (Item 37: Agree a little)
+  - Agree a little that they make plans and follow through with them (Item 38: Agree a little)
+  - Neither agree nor disagree that they get nervous easily (Item 39: Neither agree nor disagree)
+  - Agree a little that they like to reflect, play with ideas (Item 40: Agree a little)
+  - Disagree a little that they have few artistic interests (Item 41: Disagree a little)
+  - Disagree a little that they like to cooperate with others (Item 42: Neither agree nor disagree)
+  - Disagree a little that they are easily distracted (Item 43: Disagree a little)
+  - Disagree a little that they are sophisticated in art, music, or literature (Item 44: Disagree a little)
+- Need for Cognition (selected items):
+  - Agree a little that they prefer complex to simple problems (Item 1: Agree a little)
+  - Agree a little that they like responsibility requiring a lot of thinking (Item 2: Agree a little)
+  - Disagree a little that thinking is not fun (Item 3: Disagree a little)
+  - Disagree a little that they prefer tasks requiring little thought (Item 4: Disagree a little)
+  - Disagree a little that they try to avoid situations requiring deep thinking (Item 5: Disagree a little)
+  - Disagree a little that they find satisfaction in deliberating hard and long (Item 6: Disagree a little)
+  - Disagree a little that they only think as hard as necessary (Item 7: Disagree a little)
+  - Agree a little that they prefer to think about small daily projects to long-term ones (Item 8: Agree a little)
+  - Neither agree nor disagree that they like tasks requiring little thought once learned (Item 9: Neither agree nor disagree)
+  - Agree a little that relying on thought to get to the top appeals to them (Item 10: Agree a little)
+  - Agree a little that they enjoy tasks involving new solutions (Item 11: Agree a little)
+  - Disagree a little that learning new ways to think doesn't excite them (Item 12: Disagree a little)
+  - Disagree strongly that they prefer life filled with puzzles to solve (Item 13: Disagree strongly)
+  - Agree a little that thinking abstractly appeals to them (Item 14: Agree a little)
+  - Agree a little that they prefer intellectual, difficult, important tasks (Item 15: Agree a little)
+  - Agree a little that they feel relief rather than satisfaction after mental effort (Item 16: Agree a little)
+  - Disagree a little that they don't care how or why something works as long as it gets the job done (Item 17: Disagree a little)
+  - Disagree strongly that they usually deliberate about issues not personally affecting them (Item 18: Disagree strongly)
+- Values rated as "Highly Important" or "Quite Important":
+  - Equality: Highly important (9)
+  - Competence: 8
+  - Autonomy: 8
+  - Humility: 7
+  - Civility: 7
+  - Forgiveness: 5
+  - Trust: 5
+  - Altruism: 5
+  - Loyalty: 5
+  - Compassion: 5
+  - Harmony: 6
+  - Honesty: 6
+- Values rated as "Not Important":
+  - Power: 1
+  - Status: 1
+- Environmental concern:
+  - Agree a little or strongly that products should not harm environment, consider environmental impact, are environmentally responsible, willing to be inconvenienced for environment (Items 1-6: mostly Agree a little or Agree strongly)
+- Cognitive test performance:
+  - Estimated self-correct answers: 22/42
+  - Estimated average US adult correct answers: 25/42
+- Logical reasoning:
+  - Correctly answered most syllogistic and logical reasoning questions (e.g., "All XARs are YOFs" and related questions)
+- Financial literacy:
+  - Correctly answered questions about mortgages, inflation, risk diversification, investment returns, required minimum distributions, credit card debt (Answer: "never" to paying off credit card debt with minimum payments)
+  - Correctly answered probability and percentage questions
+  - Correctly answered basic math and logic problems (e.g., bat and ball cost, lily pad doubling)
+- Economic games:
+  - Proposes to keep $3 and send $2 in the $5 split game (Ultimatum Game)
+  - Accepts offers down to $1 sent to self, rejects $0 sent to self
+  - In the Trust Game, keeps $3 and sends $2; as receiver, keeps majority but returns some money proportionally
+  - Thoughts during decisions indicate cautiousness about greed and fairness
+- Self-reported personality and behavior:
+  - Does not find it hard to continue work without encouragement
+  - Sometimes feels resentful when not getting their way
+  - Has not given up on things due to low self-belief
+  - Does not rebel against authority when they know they are right
+  - Not always a good listener
+  - Has taken advantage of someone on occasion
+  - Willing to admit mistakes
+  - Does not try to get even rather than forgive
+  - Not always courteous to disagreeable people
+  - Has been jealous of others' good fortune
+  - Sometimes irritated by people asking favors
+  - Has deliberately said things that hurt others
+- Self-concept clarity:
+  - Disagrees strongly that beliefs about self conflict or change frequently
+  - Agrees strongly that seldom experiences conflict between personality aspects
+  - Agrees a little that has a clear sense of who they are
+- Need for Closure:
+  - Strongly agrees they dislike uncertainty and unpredictable situations
+  - Agrees a little that they like a well-ordered life and dislike not understanding reasons for events
+  - Disagrees a little that they want immediate solutions or get impatient quickly
+- Maximizer tendencies:
+  - Agrees a little that they check for better options (e.g., radio stations)
+  - Strongly agrees that it is right to look for better opportunities even if satisfied
+  - Disagrees a little that they have highest standards or never settle for second best
+- Self-monitoring:
+  - Somewhat true that they can alter behavior in social situations and control impressions
+  - Somewhat true that they can adjust behavior to meet situation requirements
+  - Generally true that they can read others' emotions and facial expressions
+- Emotional empathy:
+  - Agree a little to strongly that they feel sad after friends are sad, understand friends' happiness, can detect friends' emotions quickly, and are affected by others' feelings
+- Spending habits:
+  - Spending habits rated as 5 on a 1-11 scale (mid-range)
+  - Rarely have trouble limiting spending
+  - Sometimes have trouble spending money
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Depression and mood:
+  - Feels sad and discouraged about the future
+  - Does not feel like a failure or worthless
+  - Gets as much satisfaction as before
+  - Does not feel particularly guilty or punished
+  - Cries more than used to
+  - Gets annoyed or irritated more easily than before
+  - Has not lost interest in others
+  - Makes decisions as well as before
+  - Sleeps less well than usual
+  - Does not get more tired than usual
+  - Appetite and weight unchanged
+  - Not worried about health more than usual
+  - No change in interest in sex
+  - Not purposely trying to lose weight
+- Personal aspirations and self-description:
+  - Aspires to be caring, loving, have close friends, and be more involved in relationships
+  - Ought to be more responsible, diligent, inspired, and respectful of others' feelings
+  - Actually is a dreamer, introverted, likes solitude and contemplation

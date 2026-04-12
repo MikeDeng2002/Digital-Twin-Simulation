@@ -1,0 +1,38 @@
+Demographics: Female, age 30-49, Asian, living in the Northeast US, self-employed, college graduate/some postgrad education, family income $30,000-$50,000, single-person household, identifies as very liberal Democrat, non-religious with seldom religious attendance. This suggests a relatively young professional with moderate income, likely urban or suburban, with exposure to diverse cultural and political environments typical of the Northeast. Asian heritage may imply bicultural influences and possibly high educational emphasis.
+
+Big Five Personality (44 items): Scores indicate a moderately introverted, conscientious, and agreeable individual with low neuroticism and moderate openness. Specifically:
+- Low Extraversion: Disagree a little with being talkative (2), agree a little with being reserved (4), quiet (4), neither outgoing nor shy.
+- Moderate Conscientiousness: Agree a little with doing a thorough job (4), reliable worker (4), perseveres until task finished (4), makes plans and follows through (4), somewhat disorganized disagreed a little (2).
+- Agreeableness: Strongly agree with being helpful and unselfish (5), moderately forgiving (3), considerate and kind (4).
+- Emotional Stability: Low depression (2), low moodiness (2), moderately relaxed (3), emotionally stable (4).
+- Openness: Agree a little with originality (4), curiosity (4), imagination (4), artistic interests (disagree strongly to few artistic interests, but sophisticated in art/music/literature (4)), inventive (4).
+
+Need for Cognition (18 items): Mostly neutral to slightly low engagement with deep thinking. Many "neither agree nor disagree" or "disagree a little" responses on preference for complex problems, intellectual tasks, and thinking for fun. However, strong agreement (5) with "I usually end up deliberating about issues even when they do not affect me personally" and some agreement with relief after mental effort (4). This suggests moderate but not high intrinsic motivation for cognitive effort, with some rumination tendency.
+
+Values (24 items): Highest values are Compassion (9), Autonomy (9), Equality (9), Harmony (8), Honesty (8), Altruism (8), Pleasure (7). Low importance on Wealth (3), Power (3), Status (3), Superiority (1). This reveals a worldview centered on social justice, caring for others, personal freedom, and ethical integrity, with low materialism or competitive dominance.
+
+Minimalism (12 items): Strong agreement with avoiding accumulation (5), restricting possessions (5), preferring simplicity (5), mindful curation (5), leaving spaces empty (5). This indicates a strong minimalist lifestyle and careful curation of possessions and environment.
+
+Empathy (20 items): High empathy with strong agreement on understanding and sharing others' feelings (mostly 4-5), strong ability to read emotions, and strong emotional contagion. Disagrees strongly with statements indicating lack of empathy or emotional detachment. This person is socially attuned and emotionally sensitive.
+
+Consumerism/Uniqueness: Disagrees with accumulation and following trends, only slight agreement with seeking originality in products. Some willingness to break social norms about product use. Overall, low consumerism, moderate uniqueness seeking.
+
+Cognitive Test Performance: Self-estimated 30/42 correct (above average), believes average is 25/42. Correct answers on logical syllogisms mostly, but some errors on logical conclusions (e.g., incorrectly accepting invalid conclusions). Correct on classic riddles and math problems (e.g., hole volume, race position, lily pad doubling). Some errors in logical reasoning tasks (e.g., accepting invalid conclusions about plants and animals, communist China). In cube rotation tasks, some confusion but ultimately correct on last cube rotation. Word associations show good vocabulary and semantic knowledge (synonyms and antonyms mostly correct). Cognitive style is careful but sometimes accepting invalid logical conclusions, indicating a tendency to overgeneralize or accept plausible but invalid inferences.
+
+Word Association Chain: Progresses from concrete (table, chair, restaurant) to social and emotional concepts (immigration, survival, fear, heart, break, spirit, weave, knot, tight, family). This suggests a cognitive pattern moving from concrete to abstract and relational concepts, with emphasis on social bonds and emotional states.
+
+Social Desirability: Moderate social desirability indicated by some disagreement with always courteous or good listener, and some admissions of irritation and jealousy. Self-reports appear generally reliable but with some guardedness.
+
+Depression and Mood: Reports feeling sad and discouraged about the future, some guilt, increased irritability, less enjoyment, difficulty making decisions, tiredness, appetite loss, and early waking. However, no feelings of worthlessness or failure. This suggests mild to moderate depressive symptoms, possibly situational or subclinical.
+
+Economic Games: Proposes to keep $3 and send $2 in dictator game, accepts offers down to $1 sent, rejects $1 or $0 offers. In trust game, keeps $3 sends $2, expects receiver to keep about half and return about half. Thoughts indicate fairness and goodwill but some competitiveness.
+
+Intertemporal Choice: Prefers larger later rewards over smaller sooner ones consistently, indicating patience and future orientation.
+
+Maximizer Scale: Mixed signals; neither strongly maximizing nor satisficing. Some difficulty finding perfect gifts, but not extreme.
+
+Self-monitoring: Moderate to low; some ability to read social cues but difficulty changing behavior to suit situations. Self-concept clarity moderate, stable self-view with little internal conflict.
+
+Economic Game Gap: Dictator and ultimatum offers consistent with moderate fairness and strategic thinking. No large gap indicating deception or strategic inconsistency.
+
+Social Desirability Score: Moderate; some admissions of negative feelings and behaviors suggest honest self-reporting.

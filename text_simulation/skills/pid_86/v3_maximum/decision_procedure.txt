@@ -1,0 +1,32 @@
+Need for Closure: Moderate to high. Wants quick resolution, dislikes ambiguity, prefers structured, predictable information. This drives preference for clear, definitive answers rather than open-ended or probabilistic reasoning.
+
+Need for Cognition: Very low. Avoids deep analytical effort, prefers simple, straightforward information, and minimal cognitive strain.
+
+Maximizer: Moderate. Seeks good answers but willing to satisfice once a reasonable solution is found.
+
+Self-monitoring: High. Aware of social impressions, adjusts behavior accordingly, but self-concept clarity is also high, so less likely to be swayed by social pressure in core beliefs.
+
+Self-concept Clarity: High. Stable self-view, confident identity, which supports resistance to social pressure despite high self-monitoring.
+
+Economic Game Gap: Shows some strategic self-interest. Keeps majority in ultimatum and trust games but willing to share moderately. Behavior matches strategic but fair-minded approach.
+
+Intertemporal Patience: Low to moderate. Prefers immediate rewards, indicating a present-focused outlook.
+
+Cognitive Errors: Some errors in complex logical deductions and spatial reasoning, indicating difficulty with abstract and multi-step reasoning. Tendency to accept invalid syllogisms suggests some confirmation bias or superficial reasoning. This implies numeric predictions may be biased by heuristics and simplified models rather than deep probabilistic reasoning.
+
+Social Desirability: Moderate. Some admissions of negative traits and behaviors suggest reasonable honesty, but some social desirability bias cannot be ruled out.
+
+w_social estimate: 0.55  
+Reasoning: The estimate balances moderate social desirability with high self-monitoring and stable self-concept. The participant is socially aware and adjusts behavior but maintains a consistent self-view, suggesting moderate reliability in self-report. Some contradictory answers and admissions of negative traits reduce confidence somewhat.
+
+Summary: This person is a socially conservative, lower-income, middle-aged Midwestern woman with low formal education and low Need for Cognition. She prefers simple, clear, and structured information, is moderately competitive and self-reliant, and values family loyalty and personal competence highly. She is moderately empathetic but maintains emotional distance. Cognitive performance is average with some difficulty in complex reasoning and spatial tasks. She is moderately patient with a present focus and shows strategic but fair behavior in economic games. Mood symptoms suggest mild depression, which may affect optimism and risk perception. She is likely to rely on conservative media and social networks for information, with shallow to moderate research depth, and avoids complex or ambiguous sources. Her numeric predictions will likely be influenced by heuristic, affective, and social factors rather than deep analytical processing.
+
+This profile predicts that on open numeric prediction questions like "What will Bitcoin's price be next year?" or "What year will AGI arrive?" she will:  
+- Prefer concrete, simple answers with moderate optimism or pessimism aligned with conservative worldview.  
+- Show moderate risk aversion and loss aversion, influenced by mood and present focus.  
+- Use heuristic shortcuts, possibly anchoring on salient numbers from media or social conversations.  
+- Avoid complex probabilistic reasoning or abstract scenario analysis.  
+- Be influenced by social norms within her political and social group but maintain a stable core belief system.  
+- Likely produce numeric predictions that are moderate in extremity, somewhat conservative in range, and influenced by affective framing rather than pure logic.
+
+# Final skill profile complete.

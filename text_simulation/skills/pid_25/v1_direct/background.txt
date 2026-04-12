@@ -1,0 +1,160 @@
+- Resides in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Female (Question: What is the sex that you were assigned at birth? Answer: Female)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education completed: High school graduate (Question: What is the highest level of schooling or degree that you have completed? Answer: High school graduate)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Attends religious services seldom (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Seldom)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Republican)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Family income last year: Less than $30,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: Less than $30,000)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five, from self-report):
+  - Talkative: Agree strongly (Q1: 5)
+  - Finds fault with others: Disagree strongly (Q2: 1)
+  - Does a thorough job: Agree strongly (Q3: 5)
+  - Depressed, blue: Disagree strongly (Q4: 1)
+  - Original, comes up with new ideas: Agree strongly (Q5: 5)
+  - Reserved: Agree strongly (Q6: 5)
+  - Helpful and unselfish: Agree strongly (Q7: 5)
+  - Careless: Disagree strongly (Q8: 1)
+  - Relaxed, handles stress well: Neither agree nor disagree (Q9: 3)
+  - Curious about many things: Agree strongly (Q10: 5)
+  - Full of energy: Agree strongly (Q11: 5)
+  - Starts quarrels: Disagree strongly (Q12: 1)
+  - Reliable worker: Agree strongly (Q13: 5)
+  - Can be tense: Disagree strongly (Q14: 1)
+  - Ingenious, deep thinker: Neither agree nor disagree (Q15: 3)
+  - Generates enthusiasm: Agree strongly (Q16: 5)
+  - Forgiving nature: Agree strongly (Q17: 5)
+  - Disorganized: Disagree strongly (Q18: 1)
+  - Worries a lot: Neither agree nor disagree (Q19: 3)
+  - Active imagination: Neither agree nor disagree (Q20: 3)
+  - Quiet: Agree strongly (Q21: 5)
+  - Generally trusting: Agree strongly (Q22: 5)
+  - Lazy: Disagree strongly (Q23: 1)
+  - Emotionally stable: Agree strongly (Q24: 5)
+  - Inventive: Disagree strongly (Q25: 1)
+  - Assertive personality: Disagree strongly (Q26: 1)
+  - Cold and aloof: Disagree strongly (Q27: 1)
+  - Perseveres until task finished: Neither agree nor disagree (Q28: 3)
+  - Moody: Disagree strongly (Q29: 1)
+  - Values artistic experiences: Neither agree nor disagree (Q30: 3)
+  - Sometimes shy, inhibited: Agree a little (Q31: 4)
+  - Considerate and kind: Agree strongly (Q32: 5)
+  - Does things efficiently: Agree strongly (Q33: 5)
+  - Remains calm in tense situations: Agree a little (Q34: 4)
+  - Prefers routine work: Agree strongly (Q35: 5)
+  - Outgoing, sociable: Agree strongly (Q36: 5)
+  - Sometimes rude: Disagree strongly (Q37: 1)
+  - Makes plans and follows through: Agree strongly (Q38: 5)
+  - Gets nervous easily: Neither agree nor disagree (Q39: 3)
+  - Likes to reflect, play with ideas: Neither agree nor disagree (Q40: 3)
+  - Has few artistic interests: Disagree strongly (Q41: 1)
+  - Sophisticated in art/music/literature: Disagree strongly (Q42: 1)
+- Need for Cognition (selected items):
+  - Prefers complex problems: Disagree strongly (Q1: 1)
+  - Likes responsibility requiring thinking: Neither agree nor disagree (Q2: 3)
+  - Thinking is not fun: Neither agree nor disagree (Q3: 3)
+  - Prefers low thought tasks over challenging ones: Disagree strongly (Q4: 1)
+  - Avoids situations requiring deep thought: Neither agree nor disagree (Q5: 3)
+  - Satisfaction in deliberating hard: Disagree strongly (Q6: 1)
+  - Thinks only as hard as necessary: Neither agree nor disagree (Q7: 3)
+  - Prefers small daily projects to long-term: Agree strongly (Q8: 5)
+  - Likes tasks requiring little thought once learned: Agree strongly (Q9: 5)
+  - Relying on thought to get ahead appeals: Neither agree nor disagree (Q10: 3)
+  - Enjoys coming up with new solutions: Neither agree nor disagree (Q11: 3)
+  - Learning new ways to think doesn't excite: Agree strongly (Q12: 5)
+  - Prefers life filled with puzzles: Disagree strongly (Q13: 1)
+  - Thinking abstractly appeals: Disagree strongly (Q14: 1)
+  - Prefers intellectual difficult tasks: Neither agree nor disagree (Q15: 3)
+  - Feels relief rather than satisfaction after mental effort: Neither agree nor disagree (Q16: 3)
+  - Doesn't care how or why something works, just that it does: Neither agree nor disagree (Q17: 3)
+  - Deliberates about issues not personally affecting: Disagree strongly (Q18: 1)
+- Values rated as highly important (9):
+  - Forgiveness, Trust, Competence, Humility, Altruism, Ambition, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Equality, Tradition
+- Values rated as quite important (5):
+  - Pleasure, Achievement, Excitement, Autonomy
+- Values rated as not important (1):
+  - Wealth, Influence, Power, Status, Recognition, Superiority
+- Self-concept clarity:
+  - Clear sense of who I am and what I am: Agree strongly (Q11: 5)
+  - Beliefs about self do not conflict (Q1: Disagree strongly)
+  - Beliefs about self do not change frequently (Q8: Disagree strongly)
+  - No difficulty making up mind (Q12: Disagree strongly)
+- Self-monitoring:
+  - Ability to control impression: Certainly always true (Q2: 6)
+  - Adjust behavior to meet situation: Certainly always true (Q5: 6)
+  - Sensitive to facial expressions: Certainly always true (Q9: 6)
+  - Good intuition about others' emotions: Certainly always true (Q10: 6)
+  - Can tell when said something inappropriate: Certainly always true (Q12: 6)
+  - Usually know when someone is lying: Certainly always true (Q13: 6)
+- Maximizer scale:
+  - Highest standards for self: Agree strongly (Q5: 5)
+  - Never settle for second best: Disagree strongly (Q6: 1)
+  - Does not check other options when satisfied: Disagree strongly (Q1: 1)
+  - Not on lookout for better opportunities: Disagree strongly (Q2: 1)
+- Need for Closure:
+  - Dislikes uncertainty: Disagree strongly (Q1: 1)
+  - Likes well-ordered life: Agree strongly (Q3: 5)
+  - Feels relieved when decision made: Agree strongly (Q7: 5)
+  - Wants quick solution to problems: Agree strongly (Q8: 5)
+  - Becomes impatient if no immediate solution: Agree strongly (Q9: 5)
+  - Likes clear and structured life: Agree strongly (Q13: 5)
+  - Does not consult many opinions before forming view: Disagree strongly (Q14: 1)
+- Economic games:
+  - Ultimatum game proposer: Keeps $5, sends $0 (Question: How much would you propose to keep/send? Answer: Keep $5, send $0)
+  - Ultimatum game responder: Accepts all offers including $0 (Answers: Accept all offers from $0 to $5)
+  - Trust game proposer: Keeps $4, sends $1 (Question: How much would you keep/send? Answer: Keep $4, send $1)
+  - Trust game responder: Keeps most money for self, sends back minimal amounts (e.g., keeps $14 of $15, sends back $1)
+- Cognitive tests:
+  - Self-estimated correct answers: 8 out of 42
+  - Estimated average correct answers for US adults: 15 out of 42
+  - Logical reasoning: Mostly answered "No" to conclusions following logically except for some (e.g., flowers/roses, mammals/whales)
+  - Some errors in synonym and antonym questions (e.g., chose "divulge" for CONCUR, "repulse" for CONFISCATE, "exert" for SOLICIT, "facile" for FURTIVE, "lineal" for ASTUTE, "claim" for COVET, "premeditate" for OSCILLATE, "assiduity" for DISPARITY, "finicky" for SATED, "splendor" for DEARTH, "sallow" for CORPULENT, "massive" for GERMANE, "bankrupt" for VACUOUS, "summery" for SPORADIC)
+  - Some errors in logical syllogisms (e.g., answered "No" to valid conclusions)
+- Financial literacy:
+  - Correctly answered that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Inflation > interest rate leads to less purchasing power (Correct)
+  - Stocks have highest fluctuations (Correct)
+  - Incorrectly answered that stock mutual fund cannot have less than $1,000 on withdrawal (False)
+  - Incorrectly answered that spreading money among assets does not decrease risk (Answer: Stays the same)
+  - Incorrectly answered that bonds normally give highest return over long term (Answer: Bonds, but correct answer is stocks)
+  - Correctly answered about required minimum distributions after age 70.5 (True)
+  - Credit card debt payoff time: 6 years (self-reported)
+  - Incorrect estimate of die rolls even number (100 out of 1000, should be ~500)
+  - Incorrect estimate of % winning car in sweepstakes (10% instead of 0.1%)
+  - Incorrect answers on bat and ball cost ($10 instead of $0.05)
+  - Incorrect answer on lily pad doubling (24 days instead of 47)
+- Spending habits:
+  - Neither tightwad nor spendthrift (Answer: 6)
+  - Sometimes has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to Mr. A (spends money despite not needing items)
+- Emotional and mental health:
+  - No signs of sadness, discouragement, failure, guilt, disappointment, or irritability
+  - No loss of interest in others or sex
+  - Sleep not as good as usual
+  - No increased tiredness or appetite loss
+  - No weight loss
+  - No increased health worries
+  - Not purposely trying to lose weight
+- Environmental attitudes:
+  - Neither agrees nor disagrees that products should not harm environment
+  - Strongly agrees that considers environmental impact when making decisions and purchase habits affected by environment
+  - Slightly agrees to being environmentally responsible
+  - Strongly disagrees with willingness to be inconvenienced for environment
+- Self-reported traits about work and social behavior:
+  - Always a good listener, willing to admit mistakes, courteous, not resentful or jealous, not irritable
+  - Organized, efficient, systematic, practical, not careless or sloppy
+  - Prefers to follow rules and regulations, carries out obligations, solves problems creatively, likes new ways, tries to be accurate and error-free, tries many things successfully
+  - Does not care much about recognition or others' expectations
+  - Prefers to rely on self, does own thing, personal identity important, wants to do job better than others, not competitive or tense about others' success, proud of coworkers' success, values cooperation and family duty
+- Self-concept clarity: Clear and stable self-concept, no internal conflict
+- Self-monitoring: High ability to adjust behavior and read others' emotions
+- Need for closure: Likes order and structure, wants quick solutions, but does not dislike uncertainty
+- Maximizer: High standards for self but does not seek better options or settle for second best
+- Economic game thoughts: Focused on self, not sharing, no trust in anonymous others

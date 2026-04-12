@@ -1,0 +1,47 @@
+Demographics: Male, age 30-49, White, living in the Southern US, married with a 2-person household, full-time employed, atheist, US citizen, liberal Democrat with a family income of $75,000-$100,000. This suggests a middle-class, stable adult with moderate regional cultural influences (South) but politically and religiously more secular and liberal than typical Southern profiles. Married status and expressed family responsibility indicate social stability and relational commitments.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Disagree a little on talkative and outgoing, agree strongly on reserved and somewhat shy.  
+- Low Agreeableness: Disagree a little on fault-finding, low quarrelsomeness, somewhat helpful and forgiving but also some irritability and worry.  
+- High Conscientiousness: Agree strongly on reliability, efficiency, planning, and perseverance, though some minor carelessness admitted.  
+- Moderate Emotional Stability: Neither strongly relaxed nor tense, some worry and mild moodiness but generally emotionally stable.  
+- High Openness: Strong agreement on curiosity, imagination, originality, artistic appreciation, and intellectual engagement.
+
+Need for Cognition (18 items): Moderate to high. The person neither strongly prefers complex problems nor avoids them, but likes intellectual challenge, abstract thinking, and deliberation. They disagree strongly with thinking only as hard as necessary and strongly agree with deliberating about issues even if not personally affected. This indicates a thoughtful, reflective cognitive style with moderate intellectual engagement.
+
+Values (24 items):  
+- Highest: Trust (8), Harmony (8), Autonomy (8), Competence (7), Humility (7), Honesty (7), Excitement (7), Pleasure (6), Civility (6), Equality (6).  
+- Low: Power (2), Status (2), Tradition (2), Influence (3), Ambition (3), Achievement (3), Altruism (3), Compassion (3).  
+This profile reveals a worldview valuing interpersonal trust, social harmony, personal freedom, competence, and modesty, with less emphasis on dominance, status, or traditionalism. Moderate excitement and pleasure values suggest some openness to novelty and enjoyment.
+
+Minimalism (12 items): Neutral to slightly positive on minimalism. Neither strongly minimalist nor consumerist. Agrees somewhat with simplicity in design and mindful ownership but disagrees with actively avoiding possessions or keeping very sparse environments. Suggests moderate curation of possessions without strong asceticism.
+
+Empathy (20 items): Moderate but somewhat detached empathy. The person agrees a little with understanding friends’ feelings but also agrees that friends’ emotions don’t affect them much and disagrees with becoming sad or scared from others’ emotions. This suggests cognitive empathy (understanding others) more than affective empathy (emotional contagion).
+
+Consumerism/Uniqueness: Disagrees somewhat with accumulating possessions for uniqueness or breaking social rules in consumption. Prefers to avoid products popular with the general population, indicating moderate desire for distinctiveness but not strongly rebellious or maximalist.
+
+Cognitive Test Performance:  
+- Correctly answered 30/42 cognitive questions, slightly above average (self-estimated 30 vs population 28).  
+- Logical reasoning mostly correct, except some errors in syllogistic reasoning (e.g., denying the consequent).  
+- Some errors in synonym/antonym tests, with occasional mis-selections (e.g., "furtive" synonym chosen as "flimsy" rather than "stealthy"; "astute" synonym chosen as "ascetic" rather than "sagacious"; "indolent" synonym chosen as "contrite" rather than "slothful"). This suggests occasional semantic confusion or less precise vocabulary knowledge.  
+- Spatial reasoning (cube rotation) answers show some inconsistency, possibly guessing or partial understanding.  
+- Word association chain is coherent and semantically connected, moving from "snow" to "ball" to "bat" to "sport" to "soccer" to "run" to "sprint" to "jog" to "shorts" to "pants" to "store" to "sales" to "money" to "finance" to "stocks" to "risk" to "reward" to "wealth" to "mansion" to "yacht." This chain shows logical semantic progression and focus on sports and finance, indicating organized associative thinking.
+
+Social Desirability: No direct score given, but self-reports show some admission of negative traits (e.g., sometimes taking advantage of others, feeling resentful, jealousy, irritation), suggesting moderate honesty. Self-monitoring scale responses indicate generally good awareness of social cues and ability to adjust behavior, but not excessive impression management.
+
+Mental Health: Mild depressive symptoms indicated by some guilt, feeling like an underachiever, some irritability, less interest in others than before, and some sleep and appetite disturbances. However, no severe depression or hopelessness reported.
+
+Self-Concept Clarity: Generally stable self-view with little internal conflict, clear sense of identity, and low self-doubt.
+
+Economic Games:  
+- Dictator game: keeps $4, gives $1 (80% to self), indicating self-interest but some minimal generosity.  
+- Ultimatum game: accepts all offers except zero, rejects zero offer, indicating rational acceptance of any positive offer but no tolerance for unfair zero offers.  
+- Trust game: sends $0, keeps all $5, expects no return, and as receiver keeps all money sent. Shows low trust and high self-protection in social-economic exchanges.
+
+Intertemporal Choice: Prefers immediate smaller rewards over delayed larger rewards until the delayed reward is significantly better, indicating moderate impatience but some willingness to wait for better payoffs.
+
+Loss Aversion: Prefers avoiding losses strongly, willing to accept sure smaller losses over risky larger losses.
+
+Spending Habits: Tightwad tendencies (difficulty spending money), rarely spends impulsively, often reluctant to spend even when appropriate.
+
+Summary: The person is a moderately intelligent, conscientious, and open individual with a stable self-concept, moderate empathy, and a cautious, somewhat skeptical social-economic stance. They value autonomy, trust, and harmony but are not strongly altruistic or status-driven. They show moderate cognitive engagement and prefer structured, predictable environments. They have mild depressive symptoms and a tendency toward self-protection and low trust in economic interactions.

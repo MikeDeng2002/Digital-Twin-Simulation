@@ -1,0 +1,30 @@
+- Need for Closure:
+  - "I don’t like situations that are uncertain": Agree a little (4)
+  - "When I have made a decision, I feel relieved": Agree strongly (5)
+  - "I don’t like questions which could be answered in many different ways": Disagree a little (2)
+  - "I find that establishing a consistent routine enables me to enjoy life more": Agree a little (4)
+  - "I enjoy having a clear and structured mode of life": Agree a little (4)
+  - "I do not usually consult many different opinions before forming my own view": Agree strongly (5)
+- Need for Cognition:
+  - "I would prefer complex to simple problems": Disagree a little (2)
+  - "I like to have the responsibility of handling a situation that requires a lot of thinking": Disagree a little (2)
+  - "Thinking is not my idea of fun": Neither agree nor disagree (3)
+  - "I would rather do something that requires little thought than something that is sure to challenge my thinking abilities": Agree a little (4)
+  - "I try to anticipate and avoid situations where there is likely chance I will have to think in depth": Neither agree nor disagree (3)
+  - "I find satisfaction in deliberating hard and for long hours": Neither agree nor disagree (3)
+  - "I only think as hard as I have to": Agree a little (4)
+- Maximizer:
+  - "I never settle for second best": Neither agree nor disagree (3)
+  - "No matter what I do, I have the highest standards for myself": Neither agree nor disagree (3)
+  - "When shopping, I have a hard time finding clothing that I really love": Disagree a little (2)
+- Self-monitoring:
+  - "In social situations, I have the ability to alter my behavior if I feel that something else is called for": Generally true (5)
+  - "I have the ability to control the way I come across to people": Generally true (5)
+  - "When I feel that the image I am portraying isn't working, I can readily change it": Somewhat true, but with exceptions (4)
+- Self-concept clarity:
+  - "In general, I have a clear sense of who I am and what I am": Agree a little (4)
+  - "My beliefs about myself often conflict with one another": Neither agree nor disagree (3)
+  - "My beliefs about myself seem to change very frequently": Disagree a little (2)
+  - "If I were asked to describe my personality, my description might end up being different from one day to another day": Disagree a little (2)
+
+w_social estimate: 0.6 -- The person shows moderate need for closure with preference for order and decisiveness (items 1,7 in Need for Closure), low to moderate need for cognition (prefers less complex thinking, items 1,2 in Need for Cognition), moderate self-monitoring (items 1,2 in Self-monitoring), and fairly clear self-concept (items 11 in Self-concept clarity). These suggest a balanced but somewhat socially aware and structured decision-making style.

@@ -1,0 +1,17 @@
+Need for Closure: Low to moderate (disagree a little on discomfort with uncertainty, impatience for solutions), indicating tolerance for ambiguity and open-mindedness.
+
+Need for Cognition: Very high (strong agreement on enjoying thinking, problem-solving, intellectual challenges).
+
+Maximizer: Moderate to high (agrees with having highest standards for self, never settling for second best, but disagrees with competition being everything or winning being everything).
+
+Self-monitoring: Moderate (some ability to adjust behavior, but not high).
+
+Self-concept clarity: Low to moderate (some internal conflict, frequent reflection, but not clear stable self-view).
+
+Economic games: Fair and generous behavior, willing to share and accept offers, indicating prosocial tendencies.
+
+Cross-scale inference: High Need for Cognition and high openness (Big Five) align with intellectual curiosity and problem-solving orientation. Low Need for Closure aligns with openness and tolerance for ambiguity. Moderate self-monitoring and low self-concept clarity suggest some internal uncertainty but social adaptability. Economic games and empathy scales align with agreeableness and prosocial values.
+
+Contradictions: Somewhat high moodiness and depressive symptoms contrast with high cognitive performance and intellectual engagement, indicating possible affective distress despite cognitive strengths.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social willingness as indicated by strong empathy (emotional contagion and understanding others' feelings), fair and generous economic game behavior, and moderate self-monitoring allowing social adaptability. However, low extraversion, living alone, and depressive symptoms suggest limited active social engagement, tempering the estimate downward from very high.

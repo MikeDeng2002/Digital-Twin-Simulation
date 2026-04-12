@@ -1,0 +1,49 @@
+Demographics: Male, age 50-64, White, living alone in the US South, college graduate with some postgraduate education, part-time employed, low family income (<$30k), never married, Protestant but non-practicing (never attends services), politically moderate Democrat. This suggests a middle-aged, educated individual with modest economic means, likely with some life experience of economic constraint and social isolation. The South location may imply cultural conservatism in some domains but political moderation here.
+
+Big Five (44 items):  
+- Extraversion: Very low (e.g., "Is talkative" = 1, "Is reserved" = 5, "Is outgoing" = 1, "Is quiet" = 5)  
+- Agreeableness: Mixed but tending low to moderate (e.g., "Tends to find fault" = 2, "Helpful and unselfish" = 3, "Considerate and kind" = 3, "Sometimes rude" = 4, "Can be cold and aloof" = 4)  
+- Conscientiousness: Moderate (e.g., "Does a thorough job" = 4, "Reliable worker" = 5, "Disorganized" = 4, "Perseveres" = 4, "Does things efficiently" = 4)  
+- Neuroticism: Elevated (e.g., "Is depressed, blue" = 5, "Can be tense" = 4, "Can be moody" = 5, "Worries a little" = 2, "Gets nervous easily" = 2)  
+- Openness: Moderate (e.g., "Is original" = 4, "Is ingenious" = 4, "Has active imagination" = 4, "Values artistic experiences" = 4, "Sophisticated in art/music" = 4)
+
+Need for Cognition (18 items): Very low. Strong disagreement with statements about enjoying thinking, intellectual challenge, abstract thinking, and problem solving (e.g., "I would prefer complex to simple problems" = 1, "I like to have responsibility requiring a lot of thinking" = 1, "I find satisfaction in deliberating hard" = 1, "I would prefer intellectual tasks" = 1). Strong agreement with preferring tasks requiring little thought and relief after mental effort (e.g., "I would rather do something that requires little thought" = 5, "I feel relief after mental effort" = 5). This indicates a strong preference for low cognitive effort and avoidance of deep analytical thinking.
+
+Values (24 items):  
+- Highest importance (9): Forgiveness, Trust, Humility, Altruism, Politeness, Honesty, Autonomy  
+- High (7-8): Loyalty (7), Harmony (8), Compassion (8), Civility (8), Equality (8), Tradition (7)  
+- Low importance (1-2): Wealth (1), Influence (1), Achievement (2), Ambition (2), Power (1), Status (1), Recognition (2), Superiority (1)  
+This profile reveals a worldview valuing social harmony, moral virtues, altruism, and personal autonomy, with little interest in material success, power, or status.
+
+Minimalism (12 items): Moderate to high minimalism. Strong agreement with "Less is more" (5), preference for simplicity in design (5), avoiding excess possessions (4), drawn to sparse environments (4), mindful ownership (4), but neutral on curating belongings carefully (2). This suggests a preference for simplicity and minimal clutter, but not strongly obsessive about curation.
+
+Empathy (20 items): Low to moderate empathy. Disagrees strongly with being easily caught up in others' feelings (1), low emotional contagion, low sensitivity to others' fear or sadness, but some moderate ability to recognize others' emotions (e.g., "Can usually work out when people are cheerful" = 5, "Can usually realize quickly when a friend is angry" = 4). Overall, somewhat emotionally detached, not highly empathic.
+
+Consumerism/Uniqueness: Low desire for uniqueness or trend-following. Disagrees with seeking unique or special products (mostly 2s), neutral on breaking social rules about products (4), strongly disagrees with avoiding popular products (1), generally indifferent or slightly disagreeing with consumer uniqueness. Suggests pragmatic or indifferent consumer behavior, not driven by status or uniqueness.
+
+Social desirability scale: Not directly reported, but self-reports show some frankness about negative traits (e.g., admits to sometimes being rude, careless, lazy, moody, and disorganized). Also admits to negative social behaviors (e.g., taking advantage of others, not always courteous). This suggests moderate social desirability bias, but not extreme.
+
+Cognitive test performance:  
+- Correct answers: 31/42 (estimated 31 correct vs. 27 average) indicates above-average cognitive ability.  
+- Logical reasoning: Correct on many syllogisms and conditional logic, but some errors on more complex or negation-based syllogisms (e.g., incorrectly rejecting valid conclusions).  
+- Cube rotation puzzles: Mixed performance, some errors in spatial reasoning (e.g., choosing cube rotations that do not match).  
+- Word associations: Chain moves from "paper" to "news," "radio," "broadcast," "journalism," "truth," then "propaganda," "lies," "politics," "turmoil," "violence," "survival," "peace," "respite," "sanctuary," "religion," "prayer," "hope," "love," "death." This chain shows a cognitive pattern moving from factual to emotional and existential concepts, with a focus on conflict and resolution themes.  
+- Vocabulary: Mostly correct synonym and antonym choices, except one error on "furtive" synonym ("flimsy" chosen instead of "stealthy"), indicating some occasional semantic confusion.  
+- Wason selection task: Correctly identifies cards to test rule, indicating good conditional reasoning.  
+- Cognitive style: Prefers routine, low novelty, low intellectual challenge, some carelessness and disorganization, moderate conscientiousness.
+
+Economic games:  
+- Dictator game: Proposes to keep $2 and give $3 (moderately generous).  
+- Ultimatum game: Accepts offers down to $1, rejects $0 offers, indicating some fairness sensitivity but pragmatic acceptance.  
+- Trust game: Sends $2 (out of $5), expecting tripled amount, and expects moderate reciprocity (keeps $3, sends $2 back). As receiver, keeps about half or more, indicating moderate trust but cautious.  
+- Loss framing: More upset by multiple smaller losses than single larger loss (Person A happier with split wins), indicating sensitivity to loss framing and mental accounting.
+
+Intertemporal choice: Prefers immediate smaller rewards over delayed larger rewards until the delayed reward is substantially better, indicating moderate impatience but some willingness to wait for better payoff.
+
+Self-monitoring: Moderate to low. Can adjust behavior somewhat but finds it difficult to change behavior to suit different people, low sensitivity to others' emotions, low intuitive social perception.
+
+Self-concept clarity: Moderate. Some minor fluctuations in self-view but generally stable sense of self, values independence and self-reliance strongly.
+
+Depression and mood: Reports feeling sad, discouraged, disappointed in self, crying often, irritated, loss of interest in others, difficulty making decisions, low energy, tiredness, and reduced interest in sex. No major appetite or sleep disturbance. This suggests moderate depressive symptoms, which may influence cognitive and social engagement.
+
+Social desirability and self-report reliability: Moderate. Some frank admissions of negative traits and behaviors, but possible underreporting of empathy and social sensitivity.

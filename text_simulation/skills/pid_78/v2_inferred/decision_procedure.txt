@@ -1,0 +1,12 @@
+- Need for Closure: Moderate; some discomfort with uncertainty (e.g., agrees a little with "I don’t like to go into a situation without knowing what to expect") but not extreme.
+- Need for Cognition: Moderate; agrees a little with enjoying intellectual challenges but also strongly agrees with "I only think as hard as I have to," indicating pragmatic cognitive effort.
+- Maximizer: Low to moderate; does not strongly endorse maximizing behavior, agrees strongly with having high standards but neither strongly agrees nor disagrees with never settling for second best.
+- Self-monitoring: Moderate; generally able to adjust behavior to social situations but with some exceptions.
+- Self-concept clarity: Somewhat low; disagrees a little with having a clear and stable self-concept, indicating some internal conflict or variability.
+- Economic games: Fair and moderately generous in dictator game; high trust in trust game (sending all $5) but cautious reciprocity (keeps nearly half when receiving). Accepts all fair offers in ultimatum game except the most selfish.
+- Cognitive tests: Good performance (32/42 correct), good financial literacy, and logical reasoning.
+- Values and personality align with a practical, loyal, somewhat traditional, and socially engaged individual with moderate openness and conscientiousness.
+
+No major contradictions; scales align on moderate social engagement, moderate cognitive effort, moderate trust and fairness, and moderate self-concept clarity.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social engagement (Big Five talkative and outgoing, cooperation valued), moderate self-monitoring, and fair generosity in economic games, balanced by some self-doubt and moderate need for closure. The agreement between Big Five extraversion, self-monitoring, and economic game fairness supports a moderately high social orientation, though not extremely high due to some self-concept uncertainty and moderate cognitive engagement.

@@ -1,0 +1,26 @@
+- Need for Closure:
+  - Strongly agrees with disliking uncertain situations (Item 1: 5 - Agree strongly)
+  - Dislikes unpredictable people (Item 10: 5 - Agree strongly)
+  - Likes clear, structured life and routines (Items 12, 13: 4 - Agree a little)
+  - Dislikes ambiguous statements (Item 11: 3 - Neither agree nor disagree)
+  - Does not like to go into situations without knowing what to expect (Item 6: 4 - Agree a little)
+  - Feels relieved when decisions are made (Item 7: 5 - Agree strongly)
+- Need for Cognition:
+  - Disagrees a little with liking complex problems and responsibility requiring deep thinking (Items 1,2: 2 - Disagree a little)
+  - Agrees a little with avoiding deep thinking (Item 5: 4 - Agree a little)
+  - Agrees strongly with "It's enough for me that something gets the job done; I don't care how or why it works" (Item 17: 5 - Agree strongly)
+  - Agrees a little with enjoying puzzles and new solutions (Items 11,13: 4 - Agree a little)
+- Maximizer:
+  - Disagrees strongly with never settling for second best and having highest standards (Items 5,6: 1 - Disagree strongly)
+  - Agrees strongly with often checking for better options (Item 1: 5 - Agree strongly)
+- Self-monitoring:
+  - Somewhat true that can alter behavior and control impression (Items 1,2: 4 - Somewhat true)
+  - Generally true that can adjust behavior to meet situation (Item 5: 5 - Generally true)
+  - Certainly true that can read others' emotions and detect lies (Items 10,11: 6 - Certainly true)
+- Self-concept clarity:
+  - Beliefs about self often conflict (Item 1: 4 - Agree a little)
+  - Beliefs about self change frequently (Item 8: 3 - Neither agree nor disagree)
+  - Description of self might differ day to day (Item 9: 4 - Agree a little)
+  - Seldom experience conflict between personality aspects (Item 6: 4 - Agree a little)
+  - Neither clear nor unclear about who they are (Item 11: 3 - Neither agree nor disagree)
+- w_social estimate: 0.7 -- This person shows moderate to high social awareness and sensitivity (Self-monitoring items 8,10,11,12), combined with a strong need for closure (Need for Closure items 1,6,7,10,15) and moderate need for cognition but a pragmatic, "get it done" approach (Need for Cognition items 5,17). Their economic game thoughts and empathy items indicate cautious but present social reasoning and conditional cooperation.

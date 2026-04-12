@@ -1,0 +1,23 @@
+Need for Closure: Moderate to high. Wants quick resolution and dislikes uncertainty, but can tolerate some ambiguity. Likely to form firm opinions once sufficient evidence is gathered.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys complex problems, and reflects deeply before concluding.
+
+Maximizer: Moderate. Seeks better answers and compares options but does not demand perfection or exhaustive search.
+
+Self-monitoring: Moderate. Notices others' reactions and social cues (high empathy and social intuition), but self-concept instability suggests some vulnerability to social influence.
+
+Self-concept Clarity: Low to moderate. Conflicted and changing self-views may cause some indecision or second-guessing, but also openness to new information.
+
+Economic Game Gap: Shows some discrepancy between stated fairness and strategic self-interest. Trust game sending all money but keeping a large share as receiver indicates pragmatic reciprocity rather than pure altruism.
+
+Intertemporal Patience: High. Prefers delayed larger rewards, indicating long-term thinking in decisions.
+
+Cognitive Errors: Occasional semantic confusion (e.g., synonym/antonym errors), some logical errors in conditional reasoning, but generally good spatial and pattern reasoning. This implies numeric predictions may be generally sound but occasionally biased by semantic misunderstandings or overconfidence.
+
+Social Desirability: Moderate to low. Self-reports include negative traits and mental health symptoms, suggesting honest reporting.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a person who is highly analytical and motivated to understand complex issues deeply (high Need for Cognition), with a moderate to high desire for closure that drives them to form firm predictions rather than remain indecisive. Their high empathy and social intuition mean they incorporate social information and emotional context into their reasoning, but their moderate self-monitoring and low self-concept clarity suggest some susceptibility to social influence and internal conflict, which may introduce variability in predictions. Their economic game behavior shows a balance of fairness and strategic self-interest, indicating pragmatic rather than purely altruistic decision-making. Cognitive test performance is solid but not flawless, implying numeric predictions will be generally reasonable but may occasionally reflect semantic or logical biases. Their minimalism and low consumerism suggest they carefully curate information sources, favoring depth over breadth, and their political and value profile indicates preference for socially conscious, progressive, and trustworthy information. Conflicts between high analytical drive and emotional sensitivity are resolved by weighting analytical effort higher but moderated by social and emotional context, leading to a socially informed but cognitively rigorous prediction style.
+
+# Summary: This person will produce numeric predictions that are thoughtful, moderately confident, socially aware, and long-term oriented, but occasionally influenced by emotional states and semantic misunderstandings. They will avoid flashy or partisan sources, preferring deep, progressive, and socially responsible information, and will seek closure relatively quickly once sufficient evidence is gathered.

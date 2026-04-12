@@ -1,0 +1,145 @@
+- Lives in the Midwest region of the United States (Question: Which part of the United States do you currently live in? Answer: Midwest)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age between 30-49 (Question: How old are you? Answer: 30-49)
+- Highest education level completed is postgraduate (Question: What is the highest level of schooling or degree that you have completed? Answer: Postgraduate)
+- Race: White (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Married (Question: Which of these best describes you? Answer: Married)
+- Religion: Roman Catholic (Question: What is your present religion, if any? Answer: Roman Catholic)
+- Attends religious services a few times a year (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: A few times a year)
+- Political affiliation: Republican (Question: In politics today, do you consider yourself a Republican? Answer: Yes)
+- Political views: Conservative (Question: In general, would you describe your political views as Conservative? Answer: Conservative)
+- Household size: More than 4 people (Question: Including yourself, how many people currently live in your household? Answer: More than 4)
+- Employment status: Full-time employment (Question: What is your current employment status? Answer: Full-time employment)
+- Income: $100,000 or more annually (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, self-report):
+  - Somewhat talkative (Q: Is talkative; Answer: Agree a little)
+  - Disagree a little that they find fault with others
+  - Agree a little that they do a thorough job
+  - Disagree a little that they are depressed or blue
+  - Neither agree nor disagree on originality/new ideas
+  - Agree a little that they are reserved
+  - Agree strongly that they are helpful and unselfish
+  - Disagree a little that they can be careless
+  - Agree a little that they are relaxed and handle stress well
+  - Agree a little that they are curious about many things
+  - Agree a little that they are full of energy
+  - Disagree strongly that they start quarrels
+  - Agree a little that they are reliable workers
+  - Neither agree nor disagree on being tense
+  - Agree a little that they are ingenious and deep thinkers
+  - Neither agree nor disagree on generating enthusiasm
+  - Agree strongly that they have a forgiving nature
+  - Agree a little that they tend to be disorganized
+  - Disagree a little that they worry a lot
+  - Disagree a little that they have an active imagination
+  - Agree a little that they tend to be quiet
+  - Agree a little that they are generally trusting
+  - Disagree strongly that they tend to be lazy
+  - Agree strongly that they are emotionally stable
+  - Neither agree nor disagree on being inventive
+  - Disagree a little on having an assertive personality
+  - Disagree strongly on being cold and aloof
+  - Agree a little that they persevere until task is finished
+  - Disagree a little on being moody
+  - Disagree a little on valuing artistic/aesthetic experiences
+  - Agree a little on being sometimes shy/inhibited
+  - Agree a little on being considerate and kind to almost everyone
+  - Agree strongly on doing things efficiently
+  - Agree a little on remaining calm in tense situations
+  - Agree a little on preferring routine work
+  - Disagree a little on being outgoing/sociable
+  - Disagree strongly on being sometimes rude
+  - Agree a little on making plans and following through
+  - Neither agree nor disagree on getting nervous easily
+  - Agree a little on liking to reflect and play with ideas
+  - Neither agree nor disagree on having few artistic interests
+  - Agree a little on being sophisticated in art, music, or literature
+- Need for Cognition (self-report):
+  - Generally agrees with enjoying complex problems, responsibility requiring thinking, satisfaction in deliberating, intellectual tasks, abstract thinking, and puzzles (mostly "Agree a little" or "Agree strongly" on relevant items)
+  - Disagrees a little with statements indicating dislike of thinking or avoidance of thinking
+- Values (rated importance):
+  - Highly important: Pleasure (9), Achievement (9), Harmony (9)
+  - Important: Competence (8), Humility (8), Politeness (8), Autonomy (8), Forgiveness (7), Trust (7), Loyalty (7), Honesty (7), Civility (7)
+  - Moderately important: Wealth (6), Altruism (6), Ambition (5), Excitement (5), Equality (5)
+  - Low importance: Power (2), Compassion (2), Status (2), Tradition (2), Recognition (1), Superiority (3)
+- Environmental attitudes:
+  - Agree a little that products should not harm environment, concerned about wasting resources, environmentally responsible, willing to be inconvenienced for environment
+  - Disagree a little on considering environmental impact in many decisions and purchase habits affected by environment
+- Empathy and emotional awareness:
+  - Disagree a little that friends' emotions don't affect them much
+  - Agree a little that they feel sad after being with sad friends, understand friends' happiness, understand when friends are scared or angry, and can usually work out friends' feelings
+  - Disagree a little on getting frightened by scary movies, getting caught up in others' feelings easily, difficulty knowing friends' fear, and other people’s feelings not bothering them
+  - Neither agree nor disagree on not becoming sad when seeing others cry or often becoming sad watching sad things on TV
+- Cognitive test performance:
+  - Correctly answered various logic, reasoning, and spatial puzzles (e.g., cube rotation, pattern completion)
+  - Estimated self-correct answers: 39/42
+  - Estimated average US adult correct answers: 28/42
+- Financial literacy:
+  - Correctly identified mortgage payment and interest relationship (True)
+  - Correctly identified inflation effect on savings (less buying power)
+  - Correctly identified stocks as highest fluctuation asset
+  - Correctly identified possibility of losing money in stock mutual funds
+  - Correctly identified diversification reduces risk
+  - Incorrectly identified bonds as highest return over long term (selected bonds instead of stocks)
+  - Correctly identified required withdrawals after age 70.5
+  - Correctly answered credit card debt question (debt never eliminated with minimum payment)
+  - Correctly answered probability and percentage questions
+  - Correctly answered basic math and logic problems (bat and ball, lily pads, etc.)
+- Economic game behavior:
+  - Proposes to keep $3 and send $2 in a $5 split (Ultimatum game)
+  - Accepts all offers except $0 to self
+  - In trust game, keeps $4 and sends $1; as receiver, returns fair amounts, keeping some and sending some back
+  - Thoughts during decisions: trying to be fair, kept smaller amounts for self when sending smaller amounts, trying to be fair when returning money
+- Self-reported personality and behavior:
+  - Does not need encouragement to continue work
+  - Sometimes feels resentful when not getting way
+  - Has given up on tasks due to low self-belief
+  - Good listener
+  - Has taken advantage of someone
+  - Not always willing to admit mistakes
+  - Sometimes tries to get even rather than forgive
+  - Usually courteous
+  - Has been jealous of others' good fortune
+  - Sometimes irritated by people asking favors
+  - Has deliberately said something hurtful
+- Self-rated traits (accuracy scale):
+  - Organized (4/9)
+  - Efficient (8/9)
+  - Systematic (4/9)
+  - Practical (8/9)
+  - Disorganized (6/9)
+  - Sloppy (5/9)
+  - Inefficient (2/9)
+  - Careless (4/9)
+- Self-concept clarity:
+  - Generally clear sense of self (Agree a little)
+  - Disagrees strongly with frequent changes or conflicts in self-beliefs
+  - Seldom experiences conflict between personality aspects
+- Need for Closure:
+  - Agrees a little with disliking uncertainty, preferring order, disliking ambiguous statements, wanting quick solutions, and structured life
+- Maximizer tendencies:
+  - Disagrees a little with searching for better options or never settling for second best
+  - Some difficulty shopping for gifts or finding clothing loved
+- Self-monitoring:
+  - Generally true that can alter behavior to suit situations
+  - Can control impression given to others
+  - Can adjust behavior when image not working
+  - Generally true can read others' emotions and facial expressions
+- Depression and mood:
+  - Does not feel sad, discouraged, or like a failure
+  - No loss of interest or pleasure
+  - No guilt or self-punishment feelings
+  - Somewhat more easily irritated than before
+  - No loss of interest in others or sex
+  - No significant sleep, appetite, or weight changes
+  - No increased health worries
+- Spending habits:
+  - Spending habits rated 4/11 (somewhat tightwad)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - Neither like Mr. A nor Mr. B in shopping spree scenario (about the same)
+- Aspiration and self-description:
+  - Aspires to be confident, worry less, and be happier for others' successes
+  - Ought to be responsible, provide for family, be kind and respectful
+  - Actually responsible, dependable, loyal, and easy to get along with

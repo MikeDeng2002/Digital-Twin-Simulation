@@ -1,0 +1,57 @@
+Demographics: Male, Black, aged 30-49, living in the Northeast US, married, Protestant (attends services once or twice a month), US citizen, Democrat with liberal political views, household of 4, full-time employed, postgraduate education, family income $100,000+. This implies a relatively stable, middle-to-upper-middle class urban or suburban lifestyle with access to high-quality education and professional environments. The Northeast location suggests exposure to diverse cultural and economic influences, likely with access to a broad range of information sources.
+
+Big Five Personality (44 items):  
+- Low Extraversion: Strongly disagrees with being talkative, quarrelsome, outgoing; agrees somewhat reserved and quiet.  
+- High Conscientiousness: Strongly agrees with being thorough, reliable, efficient, persevering, organized, systematic, practical, and calm under stress.  
+- Low Neuroticism: Strongly disagrees with being tense, moody, worried, nervous, depressed; emotionally stable.  
+- High Agreeableness: Strongly agrees with being helpful, forgiving, kind, considerate, trusting, cooperative.  
+- Openness: Mixed but generally moderate to high on originality, imagination, ingenuity, deep thinking, but neutral on artistic/aesthetic interests and sophistication.
+
+Need for Cognition (18 items): Low to moderate. Disagrees strongly with preferring complex problems or intellectual tasks; prefers tasks requiring little thought; tries to avoid deep thinking; finds relief rather than satisfaction after mental effort; only thinks as hard as necessary. This suggests a preference for practical, straightforward thinking rather than abstract or prolonged cognitive engagement.
+
+Values (24 items):  
+- Highest importance: Wealth (9), Ambition (9), Equality (9), Trust (7), Competence (7), Altruism (7), Harmony (7), Honesty (7), Compassion (7).  
+- Low importance: Loyalty (1), Power (1), Status (1), Recognition (1), Superiority (1), Tradition (2).  
+This profile reveals a pragmatic, achievement-oriented worldview valuing financial success and social equality, combined with strong ethical and altruistic concerns. The low value on power and status suggests a non-dominance orientation, while high ambition and competence indicate drive and self-efficacy.
+
+Minimalism (12 items): Mixed but leaning against minimalism. Disagrees strongly with restricting possessions or "less is more"; agrees somewhat with avoiding accumulation and being mindful/selective about belongings. Suggests moderate curation of possessions but not strong minimalism.
+
+Empathy (20 items): High empathy. Strongly disagrees with emotional detachment; agrees with feeling others' emotions, understanding friends' feelings, being affected by others' moods, and being sensitive to social emotional cues. However, some slight uncertainty about reading fear and cheerfulness in others. Overall, socially attuned and emotionally responsive.
+
+Consumerism/Uniqueness: Strong disagreement with all statements about seeking uniqueness through products, breaking social norms in consumption, or avoiding popular brands. This person is conventional in consumer behavior, not seeking to stand out or rebel via consumption.
+
+Social Desirability: Low to moderate. Some tendency to present self positively (e.g., denying taking advantage of others, admitting mistakes, courteous behavior), but also admits to feeling resentful and sometimes needing encouragement. Self-monitoring is low (generally false that they alter behavior to suit situations or read others' emotions well). Self-concept clarity is very high (strongly agrees with stable, consistent self-view, no internal conflicts).
+
+Cognitive Test Performance:  
+- Correct answers on logical syllogisms and reasoning tasks are mixed; some errors in logical inference (e.g., incorrectly answering that a glock being a XAR means it is certainly not a YOF, which contradicts the premise "All XARs are YOFs").  
+- Some errors in synonym and antonym tasks, often choosing incorrect or less precise options (e.g., "concur" synonym chosen as "extricate" which is incorrect).  
+- Moderate performance on spatial cube rotation tasks, with some inconsistent choices.  
+- Self-estimated correct answers: 25/42 (below average estimate of 35/42 for US adults).  
+- Cognitive style appears to be more concrete and practical, with occasional reasoning errors and less abstract or flexible thinking.
+
+Word Association Chain: Mostly concrete, practical words related to writing and paper products, with some abrupt shifts (e.g., "Poor," "Purge," "Plague") suggesting some associative leaps but no clear pattern of disorganization.
+
+Social Desirability Scale: Low to moderate, with some admission of negative feelings and behaviors, suggesting reasonable self-report reliability.
+
+Economic Games (Dictator and Ultimatum):  
+- Proposes to keep $4 and give $1 in dictator game (selfish offer).  
+- As receiver, rejects offers of $1 or less, accepts $2 or more, showing some fairness threshold.  
+- In the trust game, sends $2 (out of $5), keeps $3, and expects to receive back about half of the tripled amount, indicating moderate trust but guardedness.  
+- Thoughts during decisions reveal concern about appearing greedy and fear of being cheated.
+
+Intertemporal Choice Tasks:  
+- Strong preference for larger, later rewards over smaller, sooner ones in most cases, indicating patience and long-term orientation.
+
+Depression and Mood: No signs of depression or anxiety; emotionally stable and positive mood.
+
+Self-Concept Clarity: Very high, stable self-view, no internal conflicts or identity confusion.
+
+Self-Monitoring: Low; does not adjust behavior much to social situations or cues.
+
+Maximizer Scale: Low; does not seek best possible options or comparison shopping.
+
+Need for Closure: Low; does not rush to resolve uncertainty or make quick decisions.
+
+Need for Cognition: Low; avoids deep or complex thinking, prefers practical and straightforward tasks.
+
+Consumerism/Uniqueness: Conventional, not seeking uniqueness or rebellion through consumption.

@@ -1,0 +1,103 @@
+- Lives in the Western United States (Question: Which part of the United States do you currently live in? Answer: 4 - West)
+- Female (Question: What is the sex that you were assigned at birth? Answer: 2 - Female)
+- Age between 50-64 (Question: How old are you? Answer: 3 - 50-64)
+- Some college education, no degree (Question: What is the highest level of schooling or degree that you have completed? Answer: 3 - Some college, no degree)
+- White race (Question: What is your race or origin? Answer: 1 - White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: 1 - Yes)
+- Married (Question: Which of these best describes you? Answer: 1 - Married)
+- Protestant religion, attends services once a week (Questions: What is your present religion? Answer: 1 - Protestant; Aside from weddings and funerals, how often do you attend religious services? Answer: 2 - Once a week)
+- Politically Republican and very conservative (Questions: In politics today, do you consider yourself a? Answer: 1 - Republican; In general, would you describe your political views as? Answer: 1 - Very conservative)
+- Household size of 2 people (Question: Including yourself, how many people currently live in your household? Answer: 2 - 2)
+- Currently unemployed (Question: What is your current employment status? Answer: 3 - Unemployed)
+- Family income between $75,000-$100,000 (Question: Last year, what was your total family income? Answer: 4 - $75,000-$100,000)
+- Personality traits (Big Five, from self-report):
+  - Somewhat talkative (Q1: 4 - Agree a little)
+  - Does not find fault with others (Q2: 1 - Disagree strongly)
+  - Does a thorough job (Q3: 4 - Agree a little)
+  - Not depressed (Q4: 1 - Disagree strongly)
+  - Somewhat original and inventive (Q5: 4 - Agree a little; Q25: 4 - Agree a little)
+  - Somewhat reserved (Q6: 4 - Agree a little)
+  - Very helpful and unselfish (Q7: 5 - Agree strongly)
+  - Neither careless nor careful (Q8: 3 - Neither agree nor disagree)
+  - Handles stress fairly well (Q9: 4 - Agree a little)
+  - Curious about many things (Q10: 4 - Agree a little)
+  - Neither energetic nor lethargic (Q11: 3 - Neither agree nor disagree)
+  - Does not start quarrels (Q12: 1 - Disagree strongly)
+  - Reliable worker (Q13: 4 - Agree a little)
+  - Somewhat emotionally stable (Q24: 4 - Agree a little)
+  - Forgiving nature (Q17: 5 - Agree strongly)
+  - Generally trusting (Q22: 5 - Agree strongly)
+  - Has an active imagination (Q20: 5 - Agree strongly)
+  - Considerate and kind (Q32: 5 - Agree strongly)
+  - Prefers routine work (Q35: 4 - Agree a little)
+  - Outgoing and sociable (Q36: 4 - Agree a little)
+  - Makes plans and follows through (Q38: 4 - Agree a little)
+  - Values artistic/aesthetic experiences moderately (Q30: 3 - Neither agree nor disagree; Q41: 4 - Agree a little)
+- Need for Cognition (direct items):
+  - Prefers complex problems (Q1: 4 - Agree a little)
+  - Likes responsibility requiring thinking (Q2: 4 - Agree a little)
+  - Does not find thinking unpleasant (Q3: 2 - Disagree a little)
+  - Avoids deep thinking situations somewhat (Q5: 4 - Agree a little)
+  - Only thinks as hard as necessary (Q7: 4 - Agree a little)
+  - Enjoys problem solving (Q11: 5 - Agree strongly)
+  - Prefers puzzles (Q13: 4 - Agree a little)
+  - Feels relief after mental effort (Q16: 4 - Agree a little)
+  - Deliberates about issues even if not personally affected (Q18: 4 - Agree a little)
+- Values (rated as guiding principles):
+  - Highly important: Forgiveness, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, Tradition (all rated 9)
+  - Quite important: Pleasure (8), Trust (8), Competence (7), Achievement (8), Ambition (7), Excitement (7), Autonomy (5), Equality (5)
+  - Low importance: Power (2), Status (1), Recognition (2), Superiority (2)
+- Environmental attitudes:
+  - Disagrees or only slightly agrees with environmental concern statements (mostly 1 or 2, except "I would describe myself as environmentally responsible" 4 - Agree a little)
+- Empathy and social sensitivity:
+  - Strongly disagrees that friends' emotions don't affect her (Q1: 1 - Disagree strongly)
+  - Usually feels sad after a friend is sad (Q2: 4 - Agree a little)
+  - Understands friends' happiness (Q3: 4 - Agree a little)
+  - Can usually understand others' feelings before told (Q12: 4 - Agree a little)
+  - Generally trusting and forgiving (Q17: 5 - Agree strongly)
+  - Sensitive to others' emotions (Q9: 5 - Agree strongly; Q10: 4 - Agree a little; Q14: 4 - Agree a little; Q16: 4 - Agree a little)
+- Self-concept clarity:
+  - Strongly disagrees with conflicting self-beliefs (Q1: 1 - Disagree strongly)
+  - Strongly agrees to having a clear sense of who she is (Q11: 5 - Agree strongly)
+  - Disagrees with frequently changing self-beliefs (Q8: 1 - Disagree strongly)
+- Need for Closure:
+  - Somewhat agrees with disliking uncertainty and ambiguity (Q1: 4 - Agree a little; Q2: 4 - Agree a little; Q6: 4 - Agree a little; Q8: 5 - Agree strongly)
+  - Disagrees strongly with discomfort from disagreement (Q5: 1 - Disagree strongly)
+- Maximizer:
+  - Strongly agrees with checking for better options (Q1: 5 - Agree strongly)
+  - Disagrees somewhat with always looking for better job opportunities (Q2: 2 - Disagree a little)
+  - Mixed feelings about shopping for gifts and clothing (Q3: 3 - Neither; Q4: 4 - Agree a little)
+  - Neither strongly agrees nor disagrees with having highest standards or never settling for second best (Q5: 3; Q6: 2)
+- Self-monitoring:
+  - Somewhat true that can alter behavior in social situations (Q1-Q3: 4 - Somewhat true)
+  - Generally true that can regulate actions and read emotions (Q7-Q9, Q11: 5 - Generally true)
+  - Disagrees with difficulty putting up a good front (Q6: 1 - Certainly false)
+- Cognitive test performance:
+  - Estimated self-correct answers: 24/42
+  - Estimated average US adult correct: 35/42
+  - Correct answers on logical reasoning and syllogisms (all answered "Yes" correctly except one)
+  - Correct answers on word synonym and antonym tests mostly correct except some errors (e.g., ASTUTE synonym chosen as "lineal" which is incorrect)
+  - Correct answers on basic math and logic puzzles (e.g., dirt volume, race position)
+- Financial literacy:
+  - Correct understanding of mortgage payments, inflation effects, risk diversification, and investment returns (except incorrectly chose bonds as highest return over stocks)
+  - Correct understanding of required minimum distributions from retirement accounts
+  - Correct calculation of credit card payoff time (10 years)
+  - Correct probability and percentage calculations mostly
+- Economic games (Ultimatum and Trust games):
+  - Proposes to keep $2 and send $3 out of $5 (fair split)
+  - Accepts offers down to $1 sent, rejects $1 sent (rejects very unfair offers)
+  - In trust game, sends $3 (keeps $2), and as receiver returns substantial amounts, keeping moderate shares
+  - Thoughts during decisions emphasize fairness, thinking of others, selflessness, and concern for others' needs
+- Spending habits:
+  - Moderate spender (5 on 1-11 scale)
+  - Rarely has trouble limiting spending or spending money
+  - Neither impulsive nor overly cautious shopper
+- Mental health:
+  - Reports no sadness, no discouragement, no feelings of failure or guilt
+  - Somewhat increased effort to start work and more tired than usual
+  - No significant sleep or appetite problems
+  - Purposefully trying to lose weight
+- Self-description:
+  - Ideal self: Loves God, exhibits fruits of the spirit, loves family deeply
+  - Ought self: Same as ideal plus physical strength to help spouse
+  - Actual self: Endeavors to live fruits of the spirit daily, selfless and sacrificial, sometimes fails

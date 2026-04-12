@@ -1,0 +1,26 @@
+- Need for Closure:
+  - Dislikes uncertainty (Item 1: Agree a little)
+  - Dislikes ambiguous questions (Item 2: Agree a little)
+  - Prefers ordered life and routine (Items 3, 12, 13: Agree a little)
+  - Feels uncomfortable without understanding reasons (Item 4: Agree a little)
+  - Feels relieved after decisions (Item 7: Agree a little)
+  - Quickly impatient if no immediate solution (Item 9: Agree a little)
+  - Does not consult many opinions before forming views (Item 14: Disagree strongly)
+- Need for Cognition:
+  - Likes responsibility requiring thinking (Item 2: Agree strongly)
+  - Prefers complex problems (Item 1: Agree a little)
+  - Dislikes learning new ways to think (Item 12: Disagree strongly)
+  - Often deliberates about issues even if not personally affected (Item 18: Agree a little)
+  - Prefers intellectual tasks (Item 15: Agree a little)
+- Maximizer:
+  - Strongly agrees with highest standards, never settling for second best, always looking for better options (Items 1, 2, 5, 6: Agree strongly)
+- Self-monitoring:
+  - Generally true that can alter behavior to suit social situations (Items 1, 2, 5, 7: Mostly agree)
+  - Strong ability to read others' emotions and facial expressions (Items 8-13: Certainly always true or generally true)
+- Self-concept clarity:
+  - Some conflict in self-beliefs (Item 1: Agree a little)
+  - Opinions of self vary day to day (Item 2: Agree strongly)
+  - Spends a lot of time wondering about self (Item 3: Agree strongly)
+  - Seldom experiences conflict between personality aspects (Item 6: Agree strongly)
+  - Clear sense of who self is (Item 11: Agree a little)
+w_social estimate: 0.75 -- This estimate is based on strong self-monitoring abilities (Items 8-13), moderate need for closure (Items 1-9), and a high need for cognition (Item 2), indicating a person who is socially aware, reflective, and prefers structured decision-making but can adapt behavior to social contexts.

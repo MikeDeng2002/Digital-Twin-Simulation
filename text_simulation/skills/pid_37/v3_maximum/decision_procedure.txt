@@ -1,0 +1,37 @@
+Need for Closure: Low to moderate. Disagrees with impatience and quick resolution, tolerates ambiguity, prefers to deliberate carefully.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys intellectual challenge, likely to research extensively before numeric predictions.
+
+Maximizer: Moderate. Holds high standards, seeks good answers, but does not compulsively seek the absolute best or exhaustively compare all options.
+
+Self-monitoring: Moderate. Notices social cues and adjusts behavior somewhat but maintains independent judgment.
+
+Self-concept clarity: Moderate instability. Some internal conflict and uncertainty about self, but overall coherent intellectual identity and self-awareness.
+
+Economic Game Gap: Proposer and responder behavior consistent with pragmatic fairness and moderate trust. No large gap between stated and strategic behavior.
+
+Intertemporal Patience: High. Prefers larger delayed rewards, indicating long-term thinking in forming views.
+
+Cognitive Errors: Virtually none in logic and reasoning tasks; one semantic slip (furtive synonym) likely a rare lapse, not systematic. Strong logical and probabilistic reasoning skills.
+
+Social Desirability: Moderate to low bias. Honest self-reporting of depressive symptoms and self-criticism suggests reliable self-assessment.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate of 0.75 reflects a person who is socially aware and empathetic, moderately self-monitoring, and values fairness and cooperation, but is also introverted and somewhat socially isolated. The high empathy and social sensitivity suggest social information influences predictions, but the introversion and self-concept instability reduce the weight of social conformity. The moderate self-monitoring and high autonomy values indicate this person notices social signals but does not simply conform. The economic game behavior shows pragmatic fairness rather than pure altruism or selfishness. The depressive symptoms may reduce social engagement but do not impair reasoning. Conflicts between high cognitive ability and mood-related social withdrawal were resolved by weighting cognitive and empathy signals higher, moderated by introversion and autonomy. Overall, this person will integrate social information with independent analysis, showing moderate social influence on numeric predictions.
+
+# Final skill profile summary for simulating numeric predictions:
+
+- Deep analytical thinker with strong logical and probabilistic reasoning skills.  
+- Prefers complex, abstract problems and invests significant cognitive effort.  
+- Values autonomy and fairness, skeptical of status or power motives.  
+- High empathy but introverted; social information matters but filtered through independent judgment.  
+- Moderate patience and long-term orientation in decision-making.  
+- Pragmatic and fair in social-economic interactions, not overly trusting or cynical.  
+- Minimalist in information consumption, curates sources carefully, avoids overload.  
+- Likely to use neutral to liberal-leaning reputable news, academic sources, and thoughtful online communities.  
+- Mood state (depression) may bias toward pessimism or cautious predictions but does not impair reasoning accuracy.  
+- Self-concept somewhat unstable, may fluctuate in confidence but maintains intellectual curiosity.  
+- Social desirability bias low; self-reports reliable.
+
+This profile predicts numeric predictions will be reasoned, cautious, and incorporate social context moderately, with a tendency toward fairness and long-term perspectives, but possibly shaded by current mood and introversion.

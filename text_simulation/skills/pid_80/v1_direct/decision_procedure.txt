@@ -1,0 +1,6 @@
+- Need for Closure: Moderate to high need for closure indicated by agreement with liking order and structure (Item 1: Agree a little; Item 4: Agree strongly; Item 6: Agree strongly; Item 7: Agree strongly; Item 8: Agree strongly; Item 15: Agree a little)
+- Need for Cognition: Very high need for cognition indicated by strong agreement with items about enjoying complex problems, thinking hard, intellectual tasks (Items 1,2,6,10,11,14,15,16: Agree strongly)
+- Maximizer: No direct maximizer scale data; no explicit evidence of maximizer tendencies
+- Self-monitoring: Generally high self-monitoring ability (Items 1,5,7,8,9,10,11,12,13: Mostly "Generally true" or "Somewhat true")
+- Self-concept clarity: High clarity (Item 11: Agree strongly; Items 3,4,5,7,8,9: Disagree strongly with confusion or change)
+- w_social estimate: 0.6 -- This estimate is based on moderate to high self-monitoring scores (e.g., Item 1: Generally true; Item 5: Somewhat true), combined with high self-concept clarity (Item 11: Agree strongly) and moderate need for closure (Items 4,7,8: Agree strongly), indicating a person who is socially aware and adjusts behavior but also has a clear and stable self-view. The moderate acceptance of social structure and some introversion temper the estimate below very high.

@@ -1,0 +1,60 @@
+Demographics: Female, age 50-64, White, living in the U.S. Midwest, married, homemaker, U.S. citizen, high school graduate, family income less than $30,000, politically Republican and conservative, non-religious with no religious service attendance. Household size is 4. This demographic suggests a middle-aged, lower-income, socially conservative woman with traditional family values and limited formal education, likely with a lived experience shaped by modest means, regional Midwestern culture, and conservative political views.
+
+Big Five Personality (44 items):  
+- High Extraversion: Talkative (5), Outgoing (5), Assertive (5), Energetic (2 - low energy but high enthusiasm), Sociable (5), Quarrelsome (5), Moody (4), Tense (5), Worries (4), Not emotionally stable (1), Not relaxed (1), Not calm (1).  
+- High Conscientiousness: Does thorough job (5), Reliable (5), Perseveres (5), Efficient (5), Makes plans (1 - low on planning), Organized (7/9 scale), Systematic (8/9), Practical (6/9), Accurate (7/9), Careful (3/9 low), but also somewhat disorganized (4/5 agree a little).  
+- Low Openness to Experience: Disagrees strongly with liking complex problems (1), dislikes thinking hard (5 agree strongly that thinking is not fun), prefers routine (4), low on intellectual curiosity (1-2 on many items), but some appreciation for originality (5 on original ideas), imagination (5), artistic interests (4), and sophistication (4).  
+- Agreeableness: Mixed signals. Some helpfulness (4), forgiving (4), considerate (4), but also quarrelsome (5), rude (5), low trust (2), low cooperation (2), low kindness (4 but not strongly).  
+- Neuroticism: High tension, worry, moodiness, low emotional stability, but denies nervousness and some anxiety symptoms.
+
+Need for Cognition (18 items): Very low. Strongly disagrees with liking complex problems, thinking hard, intellectual challenges. Strongly agrees with preferring to think as little as possible, avoiding deep thought, and preferring simple tasks. Some mild interest in new solutions and abstract thinking (4 on some items), but overall low.
+
+Need for Closure: Moderate to high. Agrees with liking order, routine, dislike of uncertainty, impatience with ambiguity, desire for quick decisions, discomfort with unpredictability, and preference for structured life.
+
+Maximizer Scale: Moderate. Agrees somewhat with having high standards, never settling for second best, and being on lookout for better opportunities, but only a little difficulty in shopping for gifts or clothes. Somewhat maximizer but not extreme.
+
+Self-monitoring: High. Strong ability to alter behavior to suit situations, control impressions, read emotions, detect lies, and adjust behavior accordingly.
+
+Self-concept clarity: High. Clear and stable self-view, little internal conflict, little fluctuation in self-beliefs, confident in identity.
+
+Values (24 items):  
+- Highest: Pleasure (9), Competence (9), Loyalty (9), Power (9), Autonomy (9), Status low (1), Recognition low (1), Ambition low (3), Forgiveness low (4), Altruism moderate-high (8), Wealth (8), Excitement (8), Superiority (8), Achievement (7), Trust (7), Tradition (7), Honesty (7).  
+- This suggests a worldview valuing personal success, control, independence, loyalty to family/group, enjoyment of life, and some competitive dominance. Low value on social recognition or status, moderate altruism but low forgiveness and humility.
+
+Minimalism: Moderate. Strongly agrees with avoiding accumulation, mindful ownership, and thoughtful curation, but less drawn to sparse aesthetics or empty spaces. Suggests practical minimalism focused on utility rather than aesthetic minimalism.
+
+Consumerism/Uniqueness: Moderate uniqueness orientation. Likes to be original, break social rules in consumption, challenge prevailing tastes, but does not strongly avoid popular products or brands. Somewhat contrarian but not extreme.
+
+Empathy: Moderate. Generally aware and affected by others’ emotions, can read emotions well, but not highly emotionally overwhelmed. Somewhat socially attuned but maintains some emotional distance.
+
+Social desirability: Moderate to low. Some contradictory self-reports (e.g., admits to being rude, quarrelsome, taking advantage of others, not always courteous), suggesting moderate honesty in self-reporting.
+
+Cognitive Test Performance:  
+- Correct on many basic logic and syllogism tasks, but some errors on more complex logical deductions (e.g., incorrectly judging some syllogisms as invalid).  
+- Correct on basic numeric and probability questions (e.g., die rolls, lottery odds).  
+- Some errors in spatial cube rotation tasks, ultimately choosing "I do not know" for complex spatial rotations, indicating difficulty or uncertainty in spatial reasoning.  
+- Word association chain shows a strong negative, bleak, and cold thematic progression (snow → rain → sleet → ... → blinding), suggesting a cognitive pattern with a focus on negative or harsh environmental concepts.  
+- Vocabulary synonyms and antonyms mostly correct, indicating moderate verbal ability.  
+- Self-estimated cognitive test score: 30/42 (above average), believes population average is 25/42.
+
+Economic Games:  
+- Dictator game: keeps $3, gives $2 (60% to self).  
+- Ultimatum game: accepts offers down to $2, rejects $1 or $0 offers.  
+- In trust game, sends all $5 (maximizing trust), but when receiving, keeps majority (e.g., keeps $8 of $15), sends back less than half, indicating strategic but self-interested reciprocity.  
+- Thoughts during decisions: maximizing reward, minimizing loss, being fair to others.  
+- Suggests pragmatic fairness with self-interest.
+
+Intertemporal Choice:  
+- Prefers immediate smaller rewards over delayed larger rewards in many cases, indicating moderate to low patience for delayed gratification.
+
+Depression and Mood:  
+- Reports feeling sad, discouraged, bored, less interested in sex, some sleep disturbance, appetite loss, weight loss, physical worries, but no strong feelings of worthlessness or failure.  
+- Some increased crying, but no strong guilt or self-disgust.  
+- Suggests mild to moderate depressive symptoms.
+
+Behavioral Traits:  
+- Stubborn, short-tempered, kind only if reciprocated.  
+- Prefers self-reliance, independence, competition, winning, and family loyalty.  
+- Some resentment, jealousy, irritability, and vengefulness admitted.  
+- Does not like rules or regulations, prefers creative problem solving but dislikes deep thinking.  
+- High on being organized and efficient but admits some disorganization and carelessness.

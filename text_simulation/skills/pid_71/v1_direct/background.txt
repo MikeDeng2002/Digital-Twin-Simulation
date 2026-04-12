@@ -1,0 +1,96 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Assigned male at birth (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age group 50-64 (Question: How old are you? Answer: 50-64)
+- Highest education level: College graduate/some postgrad (Question: What is the highest level of schooling or degree that you have completed? Answer: College graduate/some postgrad)
+- Race/Origin: Hispanic (Question: What is your race or origin? Answer: Hispanic)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Marital status: Divorced (Question: Which of these best describes you? Answer: Divorced)
+- Religion: Protestant (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services once a week (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once a week)
+- Political affiliation: Democrat (Question: In politics today, do you consider yourself a Democrat? Answer: Democrat)
+- Political views: Moderate (Question: In general, would you describe your political views as? Answer: Moderate)
+- Household size: 3 people (Question: Including yourself, how many people currently live in your household? Answer: 3)
+- Employment status: Retired (Question: What is your current employment status? Answer: Retired)
+- Income: $100,000 or more (Question: Last year, what was your total family income from all sources, before taxes? Answer: $100,000 or more)
+- Personality traits (Big Five, from self-report):
+  - Talkative: Agree a little (Q: I see myself as someone who is talkative. Answer: Agree a little)
+  - Does a thorough job: Agree strongly
+  - Helpful and unselfish: Agree strongly
+  - Relaxed, handles stress well: Agree strongly
+  - Curious about many things: Agree a little
+  - Full of energy: Agree strongly
+  - Reliable worker: Agree strongly
+  - Forgiving nature: Agree strongly
+  - Generally trusting: Agree strongly
+  - Emotionally stable: Disagree strongly (indicates some emotional instability)
+  - Inventive/original: Agree a little
+  - Outgoing/sociable: Agree a little
+  - Considerate and kind: Agree strongly
+  - Makes plans and follows through: Agree strongly
+  - Calm in tense situations: Agree strongly
+  - Values artistic/aesthetic experiences: Agree a little
+- Need for Cognition (self-report):
+  - Mostly neutral to slight agreement on enjoying thinking tasks and problem solving (mostly "neither agree nor disagree" or "agree a little")
+  - Somewhat prefers to think as little as necessary (Q7: I only think as hard as I have to: Agree a little)
+  - Some satisfaction in deliberating hard (Q6: Neither agree nor disagree)
+- Values (rated as guiding principles):
+  - Honesty: Highly important (9)
+  - Trust, Competence, Loyalty, Politeness, Harmony, Compassion, Civility, Equality, Tradition: Rated 7-8 (quite to highly important)
+  - Wealth: Quite important (5)
+  - Power, Status, Recognition, Superiority: Rated low (2)
+- Environmental concern: Agrees a little that products should not harm environment, mindful of environmental impact, willing to be inconvenienced for environment
+- Empathy and social sensitivity:
+  - Somewhat affected by friends' emotions (agree a little on feeling sad after friend is sad, understanding friends' happiness, understanding feelings when down or scared)
+  - Does not get easily frightened or caught up in others' feelings (disagree strongly)
+  - Somewhat aware of friends' feelings (agree a little)
+- Self-reported personality attributes:
+  - Does not give up easily, is a good listener, admits mistakes, courteous, sometimes irritated by favors, never takes advantage, rarely resentful or jealous
+  - Organized, efficient, systematic, practical, careful, accurate (high self-ratings)
+  - Disagrees strongly with being careless, lazy, disorganized
+- Self-concept:
+  - Clear sense of who they are and what they are (agree strongly)
+  - Beliefs about self do not conflict strongly
+  - Does not spend much time wondering about self or experience conflict in personality
+- Maximizer tendencies:
+  - Neither strongly maximizer nor satisficer; some disagreement with "never settle for second best" and "highest standards"
+- Self-monitoring:
+  - Mixed responses; some difficulty changing behavior to suit situations but generally able to adjust behavior
+  - Somewhat true that can read others' emotions and detect inappropriate statements
+- Need for Closure:
+  - Slight agreement with disliking uncertainty and ambiguous statements
+  - Likes clear, structured life and routine
+  - Does not become impatient quickly with problems
+- Economic game behavior:
+  - Proposes to keep $2 and send $3 in a $5 split game
+  - Accepts all offers as receiver, even $0 for self
+  - In a trust game with tripling, keeps $0 and sends $5 as sender; as receiver, keeps about half and returns about half
+  - Thoughts during giving: charitable, honest, giving, generous, thoughtful, selfless
+  - Thoughts during receiving: sufficient, efficient, enough, content, moral, ethical
+- Cognitive test performance:
+  - Estimated 30 out of 42 correct on cognitive tests
+  - Believes average US adult would get 26 correct
+  - Correctly answers logical reasoning and syllogistic reasoning questions mostly accurately
+  - Correctly solves spatial rotation and pattern completion puzzles
+  - Vocabulary: mostly correct synonym and antonym selections
+- Financial literacy:
+  - Correctly understands mortgage payment and interest tradeoffs
+  - Understands inflation effect on savings
+  - Recognizes stocks as highest risk and highest return over long term
+  - Understands diversification reduces risk
+  - Knows 401(k) withdrawal rules incorrectly (answers false to required withdrawal after 70.5)
+  - Knows credit card debt can be never eliminated with minimum payments
+  - Correctly answers basic probability and percentage questions
+  - Demonstrates some delay discounting, preferring immediate smaller amounts over delayed larger amounts until amounts are close
+- Spending habits:
+  - Self-reports as somewhat tight with money (4 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to a cautious spender (neither Mr. A nor Mr. B exactly)
+- Mental health:
+  - Does not feel sad, no loss of interest, no feelings of failure or worthlessness
+  - Feels some discouragement about the future
+  - No significant symptoms of depression or anxiety reported
+- Aspirations and self-description:
+  - Aspires to be talkative, glee (happy), charitable, socially active
+  - Believes ought to be talkative, outspoken parent, motivated to lead children, spend time with kids
+  - Actually tries hard to communicate with kids but feels they do not listen; not as talkative with friends as should be

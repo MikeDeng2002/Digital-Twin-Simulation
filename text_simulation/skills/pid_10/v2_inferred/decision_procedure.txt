@@ -1,0 +1,17 @@
+Need for Closure: Moderate to high (e.g., "I find that a well ordered life with regular hours suits my temperament" 5, "I don’t like to go into a situation without knowing what I can expect" 5, "I dislike unpredictable situations" 5). This suggests a preference for structure and predictability.
+
+Need for Cognition: High (e.g., "I would prefer complex to simple problems" 5, "The notion of thinking abstractly appeals to me" 5, "I would prefer a task that is intellectual, difficult, and important" 5). Indicates enjoyment of effortful thinking and problem-solving.
+
+Maximizer: Low to moderate (e.g., "I never settle for second best" 2, "No matter what I do, I have the highest standards for myself" 2). Suggests less focus on maximizing outcomes, more satisficing.
+
+Self-monitoring: Low (e.g., "I have difficulty changing my behavior to suit different people" 5, "I have difficulty putting up a good front" 5). Indicates consistent self-presentation, less social adaptability.
+
+Self-concept clarity: High (e.g., "I have a clear sense of who I am" 5, "My beliefs about myself often conflict" 1). Suggests stable and coherent self-identity.
+
+Economic games: Proposes fair splits (dictator game: keeps $2, gives $3), accepts all fair offers, rejects only the most selfish offer. Trust game: sends moderate amount ($2 of $5), expects roughly equal return. Indicates moderate trust and reciprocity, balanced fairness.
+
+Cross-scale inference: High Need for Cognition and high Self-concept clarity align with strong cognitive performance (36/42 correct) and thoughtful decision-making in economic games. Low Self-monitoring aligns with reported authentic self-presentation and consistent values. Moderate Need for Closure aligns with preference for order but tolerance for some ambiguity.
+
+No major contradictions detected.
+
+w_social estimate: 0.65 -- The respondent shows moderate to high social orientation, evidenced by high altruism, compassion, and cooperation values; fair and reciprocal behavior in economic games; and empathy in emotional contagion items. However, low extraversion and low self-monitoring suggest a more reserved, less socially assertive style. The moderate Need for Closure and high Self-concept clarity support consistent social values and behavior. Together, these scales indicate a socially engaged but introverted individual with a strong ethical orientation toward others.

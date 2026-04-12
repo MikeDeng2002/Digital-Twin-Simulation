@@ -1,0 +1,21 @@
+Need for Closure: Moderate-high. Prefers order, dislikes ambiguity, but patient enough to avoid rash conclusions. Will seek resolution but not impulsively.
+
+Need for Cognition: Very high. Invests significant analytical effort, enjoys complex problems, and deliberates deeply.
+
+Maximizer: Low-moderate. Seeks good solutions, not necessarily the absolute best. Satisficer with high standards but not perfectionist.
+
+Self-monitoring: Low. Does not adjust behavior much for social impression, authentic and consistent.
+
+Self-concept clarity: Very high. Stable self-view, resists social pressure, consistent identity.
+
+Economic game gap: Proposes fair splits and expects fairness in return. Behavior matches strategic fairness, indicating social norm adherence and reciprocity.
+
+Intertemporal patience: Moderate. Prefers delayed rewards but shows some present bias, consistent with middle-aged adult.
+
+Cognitive errors: Some semantic confusion in vocabulary tests (e.g., synonym/antonym errors), and refusal to guess on spatial rotation tasks, indicating cautiousness or lower spatial reasoning confidence. Logical reasoning mostly intact. This implies numeric predictions will be careful, conservative, and based on clear logical structures rather than intuition or guesswork.
+
+Social desirability: Moderate. Self-reports appear honest and consistent, with some admission of faults, so self-report data is reliable.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate is driven by the high Agreeableness, strong fairness orientation in economic games, and high empathy, indicating a strong social orientation in reasoning and decision-making. The low self-monitoring and high self-concept clarity suggest this social orientation is authentic rather than performative. The moderate Need for Closure combined with very high Need for Cognition indicates this person seeks well-founded, socially informed conclusions but is patient and analytical rather than impulsive. Some cognitive limitations in vocabulary and spatial tasks suggest a preference for clear, logical, and well-structured information over ambiguous or highly novel inputs. The demographic and values profile supports a worldview emphasizing social harmony, fairness, and ethical behavior, likely influencing numeric predictions to be conservative, socially aware, and grounded in conventional wisdom rather than speculative extremes. Conflicts between high Need for Cognition and low Maximizer are resolved by assuming deep but satisficing research behavior, focusing on trusted, moderate-depth sources. Overall, this person’s numeric predictions on open questions like Bitcoin price or AGI arrival will be moderate, cautious, socially contextualized, and logically reasoned rather than speculative or trend-driven.

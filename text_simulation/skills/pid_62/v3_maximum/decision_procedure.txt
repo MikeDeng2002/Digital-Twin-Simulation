@@ -1,0 +1,29 @@
+Need for Closure: Moderate. Dislikes uncertainty but tolerates some ambiguity; desires quick resolution once decision is made (items 7-9 in Need for Closure scale high). This suggests a balance between patience for analysis and impatience for final answers.
+
+Need for Cognition: Very high. Invests substantial analytical effort, enjoys complex problems, and intellectual challenge. Likely to engage in thorough information gathering and reflection.
+
+Maximizer: Moderate. Seeks good solutions and checks alternatives but does not compulsively maximize. Will satisfice once a sufficiently good answer is found.
+
+Self-monitoring: Very high. Highly aware of social cues and others' perceptions, able to adjust behavior accordingly, but maintains own views without excessive conformity.
+
+Self-concept clarity: Moderate. Some internal conflict and fluctuation, but overall stable self-view with reflective tendencies. May experience occasional doubt but generally confident in identity.
+
+Economic game gap: Proposes moderately generous offers but accepts all offers, indicating a pragmatic approach balancing fairness and self-interest. Trust game behavior shows balanced reciprocity, not purely altruistic or selfish.
+
+Intertemporal patience: Moderate to high. Prefers delayed rewards when sufficiently better, indicating future-oriented decision-making.
+
+Cognitive errors: Logical reasoning mostly strong except for a key error in conditional logic (Wason task), indicating occasional difficulty with contrapositives and abstract logical forms. Spatial reasoning moderate with some errors. Verbal reasoning strong. This implies numeric predictions may be generally sound but could be biased by occasional logical misinterpretations.
+
+Social desirability: High self-monitoring but low faking; self-reports likely reliable with some social awareness bias.
+
+w_social estimate: 0.75  
+Reasoning: The estimate is driven by very high empathy, social awareness, and self-monitoring scores, indicating strong social cognition and sensitivity to others' perspectives. The individual is reflective about social norms and fairness, as seen in economic games and consumer uniqueness attitudes. However, moderate self-concept clarity and occasional cognitive errors suggest some internal conflict and imperfect reasoning, tempering the social weighting slightly. The high depression and anxiety symptoms may also influence social cognition, possibly increasing social sensitivity but also introducing some affective bias. Overall, the profile suggests a person who heavily weighs social information and norms in forming judgments and predictions, but balances this with strong analytical effort and moderate need for closure, leading to nuanced, socially informed numeric predictions.
+
+# Summary for simulation of numeric predictions (e.g., Bitcoin price, AGI arrival):  
+- Likely to integrate diverse, balanced information sources with moderate skepticism of extremes.  
+- Will engage in deep analytical reasoning but may occasionally misapply formal logic, especially in abstract conditional reasoning.  
+- Social context and fairness considerations will influence predictions, possibly leading to moderate optimism tempered by social responsibility values.  
+- Prefers moderate patience in decision-making, avoiding rash conclusions but also not over-delaying.  
+- Likely to avoid sensationalist or overly optimistic/pessimistic extremes, favoring moderate, well-justified numeric estimates.
+
+# End of profile.

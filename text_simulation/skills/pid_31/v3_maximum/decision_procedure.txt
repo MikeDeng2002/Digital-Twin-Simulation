@@ -1,0 +1,24 @@
+Need for Closure: Very high. This person desires quick, definite answers, dislikes ambiguity, and prefers structured, predictable information. They will likely form rapid judgments and resist prolonged uncertainty.
+
+Need for Cognition: Very low. They invest minimal analytical effort, avoid complex reasoning, and prefer simple, straightforward explanations.
+
+Maximizer: Low. They satisfice, seeking “good enough” answers rather than the best or most accurate.
+
+Self-monitoring: Moderate-low. They notice social cues and others’ emotions but do not strongly adjust behavior for impression management. They are somewhat authentic but aware of social context.
+
+Self-concept clarity: Moderate. They have a reasonably stable self-view, which supports resistance to social pressure but also some self-doubt and emotional vulnerability.
+
+Economic game gap: Dictator and ultimatum offers are consistent with moderate fairness and self-interest. Trust game behavior shows expectation of reciprocity but with pragmatic self-interest. No major discrepancy between stated and strategic behavior.
+
+Intertemporal patience: Low patience, strong preference for immediate rewards, indicating short-term focus in decision-making.
+
+Cognitive errors: Logical reasoning errors include affirming the consequent and some confusion about logical necessity, indicating a tendency toward heuristic or intuitive reasoning rather than formal logic. This implies numeric predictions may be biased by heuristics and simplified mental models.
+
+Social desirability: Moderate. Self-reports include admissions of negative traits, suggesting reasonable honesty but some social desirability influence.
+
+w_social estimate: 0.55  
+Reasoning: The estimate balances moderate social desirability with honest admissions, high empathy, and moderate self-monitoring. The person is socially aware but not overly concerned with impression management, leading to moderately reliable self-reports.
+
+Summary: This individual is a moderately educated, middle-income, liberal female in her 30s-40s with a strong preference for cognitive ease and quick closure. She is emotionally sensitive and socially attuned but avoids deep analytical thinking and complex problem solving. She prefers clear, simple, and structured information, likely relying on mainstream liberal media and social networks for information. She is a satisficer who values fairness and equality but is pragmatically self-interested in economic decisions. Her reasoning style is heuristic and intuitive, prone to some logical errors, and she discounts future rewards heavily. Predictions from her numeric estimates will reflect a desire for certainty, reliance on social consensus, and a bias toward simpler, more immediate outcomes rather than complex or long-term projections.
+
+# End of profile.

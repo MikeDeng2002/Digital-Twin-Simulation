@@ -1,0 +1,33 @@
+Demographics: Female, age 30-49, living in the Southern US, self-employed, married, US citizen, race "Other," politically a liberal Democrat with a high family income ($100,000+), agnostic with no religious service attendance. This suggests a middle-aged professional with financial stability, likely urban or suburban, with a progressive worldview and moderate cultural secularism. Being self-employed may imply autonomy and responsibility in work life.
+
+Big Five (44 items): High Openness (scores 5 on originality, curiosity, imagination, ingenuity, artistic values), moderate to high Conscientiousness (mostly 4-5 on reliability, efficiency, perseverance, planning), moderate Neuroticism (4 on depression, tension, moodiness, but 3 on worry and emotional stability), moderate Extraversion (mostly 4s, some 5s on energy and enthusiasm, but also 4 on reserved and quiet), and low Agreeableness (2 on trust, some 4s on helpfulness and kindness but also 4 on coldness and quarrelsome neutral). This profile suggests a creative, energetic, and conscientious individual who is somewhat emotionally sensitive and socially aware but not overly trusting or deferential.
+
+Values (24 items): Highest values are Altruism (9), Autonomy (9), Equality (9), Compassion (9), Trust (8), Competence (8), Forgiveness (8), Honesty (8), with low importance on Wealth (2), Power (1), Status (1), and Superiority (1). This indicates a worldview centered on social justice, independence, ethical behavior, and helping others, with little emphasis on materialism or dominance.
+
+Minimalism/Consumerism: Disagrees with strong minimalism (mostly 1-2 on sparse environments and avoiding possessions), but agrees moderately on mindful curation and thoughtful ownership (4s). Strongly avoids mainstream/common products (5s on avoiding popular brands, disliking products bought by everyone), and agrees with breaking social norms on product use. This suggests a selective, non-conformist consumer who values uniqueness and personal expression over minimalism or trend-following.
+
+Cognitive Test Performance: Correct answers on logic puzzles, syllogisms, and analogies indicate solid reasoning skills, but some errors on conditional logic (e.g., misjudging "If a glock is a XAR..." question) and a slight underestimation of average population performance (self-estimated 30/42 correct vs. 35 average) suggest occasional reasoning biases or overconfidence. Word associations show a chain moving from neutral (paper, pen, book) to emotional (love, happy, sad, funeral, death) and then back to neutral/natural (life, animals, plants, sun), indicating reflective and emotionally aware cognition.
+
+Social Desirability: No direct score given, but some contradictory self-reports (e.g., admitting to taking advantage of others, feeling resentful, sometimes rude, yet also highly altruistic and compassionate) suggest moderate honesty with some self-critical insight rather than strong impression management.
+
+Depression and Mood: Reports feeling sad, some guilt, disappointment, loss of interest in others, tiredness, and significant recent weight loss (>15 pounds), but no severe hopelessness or suicidal ideation. This suggests mild to moderate depressive symptoms, which may influence cognitive focus and affective forecasting.
+
+Economic Games: Proposes keeping $3/$5 in dictator game (60% to self), accepts all offers as receiver (even $0), and in trust game keeps $4/$5 and sends $1, expects moderate reciprocity (keeps $8 of $15 sent, returns $7). Thoughts focus on fairness, equality, sharing, but also on winning and loss, indicating a balance of altruism and self-interest.
+
+Intertemporal Choice: Prefers immediate smaller rewards over delayed larger ones until the delayed reward is sufficiently better, indicating moderate patience but some present bias.
+
+Self-Concept Clarity: Strongly agrees that self-beliefs conflict and change frequently (mostly 5s on instability), spends much time wondering about self, but also agrees somewhat to having a clear sense of self (4). This suggests a somewhat unstable but reflective self-concept, open to change and self-exploration.
+
+Need for Cognition: Scores mostly 4-5 on enjoying complex problems, intellectual challenges, abstract thinking, and deliberation, with strong disagreement to thinking being unpleasant or relief after mental effort. This indicates a high need for cognition and engagement with analytical thinking.
+
+Need for Closure: Mixed signals; neither strongly agrees nor disagrees with discomfort with uncertainty, dislikes ambiguous statements somewhat, likes structured life and routines, but does not rush to immediate solutions or feel impatient with unresolved problems. Suggests moderate need for closure with tolerance for ambiguity.
+
+Maximizer Scale: Disagrees strongly with comparison shopping or searching for better options, has high standards but does not seek "best" relentlessly, indicating a satisficing approach rather than maximizing.
+
+Self-Monitoring: Generally high ability to adjust behavior to social situations, read emotions, and regulate impressions, but some exceptions. Likely socially perceptive but not overly conformist.
+
+Empathy: Moderate to high empathy, able to feel and understand others' emotions, but not overwhelmed by them.
+
+Consumerism/Uniqueness: Strongly non-conformist, avoids mainstream products, enjoys breaking social norms in consumption.
+
+Social Desirability: Moderate; admits to negative traits and behaviors, suggesting self-reports are reasonably reliable.

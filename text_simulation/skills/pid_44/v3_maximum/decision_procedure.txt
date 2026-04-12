@@ -1,0 +1,24 @@
+Need for Closure: Moderate-low. The participant prefers order and routine but is not impatient for quick answers, tolerates some uncertainty, and dislikes unpredictable situations somewhat. This suggests a balanced approach to closure, willing to deliberate but prefers eventual resolution.
+
+Need for Cognition: Very high. The participant enjoys complex problems, abstract thinking, and deep deliberation, indicating strong analytical effort invested in forming views and predictions.
+
+Maximizer: Internally high standards, does not settle for second best, but externally does not comparison shop extensively. This suggests a maximizer who seeks the best internally but is pragmatic about external information search.
+
+Self-monitoring: Moderate. The participant can adjust behavior to social situations and reads others' emotions well but does not strongly conform or defer to social pressure.
+
+Self-concept clarity: High. Stable and clear self-view, little internal conflict, able to resist social pressure.
+
+Economic game gap: Dictator game offer ($3 keep/$2 give) is somewhat selfish but fair; ultimatum game acceptance of all offers shows tolerance. Trust game sending all money but keeping about half when receiving shows conditional cooperation and strategic reciprocity. Behavior matches strategic fairness with some self-interest.
+
+Intertemporal patience: High. Prefers delayed larger rewards consistently, indicating long-term thinking in decision-making.
+
+Cognitive errors: Some semantic confusion in vocabulary tests (synonyms and antonyms), but strong logical reasoning and spatial puzzle performance. This implies that numeric prediction tasks may be approached with solid logical frameworks but occasional imprecision in language-based or probabilistic reasoning.
+
+Social desirability: Moderate-low. The participant openly reports negative emotions and insecurities, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.75
+
+Reasoning: The estimate is driven by the participant’s high empathy, social sensitivity, and moderate self-monitoring, indicating that social context and others’ opinions influence their reasoning to a significant degree. However, high self-concept clarity and moderate-low social desirability suggest they maintain an independent and stable self-view, reducing social bias in responses. The participant’s strategic behavior in economic games and deep cognitive engagement further support a balanced social influence: they consider social factors but do not blindly conform. Conflicts between high empathy and low social conformity are resolved by weighting self-concept clarity and strategic reciprocity higher, leading to a moderately high but not maximal social influence estimate.
+
+# Summary for simulation of numeric predictions:
+This person will engage deeply with numeric prediction tasks, seeking logical consistency and thorough analysis, but may occasionally misinterpret semantic nuances or probabilistic subtleties. They will integrate social information thoughtfully but maintain independent judgment. Their predictions will reflect cautious optimism, long-term orientation, and a preference for balanced, fair outcomes rather than extreme or speculative positions. They will avoid hype-driven or partisan sources and rely on trusted, neutral, and evidence-based information.

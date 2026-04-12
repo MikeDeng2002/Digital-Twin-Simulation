@@ -1,0 +1,29 @@
+Education + Income: Some college, no degree, low income (<$30k), student status. Likely access to internet, academic resources, but limited financial resources. Moderate familiarity with academic and popular information sources.
+
+Need for Cognition (moderate-high): Engages in thinking when necessary, enjoys problem-solving to some extent, but not abstract puzzles for fun. Likely to do moderate-depth research, focusing on practical and relevant information.
+
+Political Identity: Independent, moderate views, likely to prefer neutral or balanced sources over partisan ones. Avoids extreme ideological sources.
+
+Empathy (moderate cognitive, low emotional contagion): Relies somewhat on social networks for information but not strongly influenced by emotional contagion. Likely to value reasoned social input over emotional appeals.
+
+Maximizer (moderate): Some comparison shopping for information, but also satisficing when "good enough" is found. Likely to check multiple sources but not exhaustively.
+
+Consumerism/Uniqueness: Moderate originality preference but not trend follower or rebel. Likely to prefer mainstream but with some unique touches.
+
+Minimalism: Some preference for simplicity and sparseness but not strongly minimalist. Likely to curate information moderately, avoiding overload but not rigorously.
+
+Likely Information Platforms and Sources:  
+- Moderate-depth research on topics like Bitcoin price or AGI arrival.  
+- Uses mainstream news (e.g., NPR, BBC), educational websites (e.g., Khan Academy, Wikipedia), and moderate-depth blogs or forums (e.g., Reddit, Medium).  
+- Avoids highly partisan or fringe sources.  
+- Likely to use social media moderately, selectively.  
+- Avoids heavy technical papers unless summarized accessibly.  
+- Confidence: High for moderate-depth, balanced sources; low for partisan or highly technical sources.
+
+Sources NOT used: Highly partisan political sites, extreme ideological blogs, highly technical academic papers without summaries, heavy social media influencers.
+
+Confidence Levels:  
+- Education and income imply moderate access and motivation for research (confidence 0.8).  
+- Need for Cognition and Maximizer moderate, so research depth moderate (0.7).  
+- Political independence and moderate empathy suggest balanced source preference (0.9).  
+- Consumerism and minimalism moderate, so moderate curation of information (0.7).

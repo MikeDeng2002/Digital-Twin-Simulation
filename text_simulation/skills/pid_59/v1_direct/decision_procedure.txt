@@ -1,0 +1,23 @@
+- Need for Closure:
+  - Neither agree nor disagree about disliking uncertain situations (Q1=3)
+  - Disagree strongly that they dislike ambiguous questions (Q2=1)
+  - Agree strongly that they want to know what to expect in situations (Q6=5)
+  - Agree strongly that they feel relieved when making decisions (Q7=5)
+  - Agree strongly that they want to reach solutions quickly (Q8=5)
+  - Disagree strongly that they become impatient if no immediate solution (Q9=1)
+  - Agree a little that they dislike unpredictable people (Q10=4)
+  - Agree a little that they enjoy clear, structured life and routine (Q12=4, Q13=4)
+- Need for Cognition:
+  - Generally positive about thinking, problem solving, intellectual challenges (Q1=4, Q2=4, Q6=4, Q10=5, Q11=5)
+  - Disagree with avoiding thinking or preferring simple tasks (Q3=2, Q4=2, Q5=1, Q9=1)
+  - Somewhat moderate on abstract thinking and deliberation (Q14=3, Q18=3)
+- Maximizer:
+  - Agrees with having high standards, looking for better opportunities, not settling for second best (Q2=5, Q5=5, Q6=4)
+  - Sometimes checks for better options (Q1=4)
+- Self-monitoring:
+  - High ability to adjust behavior to social situations and impressions (Q1=6, Q2=5, Q3=5, Q5=5, Q7=5)
+  - Good at reading others’ emotions and detecting lies (Q9=5, Q11=6, Q12=6, Q13=5)
+- Self-concept clarity:
+  - Somewhat clear sense of self but acknowledges some internal conflict and variability (Q1=4, Q2=4, Q3=5, Q6=4, Q7=4, Q9=4, Q11=5)
+  - Disagrees strongly with feeling unsure or hiding true self (Q5=1, Q10=1, Q12=2)
+- w_social estimate: 0.7 -- This person shows moderate to high need for closure (Q6=5, Q7=5, Q8=5), moderate to high need for cognition (Q10=5, Q11=5), high self-monitoring (Q1=6, Q11=6), and fairly clear self-concept (Q11=5), indicating a balanced but socially aware and cognitively engaged decision-making style

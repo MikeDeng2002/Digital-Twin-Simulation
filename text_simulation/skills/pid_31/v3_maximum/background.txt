@@ -1,0 +1,31 @@
+Demographics: Female, age 30-49, White, US citizen living in the Northeast, never married, atheist, politically liberal Democrat with family income $50k-$75k, self-employed, household size 2. This suggests a middle-class, educated urban or suburban lifestyle with exposure to diverse, progressive social environments and moderate economic resources. Being self-employed may imply autonomy and responsibility for decision-making.
+
+Big Five (44 items): Low Extraversion (talkative 2, reserved 4, quiet 4, outgoing 2), low Conscientiousness (does a thorough job 2, reliable 2, perseveres 2, organized 4 but disorganized 4, careless 4, inefficient 5), moderate Neuroticism (depressed 4, worries 4, nervous 4, emotionally unstable 2), low Openness to Experience (original 3, ingenious 2, inventive 2, active imagination 4, artistic interests 1 disagree strongly, sophisticated 4), moderate Agreeableness (helpful 3, forgiving 4, considerate 3, kind 3, trusting 4). Overall, this profile suggests a somewhat introverted, emotionally vulnerable, less conscientious individual with moderate openness and agreeableness.
+
+Need for Cognition (18 items): Very low. Strong disagreement with preference for complex problems, intellectual tasks, and thinking hard (mostly 1 or 2), strong agreement with preferring little thought, avoiding deep thinking, and feeling relief after mental effort (5). This indicates a strong preference for cognitive ease and avoidance of effortful thinking.
+
+Need for Closure (15 items): Very high. Strong agreement with disliking uncertainty, unpredictability, ambiguity, and desire for quick decisions and order (mostly 5s). This person prefers clear, structured, and predictable environments and decisions.
+
+Maximizer scale (6 items): Low. Disagrees with never settling for second best or having highest standards, some ambivalence about looking for better opportunities. Suggests satisficing rather than maximizing behavior.
+
+Self-monitoring (13 items): Moderate-low. Some ability to alter behavior and read others’ emotions (mostly 3-4), but also some difficulty changing behavior and putting up fronts (3-5). Generally somewhat aware of social cues but not highly strategic or adaptive.
+
+Self-concept clarity (12 items): Moderate. Mostly disagrees with unstable or conflicting self-beliefs, agrees somewhat with clear sense of self (4), but some ambivalence about knowing self fully. Suggests a reasonably stable but not rigid self-view.
+
+Values (24 items): Highest values are Equality (8), Pleasure (7), Trust (7), Harmony (7), Excitement (7), Honesty (7), Compassion (7), Civility (7), Forgiveness (6), Loyalty (6), Autonomy (6), Politeness (6). Lowest values include Power (1), Ambition (2), Influence (2), Status (2), Superiority (2). This reveals a worldview valuing social justice, kindness, fairness, and personal freedom, with low emphasis on dominance or competition.
+
+Minimalism/Consumerism (12 items): Mixed but leaning away from minimalism. Disagrees with restricting possessions or careful curation, agrees somewhat with “less is more” and preference for simplicity in design and sparse environments, but strongly disagrees with keeping home very sparse. Suggests moderate appreciation for simplicity but not strict minimalism or strong consumerism.
+
+Empathy (20 items): High. Strong agreement with feeling others’ emotions, understanding friends’ feelings, getting caught up in others’ feelings, and recognizing emotions quickly. Disagrees strongly with emotional detachment. This person is emotionally sensitive and socially attuned.
+
+Social desirability scale: Moderate. Some contradictory self-reports (e.g., admits to taking advantage of others, not always courteous, sometimes rude), suggesting moderate honesty and some social desirability bias but not extreme.
+
+Cognitive test performance: Self-estimated 19/42 correct (below average), believes average is 20/42. Actual test answers show some logical errors (e.g., incorrectly judging some syllogisms), but good performance on simple logic and word associations. Errors include affirming the consequent fallacy and some confusion on logical necessity. Word association chain is coherent and semantically connected, indicating intact associative and semantic networks.
+
+Economic games (dictator and ultimatum): Proposes to keep $3 and give $2 in dictator game, accepts offers down to $2 for self in ultimatum game but rejects $1 or $0 offers. In trust game, sends $2 (out of $5), expects receiver to return about half of tripled amount. Thoughts emphasize fairness, justice, equality, and morality. This indicates moderate fairness preference with pragmatic self-interest.
+
+Intertemporal choice: Strong preference for immediate smaller rewards over delayed larger rewards, consistently choosing smaller-sooner options until amounts equalize or surpass delayed reward. Indicates high temporal discounting, low patience.
+
+Consumerism/uniqueness scales: Disagrees with statements about seeking uniqueness or breaking social norms in consumption. Likely follows mainstream or conventional consumption patterns, low desire for distinctiveness via products.
+
+Social desirability and self-report reliability: Moderate social desirability, some admissions of negative traits and behaviors, suggesting reasonable but not perfect self-report accuracy.

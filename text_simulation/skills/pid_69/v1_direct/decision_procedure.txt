@@ -1,0 +1,32 @@
+- Need for Closure:
+  - Dislikes uncertainty: Agree a little (Item 1:4)
+  - Likes well-ordered life: Agree strongly (3:5)
+  - Feels uncomfortable not understanding reasons: Agree a little (4:4)
+  - Impatient to find solutions immediately: Agree strongly (9:5)
+  - Dislikes ambiguous statements: Neither agree nor disagree (11:3)
+- Need for Cognition:
+  - Likes responsibility requiring thinking: Strongly agree (2:5)
+  - Enjoys coming up with new solutions: Strongly agree (11:5)
+  - Prefers complex problems: Agree a little (1:4)
+  - Sometimes tries to avoid deep thinking: Disagree a little (5:2)
+  - Thinks only as hard as necessary: Agree a little (7:4)
+- Maximizer:
+  - Sometimes checks other options even when satisfied: Agree a little (1:4)
+  - Disagrees somewhat with always looking for better opportunities (2:2)
+  - Sometimes finds it difficult to shop for gifts (3:3)
+  - Sometimes has hard time finding clothing they love (4:4)
+  - Does not have highest standards for self (5:2)
+  - Neither agrees nor disagrees with never settling for second best (6:3)
+- Self-monitoring:
+  - Generally true can alter behavior in social situations (1:5)
+  - Some difficulty changing behavior to suit different people/situations (4:5)
+  - Generally true can control impression given (2:4)
+  - Some difficulty putting up a good front (6:5)
+  - Generally true can read others' emotions and detect lies (13:5)
+- Self-concept clarity:
+  - Beliefs about self sometimes conflict (1:4)
+  - Sometimes feels not really the person they appear to be (4:5)
+  - Beliefs about self change frequently (8:4)
+  - Finds it hard to make up mind because unsure what wants (12:5)
+  - Has a somewhat unclear and fluctuating self-concept
+- w_social estimate: 0.5 -- The person shows moderate self-monitoring (items 1:5, 4:5, 6:5), some empathy but also some emotional detachment, and a mixed need for closure and cognition, indicating balanced but cautious social reasoning and moderate social awareness.

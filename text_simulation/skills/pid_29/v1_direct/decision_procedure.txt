@@ -1,0 +1,7 @@
+- Need for Closure: Strong preference for order, dislike of uncertainty, discomfort with ambiguous situations (e.g., Q1: "I don’t like situations that are uncertain" = 5 - Agree strongly; Q6: "I don’t like to go into a situation without knowing what I can expect" = 5 - Agree strongly; Q15: "I dislike unpredictable situations" = 5 - Agree strongly)
+- Need for Cognition: Moderate liking for thinking and problem-solving (e.g., Q1: "I would prefer complex to simple problems" = 4 - Agree a little; Q6: "I find satisfaction in deliberating hard" = 4 - Agree a little)
+- Maximizer: Low maximizing tendencies (disagrees strongly with maximizing behaviors), but holds somewhat high standards for self (Q5: 4 - Agree a little; Q6: 4 - Agree a little)
+- Self-monitoring: Moderate ability to adjust behavior and read others' emotions (mostly 4 - Somewhat true with exceptions)
+- Self-concept clarity: Very clear and stable self-concept (Q11: 5 - Agree strongly; multiple items disagree strongly with self-concept confusion)
+
+w_social estimate: 0.7 -- This person shows strong concern for fairness and cooperation in economic games, high agreeableness and altruism, moderate self-monitoring, and a clear self-concept, combined with a strong need for closure and moderate need for cognition, indicating a social reasoning style that values predictability and fairness in social interactions.

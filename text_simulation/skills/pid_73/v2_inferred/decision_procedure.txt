@@ -1,0 +1,17 @@
+Need for Closure: Moderate (mostly 4s on items about liking order, disliking uncertainty, impatience with unresolved problems). This suggests a preference for structure and decisiveness but not extreme rigidity.
+
+Need for Cognition: Moderate to high (mostly 4s and 5s on items about enjoying thinking, intellectual challenge, and abstract thought). Indicates engagement with complex problems and enjoyment of cognitive effort.
+
+Maximizer: Low to moderate (disagrees with "never settle for second best" and "highest standards for myself" items). Suggests satisficing rather than maximizing tendencies.
+
+Self-monitoring: High (items 1-3, 5, 7, 8 in self-monitoring scale mostly 5s, indicating ability to adjust behavior and read social cues well).
+
+Self-concept clarity: Moderate (mostly disagree with conflicting self-beliefs, but only "agree a little" to having a clear sense of self). Suggests some stability in self-view but not absolute clarity.
+
+Economic game behavior: In ultimatum game, proposes to keep $4 and send $1, indicating moderate selfishness or risk aversion. As receiver, accepts all offers except $0, showing fairness. In trust game, keeps all money, indicating low trust in others. In dictator game, keeps all money, indicating self-interest.
+
+Cross-scale inference: Need for Cognition and Self-monitoring both indicate cognitive engagement and social awareness, but economic games show cautious or self-protective social behavior. Need for Closure aligns with preference for order and decisiveness, consistent with moderate conscientiousness.
+
+No contradictions noted; scales align to depict a reserved, thoughtful, moderately conscientious individual with moderate social caution.
+
+w_social estimate: 0.35 -- The respondent shows moderate social awareness and self-monitoring (Self-monitoring scale items mostly 5s), indicating social skill and adaptability. However, economic game behavior (keeping most or all money in trust and dictator games) and low extraversion suggest limited social trust and engagement. Need for Closure and Need for Cognition indicate preference for order and thoughtful decision-making rather than impulsive social interaction. Together, these scales suggest moderate but cautious social engagement, leading to a social interaction estimate of about 0.35.

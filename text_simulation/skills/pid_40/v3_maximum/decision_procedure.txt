@@ -1,0 +1,20 @@
+Need for Closure: Moderate; wants reasonably quick resolution but tolerates some ambiguity. Agrees a little with dislike of uncertainty and prefers order.
+
+Need for Cognition: Moderate; willing to engage in thinking but not deeply or for long hours. Enjoys problem-solving and new solutions but not obsessed.
+
+Maximizer: Low; satisficer who accepts good enough, does not seek perfect answers or exhaustive comparison.
+
+Self-monitoring: Moderate; notices others’ reactions and emotions, can adjust behavior somewhat, but not highly flexible or image-conscious.
+
+Self-concept Clarity: High; stable and consistent self-view, resists social pressure, clear about own identity.
+
+Economic Game Gap: Keeps more in dictator and trust games than gives back; accepts all ultimatum offers, indicating self-interest with pragmatic acceptance of others’ decisions. Behavior matches stated distrust and self-protectiveness.
+
+Intertemporal Patience: Patient; prefers larger delayed rewards, indicating future orientation in decision-making.
+
+Cognitive Errors: Some errors in abstract reasoning and vocabulary (e.g., synonym/antonym mistakes), but overall high cognitive ability and good pattern recognition. Errors suggest occasional surface-level processing or overconfidence in some semantic areas.
+
+Social Desirability: Moderate honesty; admits to negative traits and self-criticism, suggesting self-reports are reasonably reliable.
+
+w_social estimate: 0.45  
+Reasoning: The estimate balances moderate empathy and social awareness with a strong distrust of others in economic games and a conservative, self-protective worldview. The person is socially aware and notices others’ emotions but prioritizes self-interest and control. Self-concept clarity and moderate self-monitoring suggest they are not easily swayed by social desirability or peer pressure, lending credibility to their self-reports. Cognitive ability supports reasonable analytical reasoning but occasional semantic errors indicate some limits in abstract verbal reasoning. Their moderate need for cognition and closure imply they seek clear, actionable information but do not engage in deep or exhaustive research, consistent with their satisficing maximizer profile. Their consumerism and minimalism attitudes suggest they are conventional and accumulate possessions, likely reflecting a preference for mainstream information sources rather than niche or minimalist ones. Overall, this profile predicts numeric predictions that are moderately analytical, somewhat conservative, self-protective, and influenced by social and emotional considerations but not deeply research-driven or maximally optimized.

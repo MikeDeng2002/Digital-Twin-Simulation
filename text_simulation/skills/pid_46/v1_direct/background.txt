@@ -1,0 +1,92 @@
+- Lives in the South region of the United States (Question: "Which part of the United States do you currently live in?" Answer: 3 - South)
+- Assigned male at birth (Question: "What is the sex that you were assigned at birth?" Answer: 1 - Male)
+- Age group 30-49 (Question: "How old are you?" Answer: 2 - 30-49)
+- Highest education level: College graduate/some postgraduate (Question: "What is the highest level of schooling or degree that you have completed?" Answer: 5 - College graduate/some postgrad)
+- Race/origin: Asian (Question: "What is your race or origin?" Answer: 3 - Asian)
+- U.S. citizen (Question: "Are you a citizen of the United States?" Answer: 1 - Yes)
+- Marital status: Married (Question: "Which of these best describes you?" Answer: 1 - Married)
+- Religion: Protestant (Question: "What is your present religion, if any?" Answer: 1 - Protestant)
+- Frequency of religious service attendance: A few times a year (Question: "Aside from weddings and funerals, how often do you attend religious services?" Answer: 4 - A few times a year)
+- Political affiliation: Independent (Question: "In politics today, do you consider yourself a" Answer: 3 - Independent)
+- Political views: Moderate (Question: "In general, would you describe your political views as" Answer: 3 - Moderate)
+- Total family income last year: $30,000-$50,000 (Question: "Last year, what was your total family income from all sources, before taxes?" Answer: 2 - $30,000-$50,000)
+- Household size: 2 people (Question: "Including yourself, how many people currently live in your household?" Answer: 2 - 2)
+- Employment status: Full-time employment (Question: "What is your current employment status?" Answer: 1 - Full-time employment)
+- Personality traits (Big Five, self-report):
+  - Disagree strongly with being talkative, original, full of energy, outgoing, inventive, assertive, enthusiastic, forgiving, moody, imaginative, considerate, cooperative, sophisticated in art/music/literature (multiple items, e.g., "Is talkative" Answer: 1 - Disagree strongly; "Is original" Answer: 1 - Disagree strongly; "Is outgoing" Answer: 1 - Disagree strongly)
+  - Agree strongly with being reserved, relaxed, emotionally stable, quiet, cold and aloof, calm in tense situations, tends to find fault with others, depressed/blue (e.g., "Is reserved" Answer: 5 - Agree strongly; "Is relaxed, handles stress well" Answer: 5 - Agree strongly; "Can be cold and aloof" Answer: 5 - Agree strongly; "Is depressed, blue" Answer: 5 - Agree strongly)
+  - Neither agree nor disagree on thoroughness, helpfulness, carelessness, curiosity, reliability, disorganization, laziness, perseverance, efficiency, routine preference, rudeness, planning, distraction, artistic interest (various items mostly 3 - Neither agree nor disagree)
+- Need for Cognition scale responses indicate low need for cognition:
+  - Strongly disagree with liking complex problems, responsibility requiring thinking, satisfaction in deliberating hard, enjoying intellectual tasks, liking puzzles, abstract thinking (e.g., "I would prefer complex to simple problems" Answer: 1 - Disagree strongly; "I like to have the responsibility of handling a situation that requires a lot of thinking" Answer: 1 - Disagree strongly)
+  - Strongly agree with "Thinking is not my idea of fun," "I would rather do something that requires little thought," "I only think as hard as I have to," "I prefer to think about small, daily projects," "I like tasks that require little thought," "Learning new ways to think doesn't excite me" (e.g., "Thinking is not my idea of fun" Answer: 5 - Agree strongly)
+  - Agree a little with feeling relief after mental effort and not caring how or why something works (e.g., "I feel relief rather than satisfaction after completing a task that requires a lot of mental effort" Answer: 4 - Agree a little)
+- Values (rated as guiding principles):
+  - Highly important: Autonomy (9), Equality (6), Pleasure (6), Wealth (5)
+  - Not important: Forgiveness, Influence, Competence, Humility, Achievement, Altruism, Ambition, Loyalty, Harmony, Honesty, Compassion, Status, Civility, Recognition, Tradition, Superiority (mostly 1)
+  - Power and Trust rated moderately (4)
+  - Politeness low (2), Excitement moderate (3)
+- Self-concept clarity:
+  - Strongly agree with having a clear sense of who they are and what they are (Item 11: 5 - Agree strongly)
+  - Strongly disagree with beliefs about self conflicting, changing frequently, or being unsure about self (multiple items 1 - Disagree strongly)
+- Self-monitoring:
+  - Somewhat true but with exceptions for ability to alter behavior and control impression (mostly 4)
+  - Strongly disagree with ability to read others' emotions or detect lies (mostly 1)
+- Maximizer scale:
+  - Strongly disagree with "never settle for second best," "highest standards for myself" (1)
+  - Strongly agree with being on lookout for better opportunities (5)
+  - Strongly agree with difficulty shopping for gifts and finding clothing they love (5)
+- Economic game behavior:
+  - Proposes to keep $2 and send $3 in the $5 split (Question: "Suppose you were given $5 and had to offer to another..." Answer: 3 - $2 for myself, $3 to the other person)
+  - Accepts offers down to $2 for self, $3 for other, rejects offers with $4 or more kept by other (accepts $3 for other, $2 for self; rejects $4 for other, $1 for self)
+  - In the trust game (tripling money), keeps all $5 and sends $0 (Answer: 6 - keep $5, send $0)
+  - As receiver, keeps all money and sends back $0 in all cases
+  - Thoughts during economic games indicate distrust and self-interest ("People are greedy," "I hate society so I will only look out for myself," "I don't care about anyone else")
+- Cognitive test performance:
+  - Estimated self-correct answers: 21/42
+  - Estimated average US adult correct answers: 25/42
+  - Correct answers on logical reasoning and syllogisms mostly accurate (e.g., "Does the conclusion follow logically?" mostly answered correctly)
+  - Correct answers on word synonym and antonym tests mostly accurate except some errors (e.g., "FURTIVE" synonym answered as "heinous" which is incorrect)
+- Financial literacy:
+  - Correctly identifies that 15-year mortgage has higher monthly payments but less total interest (True)
+  - Correctly identifies inflation effect on savings (less buying power)
+  - Correctly identifies stocks as highest fluctuation asset
+  - Incorrectly identifies savings account as highest return over long term (Answer: 1 - Savings account; correct answer should be stocks)
+  - Incorrectly answers that after age 70.5 you do not have to withdraw from 401(k) or IRA (False)
+  - Estimates credit card payoff time as 70 years (likely overestimate)
+  - Correct answers on probability and math problems (e.g., die rolls, lottery odds, bat and ball problem)
+- Personality and emotional state:
+  - Reports feeling sad, discouraged about future, hopeless, but does not feel like a failure or worthless
+  - Reports some loss of interest in others, increased irritability, more tired than usual
+  - No significant sleep or appetite problems
+  - Reports purposely trying to lose weight
+- Spending habits:
+  - Neither tightwad nor spendthrift (6)
+  - Rarely has trouble limiting spending
+  - Sometimes has trouble spending money
+  - More similar to a person who refrains from buying despite sales (Answer: 4)
+- Environmental attitudes:
+  - Strongly disagrees with environmental concern or responsibility (all items 1 - Disagree strongly)
+- Self-reported traits about work and creativity:
+  - Prefers to work without instructions (6 - True)
+  - Neutral on rules and obligations (4)
+  - Definitely untrue that solves problems creatively or likes new ways of doing things (1)
+  - Probably true tries to make work accurate and error-free (5)
+  - Not true or definitely untrue about liking trying different things or seeking recognition (1-2)
+- Self-concept clarity:
+  - Strongly agrees to clear and stable self-concept (5)
+  - Strongly disagrees with internal conflict or frequent change in self-beliefs (1)
+- Need for Closure:
+  - Strongly agrees with disliking uncertainty, unpredictability, ambiguous statements (mostly 5)
+  - Disagrees with feeling relieved after decisions (1)
+  - Agrees a little with impatience to solve problems (4)
+- Maximizer:
+  - Disagrees strongly with "never settle for second best" and "highest standards" (1)
+  - Agrees strongly with being on lookout for better opportunities and difficulty shopping (5)
+- Self-monitoring:
+  - Somewhat true but with exceptions for ability to alter behavior (4)
+  - Strongly disagrees with ability to read others' emotions or detect lies (1)
+- Self-concept clarity:
+  - Strongly agrees with clear sense of self (5)
+  - Strongly disagrees with conflicting or changing self-beliefs (1)
+- Economic games thoughts:
+  - "People are greedy," "I hate society so I will only look out for myself," "I don't care about anyone else," "I look out for myself only," "They will not send money back"

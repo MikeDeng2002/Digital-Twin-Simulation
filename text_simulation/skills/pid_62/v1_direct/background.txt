@@ -1,0 +1,212 @@
+- Lives in the Northeast United States (Question: Which part of the United States do you currently live in? Answer: Northeast)
+- Male (Question: What is the sex that you were assigned at birth? Answer: Male)
+- Age between 30-49 (Question: How old are you? Answer: 30-49)
+- Some college, no degree completed (Question: What is the highest level of schooling or degree that you have completed? Answer: Some college, no degree)
+- White race/origin (Question: What is your race or origin? Answer: White)
+- U.S. citizen (Question: Are you a citizen of the United States? Answer: Yes)
+- Married (Question: Which of these best describes you? Answer: Married)
+- Protestant religion (Question: What is your present religion, if any? Answer: Protestant)
+- Attends religious services once or twice a month (Question: Aside from weddings and funerals, how often do you attend religious services? Answer: Once or twice a month)
+- Politically Independent and moderate (Questions: In politics today, do you consider yourself a; In general, would you describe your political views as Answer: Independent, Moderate)
+- Family income $75,000-$100,000 (Question: Last year, what was your total family income from all sources, before taxes? Answer: $75,000-$100,000)
+- Household size of 4 (Question: Including yourself, how many people currently live in your household? Answer: 4)
+- Full-time employed (Question: What is your current employment status? Answer: Full-time employment)
+- Personality traits (Big Five, selected items):
+  - Somewhat talkative (4 - Agree a little)
+  - Does a thorough job (4)
+  - Depressed, blue (5 - Agree strongly)
+  - Original, comes up with new ideas (5)
+  - Helpful and unselfish (5)
+  - Somewhat careless (4)
+  - Not relaxed, handles stress poorly (2 - Disagree a little)
+  - Curious about many things (5)
+  - Full of energy (4)
+  - Reliable worker (5)
+  - Can be tense (4)
+  - Ingenious, deep thinker (5)
+  - Forgiving nature (5)
+  - Somewhat disorganized (2 - Disagree a little)
+  - Worries a lot (4)
+  - Active imagination (5)
+  - Quiet (5)
+  - Generally trusting (4)
+  - Emotionally stable (4)
+  - Inventive (4)
+  - Assertive personality (2 - Disagree a little)
+  - Can be cold and aloof (4)
+  - Perseveres until task is finished (5)
+  - Values artistic, aesthetic experiences (5)
+  - Sometimes shy, inhibited (5)
+  - Considerate and kind (5)
+  - Does things efficiently (4)
+  - Remains calm in tense situations (5)
+  - Prefers routine work (4)
+  - Outgoing, sociable (4)
+  - Makes plans and follows through (4)
+  - Gets nervous easily (4)
+  - Likes to reflect, play with ideas (5)
+  - Sophisticated in art, music, literature (5)
+- Need for Cognition scale (selected items):
+  - Prefers complex problems (5)
+  - Likes responsibility requiring thinking (5)
+  - Thinking is fun (disagrees strongly with "not fun") (1)
+  - Prefers intellectual challenge (5)
+  - Enjoys new solutions (5)
+  - Likes puzzles (5)
+  - Likes abstract thinking (5)
+  - Prefers intellectual, difficult tasks (5)
+  - Feels relief after mental effort (5)
+  - Does not think only as hard as necessary (disagrees strongly) (1)
+  - Usually deliberates about issues even if not personally affected (4)
+- Values (rated as highly important or quite important):
+  - Humility (9)
+  - Harmony (9)
+  - Compassion (9)
+  - Equality (9)
+  - Competence (8)
+  - Altruism (8)
+  - Excitement (8)
+  - Honesty (8)
+  - Autonomy (8)
+  - Forgiveness (7)
+  - Politeness (7)
+  - Trust (6)
+  - Ambition (6)
+  - Loyalty (5)
+  - Pleasure (5)
+  - Influence (4)
+  - Achievement (4)
+  - Recognition (4)
+  - Tradition (3)
+  - Wealth (2)
+  - Power (2)
+  - Status (1)
+  - Superiority (1)
+- Environmental concern:
+  - Strongly agrees that products should not harm environment (5)
+  - Considers environmental impact in decisions (4)
+  - Purchase habits affected by environmental concern (4)
+  - Concerned about wasting planet's resources (5)
+  - Describes self as environmentally responsible (5)
+  - Willing to be inconvenienced for environmentally friendly actions (5)
+- Empathy and social sensitivity:
+  - Strongly disagrees that friends' emotions don't affect him (1)
+  - Strongly agrees that he feels sad after being with sad friend (5)
+  - Strongly agrees understanding friends' happiness (5)
+  - Agrees somewhat frightened by scary movies (4)
+  - Strongly agrees easily caught up in others' feelings (5)
+  - Strongly disagrees that he finds it hard to know friends' fear (1)
+  - Strongly disagrees that others' feelings don't bother him (1)
+  - Strongly agrees understanding others' feelings before told (5)
+  - Strongly agrees can tell when friends are scared or cheerful (5)
+  - Strongly agrees often gets swept up in friends' feelings (5)
+  - Strongly disagrees that friend's unhappiness doesn't affect him (1)
+- Self-reported personality attributes:
+  - Sometimes hard to continue work without encouragement (True)
+  - Sometimes feels resentful when doesn't get way (True)
+  - Has given up on things due to low self-belief (True)
+  - Has felt like rebelling against authority even if they were right (True)
+  - Always a good listener (True)
+  - Never took advantage of someone (False)
+  - Always willing to admit mistakes (True)
+  - Never tries to get even (False)
+  - Always courteous even to disagreeable people (True)
+  - Has been irked by differing ideas (False)
+  - Has been jealous of others' good fortune (True)
+  - Sometimes irritated by people asking favors (True)
+  - Never deliberately hurt someone's feelings (True)
+- Self-concept clarity:
+  - Beliefs about self often conflict (4 - Agree a little)
+  - Opinions of self vary day to day (4)
+  - Spends a lot of time wondering who they really are (5)
+  - Sometimes feels not really the person they appear to be (5)
+  - Sometimes unsure about past self (4)
+  - Seldom experiences conflict between personality aspects (2 - Disagree a little)
+  - Sometimes thinks knows others better than self (5)
+  - Beliefs about self change frequently (4)
+  - Would not tell someone what really like (2 - Disagree a little)
+  - Generally has a clear sense of who they are (4)
+  - Often finds it hard to make up mind because unsure what they want (5)
+- Need for Closure:
+  - Dislikes uncertainty a little (2)
+  - Dislikes ambiguous questions a little (2)
+  - Prefers well-ordered life a little (2)
+  - Feels uncomfortable not understanding reasons for events (5)
+  - Irritated when one person disagrees with group (4)
+  - Dislikes going into situations without knowing what to expect (4)
+  - Feels relieved when decision made (5)
+  - Wants quick solutions (5)
+  - Becomes impatient if no immediate solution (5)
+  - Dislikes unpredictable people (1 - Disagree strongly)
+  - Dislikes ambiguous statements a little (4)
+  - Disagrees with consulting many opinions before forming view (1)
+  - Dislikes unpredictable situations a little (2)
+- Maximizer scale:
+  - Often checks other radio stations even if satisfied (5)
+  - Believes should look for better job opportunities (5)
+  - Sometimes finds it difficult to shop for gift (4)
+  - Does not have hard time finding clothing loved (1)
+  - Does not have highest standards for self (2)
+  - Does not never settle for second best (2)
+- Self-monitoring:
+  - Certainly able to alter behavior in social situations (6)
+  - Certainly able to control impression given (6)
+  - Can readily change image if not working (6)
+  - Does not have trouble changing behavior to suit situations (2)
+  - Can adjust behavior to meet any situation (6)
+  - Does not have difficulty putting up good front (2)
+  - Usually regulates actions once situation known (5)
+  - Good intuition for understanding others' emotions (6)
+  - Sensitive to facial expression changes (5)
+  - Can tell when joke is in bad taste (5)
+  - Can tell when said something inappropriate (5)
+  - Does not usually know immediately if someone is lying (2)
+- Financial literacy:
+  - Correctly understands mortgage payments and interest (True)
+  - Understands inflation reduces purchasing power (Answer: less than today)
+  - Knows stocks have highest fluctuations and returns over long term
+  - Understands possibility of losing money in stock mutual funds
+  - Knows diversification reduces risk
+  - Knows required minimum distributions after age 70.5
+  - Knows credit card debt with minimum payments may never be eliminated
+  - Correctly estimates probabilities and percentages in various questions
+  - Some errors in cognitive math (e.g., ball cost $1.05 instead of $0.05; lily pad half coverage day 24 instead of 47)
+- Cognitive test self-estimate:
+  - Believes answered 34/42 correctly
+  - Estimates average US adult would answer 18/42 correctly
+- Logical reasoning:
+  - Correctly answers all syllogistic and conditional logic questions as "Yes" or "No" as appropriate, except for one question about glock and XAR/YOF where answer is logically inconsistent (Answer: "that it is certain that the glock is not a YOF" when premise says all XAR are YOF)
+- Decision making in economic games:
+  - Proposes to keep $3 and send $2 in ultimatum game
+  - Accepts all offers as receiver, even $0 for self
+  - In trust game, keeps $3 and sends $2; as receiver, returns about half of amount received
+  - Thoughts during decisions emphasize fairness, generosity, reciprocity, and balance
+- Spending habits:
+  - Moderate spending (5 on 1-11 scale)
+  - Rarely has trouble limiting spending
+  - Often has trouble spending money (anxious about spending)
+  - More similar to Mr. B (hesitant spender) than Mr. A (impulsive spender)
+- Depression and mood:
+  - Reports feeling sad all the time, can't snap out of it
+  - Feels discouraged about future
+  - Feels failed more than average person
+  - Does not get real satisfaction from anything
+  - Feels guilty a good part of the time
+  - Feels may be punished
+  - Feels disappointed in self
+  - Does not feel worse than others
+  - Cries more than used to
+  - Gets irritated more easily
+  - Less interested in others than before
+  - Puts off making decisions more than before
+  - Does not consider self worthless but less worthwhile than before
+  - Needs extra effort to start work
+  - Sleeps worse than usual
+  - Gets tired more easily
+  - Appetite not as good as before
+  - Has not lost much weight
+  - Worried about physical problems
+  - Less interested in sex than before
+  - Not purposely trying to lose weight
+- Self-image and uniqueness:
+  - Agrees somewhat to strongly with statements about seeking uniqueness, originality, breaking social rules in product choices, avoiding common products, and liking to challenge prevailing tastes
