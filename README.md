@@ -32,19 +32,49 @@ The digital twin simulation system creates virtual representations of individual
 
 ```
 .
+├── skill_extraction/          # Skill persona extraction (NEW)
+│   ├── extract_skills.py             # v1 / v2 / v3 single-persona extraction
+│   ├── batch_extract_skills_v2.py    # Batch driver for the 3-version skill build
+│   ├── EXTRACTION_PROMPTS.md         # Prompt specs for v1 / v2 / v3
+│   └── create_skill_inputs.py        # Merge skills with questions → simulation_input
 ├── text_simulation/           # Main simulation code
-│   ├── configs/              # Configuration files
-│   ├── text_personas/        # Persona profile data
-│   ├── text_questions/       # Survey questions
-│   ├── text_simulation_input/ # Combined input files
-│   └── text_simulation_output/ # Simulation results
-├── evaluation/                # Evaluation folder  
+│   ├── configs/                      # Configuration files
+│   ├── text_personas/                # Persona profile data (raw transcript form)
+│   ├── text_questions/               # Survey questions (one txt per pid)
+│   ├── skills/                       # Extracted skills, per persona
+│   │   └── pid_{N}/{v1_direct, v2_inferred, v3_maximum}/
+│   │       ├── background.txt
+│   │       ├── tools.txt
+│   │       └── decision_procedure.txt
+│   ├── text_simulation_input*/       # Persona/skill + questions merged inputs
+│   └── text_simulation_output*/      # Raw + post-processed LLM responses
+├── evaluation/                # Accuracy, cognitive bias, product preference, bootstrap
 ├── notebooks/                 # Demo notebooks
-│   ├── demo_simple_simulation.ipynb    # Quick start: simulate responses to new questions
-│   └── demo_full_pipeline.ipynb        # Complete pipeline with evaluation (alternative to shell scripts)
-├── scripts/                  # Utility scripts
-├── data/                     # Raw data
-└── cache/                    # Cached data
+│   ├── demo_simple_simulation.ipynb  # Quick start: simulate responses to new questions
+│   └── demo_full_pipeline.ipynb      # Full pipeline (alternative to shell scripts)
+├── scripts/                   # Utility scripts
+├── data/                      # Raw data
+└── cache/                     # Cached data
+```
+
+## Pipeline Overview
+
+The end-to-end flow is **persona → skill → simulation_input → simulation_output → evaluation**.
+
+```
+text_personas/pid_{N}.txt ──┐
+                            ├──► skill_extraction (v1/v2/v3) ──► text_simulation/skills/pid_{N}/v{1,2,3}/{background,tools,decision_procedure}.txt
+                            │
+text_questions/pid_{N}.txt ─┴──► create_skill_inputs.py ──► text_simulation_input_skill_v{1,2,3}/
+                                                                           │
+                                                                           ▼
+                                                          run_LLM_simulations.py
+                                                                           │
+                                                                           ▼
+                                                          text_simulation_output_skill_v{1,2,3}/
+                                                                           │
+                                                                           ▼
+                                                       evaluation/ (accuracy, bias, preference, bootstrap)
 ```
 
 ## Key Components
@@ -56,11 +86,31 @@ The digital twin simulation system creates virtual representations of individual
 2. **Question Processing**
    - `convert_question_json_to_text.py`: Converts question data to text format
 
-3. **Simulation**
-   - `create_text_simulation_input.py`: Combines personas with questions
-   - `run_LLM_simulations.py`: Runs the actual LLM simulations
-   - `llm_helper.py`: Helper functions for LLM interactions
-   - `postprocess_responses.py`: Processes and analyzes simulation results
+3. **Skill Extraction** (see `../skill_extraction.md` for the full spec)
+   - We currently extract **3 skills** per persona — `background`, `tools`, `decision_procedure` — and produce them in **3 versions** that vary how much inference reasoning we allow on top of the survey signal:
+     - **v1_direct** — direct evidence only. Only questions that explicitly ask about a topic are used; demographics are not extrapolated. (~120 of ~450 items used)
+     - **v2_inferred** — direct + labeled demographic / cross-scale inference. Inferences are explicitly tagged. (~200 of ~450 items used)
+     - **v3_maximum** — every available signal: all psychometric scales, cognitive-test errors, economic-game behavior, intertemporal patience, word associations, social-desirability, full demographics. Aggressive inference, with explicit reasoning chains. (~450 of ~450 items used)
+   - Each version writes the same three files into `text_simulation/skills/pid_{N}/v{1,2,3}_*/`:
+     `background.txt`, `tools.txt`, `decision_procedure.txt`. The `decision_procedure.txt` ends with a `w_social` estimate in `[0.0, 1.0]` used downstream for social-influence experiments.
+   - Drivers: `skill_extraction/extract_skills.py` (single persona) and `skill_extraction/batch_extract_skills_v2.py` (batch). Prompts are pinned in `skill_extraction/EXTRACTION_PROMPTS.md` and called against `claude-sonnet-4-6`.
+
+4. **Simulation Input Assembly**
+   - `text_simulation/create_skill_inputs.py` (and `create_skill_v2_inputs.py`, `create_skills_v4_inputs.py`, …) merge the extracted skill persona with `text_questions/pid_{N}.txt` to produce `text_simulation_input_skill_v{1,2,3}/pid_{N}.txt`.
+   - For ablations, a family of `text_simulation_input_skills_v{1,2,3}_{bg, bg_ep, bg_dp, bg_tools, bg_dp_ep, …}/` directories isolate which skill components are exposed to the model.
+
+5. **Simulation**
+   - `text_simulation/run_LLM_simulations.py`: Runs the actual LLM simulations (single + batch).
+   - `text_simulation/run_LLM_simulation_interaction.py`: Runs the social-interaction variant (uses `w_social`).
+   - `text_simulation/llm_helper.py`: Helper functions for LLM interactions.
+   - `text_simulation/postprocess_responses.py` / `run_postprocess.py`: Parses raw LLM JSON into the structured `answer_blocks_llm_imputed/` files used by the evaluator.
+   - Outputs land in `text_simulation/text_simulation_output_skill_v{1,2,3}/` (and per-model variants such as `_gpt4o`, `_o4mini`, `_nano_temp0`).
+
+6. **Evaluation** — three metrics, plus paired-bootstrap power analysis
+   - **Overall accuracy** — Mean Absolute Deviation against wave-4 ground truth across **all** wave-4 questions. Computed by `evaluation/mad_accuracy_evaluation.py`, aggregated by `evaluation/eval_temp0_suite.py` / `eval_all_experiments.py`. Reported with 95% CI, random baseline, and human ceiling.
+   - **Cognitive bias** — Accuracy restricted to the cognitive-bias question subset (all wave-4 columns *excluding* the pricing/product columns). Computed inside `evaluation/paired_bootstrap.py` as the `cognitive_bias` slice. Companion plot: `cog_bias_raw_vs_v3bg_scatter.png`.
+   - **Product preference** — Accuracy restricted to the pricing/product-preference column set (the `pricing` slice in `paired_bootstrap.py`). This isolates willingness-to-pay / product-choice questions.
+   - **Paired bootstrap (power analysis)** — `evaluation/paired_bootstrap.py`, `paired_bootstrap_50p.py`, `paired_bootstrap_v2_vs_raw.py`, `paired_bootstrap_v2_vs_v4.py`. Each persona is treated as its own pair across two conditions (e.g. `bg` vs `bg+ep`, `v2` vs `raw`, `v2` vs `v4`); the script resamples persona-level paired differences to produce CIs and p-values for each of the three metrics, giving the per-condition power analysis used to compare skill versions and ablations. `evaluation/bootstrap_ci.py` provides the underlying CI helper.
 
 ## Requirements
 
@@ -127,7 +177,24 @@ To run the complete digital twin simulation pipeline:
     ```
     *Replace `your_actual_api_key_here` with your valid OpenAI API key.*
 
-3.  **Run the Simulation Pipeline**:
+3.  **Extract Skill Personas (v1 / v2 / v3)**:
+    Build the three-version skill profile per persona. `ANTHROPIC_API_KEY` must be set.
+    ```bash
+    # Single persona, all three versions
+    poetry run python skill_extraction/extract_skills.py --pid 1
+
+    # Batch extraction
+    poetry run python skill_extraction/batch_extract_skills_v2.py
+    ```
+    Outputs land in `text_simulation/skills/pid_{N}/v{1_direct,2_inferred,3_maximum}/`.
+
+4.  **Build Simulation Inputs**:
+    Merge each skill version with the question file into the model-ready input directory.
+    ```bash
+    poetry run python text_simulation/create_skill_inputs.py        # → text_simulation_input_skill_v{1,2,3}/
+    ```
+
+5.  **Run the Simulation Pipeline**:
     Execute the main simulation pipeline using the provided shell scripts. You can run a small test with a limited number of personas or simulate all available personas.
 
     *   For a small test run (e.g., 5 personas):
@@ -139,8 +206,19 @@ To run the complete digital twin simulation pipeline:
         ./scripts/run_pipeline.sh
         ```
 
-4.  **Evaluate the Results**:
+6.  **Evaluate the Results**:
     After running the simulations, evaluate the results using:
     ```bash
     ./scripts/run_evaluation_pipeline.sh
     ```
+    For the three-metric breakdown (overall accuracy, cognitive bias, product preference) and paired-bootstrap power analysis comparing skill versions or ablations:
+    ```bash
+    # Per-config accuracy table
+    poetry run python evaluation/eval_temp0_suite.py --suite nano_temp0
+
+    # Paired bootstrap across the three metrics
+    poetry run python evaluation/paired_bootstrap.py
+    poetry run python evaluation/paired_bootstrap_v2_vs_raw.py
+    poetry run python evaluation/paired_bootstrap_v2_vs_v4.py
+    ```
+    See `evaluation/HOW_TO_EVALUATE.md` for the full per-suite walkthrough.
