@@ -1,0 +1,96 @@
+## Demographics  
+The participant currently lives in the Northeast region of the United States. They were assigned male at birth and are in the 50-64 age group. Their highest level of education completed is some college, no degree. They identify as White and are a U.S. citizen. Their marital status is married. Their religion is Roman Catholic, and they attend religious services once a week. Politically, they identify as a Republican with a conservative ideology. Their household income is $100,000 or more. The household size is two people, and their current employment status is full-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of impression management, indicating that self-reports should be interpreted with some caution but are not likely heavily biased by social desirability.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.9 (calculated approximate average from item responses)  
+Agreeableness: 4.1  
+Conscientiousness: 4.1  
+Neuroticism: 1.6  
+Openness: 4.1  
+
+The participant shows a personality profile characterized by moderately high extraversion, agreeableness, conscientiousness, and openness, with neuroticism near the low end of the scale (1.6, just above the extreme low threshold of 1.5). This suggests an interpersonal style that is sociable but not overly talkative, cooperative, and reliable with strong work habits. Emotionally, they appear stable and not prone to negative affect. Their openness indicates curiosity and creativity. The low neuroticism aligns with their emotional baseline data showing minimal anxiety and depression, supporting the reliability of their self-reports.
+
+### Need for Cognition  
+Score: 3.7 / 5 (approximate average from item responses)  
+This indicates a moderate to high enjoyment and tendency to seek out effortful thinking and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 3.3 / 5 (approximate average from item responses)  
+The participant shows a moderate tendency to share and recognize others’ emotions, with some ambivalence or inconsistency in emotional contagion and awareness.
+
+### Green Values  
+Score: 4.2 / 5 (approximate average from item responses)  
+The participant identifies fairly strongly with environmental responsibility and is willing to be inconvenienced to act in environmentally friendly ways.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.5 / 5  
+Vertical Individualism: 3.5 / 5  
+Horizontal Collectivism: 4.3 / 5  
+Vertical Collectivism: 4.0 / 5  
+
+The participant shows a balanced orientation toward personal independence and group loyalty, with a somewhat stronger emphasis on collectivism, especially horizontal collectivism (valuing equality within the group). They moderately accept hierarchy within both individualistic and collectivistic domains, indicating a nuanced view that values both autonomy and group cohesion with some acceptance of social ranking.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 2 / 63 (sum of item scores, mostly zeros and one item scored 1)  
+Clinical range: Minimal anxiety (0-7).  
+Symptom pattern is minimal with no somatic symptoms endorsed and only a slight cognitive symptom of mild nervousness. This minimal anxiety level aligns with the low neuroticism score and supports the reliability of self-reports.
+
+### Beck Depression Inventory  
+Score: 0-1 / 61 (all depression items answered as minimal or no symptoms except one ambiguous sleep item answered both 1 and 2, likely a data entry error; overall minimal)  
+Clinical range: Minimal depression (0-9).  
+No clusters of physical, cognitive, or motivational symptoms stand out. The participant reports no significant depressive symptoms, consistent with low neuroticism and minimal anxiety.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I Aspire to be a good leader, I want to inspire my co workers and I want to them to go on to do great things. I want to be remembered as someone with very high integrity and honesty. I hope to be an excellent role model for my family and friends and I hope to go on to do great good for my community."  
+- Ought self (what they feel they should be): "People expect me to be a good person. I should be honest with everyone and treat them fairly. I should be treating everyone with the respect they deserve and always be willing to help people out."  
+- Actual self (what they believe they currently are): "I am a very hard working and honest person. I am very much a family person and want to get along with my family and extended family. I am very religious and I like to do things for people."  
+
+The three selves are largely consistent, reflecting a coherent self-concept centered on leadership, integrity, honesty, family orientation, and helpfulness. There are no meaningful contradictions between ideal, ought, and actual selves.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+All items answered correctly, showing excellent fluid reasoning ability with no clustering of errors.
+
+### Crystallized Intelligence  
+Score: 7 / 20.  
+Multiple errors suggest a significant vocabulary gap or guessing, as some answers selected plausible distractors rather than correct synonyms or antonyms. This indicates limited verbal knowledge despite strong reasoning skills.
+
+### Syllogistic Reasoning  
+Score: 8 / 12.  
+Errors occurred more on belief-biased items, indicating some influence of prior beliefs over pure logic but generally good logical reasoning.
+
+### Financial Literacy  
+Score: 8 / 8.  
+All financial literacy items answered correctly, showing strong knowledge of financial concepts.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items answered correctly, indicating strong numeric reasoning skills.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items answered "Yes," showing full acceptance of logically valid conclusions.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Selected cards A and 3, demonstrating the classic matching bias rather than the logically correct A and 7. This indicates a common reasoning error in conditional logic tasks.
+
+## Cognitive Summary  
+The participant exhibits strong reflective reasoning (perfect CRT), excellent fluid intelligence, and solid deductive reasoning skills. However, their crystallized intelligence is notably low, suggesting limited vocabulary and verbal knowledge despite strong reasoning abilities. Financial literacy and numeracy are excellent and consistent with their cognitive strengths. The Wason selection task error reveals a typical reasoning bias, while syllogistic reasoning errors on belief-laden items suggest some influence of prior beliefs on logic. Overall, the cognitive profile shows a reflective, numerate individual with a vocabulary gap and some common reasoning biases.
+
+## Summary  
+This participant is a middle-aged, White, married male from the U.S. Northeast with some college education and full-time employment. He is moderately extraverted, highly agreeable, conscientious, and open, with low neuroticism and minimal anxiety and depression, indicating emotional stability. He enjoys effortful thinking and has moderate empathy and strong environmental values. His self-concept is coherent and oriented toward leadership, integrity, and family. Cognitively, he excels in fluid intelligence, reflective reasoning, financial literacy, and numeracy but shows a notable weakness in crystallized intelligence, particularly vocabulary. The most predictive feature for downstream simulation is this strong cognitive reflection combined with a crystallized intelligence floor, alongside a classic Wason selection task matching bias, which will shape his reasoning and decision-making style.

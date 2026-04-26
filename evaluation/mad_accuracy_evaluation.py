@@ -226,7 +226,7 @@ def get_default_column_ranges() -> Dict[str, Tuple[float, float]]:
     manual_minmax = {}
 
     # false consensus (self)
-    manual_minmax.update({f"FALSE CONS. SELF _{i}": (1, 5) for i in range(1, 11)})
+    manual_minmax.update({f"FALSE CONS. SELF _{i}": (1, 5) for i in list(range(1, 8)) + [10, 11, 12]})
 
     # false consensus (others)
     others_ids = [1,2,3,4,5,6,7,10,11,12]
@@ -300,7 +300,7 @@ def get_default_qid_to_task() -> Dict[str, str]:
         Dictionary mapping question IDs to task names
     """
     qid_to_task_raw = {
-        **{f"False Cons. self _{i}": "false consensus" for i in range(1, 11)},
+        **{f"False Cons. self _{i}": "false consensus" for i in list(range(1, 8)) + [10, 11, 12]},
         **{f"False cons. others _{i}": "false consensus" for i in [1,2,3,4,5,6,7,10,11,12]},
         "Q156_1": "base rate", "Form A _1": "base rate",
         "Q157": "framing problem", "Q158": "framing problem",

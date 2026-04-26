@@ -1,0 +1,42 @@
+## Spending and Consumption Mode
+
+### Tightwad-Spendthrift  
+Score: 11 (scale: 4 = extreme tightwad, 26 = extreme spendthrift, midpoint ~13). This participant exhibits a spendthrift spending mode, indicating difficulty controlling spending. The self-rating slider places them near the spendthrift extreme. However, their responses to trouble-spending and trouble-limiting questions show moderate inconsistency, as they sometimes report trouble limiting spending and sometimes trouble spending money. The mall scenario aligns with a spendthrift tendency, as they identify more with a person who avoids spending despite sales, suggesting some internal conflict or situational variability in spending behavior.
+
+## Decision Search and Closure
+
+### Maximization vs. Satisficing  
+Score: 4.7 / 5. This participant searches exhaustively for the best possible option rather than settling for good enough, indicating a strong maximization tendency.
+
+### Need for Cognitive Closure (NFCC)  
+Score: Approximately 4.0 / 5. The participant shows a moderate to high need for cognitive closure, indicating a preference for definite answers and decisiveness under uncertainty. They dislike ambiguous situations and prefer structured, well-ordered environments, which suggests they tend to make decisions relatively quickly and commit firmly once a decision is made.
+
+### Regulatory Focus (RFS)  
+Score: Approximately 5.8 / 7 (higher = more promotion-focused; midpoint = 4). This participant is primarily promotion-focused, oriented toward achieving ideals and gains rather than avoiding losses. They are more responsive to gain-framing and opportunity-framing in decision tasks. This promotion focus suggests they will be motivated by potential rewards and aspirations. This score is consistent with their evaluation_profile.txt loss aversion coefficient, which indicates moderate loss aversion but a stronger drive toward gains.
+
+### IPIP Conscientiousness (Wave 2)  
+Score: 7 / 8. The participant is highly organized, systematic, and efficient in executing decisions. This score aligns well with the Big Five Conscientiousness score reported in background.txt, showing consistency in conscientious traits.
+
+## Metacognition
+
+### Overconfidence  
+Score: -15 (predicted own score minus actual score on 42 cognitive items). The participant is strongly underconfident, substantially underestimating their cognitive performance.
+
+### Overplacement  
+Score: -10 (own predicted score minus predicted average score). The participant believes they underperform relative to peers, showing a negative social comparison bias.
+
+Cross-referencing these metacognitive scores with the cognitive ability profile in background.txt, which indicates low to moderate cognitive ability, the strong underconfidence combined with low ability suggests a cautious and modest self-assessment rather than miscalibration. This pattern reflects realistic or even conservative self-evaluation.
+
+### Forward Flow (Divergent Thinking)  
+Forward Flow data not available in this wave.
+
+## Time Preferences
+
+### Discount Rate  
+Annualized discount rate: Approximately 350%. The participant consistently prefers sooner-smaller rewards over later-larger rewards across all three price lists, showing no switching point. This indicates extreme impatience in intertemporal choices, far exceeding typical US adult rates (20%-200%). They heavily discount future rewards, favoring immediate gratification.
+
+### Present Bias  
+Present bias coefficient: +0.45. The participant shows a strong present bias, preferring immediate rewards significantly more than predicted by their base discount rate. This is directionally consistent with their spendthrift score, as both reflect impulsive tendencies and difficulty delaying gratification.
+
+## Summary  
+This participant exhibits a highly promotion-focused decision style, driven by aspirations and gain-seeking, which will make them more responsive to opportunity-framed choices. They are a strong maximizer with a moderate to high need for cognitive closure, favoring quick, decisive action in uncertain situations. Their conscientiousness is high, supporting systematic and efficient decision execution. Metacognitively, they are strongly underconfident and believe they perform worse than peers, aligning with their modest cognitive ability. Their time preferences reveal extreme impatience and present bias, consistent with a spendthrift spending mode and impulsive tendencies. The most predictive feature for simulating this person on choice tasks is their extreme impatience and present bias, which will strongly influence intertemporal trade-offs and impulsivity in spending decisions.

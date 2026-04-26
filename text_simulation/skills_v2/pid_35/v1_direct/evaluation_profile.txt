@@ -1,0 +1,20 @@
+## Budget constraint  
+The respondent reports a total family income before taxes in the range of $75,000 to $100,000 (income item). She is employed part-time and lives in a household of four people. These direct income and employment items define her budget envelope without any inference about spending style.
+
+## Values hierarchy  
+The 24-item values scale shows clear rating compression, with many values rated highly (6-9). Explicitly, the respondent rated Forgiveness (item 3), Trust (5), Loyalty (11), Honesty (16), Compassion (17), and Tradition (23) as "Highly Important" (9). Ambition (10), Power (13), and Superiority (24) were rated lowest at 1 ("Not Important"). Wealth (1), Influence (4), Excitement (15), Status (18), and Recognition (22) were rated low (2). This indicates a relative values structure emphasizing interpersonal harmony, moral integrity, and tradition, while de-emphasizing power, status, and ambition.
+
+## Minimalism and consumer orientation  
+The respondent consistently agrees a little (rating 4) with all 12 minimalism scale items (items 1-12), indicating a mild but clear preference for minimalism, simplicity, and mindful ownership. In contrast, all 12 consumerism/uniqueness-seeking items were strongly disagreed with (mostly 1 or 2), showing no inclination toward consumerism, uniqueness-seeking, or breaking social norms in consumption.
+
+## Risk preferences  
+Direct responses to lottery and risk preference tasks are present. The respondent generally prefers the lottery over smaller certain amounts until the certain amount approaches the expected value, indicating moderate risk aversion. For example, she prefers the lottery over amounts up to about half the expected value but switches preference when the certain amount equals or exceeds the expected value. She accepts lotteries with 50% chance of winning $6, $8, and $10 at values close to expected values, showing moderate risk tolerance. For lotteries involving losses, she prefers to avoid larger losses and prefers certain smaller losses over risky larger losses, consistent with loss aversion. Overall, the data show moderate risk aversion with sensitivity to expected value.
+
+## Intertemporal patience  
+The respondent consistently prefers delayed larger rewards over smaller sooner rewards when the delay difference is one week or more, only switching preference when the sooner reward equals or exceeds the delayed reward. This pattern holds across multiple amounts ($6, $8, $10) and delays (1 to 7 weeks). This indicates a relatively patient intertemporal preference, valuing future rewards sufficiently to wait for them unless immediate rewards are equal or better.
+
+## Social preferences  
+In dictator and ultimatum game scenarios, the respondent proposes to keep $3 and send $2 to the other person when acting as the proposer. As the receiver, she accepts all offers from $0 to $5 sent by the proposer, indicating a high acceptance threshold and willingness to accept even low offers. In the trust game, when sending money that is tripled, she keeps $3 and sends $2, and as the receiver, she returns a substantial portion of the tripled amount (e.g., keeps $7 and sends back $8 when receiving $5 sent). Her thoughts during these decisions emphasize fairness, mutual benefit, and generosity. This pattern reflects moderately prosocial preferences with concern for fairness and reciprocity.
+
+## Summary  
+The respondent has a household income between $75,000 and $100,000 with part-time employment and four household members. Her values emphasize forgiveness, trust, loyalty, honesty, compassion, and tradition, while power, ambition, and status are unimportant. She exhibits a mild preference for minimalism and rejects consumerism and uniqueness-seeking in consumption. Risk preferences show moderate risk aversion and loss aversion, while intertemporal choices reveal relative patience for delayed rewards. Social preference tasks indicate moderately prosocial behavior, favoring fairness and reciprocity in monetary sharing and acceptance decisions.

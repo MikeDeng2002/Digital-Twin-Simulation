@@ -1,0 +1,32 @@
+## Budget constraint  
+The respondent reports a total family income before taxes in the range of $30,000 to $50,000 (Question: Last year, total family income). She is currently employed full-time and lives alone in a one-person household. These direct income and employment items define a moderate budget envelope without further inference about spending style.
+
+## Values hierarchy  
+The 24-item values scale shows evidence of rating compression, with many values rated 7 or 8 on a 9-point scale. The respondent rated several values as "Highly Important" (9), including Trust (item 5), Compassion (17), Recognition (22), and Superiority (24). The lowest-rated values include Influence (4) and Power (13), both rated 2. Other relatively high values (7 or 8) include Forgiveness (3), Humility (7), Politeness (12), Honesty (16), Civility (19), Autonomy (20), Equality (21), and Tradition (23). Wealth (1) and Altruism (9) are rated relatively low at 3. Due to rating compression, only the relative structure is interpretable: the respondent places highest importance on Trust, Compassion, Recognition, and Superiority, and lowest importance on Influence and Power.
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent generally disagrees with statements indicating strong minimalism or avoidance of possessions (items 1, 2, 4, 5, 7, 8 rated mostly 2 - Disagree a little). She agrees a little with "Less is more" (3), "I prefer simplicity in design" (6), and is somewhat mindful and selective about possessions (9, 10, 12 rated 4 - Agree a little). Overall, the respondent shows mild endorsement of minimalism but does not strongly avoid possessions or accumulation.  
+
+Regarding consumerism and uniqueness-seeking scales, the respondent strongly disagrees (1 - Disagree strongly) with all statements related to seeking uniqueness through products, breaking social rules about consumption, or challenging prevailing tastes (items 1-8). She also disagrees a little with avoiding common products (items 9, 10). This indicates a low consumerism orientation and low uniqueness-seeking in consumption.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over small certain amounts when the certain amount is low but switches to preferring the certain amount as it approaches or exceeds the expected value of the lottery. For example, for a 50% chance of $6 and 50% chance of $0, she prefers the lottery over amounts up to $1.75 but prefers certain amounts from $2.00 upwards. Similar patterns hold for other lotteries, indicating moderate risk aversion.  
+
+For lotteries involving losses, she prefers the sure loss over lotteries with higher expected losses, indicating risk aversion in losses as well.  
+
+In ultimatum/dictator games, she proposes to keep all $5 for herself and send $0 to the other person when acting as proposer, indicating a fully selfish offer. However, as the receiver, she accepts all offers except the one where the proposer keeps all $5 and sends $0, which she rejects. This suggests a preference for fairness or at least rejection of unfair offers as a receiver.  
+
+In the trust game, when sending money that will be tripled, she chooses to keep $3 and send $2 to the other person. As the receiver, she tends to keep a majority of the tripled amount and send back a smaller portion, indicating moderate trust and reciprocity but with self-interest.
+
+## Intertemporal patience  
+The respondent consistently prefers the larger, later reward ($6 in 6 weeks) over smaller, sooner rewards down to $5.75 in 5 weeks, switching preference only when the sooner reward equals or exceeds the delayed reward. Similar patterns hold for other delayed reward choices, indicating moderate patience with some discounting of future rewards. She prefers immediate smaller amounts only when they are close to or exceed the delayed amount. This pattern suggests a typical discounting behavior with moderate intertemporal patience.
+
+## Social preferences  
+In the dictator game, the respondent proposes to keep all $5 and send $0 to the other person, indicating selfishness as proposer. As the receiver, she accepts all offers except the one where she would receive $0, which she rejects, showing a willingness to punish unfair offers.  
+
+In the trust game, she sends $2 out of $5 (which will be tripled) and, as receiver, tends to keep a majority of the returned amount, sending back less than half. This indicates moderate trust and reciprocity but with a self-interested bias.  
+
+Overall, social preferences show a self-interested proposer stance but some fairness considerations as receiver, with moderate trust and reciprocity.
+
+## Summary  
+The respondent has a moderate budget constraint with a family income between $30,000 and $50,000, full-time employment, and a single-person household. Her values show rating compression but relatively high importance on Trust, Compassion, Recognition, and Superiority, and low importance on Influence and Power. She exhibits mild minimalism but low consumerism and uniqueness-seeking in consumption. Risk preferences indicate moderate risk aversion in gains and losses. Intertemporal choices reveal moderate patience with typical discounting of delayed rewards. Social preferences show selfishness as proposer in economic games but fairness concerns as receiver, with moderate trust and reciprocity.

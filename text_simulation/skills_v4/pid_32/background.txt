@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned male at birth and belong to the 30-49 age group. Their highest level of education completed is high school graduate. Their race/ethnicity is Hispanic, and they are a U.S. citizen. Their marital status is living with a partner. Their present religion is classified as "Other," and they never attend religious services aside from weddings and funerals. Politically, they identify as Independent and describe their political ideology as very liberal. Their household income last year was between $30,000 and $50,000. The household size is two people, and their current employment status is unemployed.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of impression management, indicating that self-reports should be interpreted with some caution but are not likely heavily biased by social desirability.
+
+## Personality
+
+### Big Five  
+Extraversion: 1.9  
+Agreeableness: 3.3  
+Conscientiousness: 3.3  
+Neuroticism: 4.8 (at or near scale extreme)  
+Openness: 2.7  
+
+The participant’s Big Five profile reveals a reserved and introverted interpersonal style, with extraversion near the low end of the scale. They tend to be somewhat agreeable and conscientious but show a notably high level of neuroticism, indicating strong emotional instability, anxiety, and moodiness. Openness is moderate-low, suggesting limited curiosity and creativity. The high neuroticism aligns with the emotional baseline data showing severe anxiety and depression symptoms, reinforcing the validity of these self-reports rather than indicating a contradiction.
+
+### Need for Cognition  
+Score: 2.3 / 5.  
+This score indicates a low to moderate tendency to enjoy and seek out effortful thinking, with a preference for avoiding complex or challenging cognitive tasks.
+
+### Empathy (BES-A)  
+Score: 4.8 / 5.  
+The participant shows a very strong tendency to share and recognize others’ emotions, indicating high empathic concern and emotional contagion.
+
+### Green Values  
+Score: 5.0 / 5.  
+The participant exhibits a very strong environmental identity and commitment to environmentally responsible behaviors.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.0  
+Vertical Individualism: 1.0 (at or near scale extreme)  
+Horizontal Collectivism: 3.0  
+Vertical Collectivism: 1.0 (at or near scale extreme)  
+
+The participant strongly endorses horizontal individualism, valuing personal independence and equality without hierarchy. Vertical individualism and vertical collectivism are at the floor, indicating a rejection of hierarchical structures both in individualistic and collectivistic domains. Horizontal collectivism is moderate, suggesting some value placed on group loyalty and equality within groups. Overall, the participant favors independence and egalitarianism, with little acceptance of dominance or authority.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 57 / 63.  
+This score falls in the severe clinical range for anxiety. The symptom pattern is dominated by severe somatic symptoms, including trembling, heart pounding, sweating, dizziness, and physical discomfort, alongside intense cognitive symptoms such as fear of dying, fear of losing control, and terror. The prominence of somatic symptoms supports the reliability of self-reports and aligns with the high neuroticism score.
+
+### Beck Depression Inventory  
+Score: 52 / 61.  
+This score is in the severe clinical range for depression. The symptom pattern includes pervasive cognitive distortions (feelings of failure, worthlessness, guilt, self-disgust, hopelessness), motivational deficits (difficulty initiating tasks, fatigue), and physical symptoms (significant weight loss, early morning awakening). The severity and breadth of symptoms confirm a profound depressive state.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be as feminine as possible. I don't want to change my body. I just want to be confident in who I am."  
+- Ought self (what they feel they should be): "I'm supposed to be 'the man.' Big, burly, and macho. I should be the head of the household."  
+- Actual self (what they believe they currently are): "I'm a broken doll. I'm full of mental illness and insecurity. I can barely function."  
+
+There are meaningful and stark gaps between the three selves. The ideal self’s aspiration to femininity and confidence contrasts sharply with the traditional masculine ought self, while the actual self reflects profound distress and dysfunction, indicating internal conflict and identity struggles.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors cluster on cube rotation items, with correct answers on matrix completion puzzles. This suggests relative strength in pattern recognition but some difficulty with spatial rotation tasks.
+
+### Crystallized Intelligence  
+Score: 9 / 20.  
+Errors suggest a vocabulary gap or guessing, as incorrect answers often involved plausible distractors rather than random guesses, indicating limited verbal knowledge.
+
+### Syllogistic Reasoning  
+Score: 8 / 12.  
+Errors occur more on belief-biased items with familiar content, indicating reasoning is somewhat influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 5 / 8.  
+Incorrectly answered that spreading money among assets does not decrease risk (answered "stays the same" instead of "decreases") and that bonds normally give the highest return over long periods (answered "bonds" instead of "stocks"). This reveals specific gaps in financial knowledge about risk diversification and asset returns.
+
+### Numeracy  
+Score: 6 / 8.  
+Errors include incorrect answers on the number of even rolls in 1,000 die rolls (answered 500, which is correct), but the participant answered incorrectly on the time for lily pads to cover half the lake (answered 24 days instead of 47), indicating some difficulty with exponential growth concepts.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 2 / 4.  
+The participant incorrectly answered two items by rejecting logically valid conclusions, indicating reluctance to accept conclusions that conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Selected cards A and 3 (classic matching bias) instead of the logically correct A and 7, indicating a confirmation bias in conditional reasoning.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning as evidenced by a perfect CRT score but shows weaknesses in crystallized intelligence and some fluid intelligence tasks, particularly spatial rotation. Their syllogistic reasoning is influenced by belief bias, and deductive reasoning shows reluctance to accept valid conclusions conflicting with prior beliefs. Financial literacy is moderate with notable misconceptions about risk and returns. Numeracy is generally adequate but with some errors in understanding exponential growth. The participant exhibits classic cognitive biases such as matching bias in the Wason task. Overall, cognitive abilities are uneven, with strengths in reflection but weaknesses in verbal knowledge and some logical reasoning domains.
+
+## Summary  
+This participant is a Hispanic male aged 30-49 from the Southern U.S., with a high school education and currently unemployed. Personality-wise, he is introverted, emotionally unstable, and moderately conscientious, with a low need for cognition but high empathy and strong environmental values. He exhibits severe anxiety and depression, with somatic symptoms prominent, consistent with his high neuroticism. His sense of self is conflicted, with a strong gap between his ideal, ought, and actual selves, reflecting identity struggles and mental health challenges. Cognitively, he excels in reflective reasoning but shows gaps in verbal knowledge, spatial tasks, and logical reasoning influenced by belief bias. Financial literacy and numeracy are moderate but with specific misconceptions. The most predictive feature for downstream simulation is the severe emotional distress combined with a conflicted sense of self and high neuroticism, which will strongly shape his responses and worldview.

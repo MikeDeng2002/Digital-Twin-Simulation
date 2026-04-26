@@ -1,0 +1,28 @@
+## Budget constraint  
+The respondent reports a total family income from all sources before taxes in the range of $50,000 to $75,000 (Answer to income question). She is self-employed and lives in a household of two people. No further direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows some compression but not extreme; ratings range from 1 to 8 with some spread. The highest-rated value is EQUALITY (item 21) at 8, indicating a strong importance placed on human rights and equal opportunity. Other relatively high values (rated 7) include PLEASURE (2), TRUST (5), HARMONY (14), EXCITEMENT (15), HONESTY (16), COMPASSION (17), and CIVILITY (19). The lowest-rated values include POWER (13) at 1, and low ratings (2) for INFLUENCE (4), AMBITION (10), STATUS (18), and SUPERIORITY (24). This suggests a preference for egalitarian and compassionate values over dominance or status.  
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent shows moderate agreement with some minimalist attitudes: she agrees a little that "less is more" (item 3), is drawn to visually sparse environments (5), prefers simplicity in design (6), and prefers leaving spaces visually empty over filling them (8). However, she disagrees strongly with keeping the aesthetic in her home very sparse (7) and generally disagrees or is neutral on restricting possessions or mindful curation (items 1, 2, 4, 9, 10, 12).  
+
+Regarding consumerism and uniqueness-seeking scales (12 items), the respondent consistently disagrees a little with all statements indicating uniqueness-seeking or consumer rebellion (items 1-12), showing little desire to seek uniqueness through products or to challenge social norms via consumption.  
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery over smaller certain amounts until the certain amount approaches the expected value, indicating moderate risk aversion. For example, in a 50% chance to win $6 lottery, she prefers the lottery over amounts up to about $2.75 but switches to the certain amount at $3.00 and above. Similar patterns hold for other lotteries.  
+
+For lotteries involving losses, she prefers the sure loss over lotteries with higher expected losses, indicating risk aversion in losses as well.  
+
+In ultimatum and dictator games, she proposes to keep $3 and send $2 to the other person and would accept offers down to $1 but reject offers of $0 or $1 when receiving. In the trust game with tripled amounts, she keeps $3 and sends $2, and as receiver, she keeps a majority but returns a substantial portion, indicating moderate trust and reciprocity.  
+
+## Intertemporal patience  
+The respondent consistently prefers the smaller, sooner reward over the larger, later reward in all intertemporal choice tasks, indicating low patience or high discounting of delayed rewards. For example, she prefers $6 in 6 weeks over $5 in 5 weeks, and similar patterns hold for other amounts and delays.  
+
+## Social preferences  
+In the dictator/ultimatum games, the respondent proposes to keep $3 and send $2 out of $5, indicating a moderately selfish but not purely self-interested allocation. As a receiver, she accepts offers down to $2 but rejects $1 or $0, showing some fairness concerns.  
+
+In the trust game, she sends $2 out of $5 (which would be tripled) and as receiver keeps $8 out of $15, sending back $7, indicating moderate trust and reciprocity.  
+
+## Summary  
+The respondent has a moderate family income and is self-employed in a two-person household. Her values emphasize equality, compassion, honesty, and harmony, while power and status are least important. She shows some minimalist tendencies in aesthetics but does not strongly restrict possessions or seek uniqueness through consumption. She exhibits moderate risk aversion in gains and losses and low patience for delayed rewards, preferring immediate smaller payoffs. Social preferences reveal moderate fairness and reciprocity, proposing to keep a majority share but willing to share and reciprocate in economic games.

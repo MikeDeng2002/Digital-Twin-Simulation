@@ -1,0 +1,73 @@
+## Effort regulation and cognitive style  
+This individual exhibits a strong preference for engaging in effortful cognitive activity, as evidenced by high Need for Cognition (NFC) scores: they "like to have the responsibility of handling a situation that requires a lot of thinking" (5 - strongly agree), "really enjoy a task that involves coming up with new solutions" (5), and "prefer intellectual, difficult, and important tasks" (5). They strongly disagree with statements indicating avoidance of thinking or mental effort, such as "thinking is not my idea of fun" (1) and "I only think as hard as I have to" (1). This aligns with their Big Five profile showing very high Conscientiousness (e.g., "does a thorough job" 5, "is a reliable worker" 5, "perseveres until the task is finished" 5, "makes plans and follows through" 5) and high Openness to Experience ("is original" 5, "is ingenious, a deep thinker" 5, "has an active imagination" 5).  
+
+Cognitive test performance is mixed but generally competent. The participant correctly solved many logic and spatial puzzles, including identifying the third daughter as "Emily" and correctly answering the cubic feet in a hole as zero, showing good literal reasoning and attention to detail. However, there is a notable error in the race question ("If you pass the person in second place, what place are you in?" answered as 1 instead of 2), indicating a specific cognitive error pattern of impulsive or overconfident responding rather than careful deliberation. Similarly, the bat and ball problem was answered incorrectly (ball cost = 5 instead of 0.05), a classic cognitive reflection test failure, suggesting some susceptibility to intuitive but incorrect heuristics.  
+
+In the cube rotation tasks, the participant sometimes chose "I do not know" or incorrect options, indicating occasional difficulty with spatial mental rotation or uncertainty in complex visual-spatial reasoning. However, they also selected correct answers in other cube tasks, showing partial competence.  
+
+Overall, the participant demonstrates a strong analytical style with high motivation to engage in effortful thinking, but with occasional lapses in cognitive reflection and spatial reasoning under uncertainty. Their free responses emphasize kindness, generosity, and fairness, suggesting a thoughtful and prosocial cognitive orientation.  
+
+## Closure and uncertainty tolerance  
+The participant scores high on Need for Closure (NFCC) indicators: they "don’t like situations that are uncertain" (5 - strongly agree), "dislike questions which could be answered in many different ways" (5), "don’t like to be with people capable of unexpected actions" (5), and "dislike unpredictable situations" (5). They also agree that "rules and regulations are helpful and necessary" (7 - definitely true) and "it is very important to carry out obligations" (7).  
+
+However, they do not show impatience or urgency to resolve problems immediately ("I’m dying to reach a solution very quickly" 1 - disagree strongly; "I would quickly become impatient if I did not find a solution immediately" 1). This suggests a preference for order and predictability but with tolerance for deliberation time.  
+
+Free responses and behavioral choices reinforce this: the participant values kindness and fairness but also shows a structured, rule-following mindset. They do not feel irritated by dissenting opinions, indicating some openness despite a preference for closure.  
+
+In sum, the participant prefers clear, structured, and predictable environments, seeks closure in ambiguous situations, but is not impulsively intolerant of ambiguity. They handle uncertainty by seeking order and rules rather than embracing ambiguity or complexity.  
+
+## Optimization strategy  
+The participant identifies strongly as a maximizer, endorsing "I never settle for second best" (5 - agree strongly) and "I have the highest standards for myself" (5). Yet, in consumerism and uniqueness scales, they show ambivalence: they neither strongly seek uniqueness nor strongly avoid common products, with many "neither agree nor disagree" or moderate responses. They do agree strongly with "I have broken customs and rules" (5) and "I enjoy challenging prevailing tastes" (4), indicating a selective nonconformity or desire to stand out in some domains.  
+
+Their spending habits are balanced ("about the same or neither" between tightwad and spendthrift), and they report sometimes having trouble limiting spending and sometimes trouble spending money, suggesting moderate self-regulation without extreme indecision or impulsivity.  
+
+In economic games, they propose generous splits ($0 for self, $5 for other) but reject such offers as a receiver, accepting only offers where the proposer keeps more money. This reveals a complex optimization strategy balancing generosity with self-interest, possibly reflecting a fairness norm but also strategic self-protection.  
+
+Free responses emphasize kindness, generosity, karma, and fairness, indicating that their optimization strategy is guided by prosocial values rather than pure utility maximization or competitive ambition.  
+
+## Self-concept stability  
+The participant reports a very stable and clear self-concept: they "disagree strongly" with statements about conflicting self-beliefs or frequent changes in self-view, and "agree strongly" that they have a clear sense of who they are. Their free responses about aspirational, ought, and actual selves are perfectly aligned, all emphasizing kindness, generosity, and honesty without discrepancy.  
+
+Big Five items show no contradictions; emotional stability is high, and they deny moodiness or worry. This coherence suggests a well-integrated self-concept with little internal conflict or ambivalence.  
+
+## Behavioral vs. stated-preference gap  
+There is a notable gap between stated generosity and behavioral economic game responses. The participant states strong prosocial values and proposes to give all money to others, yet as a receiver, they reject the most generous offers ($5 for self, $0 for other and $4 for self, $1 for other), accepting only offers where the proposer keeps more money. This suggests a discrepancy between idealized generosity and pragmatic self-interest or fairness expectations in social exchange.  
+
+Social desirability is not explicitly reported but can be inferred as moderate to low given the participant’s willingness to admit to taking advantage of others occasionally and to rebelling against authority, which reduces the likelihood of inflated positive self-presentation.  
+
+Their somatic symptom report shows no anxiety or stress, fully consistent with their self-reported emotional stability, supporting reliability of self-report data.  
+
+Overall, behavioral data should be weighted heavily for social preference modeling, while self-reports reliably reflect personality and values.  
+
+## Intertemporal patience  
+The participant consistently prefers larger, later rewards over smaller, sooner ones across multiple delayed reward tasks, indicating high intertemporal patience. They choose to wait for $6 in 6 weeks rather than $5.75 in 5 weeks, and similarly for larger amounts and longer delays. This is consistent with their high Conscientiousness and self-reported planning and follow-through.  
+
+Free responses and personality items emphasize responsibility and duty to family, further supporting a patient, future-oriented mindset.  
+
+## Egocentric projection tendency  
+The participant has high self-concept clarity and high empathy scores, indicating low egocentric projection tendency. They strongly disagree with statements like "my beliefs about myself often conflict" and "I spend a lot of time wondering who I really am," and they report strong ability to read others’ emotions and respond empathetically.  
+
+Their political identity is strong (very liberal), which may increase projection on political issues, but overall, their high empathy and self-concept clarity suggest moderate false consensus effects, with some domain-specific projection likely in politics but less so in interpersonal judgments.  
+
+## Bias susceptibility predictions  
+
+**High confidence predictions:**  
+- Probability matching vs. maximizing: Likely to maximize rather than probability match, given high NFC and conscientiousness, but some cognitive reflection errors suggest occasional lapses.  
+- Denominator neglect: Low likelihood, as participant correctly interprets probabilities and percentages in financial literacy and lottery tasks.  
+- Belief bias: Moderate risk, as some logical errors (e.g., bat and ball) suggest intuitive overrides.  
+- Wason matching bias: Likely low, as participant correctly identifies cards to test rules.  
+
+**Moderate confidence predictions:**  
+- False consensus effect: Moderate, due to strong political identity but high empathy and self-concept clarity.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, participant shows some affective influence in generosity and fairness judgments.  
+
+**Low confidence predictions (acknowledging limits):**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: These are not reliably predictable from the data.  
+
+## Self-report reliability weighting  
+Self-reports are highly reliable for personality traits, values, and emotional states, supported by low social desirability bias (willingness to admit faults), perfect somatic-self-report calibration (no anxiety symptoms reported), and consistent free responses.  
+
+However, there is a meaningful gap between stated generosity and revealed preferences in economic games, suggesting some social desirability or idealized self-presentation in prosocial attitudes. Thus, self-reports on personality and values can be trusted, but behavioral data should be prioritized for modeling social preferences and fairness judgments.  
+
+## Summary  
+This participant is a highly conscientious, open, and emotionally stable individual with a strong preference for effortful, analytical thinking and a clear, stable self-concept. They prefer order and closure, dislike uncertainty, and exhibit patient intertemporal preferences. Their reasoning style is generally reflective but shows occasional cognitive reflection errors, especially in intuitive numeric problems. A key predictive feature is the gap between their idealized generosity and pragmatic fairness in economic games, revealing a complex interplay between prosocial values and self-interest. Their high empathy and self-concept clarity suggest moderate false consensus effects limited mainly to political domains. Self-reports are reliable for personality and values, but behavioral choices provide critical insight into social preference and fairness reasoning under uncertainty.

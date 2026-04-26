@@ -1,0 +1,66 @@
+## Effort regulation and cognitive style  
+This individual demonstrates a moderate to somewhat engaged cognitive style, as evidenced by their Need for Cognition (NFC) responses where they "agree a little" to enjoying complex problems, thinking abstractly, and deliberating hard for long hours, but do not strongly endorse these traits. Their Big Five Conscientiousness facets show high reliability and thoroughness ("does a thorough job" and "is a reliable worker" both strongly agreed), strong perseverance ("perseveres until the task is finished" strongly agreed), and a preference for efficiency and planning ("makes plans and follows through" strongly agreed, "does things efficiently" agreed a little). However, they slightly disagree with being a "deep thinker" or "ingenious," suggesting a practical rather than highly abstract or creative cognitive style.
+
+Cognitive test performance is solid but not perfect: they correctly answered all the classic trick questions (e.g., "Emily’s father has three daughters" answered correctly as Emily), and solved pattern puzzles with good accuracy, but showed some difficulty with spatial rotation tasks (e.g., rejecting all rotation options in one cube task, indicating a possible weakness in mental rotation or spatial visualization). Their vocabulary and verbal reasoning are strong, selecting correct synonyms and antonyms consistently, indicating good crystallized intelligence. Logical reasoning on syllogisms was uniformly correct, showing sound deductive reasoning.
+
+The individual slightly underestimates their cognitive performance (self-estimated 35/42 correct vs. population average 40/42), indicating modest self-assessment calibration. Their error patterns suggest no major cognitive biases in logical reasoning but some spatial reasoning challenges.
+
+Free responses reveal a preference for helping others but from a distance, indicating a reflective and somewhat reserved interpersonal style, consistent with their Big Five "reserved" and "quiet" self-ratings.
+
+## Closure and uncertainty tolerance  
+The person scores very high on Need for Closure (NFCC), strongly agreeing with statements expressing discomfort with uncertainty, dislike of ambiguous or unpredictable situations, and a strong preference for order, routine, and quick resolution of problems. They report irritation when others disagree with group consensus and dislike situations where statements have multiple meanings. This is consistent with a low tolerance for ambiguity and a strong desire for cognitive closure.
+
+Behaviorally, this is supported by their economic choices: in intertemporal choice tasks, they consistently prefer the smaller-sooner reward over larger-later rewards until the delayed reward equals or exceeds the immediate reward, indicating impatience and a preference for certainty and immediacy. Their social and economic game choices show fairness but also a pragmatic self-interest (keeping $3 and sending $2 in dictator and trust games), reflecting a balance between cooperation and self-protection.
+
+Their free responses about the person they "actually are" versus "ought to be" show some internal tension: they aspire to be a community helper but prefer to help from a distance, avoiding crowds, which may reflect discomfort with social unpredictability or overstimulation.
+
+## Optimization strategy  
+The individual shows moderate maximization tendencies. They disagree strongly with statements about seeking uniqueness or breaking social norms in consumer behavior, indicating a satisficing or conventional approach rather than a strong maximizer profile. However, they agree a little with having high standards for themselves and never settling for second best, suggesting some internal drive for quality.
+
+Their consumerism and minimalism responses indicate mindful, deliberate ownership with a preference for simplicity and minimalism, but not extreme restriction. They actively avoid excess possessions and prefer sparse aesthetics, showing a thoughtful, selective approach to consumption rather than impulsive or maximalist behavior.
+
+In economic games, they propose and accept moderately fair splits ($3/$2), reflecting a balanced optimization between fairness and self-interest rather than extreme maximization or minimization.
+
+## Self-concept stability  
+Self-Concept Clarity (SCC) is high, with strong agreement on having a clear, stable sense of self and strong disagreement with statements about conflicting self-beliefs or frequent changes in self-opinion. This suggests a stable, coherent self-concept.
+
+Big Five responses are consistent, with no contradictory answers. Free responses about aspirational, ought, and actual selves show some nuanced self-awareness and acceptance of personal limits (preferring to help from a distance), but no major internal conflict or instability.
+
+## Behavioral vs. stated-preference gap  
+There is a notable gap between the person’s strong prosocial values (high importance on forgiveness, trust, humility, altruism, loyalty, honesty, compassion, equality) and their moderate economic game behavior, which is fair but self-protective (keeping 60% in dictator game). This suggests a pragmatic balance rather than idealistic altruism in behavior.
+
+Social desirability is not explicitly measured here, but the consistency between self-reports and behavior, along with low somatic anxiety and no signs of defensive responding, suggests moderate trustworthiness of self-reports.
+
+Their free responses about helping "from a distance" contrast with their stated high empathy and concern for others, indicating a behavioral preference for low social exposure despite valuing social connection and altruism.
+
+## Intertemporal patience  
+The individual shows low intertemporal patience, consistently preferring immediate smaller rewards over delayed larger rewards until the delayed reward is equal or better. This is consistent with their moderate Conscientiousness (high in planning and perseverance but only moderate in efficiency and systematic behavior) and their free-response preference for routine and order, which may not extend to delayed gratification.
+
+Their economic game choices also reflect pragmatic self-interest rather than long-term strategic patience.
+
+## Egocentric projection tendency  
+High Self-Concept Clarity and high Empathy scores predict low egocentric projection and false consensus bias. The person is likely to accurately distinguish their own views from others’ and to be sensitive to others’ feelings.
+
+Their political identity is moderate (Independent, liberal views), which may moderate projection effects on political or policy judgments.
+
+## Bias susceptibility predictions  
+**High confidence predictions:**  
+- Probability matching vs. maximizing: Likely to maximize rather than probability match, given good logical reasoning and preference for clear solutions.  
+- Denominator neglect: Low likelihood, given good numeric and probabilistic reasoning (correct base-rate and probability estimates).  
+- Belief bias: Low, as logical syllogistic reasoning was consistently correct.  
+- Wason matching bias: Likely low, given correct selection of cards to test conditional rules.
+
+**Moderate confidence predictions:**  
+- False consensus effect: Low, due to high SCC and empathy.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, as emotional responses to losses and gains in lotteries show some risk aversion but also pragmatic acceptance.
+
+**Low confidence predictions (acknowledging limits):**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: No strong evidence to predict susceptibility; these biases are not reliably correlated with cognitive ability or personality here.
+
+## Self-report reliability weighting  
+Self-reports appear reliable overall. Social desirability is not elevated, somatic anxiety is minimal (no reported somatic symptoms), and self-reports align well with behavioral data except for a moderate gap in altruistic values versus economic game behavior, which is interpretable as pragmatic rather than deceptive.
+
+The individual’s self-assessment of cognitive performance is slightly underconfident, which supports credibility.
+
+## Summary  
+This individual exhibits a practical, moderately analytical cognitive style with strong conscientiousness and perseverance but some spatial reasoning challenges. They have a high need for closure and low tolerance for ambiguity, preferring order, routine, and quick problem resolution. Their optimization strategy is balanced, favoring fairness tempered by self-interest, and they show mindful minimalism in consumption. Self-concept is stable and coherent, with high empathy but a preference for social distance in helping behavior, revealing a nuanced social style. They demonstrate good logical reasoning and probabilistic understanding, with low susceptibility to common reasoning biases linked to cognitive errors. The most predictive feature is the pronounced gap between their prosocial ideals and pragmatic economic behavior, reflecting a reasoning profile that balances moral values with realistic self-interest under uncertainty.

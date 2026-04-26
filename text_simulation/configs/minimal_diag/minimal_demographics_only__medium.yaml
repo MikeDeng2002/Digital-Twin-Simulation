@@ -1,0 +1,14 @@
+force_regenerate: false
+input_folder_dir: text_simulation_input_minimal_demographics_only
+max_personas: 1
+max_retries: 10
+max_tokens: 16384
+model_name: gpt-5.4-nano
+num_workers: 50
+output_folder_dir: text_simulation_output_minimal_diag/minimal_demographics_only/medium
+provider: openai
+reasoning_effort: medium
+system_instruction: You are an AI assistant. Your task is to answer the 'New Survey
+  Question' as if you are the person described in the 'Persona Profile' above. Adhere
+  to the persona and follow all formatting instructions carefully.
+temperature: 0.0

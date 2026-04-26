@@ -1,0 +1,32 @@
+## Budget constraint  
+The respondent reports a total family income before taxes in the range of $75,000 to $100,000 (Question: Last year, total family income). She is retired (Question: Current employment status) and lives alone in a one-person household (Question: Household size). No further direct information about spending style or budget envelope is provided.
+
+## Values hierarchy  
+The 24-item values scale shows some rating compression, with many values rated in the 5 to 8 range. The highest-rated value is AUTONOMY (item 20) at 9, indicating a strong preference for independence and freedom from others' control. Other relatively high values (rated 7 or 8) include INFLUENCE (8), ACHIEVEMENT (8), HARMONY (8), and EQUALITY (8). The lowest-rated value is POWER (item 13) at 1, indicating little importance placed on control over others or dominance. AMBITION (3), RECOGNITION (3), and SUPERIORITY (2) are also rated relatively low. This suggests a values hierarchy emphasizing personal independence, competence, and social harmony, with low emphasis on dominance or competitive superiority.
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent generally agrees moderately to strongly with minimalism-related statements. She agrees strongly that she is mindful of what she owns (item 9), that it is important to be thoughtful about what she chooses to own (item 11), and that her belongings are mindfully selected (item 12). She agrees a little with avoiding accumulating lots of stuff (item 1), preferring simplicity in design (item 6), and being drawn to visually sparse environments (item 5). She disagrees a little with restricting the number of things she owns (item 2).  
+
+Regarding consumerism and uniqueness-seeking, the respondent mostly disagrees or is neutral on statements about seeking uniqueness through products or breaking social rules for consumption. She disagrees a little with actively seeking to develop personal uniqueness by buying special products or brands, and with liking products that are interesting and unusual. She agrees a little with breaking customs and rules regarding products and usage, but strongly disagrees with enjoying challenging prevailing tastes or avoiding popular products. Overall, this suggests a mild minimalist orientation with limited consumerism or uniqueness-seeking tendencies.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery over smaller certain amounts until the certain amount approaches the expected value, indicating moderate risk aversion. For example, she prefers the 50% chance of $6 over certain amounts up to about $2.50, switching preference to the certain amount at $2.50 and above. Similar patterns hold for other lotteries with varying payoffs.  
+
+In loss lotteries, she prefers the lottery over smaller certain losses, indicating risk aversion in losses as well. She rejects offers that involve losing more than about $3 to $4 for certain, preferring the lottery instead.  
+
+In ultimatum and dictator games, she proposes to keep $3 and send $2 out of $5, and as a receiver, she accepts all offers except the one where the sender keeps all $5. In the trust game with tripled amounts, she keeps $2 and sends $3, and as receiver, she tends to keep a bit more than half of the tripled amount but returns a fair share when the sender is generous.  
+
+Overall, these responses indicate moderate risk aversion, some fairness and reciprocity concerns in social economic games, and a willingness to share but also to keep a reasonable share.
+
+## Intertemporal patience  
+The respondent consistently prefers the larger, later reward ($6 in 6 weeks) over smaller, sooner rewards down to about $5.75 in 5 weeks, switching preference only when the sooner reward equals or exceeds the delayed reward. Similar patterns hold for other delayed reward choices with varying amounts and delays. This indicates a relatively high degree of patience and willingness to wait for larger delayed rewards rather than preferring immediate smaller rewards.
+
+## Social preferences  
+In the dictator/ultimatum games, the respondent proposes to keep $3 and send $2 out of $5, indicating a moderately generous offer. As a receiver, she accepts all offers except the one where the sender keeps all $5, showing rejection of unfair offers.  
+
+In the trust game with tripled amounts, she chooses to keep $2 and send $3 initially, and as receiver, she keeps about half to slightly more than half of the tripled amount but returns a fair share when the sender is generous.  
+
+These choices reflect moderate fairness concerns, reciprocity, and willingness to share resources with anonymous others, rejecting highly unfair offers but not insisting on equal splits.
+
+## Summary  
+The respondent has a moderate family income and is retired, living alone. Her values emphasize autonomy, achievement, influence, harmony, and equality, with low importance on power or dominance. She exhibits a mild minimalist orientation, being mindful and thoughtful about possessions, with limited consumerism or uniqueness-seeking. Her risk preferences show moderate risk aversion in gains and losses, and she demonstrates fairness and reciprocity in social economic games, proposing moderately generous offers and accepting fair ones. She is relatively patient in intertemporal choices, preferring larger delayed rewards over smaller immediate ones. Overall, her preferences suggest a thoughtful, independent individual who values fairness, social harmony, and mindful consumption.

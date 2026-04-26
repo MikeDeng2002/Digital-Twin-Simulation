@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. She is female and in the 65+ age group. Her highest level of education is college graduate/some postgraduate. She identifies as White and is a U.S. citizen. She is married and identifies her religion as Jewish, though she never attends religious services aside from weddings and funerals. Politically, she considers herself a Democrat with a very liberal ideology. Her household income is $100,000 or more, and she lives in a household of two people. Her current employment status is retired.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, so personality and emotional baseline data can be interpreted with confidence.
+
+## Personality
+
+### Big Five  
+Extraversion: 5.0  
+Agreeableness: 5.0  
+Conscientiousness: 5.0  
+Neuroticism: 1.0  
+Openness: 4.3  
+
+This profile reveals a highly outgoing, warm, and cooperative interpersonal style, combined with exceptional reliability and thoroughness in work habits. The participant is emotionally stable, not easily upset, with neuroticism at the floor (1.0), indicating a calm and resilient emotional baseline. Openness is high (4.3), showing creativity and intellectual curiosity. The very low neuroticism aligns with the emotional baseline data, confirming consistency between personality and emotional state.
+
+### Need for Cognition  
+Score: 4.6 / 5.  
+This person strongly enjoys and seeks out effortful thinking, showing a preference for complex and challenging intellectual tasks.
+
+### Empathy (BES-A)  
+Score: 4.0 / 5.  
+The participant has a strong tendency to share and recognize others’ emotions, indicating high empathic concern and emotional attunement.
+
+### Green Values  
+Score: 4.8 / 5.  
+She identifies strongly with environmental responsibility and is willing to take personal inconvenience to protect the environment.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.8  
+Vertical Individualism: 3.0  
+Horizontal Collectivism: 4.3  
+Vertical Collectivism: 3.5  
+
+The participant strongly values personal independence and equality (high horizontal individualism), moderately accepts hierarchy in individual achievement (vertical individualism at 3.0), and also endorses strong group loyalty and equality within groups (high horizontal collectivism). Vertical collectivism is moderate, indicating some acceptance of hierarchical group roles but less emphasis on strict authority. Overall, she balances a strong sense of self-reliance with commitment to cooperative group relationships.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63.  
+This score is in the minimal range, indicating no clinically significant anxiety symptoms. There is no evidence of somatic or cognitive anxiety symptoms.
+
+### Beck Depression Inventory  
+Score: 0 / 61.  
+This score is in the minimal range, indicating no clinically significant depressive symptoms. There are no notable clusters of physical, cognitive, or motivational symptoms.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I want to be someone who helps other. I am not interested in a reward of any type. I love the feeling of the satisfaction knowing that I did something that would make life a little better for another."  
+- Ought self (what they feel they should be): "Like everyone else, I should be the type of person that puts the needs of others first. I should be kind, generous and thoughtful. I should contribute to the wellbeing of others in any way possible, be it by service, kindness or monetarily if possible."  
+- Actual self (what they believe they currently are): "I always try to put the needs of others ahead of my own. I will go out of my way to help someone who needs assistance. It doesn't matter what they need or when they need it. I make myself available whenever possible to do so."  
+
+The three selves are consistent, showing alignment between aspirations, perceived duties, and actual behavior centered on altruism and helping others.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong ability to override intuitive but incorrect responses and engage in reflective reasoning.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+No errors were made. The participant successfully completed all matrix completion and cube rotation items, showing strong pattern recognition and spatial reasoning.
+
+### Crystallized Intelligence  
+Score: 10 / 20.  
+The participant answered only half of the vocabulary synonym and antonym items correctly. Errors suggest a vocabulary gap or guessing, as some plausible distractors were chosen incorrectly.
+
+### Syllogistic Reasoning  
+Score: 8 / 12.  
+Errors occurred more on belief-biased items, indicating some influence of prior beliefs over pure logical reasoning, but overall good logical reasoning ability.
+
+### Financial Literacy  
+Score: 7 / 8.  
+The participant missed one item: incorrectly answered that after age 70½ you do not have to withdraw from 401(k) or IRA, indicating a specific knowledge gap about retirement account rules.
+
+### Numeracy  
+Score: 7 / 8.  
+One error was made on the lily pad doubling question (answered 8 days instead of the correct 47 days), indicating a misunderstanding of exponential growth concepts.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items were answered "Yes," showing full acceptance of logically valid conclusions even when they may conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+The participant correctly selected cards A and 3 to test the rule "If there is an A on one side, then there is a 3 on the other," demonstrating understanding of the logical test without falling prey to the classic matching bias.
+
+## Cognitive Summary  
+This participant exhibits strong reflective reasoning and fluid intelligence, with perfect CRT and fluid intelligence scores. Crystallized intelligence is moderate, suggesting some limitations in vocabulary and verbal knowledge. Logical reasoning is generally good but somewhat influenced by belief bias. Financial literacy and numeracy are high but show specific gaps in retirement rules and exponential reasoning. Deductive reasoning is sound, and the participant correctly applies logical rules in the Wason selection task. Overall, cognitive abilities are strong, especially in reasoning and problem-solving, with some room for improvement in verbal knowledge and specific applied numeracy.
+
+## Summary  
+This is a highly educated, retired female in the South U.S., with a strong liberal political orientation and Jewish identity but low religious attendance. She is emotionally stable with minimal anxiety or depression and exhibits a highly altruistic and empathic personality, strongly motivated by helping others without expectation of reward. Cognitively, she is reflective, curious, and capable of complex reasoning, though her vocabulary knowledge is moderate. The most predictive feature for downstream simulation is her perfect Cognitive Reflection Test performance combined with very low neuroticism, indicating a calm, thoughtful, and logically rigorous respondent who is unlikely to be swayed by emotional or impulsive reasoning.

@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Northeast region of the United States. They were assigned male at birth and are in the 30-49 age group. Their highest level of education completed is some college, no degree. Their race/origin is reported as Other. They are a U.S. citizen. Their marital status is living with a partner. Their present religion is Other, and they attend religious services once or twice a month. Politically, they identify as a Democrat and describe their political ideology as very liberal. Their household income last year was $100,000 or more. The household size is two people, including themselves. Their current employment status is home-maker.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 2 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, with minimal impression management bias. This caveat should be applied explicitly when interpreting personality and emotional baseline sections below.
+
+## Personality
+
+### Big Five  
+Extraversion: 1.9  
+Agreeableness: 3.9  
+Conscientiousness: 3.1  
+Neuroticism: 4.1  
+Openness: 4.7  
+
+The participant’s Big Five profile reveals a reserved and quiet interpersonal style, with extraversion near the low extreme (1.9). They tend to be somewhat fault-finding but also helpful and forgiving, reflecting moderately high agreeableness (3.9). Their conscientiousness is moderate (3.1), indicating some reliability but also some disorganization and carelessness. Neuroticism is elevated (4.1), near the high extreme, consistent with emotional instability, worry, and moodiness. Openness is very high (4.7), near the scale ceiling, indicating strong curiosity, imagination, and appreciation for artistic and aesthetic experiences. The high neuroticism aligns with the emotional baseline findings below, supporting the reliability of self-reports.
+
+### Need for Cognition  
+Score: 4.1 / 5.  
+This person enjoys and seeks out effortful thinking to a high degree, preferring complex problems and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 4.3 / 5.  
+The participant shows a strong tendency to share and recognize others’ emotions, often becoming sad or scared in response to others’ feelings and accurately perceiving emotional states.
+
+### Green Values  
+Score: 4.8 / 5.  
+They have a strong environmental identity, expressing high concern for environmental impact, resource waste, and willingness to be inconvenienced for environmental reasons.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 2.5  
+Vertical Individualism: 1.5  
+Horizontal Collectivism: 3.5  
+Vertical Collectivism: 2.0  
+
+The participant shows a moderate orientation toward group loyalty and equality (horizontal collectivism 3.5), with low endorsement of hierarchy in either individualism or collectivism domains (vertical individualism 1.5, vertical collectivism 2.0). They moderately value personal independence (horizontal individualism 2.5) but reject competitive or hierarchical individualism. Overall, they lean toward valuing group cohesion and equality over personal dominance or status.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 13 / 63.  
+This score falls in the mild anxiety range. The symptom pattern is predominantly cognitive, with mild fear of the worst happening, nervousness, and feeling scared, but minimal somatic symptoms such as trembling, heart racing, or sweating. This cognitive symptom pattern supports the reliability of self-reports and aligns with the elevated neuroticism.
+
+### Beck Depression Inventory  
+Score: 12 / 61.  
+This score is in the mild depression range. The participant reports feeling sad and discouraged about the future but denies feelings of failure, guilt, or worthlessness. They do not report loss of interest in others or significant motivational deficits but do endorse some increased irritability and mild sleep disturbance. Physical symptoms such as appetite and weight are stable. The mild depression is consistent with the neuroticism and anxiety findings.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "i want to create beautiful things, that bring joy to people (or just to myself, even). i want to always have a conscious connection to divinity, and work that into everything i do. i want to make the world a better place with all of my actions."  
+- Ought self (what they feel they should be): "if i could hold down a job, that would be incredible, me bringing even a little money into our household would take such a weight off of my partner. i should keep the house cleaner, the corners free of dust, the sink empty of dishes, the laundry not in a huge pile. i should have time and energy to pursue my spiritual path and grow closer to the divine. i should be able to be out in the community, organizing against fascism, though probably in a more behind-the-scenes role."  
+- Actual self (what they believe they currently are): "i'm in a lot of pain that keeps me from doing the things i want to do; even when i have the physical capacity i often can't focus on doing them. i do my best to fulfill my responsibilities, regardless, but i often come short of my own standards. i love to play with words and ideas, i love to create some sort of order out of chaos, i love to learn new things, i love to laugh and make my friends laugh."  
+
+The three selves show meaningful gaps: the ideal self is aspirational and creative with spiritual focus; the ought self emphasizes responsibility and societal expectations, including employment and household duties; the actual self reflects physical pain and concentration difficulties limiting goal attainment, though still valuing creativity and social connection. There is a clear tension between ideal/ought and actual selves.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+All items answered correctly, showing strong fluid reasoning abilities with no clustering of errors.
+
+### Crystallized Intelligence  
+Score: 10 / 20.  
+The participant answered half of the vocabulary/synonym/antonym items correctly. Errors suggest some vocabulary gaps or uncertainty, as some plausible distractors were chosen.
+
+### Syllogistic Reasoning  
+Score: 7 / 12.  
+Errors occurred more on belief-biased items involving familiar or counterfactual content, indicating some influence of prior beliefs over pure logic.
+
+### Financial Literacy  
+Score: 6 / 8.  
+The participant missed two items: incorrectly answered the statement about mandatory withdrawals from 401(k)/IRA after age 70.5 (answered false, correct answer is true), and did not know that minimum credit card payments at 12% APR will never pay off the debt (answered "never" for payoff time, which is correct). Overall, financial literacy is above average but with some gaps.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items answered correctly, indicating strong numeric reasoning including probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All four items answered correctly, showing no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+Selected only card A, failing to select card 7. This classic matching bias indicates difficulty with conditional reasoning tasks requiring falsification.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), fluid intelligence, and numeracy skills, with moderate crystallized intelligence suggesting some vocabulary limitations. Their syllogistic reasoning shows susceptibility to belief bias, and their Wason selection task performance reveals a classic matching bias error. Financial literacy is generally good but with minor gaps. Overall, cognitive abilities are strong in reasoning and numeric domains but somewhat weaker in verbal knowledge and logical reasoning under belief conflict.
+
+## Summary  
+This participant is a 30-49-year-old male from the U.S. Northeast, living with a partner, with some college education and a home-maker employment status. Personality-wise, they are highly open and curious but reserved and emotionally sensitive, with mild anxiety and depression symptoms consistent with elevated neuroticism. They have a strong environmental and empathetic orientation and lean toward collectivist values emphasizing equality and group loyalty. Their sense of self reveals meaningful gaps between aspirations, perceived duties, and current limitations due to pain and concentration difficulties. Cognitively, they excel in reflective and fluid reasoning and numeracy but show moderate vocabulary gaps and some belief-driven reasoning errors. The most predictive feature for downstream simulation is the meaningful discrepancy between their ideal/ought selves and actual self, shaped by physical pain and cognitive focus challenges, combined with high openness and neuroticism.

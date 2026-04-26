@@ -1,0 +1,86 @@
+## Effort regulation and cognitive style  
+This individual demonstrates a strong preference for cognitive engagement and effortful thinking, as evidenced by high Need for Cognition (NFC) responses: they "like to have the responsibility of handling a situation that requires a lot of thinking" (5 - strongly agree), "prefer complex to simple problems" (4 - agree a little), and "enjoy a task that involves coming up with new solutions" (4 - agree a little). They also "disagree strongly" with statements indicating avoidance of thinking or minimal effort ("I only think as hard as I have to," "thinking is not my idea of fun"). This suggests a deliberate, analytical cognitive style with a willingness to invest mental effort.
+
+Cognitive test performance is mixed but generally competent. The participant correctly answered classic trick questions (e.g., "Emily’s father has three daughters... Emily" and "If you pass the person in second place, you are in second place"), showing good attention to detail and avoidance of common heuristic errors. However, some errors in logical reasoning tasks indicate specific deductive reasoning weaknesses: for example, incorrectly judging that the conclusion "Poodles do not have four legs" follows logically from premises (a classic conditional syllogism error), and incorrectly rejecting valid modus ponens in the postal strike problem. This pattern suggests occasional lapses in applying formal logic rules, possibly due to over-reliance on intuitive or belief-based reasoning rather than strict logical form.
+
+In verbal synonym and antonym tests, the participant shows some errors that suggest partial vocabulary gaps or semantic confusion (e.g., choosing "divulge" as synonym for "concur," and "ascetic" for "astute," and "affiliated" as antonym for "corpulent"). These errors indicate a moderate verbal reasoning level with occasional semantic misinterpretations, which may reflect either test fatigue or less familiarity with nuanced vocabulary.
+
+Big Five personality responses show high Conscientiousness: "does a thorough job" (5), "is a reliable worker" (5), "perseveres until the task is finished" (5), "makes plans and follows through" (5), and "is organized" (9/9 extremely accurate). However, there is a contradictory self-rating on "can be somewhat careless" (5 - agree strongly), which conflicts with the high conscientiousness items, suggesting some inconsistency or situational variability in effort regulation. The participant also reports "worries a lot" (5) and "can be moody" (5), indicating emotional variability that may occasionally interfere with cognitive control.
+
+Free responses about decision-making thoughts emphasize fairness and maximizing earnings, indicating a reflective and strategic approach to social-economic decisions. The participant’s self-description as a "good dad" despite "drinking a lot" suggests self-awareness and some acceptance of personal flaws without undermining core self-concept.
+
+Overall, the participant exhibits a generally analytical and conscientious cognitive style, with some specific logical reasoning errors and occasional emotional fluctuations that may modulate effort regulation.
+
+## Closure and uncertainty tolerance  
+The participant scores low on Need for Closure (NFCC) indicators: they "disagree strongly" with liking a well-ordered life with regular hours, discomfort with not understanding reasons for events, and dislike of unpredictable situations. They "neither agree nor disagree" or "disagree a little" with impatience for immediate solutions and dislike of ambiguous statements, except for a strong agreement (5) that they "dislike it when a person’s statement could mean many different things." This suggests a nuanced tolerance for uncertainty: generally comfortable with ambiguity and unpredictability but somewhat irritated by vague or equivocal communication.
+
+Behaviorally, the participant shows a preference for deliberation and reflection ("I usually end up deliberating about issues even when they do not affect me personally" - 4 agree a little), indicating a capacity to tolerate ambiguity and complexity without rushing to closure. Their economic game behavior also reflects strategic patience, offering fair splits and accepting a range of offers, consistent with moderate tolerance for uncertainty in social exchanges.
+
+Free responses do not indicate urgency or discomfort with ambiguity; rather, the participant aspires to be a "happy father" and "a great dad," which implies a long-term, stable orientation rather than impulsive closure seeking.
+
+In sum, the participant exhibits moderate to low need for closure, tolerates uncertainty well in most domains, but prefers clarity in communication and may be sensitive to ambiguous language.
+
+## Optimization strategy  
+The participant shows moderate maximizer tendencies. They "agree a little" or "agree strongly" with having high standards for themselves and trying to avoid second best, but do not strongly endorse "never settle for second best" (3 - neither agree nor disagree). They report rarely having difficulty finding clothing they love or shopping for gifts, suggesting efficient decision-making rather than exhaustive search.
+
+In consumerism scales, the participant strongly endorses minimalism and simplicity in possessions ("I avoid accumulating lots of stuff" - 5 strongly agree; "I actively avoid acquiring excess possessions" - 5 strongly agree; "I prefer leaving spaces visually empty" - 5 strongly agree). This minimalist orientation suggests a preference for curated, deliberate choices rather than maximizing variety or uniqueness.
+
+Economic game behavior shows a balance between fairness and self-interest: they propose keeping $2-$3 and sending $3-$2 to others, and when in the receiver role, they keep a majority share but return some money, indicating pragmatic optimization rather than pure maximization or satisficing.
+
+Free-response thoughts during economic decisions emphasize "fairness" and "equality" when deciding how much to send, but "maximize earnings at all costs" when deciding how much to keep as receiver, indicating a context-dependent optimization strategy that balances social norms with self-interest.
+
+Overall, the participant is a moderate maximizer with a minimalist consumer style, pragmatic in social-economic decisions, and not prone to indecision or excessive re-evaluation.
+
+## Self-concept stability  
+The participant reports very high self-concept clarity (SCC): they "disagree strongly" with statements about conflicting self-beliefs, frequent changes in self-opinion, or uncertainty about who they are. They "agree strongly" that they have a clear sense of who they are and what they are. This indicates a stable and coherent self-concept.
+
+There is a small gap between aspirational and actual self: the participant aspires to be a "happy father" and "great dad who drinks no alcohol," but admits "I drink a lot" while still being "a good dad." This suggests some tension between ideal and actual self, but the participant integrates this without major conflict or instability.
+
+Big Five responses show some contradictions: high agreeableness on "has a forgiving nature" (5) but also agreeing "is sometimes rude to others" (4), and high conscientiousness but also agreeing "can be somewhat careless" (5). These may reflect situational variability rather than fundamental self-concept instability.
+
+Overall, the participant’s self-concept is stable and clear, with minor acknowledged discrepancies between ideal and actual traits, especially regarding alcohol use.
+
+## Behavioral vs. stated-preference gap  
+There is a notable gap between some self-reports and behavior. For example, the participant rates themselves as "helpful and unselfish" (4 agree a little) but in economic games, they keep a substantial share and only moderately share with others, indicating a pragmatic rather than altruistic stance. Similarly, they "disagree strongly" with being talkative or outgoing, yet endorse "generates a lot of enthusiasm" (4) and "likes to cooperate with others" (5), suggesting some social engagement despite introversion.
+
+Social desirability appears moderate: the participant admits to drinking a lot despite aspiring to abstain, and acknowledges occasional rudeness and irritability, indicating some candor. Their social desirability score is not explicitly given, but the presence of self-critical admissions and contradictory answers suggests moderate trustworthiness of self-report.
+
+In cognitive tests, the participant’s self-estimated correct answers (24/42) slightly overestimate the actual performance (some errors in logic and vocabulary), indicating mild overconfidence.
+
+In sum, behavioral data suggest a pragmatic, somewhat self-interested individual who values fairness but balances it with self-interest, while self-reports show moderate social desirability bias but reasonable candor.
+
+## Intertemporal patience  
+The participant’s intertemporal choice behavior shows moderate patience with some discounting of delayed rewards. They often prefer immediate smaller rewards over delayed larger ones when the delay difference is small (e.g., choosing $3 now over $6 in one week), but switch to preferring delayed rewards when the immediate reward is substantially smaller. This pattern indicates a typical hyperbolic discounting curve with some self-control.
+
+Conscientiousness is high, with strong agreement on "makes plans and follows through" and "does a thorough job," supporting capacity for delayed gratification and planning.
+
+Free responses do not mention procrastination or impulsivity, and the participant reports "I can work about as well as before" and no increased tiredness or sleep problems, suggesting stable executive function.
+
+Overall, the participant exhibits moderate intertemporal patience, capable of planning and delaying gratification but sensitive to reward magnitude and timing.
+
+## Egocentric projection tendency  
+The participant’s self-concept clarity is high, which typically predicts lower egocentric projection and false consensus bias. Empathy scores are mixed: they "agree a little" or "neither agree nor disagree" on many empathy items, with some contradictory responses (e.g., "other people’s feelings don’t bother me at all" - 4 agree a little, but also "I often get swept up in my friends’ feelings" - 4 agree a little). This ambivalence suggests moderate empathy.
+
+Political identity is strong and very conservative, which may increase projection on political and policy attitudes.
+
+Taken together, the participant likely exhibits moderate false consensus effects, especially in domains aligned with their strong political identity, but less so in interpersonal or emotional domains due to moderate empathy and high self-concept clarity.
+
+## Bias susceptibility predictions  
+**High confidence predictions:**  
+- Probability matching vs. maximizing: Likely to maximize rather than probability match, given analytical style and strategic economic choices.  
+- Denominator neglect: Likely low, as participant correctly interprets probabilities and frequencies in lottery and disease risk questions.  
+- Belief bias: Moderate, as some logical errors align with belief-based reasoning (e.g., rejecting valid conclusions inconsistent with real-world knowledge).  
+- Wason matching bias: Likely low, given correct selection of cards to test conditional rules.
+
+**Moderate confidence predictions:**  
+- False consensus effect: Moderate, due to strong political identity and moderate empathy.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, as participant shows some emotional variability but generally rational risk assessments.
+
+**Low confidence predictions (acknowledging limits):**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: These biases are not reliably predictable from the data and require caution.
+
+## Self-report reliability weighting  
+Self-reports are moderately reliable. The participant shows some social desirability bias but also admits to personal flaws (e.g., drinking, occasional rudeness). Somatic symptom reports are low, and self-reported neuroticism is moderate to high (worries a lot, moody), suggesting reasonable calibration between somatic and self-report data. The observed gaps between stated attitudes and revealed behavior (e.g., fairness vs. pragmatic economic choices) are informative signals rather than noise. Overall, self-reports should be weighted with moderate confidence, supplemented by behavioral data.
+
+## Summary  
+This participant exhibits a generally analytical and conscientious reasoning style, with a strong preference for cognitive effort and reflection. They tolerate uncertainty moderately well but prefer clarity in communication. Their optimization strategy balances fairness with pragmatic self-interest, consistent with a moderate maximizer and minimalist consumer profile. Self-concept is stable and clear, though some aspirational-actual self gaps exist, especially regarding alcohol use. Behavioral data reveal occasional logical reasoning errors linked to belief bias, and moderate emotional variability. They show

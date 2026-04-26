@@ -1,0 +1,2 @@
+setting,reasoning,overall_acc,bias_acc,bias_ci_lo,bias_ci_hi,pricing_acc,pricing_ci_lo,pricing_ci_hi
+skill_v2_bg_dp_ep_50p,high,0.6933,0.6959,0.671,0.7208,0.6515,0.6228,0.6802

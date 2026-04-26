@@ -1,0 +1,42 @@
+## Spending and Consumption Mode
+
+### Tightwad-Spendthrift  
+Score: 7 (scale: 4 = extreme tightwad, 26 = extreme spendthrift, midpoint ~13). This participant’s default spending mode leans moderately toward spendthrift tendencies, as indicated by a self-rating of 7 on the scale. They rarely have trouble limiting their spending (answering "Rarely") but sometimes have trouble spending money (answering "Sometimes"), suggesting some internal conflict or situational variability in spending control. The mall scenario response (choosing a midpoint between Mr. A and Mr. B) also reflects a balanced but slightly spendthrift orientation. Overall, the items mostly agree, showing a mild spendthrift profile with some occasional difficulty in restraining spending.
+
+## Decision Search and Closure
+
+### Maximization vs. Satisficing  
+Score: 4.7 / 5. This participant searches exhaustively for the best possible option rather than settling for good enough, as indicated by strong agreement with statements reflecting high standards, never settling for second best, and a tendency to deliberate carefully.
+
+### Need for Cognitive Closure (NFCC)  
+Score: Approximately 3.0 / 5. The participant shows a moderate need for cognitive closure, neither strongly desiring quick definite answers nor showing high tolerance for ambiguity. They neither strongly agree nor disagree with statements about discomfort with uncertainty or impatience for solutions, indicating a balanced decisiveness style. This suggests moderate decision speed and a balanced commitment style under uncertainty.
+
+### Regulatory Focus (RFS)  
+Score: Approximately 5.0 / 7 (higher = more promotion-focused). The participant is primarily promotion-focused, oriented toward achieving ideals, gains, and aspirations rather than prevention or loss avoidance. This orientation implies they will be more responsive to gain-framed and opportunity-framed choices, seeking advancement and accomplishment. This promotion focus is consistent with their moderate present bias and spendthrift tendencies, suggesting openness to future rewards and opportunities rather than strict loss avoidance.
+
+### IPIP Conscientiousness (Wave 2)  
+Score: 7.5 / 8 (based on strong agreement with items like organized, efficient, systematic). The participant is highly conscientious, very organized, systematic, and efficient in executing decisions. This score aligns well with their background Big Five conscientiousness profile, indicating consistency in self-reported personality traits related to decision execution.
+
+## Metacognition
+
+### Overconfidence  
+Score: +16 (predicted own score 36 vs. actual 20 average; predicted 36 correct out of 42, actual 20 average for US adults). The participant is strongly overconfident, substantially overestimating their cognitive test performance by 16 points. This is a large positive overconfidence score indicating miscalibration.
+
+### Overplacement  
+Score: +16 (own predicted score 36 minus average predicted score 20). The participant believes they outperform peers by a large margin, showing a strong social comparison bias toward overplacement.
+
+Cross-referencing these metacognitive scores with the cognitive ability profile (actual performance near average for US adults) reveals a high-confidence miscalibration: the participant’s confidence far exceeds their actual ability, which may lead to overestimation of their decision-making accuracy and risk underestimating uncertainty.
+
+### Forward Flow (Divergent Thinking)  
+Forward Flow data not available in this wave.
+
+## Time Preferences
+
+### Discount Rate  
+Annualized discount rate: Approximately 400% (based on consistent preference for sooner-smaller rewards over later-larger rewards across all three price lists until the very last options). The participant always preferred the sooner-smaller reward until the later-larger reward became substantially better, indicating a very high discount rate and strong impatience. This rate is well above typical US adult ranges (20%-200%), marking this participant as highly impatient when trading off sooner versus later rewards.
+
+### Present Bias  
+Present bias coefficient: Approximately +1.2 (positive, indicating present bias). The participant shows a strong present bias, preferring immediate rewards more than the base discount rate predicts. This is directionally consistent with their moderately spendthrift spending mode, reflecting a tendency to favor immediate gratification and less self-control over delayed rewards.
+
+## Summary  
+This participant exhibits a moderately spendthrift spending mode with occasional difficulty limiting spending, paired with a strong maximization decision style and high conscientiousness, indicating thorough and systematic decision execution. Their regulatory focus is promotion-oriented, making them more responsive to gain-framed and opportunity-based choices. However, they show a large overconfidence and overplacement bias relative to their actual cognitive ability, suggesting a risk of miscalibrated confidence in their decisions. Their time preferences reveal very high impatience and strong present bias, consistent with their spending tendencies. The most predictive feature for simulating this person on choice tasks is their high discount rate combined with strong overconfidence, which will influence impulsivity and risk assessment under uncertainty.

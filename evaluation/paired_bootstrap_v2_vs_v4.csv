@@ -1,0 +1,7 @@
+variant,metric,contrast,n_paired_pids,sample_size_m,v2_mean,v4_mean,delta_point,ci_lo,ci_hi,se,rho,p_two_sided,significant_95,better
+bg_ep,overall,v4 minus v2 (bg_ep),50,50,0.7065,0.6925,-0.014,-0.0238,-0.0046,0.0049,0.838,0.0026,True,v2
+bg_ep,cognitive_bias,v4 minus v2 (bg_ep),50,50,0.7493,0.7495,0.0003,-0.007,0.0072,0.0037,0.901,0.9466,False,v4
+bg_ep,pricing,v4 minus v2 (bg_ep),50,50,0.6505,0.618,-0.0325,-0.0545,-0.011,0.011,0.778,0.003,True,v2
+bg_dp_ep,overall,v4 minus v2 (bg_dp_ep),50,50,0.6955,0.6982,0.0027,-0.0136,0.0246,0.0097,0.538,0.8518,False,v4
+bg_dp_ep,cognitive_bias,v4 minus v2 (bg_dp_ep),50,50,0.7292,0.7514,0.0222,0.003,0.0545,0.0141,0.517,0.0078,True,v4
+bg_dp_ep,pricing,v4 minus v2 (bg_dp_ep),50,50,0.6515,0.6285,-0.023,-0.0435,-0.002,0.0105,0.753,0.0302,True,v2

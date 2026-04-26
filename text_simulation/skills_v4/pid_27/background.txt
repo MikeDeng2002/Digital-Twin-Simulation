@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned female at birth and are in the 50-64 age group. Their highest level of education completed is some college, no degree. They identify as White and are a U.S. citizen. Their marital status is married. Their present religion is Protestant, and they seldom attend religious services aside from weddings and funerals. Politically, they consider themselves an Independent and describe their political views as liberal. Their household income last year was $100,000 or more. More than four people live in their household. Their current employment status is part-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is in the mid-range, suggesting a moderate level of candidness in self-reports; self-reports should be interpreted with some caution but are not strongly biased by impression management.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.0  
+Agreeableness: 4.0  
+Conscientiousness: 4.0  
+Neuroticism: 3.0  
+Openness: 3.5  
+
+The participant’s Big Five profile indicates a moderately introverted interpersonal style (extraversion at midpoint), with a notably high agreeableness (4.0) and conscientiousness (4.0), suggesting they are helpful, kind, reliable, and diligent in work habits. Neuroticism is moderate (3.0), indicating average emotional stability without strong tendencies toward anxiety or moodiness. Openness is slightly above midpoint (3.5), reflecting some curiosity and creativity but not extreme openness. No scores are at or near scale extremes (≤1.5 or ≥4.5). The moderate neuroticism aligns with the emotional baseline data, showing no major discrepancy.
+
+### Need for Cognition  
+Score: 3.0 / 5.  
+This indicates a moderate enjoyment and engagement with effortful thinking; the participant neither strongly seeks nor avoids complex cognitive tasks.
+
+### Empathy (BES-A)  
+Score: 4.3 / 5.  
+The participant shows a strong tendency to share and recognize others’ emotions, indicating high empathic concern and emotional attunement.
+
+### Green Values  
+Score: 3.0 / 5.  
+The participant has a moderate environmental identity but shows some ambivalence or lower prioritization of environmental concerns.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.0  
+Vertical Individualism: 3.0  
+Horizontal Collectivism: 3.0  
+Vertical Collectivism: 3.0  
+
+The participant leans toward horizontal individualism, valuing personal independence and equality within that domain. Vertical individualism, vertical collectivism, and horizontal collectivism are all moderate, indicating a balanced orientation with some respect for hierarchy and group loyalty but no strong extremes. Overall, the participant values personal autonomy moderately while maintaining some group loyalty and acceptance of social structure.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 4 / 63.  
+This score falls in the minimal anxiety range (0-7). The symptom pattern shows almost no somatic symptoms (e.g., trembling, heart racing, sweating) and minimal cognitive symptoms (e.g., fear of losing control, fear of dying). This minimal anxiety level supports the reliability of self-reports in personality and emotional baseline.
+
+### Beck Depression Inventory  
+Score: 6 / 61.  
+This score is in the minimal depression range (0-9). The participant reports no significant cognitive distortions, motivational deficits, or physical symptoms of depression. This minimal depression level aligns with the moderate neuroticism and minimal anxiety, supporting consistent self-report reliability.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be very disciplined with healthy eating, so that I only eat food that is healing or provides nutritional value. I would also like to exercise regularly, going to the gym and doing a full weight training workout 3x a week. In addition, I would like to stay on top of my housework, keeping my home in good condition and always ready for company."  
+- Ought self (what they feel they should be): "I ought to take better care of myself and my home. I should do all the things that need to be done, when they need to be done instead of putting things off. I should also take better care of my home."  
+- Actual self (what they believe they currently are): "I get overwhelmed with responsibilities and allow that to get in the way of self care and house keeping. This makes me feel sad and then I get even more overwhelmed."  
+
+There are meaningful gaps between the selves: the ideal and ought selves emphasize discipline and responsibility, while the actual self reveals feelings of being overwhelmed and sadness, indicating a discrepancy between aspirations and current behavior.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+The participant answered all fluid intelligence items correctly, showing strong ability in matrix completion and cube rotation tasks without clustering of errors.
+
+### Crystallized Intelligence  
+Score: 7 / 20.  
+The participant answered only 7 out of 20 vocabulary/synonym/antonym items correctly. Errors suggest a vocabulary gap or guessing, as many incorrect answers were plausible distractors rather than random guesses.
+
+### Syllogistic Reasoning  
+Score: 8 / 12.  
+Errors occurred more on belief-biased items (counterfactual or familiar content), indicating some influence of prior beliefs on logical reasoning, but overall good logical reasoning ability.
+
+### Financial Literacy  
+Score: 7 / 8.  
+The participant missed only one item: incorrectly answered that after 1 year with 1% interest and 2% inflation, they would be able to buy exactly the same as today (correct answer is less). This reveals a specific gap in understanding inflation’s effect on purchasing power.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items were answered correctly, showing strong numeric reasoning including probability conversion and percentage calculation.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items were answered correctly, indicating no reluctance to accept logically valid conclusions even if they conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+The participant correctly selected the logically necessary cards (A and 7), avoiding the classic matching bias of choosing A and 3.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning and fluid intelligence, with perfect CRT and fluid intelligence scores. However, crystallized intelligence is notably low, indicating limited vocabulary and verbal knowledge. Syllogistic reasoning is good but somewhat influenced by belief bias. Financial literacy is high except for a misunderstanding of inflation effects. Numeracy and deductive reasoning are strong and consistent with overall cognitive ability. The participant’s cognitive profile suggests strong problem-solving and logical reasoning skills but limited verbal knowledge, which may affect tasks relying on vocabulary or verbal comprehension.
+
+## Summary  
+This participant is a middle-aged White female from the Southern U.S., with some college education and part-time employment. She is moderately introverted, highly agreeable and conscientious, emotionally stable, and moderately open to experience. She enjoys empathizing with others and has a moderate need for cognition. Her environmental concern is moderate but not strong. Emotionally, she reports minimal anxiety and depression, consistent with her moderate neuroticism. Her sense of self reveals meaningful gaps between her ideal, ought, and actual selves, with feelings of being overwhelmed and sadness despite aspirations for discipline and order. Cognitively, she excels in fluid intelligence, reflective reasoning, numeracy, and deductive logic but shows a significant vocabulary gap and some belief bias in reasoning. Financial literacy is generally strong except for a misunderstanding of inflation’s impact. The most predictive feature for downstream simulation is the combination of high fluid and reflective reasoning with low crystallized intelligence, indicating strong problem-solving skills but limited verbal knowledge, alongside meaningful self-concept gaps that may influence emotional responses.

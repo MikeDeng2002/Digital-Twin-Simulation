@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned female at birth and belong to the 65+ age group. Their highest level of education completed is high school graduate. They identify as White in race/ethnicity and are a U.S. citizen. Their marital status is divorced. Their present religion is Protestant, but they never attend religious services aside from weddings and funerals. Politically, they consider themselves an Independent and describe their political ideology as liberal. Their household income last year was less than $30,000. They live alone in a household of one and are currently retired.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, so personality and emotional baseline data can be interpreted with confidence.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.5 (approximate average of items; mostly between 2 and 4)  
+Agreeableness: 4.8 (many items at 5, very high agreeableness)  
+Conscientiousness: 4.7 (mostly 4s and 5s, very high conscientiousness)  
+Neuroticism: 1.3 (very low, many items at 1)  
+Openness: 3.5 (mostly 2 to 5, moderate openness)  
+
+This profile reveals a person who is reserved and not very talkative (extraversion low to moderate), extremely kind, helpful, and forgiving (agreeableness near ceiling), and highly reliable and thorough in work habits (conscientiousness near ceiling). Neuroticism is very low, indicating emotional stability and low tendency to experience negative emotions. Openness is moderate, showing some curiosity and appreciation for artistic experiences but not strongly inventive or original. The very low neuroticism aligns with the emotional baseline data showing minimal anxiety and depression, supporting consistency in self-report.
+
+### Need for Cognition  
+Score: 3.6 / 5 (average of mostly 4s and some 2s)  
+This person enjoys and seeks out effortful thinking to a moderate degree, showing interest in complex problems and intellectual challenges but not extreme enthusiasm.
+
+### Empathy (BES-A)  
+Score: 4.3 / 5 (mostly 4s and 5s, very high empathy)  
+The participant has a strong tendency to share and recognize others’ emotions, showing high emotional attunement and compassion.
+
+### Green Values  
+Score: 4.3 / 5 (mostly 4s and one 5)  
+This indicates a strong environmental identity and concern for the planet, with willingness to take environmentally friendly actions even if inconvenient.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.5 (mostly 5s)  
+Vertical Individualism: 1.3 (mostly 1s)  
+Horizontal Collectivism: 4.6 (mostly 5s)  
+Vertical Collectivism: 2.3 (mostly 1s and 4s)  
+
+The participant strongly values personal independence and equality (high horizontal individualism), but rejects hierarchy and competition within individualism (very low vertical individualism). Similarly, they strongly endorse group loyalty and equality (high horizontal collectivism) but are less supportive of hierarchical or authoritarian group structures (low vertical collectivism). This suggests a preference for egalitarianism both personally and socially, with emphasis on cooperation and mutual support rather than dominance or competition.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 1 / 63 (minimal anxiety)  
+The participant reports virtually no anxiety symptoms, with all somatic and cognitive symptoms rated as "not at all" except a minimal rating of 1 for indigestion/discomfort. This minimal somatic symptom pattern supports the reliability of self-reports and aligns with low neuroticism.
+
+### Beck Depression Inventory  
+Score: 6 / 61 (minimal depression)  
+All depression items indicate minimal or no symptoms. The participant does not report sadness, guilt, irritability, loss of interest, or physical symptoms of depression. This minimal depression level is consistent with low neuroticism and minimal anxiety.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I like to be the type of person who gives a lot to their community. A person who volunteers their time to helping the less fortunate people in their community. I would like to be the type of person who people in the community know they can count on for help."  
+- Ought self (what they feel they should be): "I should be the type of person who generously donates their time and energy to helping others. I should be the type of person who gets up every morning and goes out to find who needs a helping hand that day. I should be the type of person who gives of their selves to others."  
+- Actual self (what they believe they currently are): "I am the type of person who prefers to help people from a distance. I am the type of person who does not like being around a lot of people. I am the type of person who doesn't mind helping someone as long as I don't have to be around a large crowd to do so."  
+
+There are meaningful gaps between the selves: the ideal and ought selves emphasize active, direct community involvement and generosity, while the actual self describes a more reserved, indirect style of helping, avoiding large social gatherings. This indicates some internal conflict or tension between aspirations and current behavior.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4 (all correct)  
+The participant correctly answered all CRT items, showing strong reflective reasoning and avoidance of intuitive traps (e.g., correctly answered the bat and ball question with 0.10, not the intuitive $1.00).
+
+### Fluid Intelligence  
+Score: 5 / 6  
+The participant made one error on the fluid intelligence tasks. Errors did not cluster on a particular item type (matrix completion vs. cube rotation), but the cube rotation tasks showed some difficulty, as evidenced by mixed answers on cube rotation items and a final choice of "None of the cubes could be a rotation" in one item, indicating cautious or conservative reasoning.
+
+### Crystallized Intelligence  
+Score: 20 / 20 (all correct)  
+The participant answered all vocabulary synonym and antonym items correctly, indicating strong verbal knowledge and vocabulary.
+
+### Syllogistic Reasoning  
+Score: 8 / 12  
+Errors occurred more on belief-biased items involving familiar or counterfactual content, indicating some influence of prior beliefs on logical reasoning rather than purely formal logic.
+
+### Financial Literacy  
+Score: 8 / 8 (all correct)  
+The participant answered all financial literacy questions correctly, demonstrating strong knowledge of financial concepts such as mortgages, inflation, investment risk, and credit card debt.
+
+### Numeracy  
+Score: 8 / 8 (all correct)  
+All numeracy items were answered correctly, including probability conversion and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4 (all correct)  
+The participant accepted all logically valid conclusions, showing no reluctance to accept valid deductive inferences even if they conflicted with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4  
+The participant selected cards A and 3 to test the rule "If there is an A on one side, then there is a 3 on the other," which is the classic matching bias error. The logically correct cards to turn over are A and 7, so this indicates a common reasoning bias.
+
+## Cognitive Summary  
+The participant demonstrates strong verbal knowledge and financial literacy, with perfect crystallized intelligence and financial literacy scores. Reflective reasoning is strong as shown by a perfect CRT score, but fluid intelligence is slightly weaker, with some difficulty on spatial rotation tasks. Logical reasoning is generally good but shows some susceptibility to belief bias and classic reasoning errors such as the matching bias on the Wason task. Numeracy is excellent, consistent with financial literacy. Overall, the cognitive profile suggests a well-educated, verbally skilled individual with good reasoning abilities but some typical reasoning biases and moderate spatial reasoning challenges.
+
+## Summary  
+This participant is a retired White female aged 65+ living alone in the Southern U.S., with a high school education and low income. She is emotionally stable with minimal anxiety and depression, and reports candid self-assessments. Personality-wise, she is highly agreeable, conscientious, and emotionally stable, moderately open, and somewhat reserved socially. She enjoys effortful thinking moderately and has strong empathy and environmental concern. Her self-concept reveals a desire to help others actively but a preference for indirect, low-social-contact assistance, indicating some internal tension between ideal and actual selves. Cognitively, she excels in verbal knowledge, financial literacy, and reflective reasoning, with minor weaknesses in fluid/spatial tasks and some common reasoning biases. The most predictive feature for downstream simulation is the meaningful gap between her ideal/ought selves and actual self, reflecting a nuanced social and emotional self-regulation style that balances altruism with social reserve.

@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the West region of the United States. They were assigned female at birth and are in the 30-49 age group. Their highest level of education is postgraduate. They identify as White and are a U.S. citizen. Their marital status is living with a partner. Their present religion is agnostic, and they seldom attend religious services. Politically, they identify as a Democrat with liberal views. Their household income last year was between $50,000 and $75,000. The household size is two people, and their current employment status is part-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is in the mid-range, suggesting moderate trustworthiness of self-reports; self-presentation bias is not strongly indicated but should be considered as a mild caveat when interpreting personality and emotional baseline data.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.9 (approximate mean from item responses)  
+Agreeableness: 4.0  
+Conscientiousness: 3.8  
+Neuroticism: 3.0  
+Openness: 3.8  
+
+The participant shows a moderately low extraversion level, indicating a somewhat reserved and quiet interpersonal style, with low talkativeness and moderate energy. Agreeableness is relatively high, with strong helpfulness and kindness, suggesting a warm and cooperative interpersonal approach. Conscientiousness is moderately high, reflecting a tendency to be thorough, reliable, and efficient, though not at an extreme. Neuroticism is moderate, with some tendency toward worry and moodiness but not at an extreme; this aligns with emotional baseline data. Openness is moderately high, indicating curiosity, imagination, and originality, but not at a ceiling level. No Big Five dimension is at or near a scale extreme (<=1.5 or >=4.5). Neuroticism is moderate and consistent with the emotional baseline findings.
+
+### Need for Cognition  
+Score: 4.6 / 5.  
+This participant strongly enjoys and seeks out effortful thinking, preferring complex problems and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 3.9 / 5.  
+The participant tends to share and recognize others' emotions well, showing strong empathic concern and emotional contagion.
+
+### Green Values  
+Score: 3.5 / 5.  
+The participant shows moderate environmental identity, expressing some concern for environmental impact and responsibility but with some ambivalence.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.75 / 5  
+Vertical Individualism: 3.0 / 5  
+Horizontal Collectivism: 3.0 / 5  
+Vertical Collectivism: 2.5 / 5  
+
+The participant strongly endorses horizontal individualism, valuing personal independence and equality. Vertical individualism and horizontal collectivism are moderate, indicating some acceptance of competition and group loyalty but not strongly hierarchical or collectivist. Vertical collectivism is relatively low, suggesting less emphasis on hierarchical group obligations. Overall, the participant prioritizes personal independence and equality over group hierarchy or strong group loyalty.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 7 / 63.  
+This score falls in the minimal anxiety range. The symptom pattern shows very low somatic symptoms (e.g., trembling, heart racing) and minimal cognitive symptoms (e.g., fear of losing control), indicating low anxiety overall.
+
+### Beck Depression Inventory  
+Score: 9 / 61.  
+This score is at the upper limit of the minimal depression range. The participant reports feeling sad and discouraged but denies severe cognitive distortions or motivational deficits. There is no indication of severe or moderate depression. The emotional baseline is consistent with moderate Big Five neuroticism and no self-report reliability concerns.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be successful. I want to do well in my career and be respected. I want to be brilliant at work."  
+- Ought self (what they feel they should be): "I ought to be generous and caring. I ought to take care of my family and those around me. I ought to be helpful."  
+- Actual self (what they believe they currently are): "I am kind and caring and helpful. I am thoughtful. I am generous."  
+
+The three selves are largely consistent, with the actual self aligning well with the ought self in terms of generosity and helpfulness, and the ideal self focusing on career success and respect. There is a meaningful but not contradictory gap between the ideal self’s career focus and the actual self’s emphasis on kindness and helpfulness.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant answered three items correctly and one incorrectly. The incorrect answer was to the bat and ball problem, answering "0.05" instead of the correct $0.05 (which is correct), so no intuitive trap noted here. (Note: The answer given was 0.05, which is correct.) However, the hole volume question was answered as 9 cubic feet, which is incorrect because a hole contains zero cubic feet of dirt — this is a volume-of-solid intuitive trap.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+All items were answered correctly, with no clustering of errors. The participant shows strong fluid intelligence, including matrix completion and cube rotation tasks.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (based on 10 synonym and antonym questions answered correctly out of 10 each).  
+The participant answered most vocabulary and verbal knowledge items correctly, with only one error on the synonym "ASTUTE" (answered "lineal" instead of "sagacious"), suggesting a minor vocabulary gap or guessing on that item.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (based on 8 syllogistic reasoning items answered; 2 errors).  
+Errors occurred on belief-biased items involving counterfactual or familiar content, indicating some influence of prior beliefs on logical reasoning.
+
+### Financial Literacy  
+Score: 7 / 8.  
+The participant missed the credit card minimum payment question, answering "30 years" instead of "never," indicating a knowledge gap about credit card debt payoff mechanics.
+
+### Numeracy  
+Score: 7 / 8.  
+The participant answered most numeracy questions correctly but erred on the question about how long it takes 100 machines to make 100 widgets, answering "100" minutes instead of 5 minutes, indicating a failure in proportional reasoning.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items were answered correctly, showing no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 4 / 4.  
+The participant selected all correct cards (A, F, 3, 7), showing no classic matching bias.
+
+## Cognitive Summary  
+The participant demonstrates strong fluid intelligence and cognitive reflection, with perfect performance on fluid reasoning and deductive logic tasks. Crystallized intelligence is high but with minor vocabulary gaps. Syllogistic reasoning shows some belief bias, indicating reasoning influenced by prior beliefs. Financial literacy is generally strong but with a notable gap in understanding credit card debt payoff. Numeracy is good overall but includes a proportional reasoning error. The cognitive profile is consistent with their high need for cognition and reflective thinking style.
+
+## Summary  
+This participant is a well-educated, moderately reserved female in her 30s-40s living in the Western U.S., with a postgraduate degree and part-time employment. She is warm, helpful, and conscientious, with moderate emotional stability and a strong preference for intellectual engagement. Her empathy is high, and she values personal independence and equality over hierarchical or collectivist orientations. Emotional baseline measures indicate minimal anxiety and minimal depression, consistent with her moderate neuroticism. Cognitively, she is strong in fluid intelligence and reasoning, with minor gaps in vocabulary and financial knowledge. The most predictive feature for downstream simulation is her strong need for cognition combined with a specific cognitive error on the volume-of-solid intuitive trap in the CRT, reflecting a tendency to occasionally rely on intuitive but incorrect reasoning despite high overall cognitive ability.

@@ -1,0 +1,5 @@
+setting,reasoning,status,LLM_Accuracy,LLM_CI_low,LLM_CI_high,Random_Baseline,Human_Ceiling
+bg,high,ok,0.706,0.667,0.744,0.592,0.831
+bg_dp,high,ok,0.726,0.687,0.766,0.586,0.831
+bg_ep,high,ok,0.7,0.664,0.736,0.585,0.831
+bg_dp_ep,high,ok,0.695,0.648,0.743,0.603,0.831

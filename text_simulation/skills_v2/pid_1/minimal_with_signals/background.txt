@@ -1,0 +1,46 @@
+# Minimal context with key direct signals for pid_1
+
+## Demographics
+- Sex: Female
+- Race: Black
+- Age: 30-49
+- Region: Midwest (US)
+- Education: Some college, no degree
+- Employment: Part-time
+- Marital status: Married
+- Household size: 3
+- Income: $50,000-$75,000 (family total)
+- Political identity: Independent, moderate
+- Religion: Nothing in particular
+
+## Direct spending signals
+- Spendthrift self-identification: 11/11 on spendthrift scale (maximum)
+- Consumer spending: ambivalent, sometimes trouble limiting, sometimes trouble spending
+- Shopping scenario: more similar to Mr. B (hesitant spender)
+- Minimalism scale: strong endorsement (most items 4-5 on 5-point scale)
+
+## Direct Big Five signals (key items only)
+- Conscientiousness: thorough=5, reliable=5, perseveres=5, efficient=5 (very high)
+- Extraversion: talkative=1, reserved=4, quiet=5 (low)
+- Neuroticism: depressed=1, worries=1, tense=1, emotionally-stable=5 (self-reported low)
+- Openness: inventive=5, artistic=5, curious=4 (moderate)
+- Agreeableness: considerate=5, not-quarrelsome=1, helpful=4 (mixed)
+
+## Direct values (uniquely high/low only)
+- Trust: 9/9 (uniquely highest)
+- Harmony: 6/9 (uniquely lowest)
+- All other values rated 7-8/9 (compressed band, not informative)
+
+## Direct behavioral signals
+- Dictator game: kept $5, gave $0
+- Trust game as sender: kept $3, sent $2
+- Intertemporal: consistently prefers smaller sooner rewards
+
+## Direct reasoning signals
+- CRT-style "3x3x3 hole" answered 27 (intuitive-trap error; correct is 0)
+- Self-estimated cognitive score: 10/42 (vs average of 25/42)
+
+## Free-response quotes (direct, no interpretation)
+Aspirational: "I would like to be a less selfless person... my tendency to be selfish is the most important thing for me."
+Actual: "I am so generous. I would put everyone's needs before mine every time."
+Ought: "I ought to be more helpful. Sometimes I'm just lazy because I have so much to do and then I put it off because I'm so overwhelmed."

@@ -1,0 +1,44 @@
+## Effort regulation and cognitive style
+The person's Need for Cognition (NFC) profile is directly measured by 18 items. They generally agree a little with statements indicating a preference for complex problems, responsibility in thinking, satisfaction in deliberating hard, and enjoyment of intellectual tasks (e.g., items 1, 2, 6, 10, 11, 13, 14, 15, 18 all answered "Agree a little" or 4). They disagree a little with statements indicating avoidance of thinking or preference for little thought (items 3, 4, 5, 7, 9, 12, 16, 17 all answered "Disagree a little" or 2). This pattern suggests a moderate but consistent engagement with cognitive effort and preference for thinking.
+
+Regarding cognitive test items, the person answered 35 out of 42 correctly, estimating that the average US adult would answer 40 correctly. They correctly solved various logic and reasoning problems, including syllogisms and conditional reasoning (e.g., all eight syllogism questions answered "Yes" correctly). They correctly answered CRT-style items such as the bat and ball problem (ball costs $0.10), the lily pad doubling problem (47 days), and the credit card debt question ("never" to payoff). They also correctly identified the intuitive trap in the race question (passing second place means being in second place). The intuitive-trap pattern avoided is the common impulsive error in CRT items, such as the bat and ball problem where many answer $0.10 incorrectly; here the person answered correctly.
+
+They performed well on analogies and synonym/antonym tasks, selecting correct answers for all 20 vocabulary items. For the cube rotation tasks, they showed mixed performance, sometimes selecting "None of the cubes could be a rotation" (item 4 in one cube task), indicating careful reasoning rather than guessing.
+
+Overall, the person demonstrates moderate to strong cognitive engagement and reasoning ability, with no evidence of intuitive-trap errors on CRT-style items.
+
+## Closure and uncertainty tolerance
+The Need for Closure (NFCC) scale is directly measured with 15 items. The person strongly agrees with statements indicating discomfort with uncertainty and preference for order and predictability (items 1, 2, 3, 4, 6, 8, 10, 11, 12, 13 all answered "Agree strongly" or 5). They also agree a little with items indicating impatience with ambiguity and desire for quick solutions (items 5, 7, 9, 14, 15 answered 4 or 5). For example, item 1 "I don’t like situations that are uncertain" is answered 5 (Agree strongly), and item 8 "When I am confronted with a problem, I’m dying to reach a solution very quickly" is 5 (Agree strongly).
+
+This profile indicates a high need for closure, with low tolerance for ambiguity and uncertainty, a preference for structured and predictable environments, and a tendency to seek quick resolution of problems.
+
+## Optimization strategy
+The Maximizer scale (6 items) is directly measured. The person strongly disagrees with all items indicating maximizing tendencies, such as checking for better options, looking for better opportunities, difficulty finding clothing they love, or having highest standards for self (items 1-4 answered "Disagree strongly" or 1). However, they agree a little with two items: "No matter what I do, I have the highest standards for myself" and "I never settle for second best" (items 5 and 6 answered 4 - Agree a little).
+
+This suggests the person does not strongly identify as a maximizer who exhaustively searches for the best option, but they do hold somewhat elevated personal standards and do not easily settle for second best. The overall pattern is low to moderate maximizing tendency.
+
+## Self-concept stability
+Self-concept clarity is measured with 12 items. The person strongly disagrees with statements indicating instability or conflict in self-beliefs (items 1-5, 7-10 answered 1 - Disagree strongly). They strongly agree with items indicating clarity and stability of self-concept (items 6 and 11 answered 5 - Agree strongly). For example, item 11 "In general, I have a clear sense of who I am and what I am" is answered 5 (Agree strongly).
+
+This indicates a stable and clear self-concept, with little internal conflict or fluctuation in self-views.
+
+## Intertemporal patience
+Intertemporal choice tasks are present with multiple items offering choices between smaller-sooner and larger-later monetary rewards. The person consistently prefers the larger, later reward when the amounts are close (e.g., $6 in 6 weeks vs. $3-$5.75 in 5 weeks, always choosing $6 in 6 weeks), switching to the sooner reward only when the immediate amount equals or exceeds the delayed amount (e.g., $6 in 6 weeks vs. $6 or $7 in 5 weeks, choosing the sooner reward). This pattern holds across multiple similar matrices with different amounts and delays.
+
+This indicates moderate patience and willingness to wait for larger delayed rewards, but with some sensitivity to the relative amounts and timing. The person is not extremely impulsive but does discount future rewards to some degree.
+
+## Bias susceptibility
+Direct scale evidence for biases includes:
+
+- Social desirability: The person answered items indicating some social desirability tendencies (e.g., always courteous even to disagreeable people answered FALSE, indicating some honesty). No explicit social desirability scale scores are given, so no direct bias susceptibility can be inferred.
+
+- Maximizer scale: Low maximizing tendency suggests low susceptibility to maximization-related biases.
+
+- Need for Closure: High NFCC suggests possible susceptibility to biases related to premature closure or intolerance of ambiguity, supported by strong agreement on NFCC items (e.g., items 1, 2, 3, 4, 6, 10, 11, 12, 13).
+
+- Cognitive biases related to reasoning under uncertainty: The person correctly answered all syllogistic and conditional reasoning items, indicating low susceptibility to logical reasoning biases.
+
+No other direct bias scales (e.g., social desirability, confirmation bias) are present or cited.
+
+## Summary
+The person exhibits a moderate Need for Cognition, enjoying intellectual challenges and thinking but not at an extreme level. They performed well on cognitive tests, including CRT-style items, avoiding common intuitive errors. Their Need for Closure is high, indicating a preference for certainty, order, and quick resolution of ambiguity. They show low to moderate maximizing tendencies, holding some personal standards but not engaging in exhaustive search behavior. Their self-concept is stable and clear, with little internal conflict. Intertemporal choice responses indicate moderate patience, favoring larger delayed rewards unless immediate rewards are equal or better. Bias susceptibility evidence is limited to high Need for Closure, suggesting potential for premature closure biases, but reasoning performance indicates low susceptibility to logical reasoning errors.

@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. She is female and in the 50-64 age group. Her highest level of education is postgraduate. She identifies as White and is a U.S. citizen. She is married and identifies her religion as Roman Catholic, though she never attends religious services aside from weddings and funerals. Politically, she identifies as a Republican with a moderate political ideology. Her household size is two people, and she is employed full-time. Her household income last year was $100,000 or more.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of candor in self-reporting, with neither strong impression management nor extreme candidness; interpretations of personality and emotional baseline data should consider this moderate trustworthiness.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.7 (approximate average of items, mostly "agree a little" with some "disagree a little")  
+Agreeableness: 3.3 (mixed, with some tendency to find fault and some helpfulness)  
+Conscientiousness: 4.5 (notably high, with "does a thorough job" at 5 and other conscientious items mostly 4)  
+Neuroticism: 2.3 (low to moderate, with disagreement on being moody, worried, tense, but some agreement on being somewhat tense)  
+Openness: 4.0 (moderately high, with agreement on originality, curiosity, imagination, and artistic interests)  
+
+This profile reveals a conscientious individual with a moderately outgoing and open interpersonal style, who tends to be somewhat critical but also helpful. Emotional tendencies show low to moderate neuroticism, indicating relative emotional stability with some mild tension. Work habits are strong, with high conscientiousness indicating thoroughness and reliability. The neuroticism score is low to moderate and should be cross-referenced with emotional baseline measures.
+
+### Need for Cognition  
+Score: 3.7 / 5 (based on mostly "agree a little" responses)  
+This indicates a moderate to strong enjoyment and seeking of effortful thinking and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: Approximately 3.8 / 5 (mostly "agree a little" to "agree strongly" on items indicating emotional sharing and recognition)  
+The participant tends to share and recognize others' emotions well, showing a generally empathetic disposition, especially toward close others.
+
+### Green Values  
+Score: Approximately 3.8 / 5 (mixed responses, mostly "agree a little" with some neutral)  
+The participant shows moderate environmental identity and some concern for environmental impact, though not strongly committed.
+
+### Individualism and Collectivism  
+Horizontal Individualism: ~4.5 (strong agreement on self-reliance and independence)  
+Vertical Individualism: ~4.0 (agreement on competition and winning)  
+Horizontal Collectivism: ~4.0 (agreement on cooperation and group well-being)  
+Vertical Collectivism: ~4.5 (strong agreement on family duty and group loyalty)  
+
+The participant values personal independence and self-reliance strongly, while also endorsing group loyalty and family obligations. There is a balanced orientation toward equality and hierarchy, with a slight emphasis on hierarchical family and group responsibilities.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 12 / 63 (mild anxiety range)  
+Symptoms are mild and primarily cognitive (unable to relax, fear of worst happening, nervousness, heart pounding) with minimal somatic symptoms (no trembling, sweating, or dizziness). This pattern suggests mild anxiety with a cognitive focus and supports moderate reliability of self-reports.
+
+### Beck Depression Inventory  
+Score: 18 / 61 (mild depression range)  
+The participant reports feeling sad, discouraged, guilty, disappointed, and critical of self, but without severe symptoms such as crying spells or loss of interest in others. Physical symptoms are minimal, with some appetite reduction and minor weight loss. The pattern indicates mild depressive symptoms with cognitive and motivational components.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I want to be a compassionate person. I know that I am not that type of person really. I am not a psychopath, but sometimes I just don't feel very sorry for someone. I am extremely compassionate for my husband and children, but not so much for other people and I want to change that."  
+- Ought self (what they feel they should be): "I ought to be a person that others can depend on. As a wife and mother, I feel that is one of the most important things that I can do. As a friend and neighbor, I know that is what I should do. I want to be there for anyone who needs me."  
+- Actual self (what they believe they currently are): "I can be a little harsh and callous. I don't understand why people don't have willpower and try to better themselves. At the same time, I have a hard time changing things about myself that I don't like. I wish I was nicer."  
+
+There are meaningful gaps between the selves: the ideal self emphasizes compassion broadly, the ought self stresses dependability and responsibility, while the actual self acknowledges harshness and difficulty with self-change, indicating internal conflict and aspiration for personal growth.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4 (all correct)  
+The participant correctly answered all CRT items, showing strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6 (all correct)  
+No errors; performance is strong across matrix completion and cube rotation items.
+
+### Crystallized Intelligence  
+Score: 10 / 20 (50%)  
+Errors suggest some vocabulary gaps or uncertainty, as some plausible distractors were chosen. The participant shows moderate verbal knowledge but not high crystallized intelligence.
+
+### Syllogistic Reasoning  
+Score: 7 / 12  
+Errors occur more on belief-biased items, indicating reasoning is somewhat influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 7 / 8  
+Missed the credit card minimum payment question (answered 30 years to pay off debt), indicating a lack of understanding that minimum payments at 12% APR will never fully pay off the debt.
+
+### Numeracy  
+Score: 8 / 8 (all correct)  
+No errors; strong numeric reasoning including probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4 (all correct)  
+No reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 2 / 4  
+Selected cards A and 3 (classic matching bias) instead of A and 7, indicating a common reasoning error in conditional logic tasks.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning and fluid intelligence, with perfect CRT and fluid intelligence scores. Crystallized intelligence is moderate, suggesting some limitations in verbal knowledge or vocabulary. Syllogistic reasoning shows susceptibility to belief bias. Financial literacy is high except for a critical misunderstanding of credit card debt payoff. Numeracy is strong. The Wason selection task reveals a classic matching bias error. Overall, cognitive abilities are solid with specific reasoning biases and a notable financial knowledge gap.
+
+## Summary  
+This participant is a well-educated, middle-aged White female from the U.S. South, married and employed full-time with a high income. She is conscientious, moderately extraverted and open, with low to moderate neuroticism, and a balanced but somewhat critical interpersonal style. She enjoys cognitive challenges and shows moderate empathy, especially toward close family. Emotionally, she experiences mild anxiety and mild depression, with cognitive symptoms predominating and some internal conflict about her compassion and self-change. Cognitively, she excels in reflective and fluid reasoning but shows moderate crystallized intelligence and some reasoning biases, including belief bias and matching bias. Financial literacy is generally strong but includes a critical gap regarding credit card debt. The most predictive feature for downstream simulation is the meaningful gap between her ideal, ought, and actual selves, reflecting internal conflict and aspiration for greater compassion and kindness, alongside a strong cognitive reflection ability and a classic Wason task error pattern.

@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. She is female and belongs to the 50-64 age group. Her highest level of education completed is some college, no degree. She identifies as White and is a U.S. citizen. Her marital status is divorced. She reports having no particular religion and never attends religious services outside of weddings and funerals. Politically, she identifies as a Democrat and describes her political ideology as very liberal. Her household income last year was between $30,000 and $50,000. She lives in a household of two people and is currently retired.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, with minimal impression management bias.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.9 (calculated average from items: talkative 4, reserved 2, full of energy 1, outgoing 3, quiet 2, generates enthusiasm 4)  
+Agreeableness: 3.9 (helpful 4, forgiving 4, considerate 4, trusting 4, rude 1, quarrels 1)  
+Conscientiousness: 3.6 (does thorough job 4, reliable worker 5, disorganized 5 [reverse scored], lazy 5 [reverse scored], does things efficiently 4, makes plans 2)  
+Neuroticism: 3.0 (depressed 4, tense 2, moody 4, worries 3, emotionally stable 2 [reverse scored], nervous 2)  
+Openness: 4.4 (original 5, curious 5, ingenious 3, active imagination 5, artistic interests 1 [reverse scored], sophisticated 4, inventive 4, values artistic experiences 5)  
+
+The profile reveals a somewhat introverted but not extremely so individual, with moderate extraversion. She is fairly agreeable and conscientious, though some items suggest disorganization and laziness, indicating possible inconsistency in work habits. Neuroticism is moderate, with some emotional instability and moodiness but not extreme. Openness is high, indicating creativity, imagination, and appreciation for art and new ideas. The disorganized and lazy items at the high end contrast somewhat with conscientiousness, suggesting some ambivalence or self-contradiction in work habits. Neuroticism is moderate and consistent with emotional baseline findings below. No Big Five scores are at or near scale extremes (<=1.5 or >=4.5), except for artistic interests (low) and some conscientiousness-related items indicating disorganization and laziness.
+
+### Need for Cognition  
+Score: 3.0 / 5 (average of responses ranging mostly between 2 and 4, with one 5 and one 3)  
+This indicates a moderate enjoyment and seeking of effortful thinking, with some ambivalence and occasional avoidance of deep thinking.
+
+### Empathy (BES-A)  
+Score: 4.1 / 5 (average of mostly 4s and 5s, with very few low scores)  
+This suggests a strong tendency to share and recognize others' emotions, with high emotional responsiveness and social sensitivity.
+
+### Green Values  
+Score: 3.5 / 5 (mixed responses with some neutral and some strong agreement on environmental responsibility and concern)  
+This indicates a moderate environmental identity, with concern about wasting resources and willingness to be inconvenienced for environmental reasons, but not a strong or consistent environmentalist stance.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 2.7 (disagree a little to neither agree nor disagree on independence and self-reliance)  
+Vertical Individualism: 2.3 (disagree a little on competition and winning as important)  
+Horizontal Collectivism: 4.0 (agree strongly on pride in co-worker success, cooperation, and concern for coworkers)  
+Vertical Collectivism: 3.0 (neutral to slight agreement on family duty and group respect)  
+
+The participant leans toward a collectivist orientation, especially horizontal collectivism, valuing cooperation and group well-being over competition or hierarchy. She moderately values family obligations but is less oriented toward individualistic competition or asserting dominance.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 48 / 63.  
+This score falls in the severe anxiety range. The symptom pattern is dominated by severe cognitive symptoms such as fear of the worst happening, terror, fear of dying, fear of losing control, and nervousness, alongside severe somatic symptoms including trembling, heart pounding, sweating, and shakiness. The presence of severe anxiety symptoms suggests a high emotional distress level. Given the low social desirability score, these self-reports are likely candid. The severe anxiety is consistent with moderate neuroticism but may indicate a heightened emotional baseline.
+
+### Beck Depression Inventory  
+Score: 38 / 61.  
+This score is in the severe depression range. The symptom pattern includes strong cognitive-affective symptoms such as feeling like a complete failure, disgust with self, guilt, disappointment, worthlessness, and loss of interest in others and sex. Physical symptoms include significant weight loss (more than 15 pounds) and early morning awakening with difficulty returning to sleep. Motivational symptoms include putting off decisions and difficulty initiating activities. The severe depression score aligns with the severe anxiety and moderate neuroticism, indicating a significant emotional burden.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be a fully functioning person who leaves the house without fear. I would like to lose another 40 lbs and get my eating disorder under control. I would like to be a better and more involved mother and grandmother."  
+- Ought self (what they feel they should be): "I ought to be doing things regularly with my children and grandchildren and creating memories. I ought to be visiting my aging parents in Florida. I ought to be a person who can handle stress without falling apart."  
+- Actual self (what they believe they currently are): "I am a shut-in and a hoarder. I haven't left my house for over 5 years. I am a very hard worker when working remotely and I have dreams and goals but I never do them. I am terrified and in constant pain."  
+
+There are meaningful gaps between the selves. The ideal and ought selves emphasize functioning, involvement, and stress management, while the actual self describes social isolation, hoarding, fear, and physical pain, indicating significant self-discrepancy and distress.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+All items answered correctly, showing strong fluid intelligence with no clustering of errors.
+
+### Crystallized Intelligence  
+Score: 10 / 20.  
+Half of the items were answered incorrectly. The pattern suggests a vocabulary gap or guessing, as some plausible distractors were chosen, indicating limited verbal knowledge or vocabulary.
+
+### Syllogistic Reasoning  
+Score: 7 / 12.  
+Errors occurred more on belief-biased items, especially those with familiar or counterfactual content, indicating reasoning is somewhat influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 7 / 8.  
+One item was answered incorrectly: the question about which asset normally gives the highest return over a long period was answered "Do not know" instead of "Stocks," indicating a minor knowledge gap in long-term investment returns.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items were answered correctly, showing strong numeric reasoning including probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items answered correctly with no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+The participant selected card "3" only, which is the correct card to test the rule "If there is an A on one side, then there is a 3 on the other." This indicates correct logical reasoning without the classic matching bias.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), fluid intelligence, numeracy, and deductive logic (Modus Ponens and Wason task). Crystallized intelligence is notably weaker, suggesting limited vocabulary or verbal knowledge. Syllogistic reasoning shows some influence of belief bias. Financial literacy is generally good with a minor gap in understanding long-term investment returns. Overall, the cognitive profile indicates strong logical and numeric reasoning abilities but some limitations in verbal knowledge.
+
+## Summary  
+This participant is a White female aged 50-64 from the Midwest, retired, with some college education but no degree. She is very liberal politically and divorced, living in a two-person household. Personality-wise, she is moderately introverted, agreeable, and conscientious but shows some ambivalence about organization and laziness. She has high openness and strong empathy. Her emotional baseline is marked by severe anxiety and severe depression, with significant self-reported distress and meaningful gaps between her ideal, ought, and actual selves. Cognitively, she excels in fluid intelligence, reflective reasoning, numeracy, and deductive logic but has moderate deficits in crystallized intelligence and some belief bias in reasoning. The most predictive feature for downstream simulation is the severe anxiety and depression combined with the meaningful self-discrepancies, which will strongly influence her emotional responses and self-perception.

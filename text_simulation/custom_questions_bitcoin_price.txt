@@ -1,0 +1,36 @@
+---
+## New Survey Question & Instructions (Please respond as the persona described above):
+Please answer the following questions as if you were taking this survey. The expected output is a JSON object in the format shown below.
+---
+
+Q1:
+Where do you think the price of Bitcoin is headed over the next 3 months, and why? State your reasoning in under 150 words.
+Question Type: Text Entry
+Answer: [Masked]
+Sentiment: -3 = very bearish / expects significant price decline, +3 = very bullish / expects significant price increase
+
+Q2:
+What specific price (in USD) do you predict Bitcoin will reach 3 months from now?
+Question Type: Text Entry
+Answer: [Masked]
+
+---
+Expected output format:
+
+The output should be a JSON object with keys "Q1" and "Q2".
+
+Example:
+{
+    "Q1": {
+        "Question Type": "Text Entry",
+        "Answers": {
+            "Text": "Your reasoning here..."
+        }
+    },
+    "Q2": {
+        "Question Type": "Text Entry",
+        "Answers": {
+            "Text": "85000"
+        }
+    }
+}

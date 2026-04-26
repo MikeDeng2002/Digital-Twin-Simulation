@@ -92,7 +92,7 @@ for setting_name, input_dir in SETTINGS:
             "max_retries": 10,
             "num_workers": 50,
             "force_regenerate": False,
-            "max_personas": 5,
+            "max_personas": 20,
             "input_folder_dir":   input_dir,
             "output_folder_dir":  output_dir_val,
             "system_instruction": SYSTEM_INSTRUCTION,

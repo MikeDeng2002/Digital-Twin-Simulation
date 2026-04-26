@@ -1,0 +1,101 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned male at birth and are in the 30-49 age group. Their highest level of education completed is some college, no degree. They identify as Hispanic and are a U.S. citizen. Their marital status is never been married. Their present religion is atheist, and they never attend religious services aside from weddings and funerals. Politically, they consider themselves an independent and describe their political ideology as very liberal. Their household income last year was less than $30,000. They live in a household of four people and are currently unemployed.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This moderate score suggests a generally candid self-reporting style with some mild impression management; self-reports in personality and emotional baseline sections should be interpreted with this caveat in mind.
+
+## Personality
+
+### Big Five  
+Extraversion: 1.5 (disagree strongly on talkative, full of energy, outgoing, and generating enthusiasm; agree strongly on being reserved, quiet, and shy)  
+Agreeableness: 4.3 (mostly high agreeableness with strong helpfulness and kindness, but a slight dip with "has a forgiving nature" rated as disagree a little)  
+Conscientiousness: 4.9 (near ceiling with strong agreement on doing a thorough job, being reliable, efficient, persevering, and making plans)  
+Neuroticism: 1.8 (discrepant profile: while self-report shows low neuroticism traits like "can be tense" disagreed strongly and "relaxed" agreed a little, the participant also strongly agrees with "is depressed, blue," "worries a lot," "can be moody," and "gets nervous easily")  
+Openness: 5.0 (ceiling score with strong agreement on originality, curiosity, imagination, artistic interests, and inventiveness)  
+
+This profile reveals a highly conscientious and open individual who is introverted and agreeable. The neuroticism score is low but conflicts with emotional baseline data indicating elevated anxiety and depression symptoms, suggesting possible self-report reliability issues or nuanced emotional experience.
+
+### Need for Cognition  
+Score: 4.7 / 5.  
+The participant strongly enjoys and seeks out effortful thinking, preferring complex problems and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 4.7 / 5.  
+They have a strong tendency to share and recognize others' emotions, showing high emotional contagion and sensitivity to friends' feelings.
+
+### Green Values  
+Score: 5.0 / 5.  
+The participant identifies strongly with environmental responsibility and is willing to be inconvenienced to act in environmentally friendly ways.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.5  
+Vertical Individualism: 1.3  
+Horizontal Collectivism: 3.3  
+Vertical Collectivism: 3.8  
+
+The participant strongly values personal independence and equality (high horizontal individualism), rejects hierarchical individualism (very low vertical individualism), and moderately endorses group loyalty with some acceptance of hierarchy within groups (moderate horizontal and vertical collectivism). This suggests a preference for autonomy combined with moderate group affiliation and respect for group decisions.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 7 / 63.  
+This score falls in the minimal anxiety range. Symptom pattern shows very low somatic symptoms (no trembling, heart racing, sweating) and low cognitive symptoms (fear of losing control, fear of dying, terrified all rated "not at all" or minimal). This minimal anxiety level aligns with the low neuroticism score but contrasts with some self-reported depressive symptoms.
+
+### Beck Depression Inventory  
+Score: 18 / 61.  
+This score is at the upper bound of the mild depression range. The participant reports feeling sad, having nothing to look forward to, and reduced enjoyment in activities, but denies feelings of failure, guilt, punishment, or self-disgust. Physical symptoms include some tiredness and sleep disturbance but no significant appetite or weight loss. The pattern suggests mild depressive symptoms with cognitive and motivational components but limited severe physical symptoms.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I really want to be a person that actually has her stuff together. I aspire to be someone who isn't worrying 24/7 and can relax when she wants to. I'd love nothing more than to feel peace."  
+- Ought self (what they feel they should be): "I ought to be someone who can take care of my loved ones during bad times. I need to be someone who can also open up myself and be vulnerable with others, instead of keeping all my problems to myself. I must be someone who at the very least has an idea of how to handle crises."  
+- Actual self (what they believe they currently are): "I am someone who cannot relax, to the point of getting sick. I struggle with stress, and don't know how to not worry at all times. I'm also very insecure in myself."  
+
+There are meaningful gaps between the selves: the ideal self emphasizes peace and relaxation, the ought self stresses responsibility and vulnerability, while the actual self reports chronic stress, inability to relax, and insecurity, indicating internal conflict and distress.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 5 / 6.  
+One error occurred on a cube rotation item (selected option D instead of the correct one), indicating a minor difficulty with spatial rotation tasks but strong overall fluid reasoning.
+
+### Crystallized Intelligence  
+Score: 7 / 10 (partial data from 10 synonym and 10 antonym items).  
+Several errors suggest some vocabulary gaps or guessing:  
+- Synonym errors include choosing "extricate" for "concur," "heinous" for "furtive," "ascetic" for "astute," "tolerable" for "indigent," and "despondency" for "disparity."  
+- Antonym errors include choosing "garrulous" for "verbose" (which is a synonym), and "tolerable" for "indigent" (incorrect).  
+This pattern suggests some confusion with nuanced word meanings and possibly guessing on challenging items.
+
+### Syllogistic Reasoning  
+Score: 8 / 8 (all 8 syllogistic reasoning items answered correctly).  
+Participant correctly identified logical conclusions, including those that conflict with prior beliefs, indicating strong logical reasoning unaffected by belief bias.
+
+### Financial Literacy  
+Score: 6 / 8.  
+Incorrect answers include:  
+- Believing bonds give the highest return over long periods (correct answer is stocks).  
+- Believing after age 70.5 you do not have to withdraw from 401(k) or IRA (correct is that you do).  
+- Credit card debt minimum payment question answered "never" (correct, but indicates awareness of debt persistence).  
+Overall, good financial knowledge with minor gaps in retirement rules and investment returns.
+
+### Numeracy  
+Score: 7 / 8.  
+Mistake on the question about expected number of people to get a disease with 10% chance (answered 1 instead of 100). Other numeric reasoning (probability, percentage, time calculations) was correct.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All four items answered correctly, showing no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 4 / 4.  
+Selected all correct cards (A, F, 3, 7), avoiding the classic matching bias.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), solid fluid intelligence with minor spatial rotation difficulty, and good logical reasoning without belief bias. Crystallized intelligence shows some vocabulary weaknesses and guessing, indicating moderate verbal knowledge. Financial literacy is generally good but with some gaps in retirement and investment knowledge. Numeracy is strong except for one error in expected value calculation. Deductive reasoning and conditional logic are intact. Overall, cognitive abilities are consistent with their education level and support strong analytical thinking despite some verbal knowledge limitations.
+
+## Summary  
+This participant is a Hispanic male aged 30-49 from the U.S. South, with some college education and currently unemployed. Personality-wise, he is highly conscientious, open, introverted, and agreeable, with a strong need for cognition and empathy, and a strong environmental identity. Emotional baseline data reveal mild depression and minimal anxiety, with a notable discrepancy between low neuroticism and self-reported depressive symptoms, suggesting some complexity in emotional self-awareness. The participant’s sense of self shows meaningful gaps between ideal, ought, and actual selves, highlighting internal struggles with stress and insecurity. Cognitively, he excels in reflective and logical reasoning but shows some vocabulary and financial knowledge gaps. The most predictive feature for downstream simulation is the meaningful gap in the sense of self combined with mild depression and low neuroticism, which may influence emotional responses and self-perception in nuanced ways.

@@ -1,0 +1,57 @@
+## Effort regulation and cognitive style  
+The respondent’s Need for Cognition profile reveals ambivalence toward effortful thinking: they disagree strongly with preferring complex problems (NFC item 1) and intellectual tasks (NFC items 14, 15), yet agree a little with enjoying deliberation (NFC item 6), thinking abstractly (NFC item 13), and problem-solving (NFC item 11). They also report trying to think only as hard as necessary (NFC item 7) and preferring simpler or routine tasks (NFC items 4, 8, 9). This suggests a moderate cognitive engagement style with a tendency toward satisficing rather than deep, sustained cognitive effort.
+
+Cognitive test performance confirms this pattern. The respondent correctly answered several straightforward logic and spatial reasoning puzzles but made multiple errors on synonym and antonym vocabulary items, often selecting incorrect or unrelated options (e.g., “CONCUR” synonym chosen as “divulge” instead of “acquiesce”; “ASTUTE” synonym chosen as “bizarre” instead of “sagacious”). This indicates some difficulty with verbal reasoning and vocabulary knowledge. Additionally, the respondent’s self-estimate of correct answers (10/42) is substantially below their estimate of the average person (25/42), indicating low confidence or awareness of their cognitive performance.
+
+Conscientiousness from the Big Five is high (items 3, 13, 28, 33, 35 all “agree strongly”), indicating a thorough, reliable, and organized approach to tasks. This conscientiousness may support effort regulation despite moderate intrinsic motivation for complex thinking. The respondent also reports persevering until tasks are finished (Big Five item 28), consistent with conscientiousness supporting task completion even if cognitive engagement is moderate.
+
+## Closure and uncertainty tolerance  
+The respondent shows moderate need for closure (NFCC) with agreement on disliking uncertainty and unpredictability (NFCC items 1, 2, 6, 9, 10, 11, 15, 16, 19, 20 all “agree a little” or “agree strongly”). They prefer structured, ordered environments (NFCC items 3, 12, 13, 14) and feel relief upon making decisions (NFCC item 7). They also report some impatience with unresolved problems (NFCC item 8 “agree strongly”).
+
+Behaviorally, the respondent’s cognitive test answers show some inconsistency and errors in logical deduction and vocabulary, suggesting that while they desire closure and quick solutions, their reasoning under uncertainty may be prone to errors or superficial processing. Free-response answers indicate some indecision and internal conflict (e.g., “undecided,” “back way” in thoughts about money splitting), which may reflect tension between desire for closure and cognitive limitations.
+
+Decision consistency is moderate: in intertemporal choice tasks, the respondent consistently prefers smaller-sooner rewards over larger-later ones until the delayed reward equals or exceeds the immediate reward, indicating a stable but impatient decision style. This aligns with a moderate intolerance for uncertainty and preference for quick resolution.
+
+## Optimization strategy  
+The Maximizer scale responses show a strong maximizing tendency: the respondent “never settles for second best” (Maximizer item 6, agree strongly), has “highest standards” (item 5, agree a little), and often finds it “difficult to shop for a gift” (item 3, agree strongly). They also “often have a hard time finding clothing they really love” (item 4, agree strongly), indicating high selectivity.
+
+However, this maximizing tendency conflicts with their Need for Cognition profile, which favors less complex thinking and satisficing. This suggests a domain-specific split: the respondent maximizes in consumer choice and personal standards but satisficing or avoids deep cognitive effort in abstract or intellectual tasks.
+
+This split is further supported by their self-description: they aspire to be less selfless and more patient (free response), indicating awareness of personal limitations and a desire to improve, but also report being generous and putting others first in practice, showing a gap between aspiration and behavior.
+
+## Self-concept stability  
+Self-Concept Clarity (SCC) items show moderate clarity with some internal conflict: the respondent agrees a little that their beliefs about themselves “often conflict” (SCC item 1), and that their self-opinions vary from day to day (item 2), but disagrees with frequent or strong instability (items 4, 5, 6, 7, 8, 9). They have a generally clear sense of self (item 11, agree a little).
+
+Free responses reveal some contradictions: the respondent describes themselves as “so generous” and “loving,” yet aspires to be “less selfless” and more patient, indicating some ambivalence about their self-image. They also acknowledge laziness and procrastination in fulfilling responsibilities (free response “sometimes I’m just lazy because I have so much to do”), which contrasts with their high conscientiousness scores, suggesting situational variability in self-concept and behavior.
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated values and their economic game behavior. They rate altruism and helping others as quite important (Values items 3, 9, 17 all 7 or 8), and describe themselves as generous and helpful in free responses. However, in the dictator game, they choose to keep all $5 and send $0 to the other person, indicating a fully selfish economic choice.
+
+Conversely, as receivers in the ultimatum game, they accept all offers, including the least generous, showing pragmatic acceptance of any gain. In the trust game, they send a moderate amount ($2 of $5), indicating some willingness to trust but not full generosity.
+
+This gap implies that while the respondent values altruism and kindness in principle, their actual economic decisions prioritize self-interest, possibly reflecting a cautious or self-protective reasoning style under uncertainty. This discrepancy suggests limited trustworthiness of self-reported altruism for predicting behavior and indicates that their reasoning may be influenced by pragmatic considerations overriding stated values.
+
+No similar gap is evident between self-reported personality and cognitive test performance; the respondent’s moderate cognitive engagement and vocabulary errors align with their self-reported ambivalence about intellectual effort.
+
+## Intertemporal patience  
+The respondent consistently prefers smaller-sooner rewards over larger-later rewards until the delayed reward equals or exceeds the immediate reward by a substantial margin, indicating impatience in intertemporal choice. This is consistent across multiple delay intervals and amounts.
+
+Conscientiousness is high, which often correlates with better planning and patience, but here it does not translate into greater intertemporal patience. The respondent’s impatience may reflect a preference for immediate gratification despite conscientious tendencies, possibly due to moderate intolerance for uncertainty or discomfort with delay.
+
+## Bias susceptibility predictions  
+Predictable biases from cognitive signals:
+
+- **Probability matching vs. maximizing:** Given the respondent’s moderate cognitive engagement and errors in probability estimation (e.g., overestimating lottery winners), they may be prone to probability matching rather than maximizing strategies.
+
+- **Dominator (denominator) neglect:** The respondent’s incorrect answers on probability and percentage questions (e.g., 1% chance of winning a car given as 10%) suggest susceptibility to denominator neglect.
+
+- **Belief bias in syllogisms:** The respondent accepted logically invalid conclusions (e.g., “All animals love water; plants do not love water; conclusion: plants are not animals” answered “No” incorrectly), indicating belief bias affecting logical reasoning.
+
+- **Wason matching bias:** The respondent correctly identified the card to test the rule (card A), but given other logical errors, some susceptibility to matching bias is possible but less clear.
+
+Weakly predictable or not predictable biases:
+
+Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, and myside bias cannot be confidently predicted from the available cognitive data, consistent with Stanovich & West (2008) limits.
+
+## Summary  
+The respondent exhibits a moderate cognitive engagement style, favoring satisficing and routine tasks over complex intellectual challenges, despite high conscientiousness supporting task completion. They show a moderate need for closure and intolerance of uncertainty, preferring quick decisions and structured environments, though their reasoning under uncertainty is prone to errors and inconsistencies. Their maximizing tendencies are domain-specific, strong in consumer choice but weaker in cognitive effort. Self-concept is moderately stable but contains some internal conflicts between aspirational and actual traits. A notable gap exists between stated altruistic values and selfish economic game behavior, indicating pragmatic self-interest overriding professed ideals. Intertemporal choice reveals impatience despite conscientiousness. The respondent is predicted to be susceptible to probability matching, denominator neglect, and belief bias in logical reasoning, while other biases remain unpredictable from the data.

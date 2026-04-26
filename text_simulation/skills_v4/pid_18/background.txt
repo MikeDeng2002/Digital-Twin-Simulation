@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the West region of the United States. They were assigned male at birth and belong to the 65+ age group. Their highest level of education is college graduate/some postgraduate. They identify as White and are a U.S. citizen. Their marital status is married. They report no religion, identifying as atheist, and never attend religious services aside from weddings and funerals. Politically, they consider themselves a Democrat with liberal views. Their total family income last year was between $30,000 and $50,000. The household size is two people, and they are currently employed full-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This moderate score suggests a generally candid self-reporting style with some mild impression management; therefore, self-reports in personality and emotional baseline sections should be interpreted with moderate confidence but with some caution.
+
+## Personality
+
+### Big Five  
+Extraversion: 4.3 (calculated from items, e.g., talkative=5, outgoing=5, reserved=2)  
+Agreeableness: 3.7 (helpful=4, forgiving=4, considerate=4, trusting=4, cold=1)  
+Conscientiousness: 4.6 (does a thorough job=5, reliable=5, perseveres=5, disorganized=1, careless=2)  
+Neuroticism: 1.3 (depressed=1, tense=1, worries=1, moody=1, nervous=1)  
+Openness: 4.3 (original=5, curious=5, imaginative=4, artistic interests=2, sophisticated=4)  
+
+This profile reveals a highly conscientious individual with strong work habits and reliability, combined with high extraversion indicating sociability and energy. Agreeableness is moderately high, showing a generally cooperative and kind interpersonal style. Neuroticism is very low, indicating emotional stability and resilience to stress. Openness is high, suggesting creativity and intellectual curiosity. The very low neuroticism aligns with the emotional baseline data, supporting reliability of self-reports.
+
+### Need for Cognition  
+Score: 4.0 / 5.  
+This person enjoys and seeks out effortful thinking, showing a preference for complex and challenging intellectual tasks.
+
+### Empathy (BES-A)  
+Score: 4.3 / 5.  
+The participant tends to share and recognize others' emotions readily, showing strong empathic sensitivity.
+
+### Green Values  
+Score: 4.8 / 5.  
+They have a strong environmental identity and are highly concerned about the environmental impact of their actions.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.5  
+Vertical Individualism: 2.0  
+Horizontal Collectivism: 3.5  
+Vertical Collectivism: 3.0  
+
+The participant shows a moderate orientation toward personal independence and group loyalty, with a preference for equality over hierarchy in both individualistic and collectivistic domains. They somewhat value autonomy but also emphasize family and group cohesion without strong hierarchical tendencies.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 11 / 63.  
+This score falls in the mild anxiety range. Symptom pattern is predominantly cognitive with mild nervousness and inability to relax; somatic symptoms such as trembling, sweating, or heart racing are minimal or absent. This pattern supports the reliability of self-reports and aligns with low neuroticism.
+
+### Beck Depression Inventory  
+Score: 3 / 61.  
+This score is in the minimal depression range. The participant reports no significant cognitive distortions, motivational deficits, or physical symptoms of depression, consistent with low neuroticism and emotional stability.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be more patient. with my health concerns, and getting older, I need more help. I have to be kinder to those around me. I'm starting to realize that I NEED their help. They are hanging out with me because they care for me. I have to embrace this."  
+- Ought self (what they feel they should be): "I want to be someone patient, nice, kind and giving. I want to model good behavior for others. I want to make friends, and I ought to bebetter at it. I ought to be more giving to others, and show them how I feel."  
+- Actual self (what they believe they currently are): "I'm imperfect, I don't give enough. I lose my cool. When someone offers to help my immediate reaction is to refuse it, and insist on doing itmyself. I need to stop that. It's unwise and silly. I need help."  
+
+There are meaningful gaps between the selves: the ideal and ought selves emphasize patience, kindness, and giving, while the actual self acknowledges imperfection, difficulty accepting help, and occasional loss of temper, indicating internal conflict and aspiration for personal growth.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, showing strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+No errors; performance was perfect across matrix completion and cube rotation items, indicating strong fluid reasoning abilities.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (based on 10 synonym and antonym items answered).  
+Most vocabulary items were answered correctly except one antonym question where "ASTUTE" was incorrectly matched with "ascetic" (a semantic confusion), suggesting a minor vocabulary gap rather than guessing.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (based on 8 syllogistic items answered).  
+Errors occurred on belief-biased items: incorrectly answered the syllogism "All animals love water; plants do not love water; plants are not animals" as "No" (incorrect), indicating some influence of prior beliefs over pure logic.
+
+### Financial Literacy  
+Score: 7 / 8.  
+Missed the credit card minimum payment question (answered "never" for how long it takes to pay off debt with minimum payments), indicating a lack of understanding that minimum payments at 12% APR will never fully pay off the debt.
+
+### Numeracy  
+Score: 7 / 8.  
+Incorrectly answered the percentage conversion question: "If the chance of getting a disease is 20 out of 100, what percent is that?" answered "5" instead of "20," indicating a probability conversion error.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 3 / 4.  
+One item was answered "No" when the conclusion logically followed from premises, indicating some reluctance to accept logically valid conclusions that conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 1.  
+Correctly selected cards A and 7, avoiding the classic matching bias of choosing A and 3.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), fluid intelligence, and good crystallized intelligence with minor vocabulary gaps. Their syllogistic reasoning shows some belief bias, and they exhibit a specific financial literacy gap regarding credit card debt payoff. Numeracy is generally good but includes a notable probability conversion error. The participant shows some reluctance to accept logically valid conclusions when they conflict with prior beliefs, as seen in one modus ponens error. Overall, cognitive abilities are strong and consistent with financial literacy and numeracy results, with minor specific weaknesses.
+
+## Summary  
+This participant is a highly conscientious, extraverted, and emotionally stable older male with a college-level education living in the Western U.S. He exhibits strong intellectual curiosity and enjoys effortful thinking. His empathy and environmental concern are high, and he balances individualism with moderate collectivism. Emotionally, he reports mild anxiety but minimal depression, consistent with his low neuroticism. His sense of self reveals meaningful gaps between his ideal, ought, and actual selves, particularly regarding patience and accepting help. Cognitively, he is strong across fluid and crystallized intelligence and reflective reasoning, with minor errors in belief-biased reasoning and financial numeracy. The most predictive feature for downstream simulation is his very low neuroticism combined with mild self-acknowledged emotional and behavioral imperfections, which may influence his responses to stress or interpersonal challenges.

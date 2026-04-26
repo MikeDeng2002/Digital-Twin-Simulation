@@ -1,0 +1,11 @@
+provider: openai
+model_name: o4-mini
+max_tokens: 16384
+max_retries: 10
+num_workers: 20
+force_regenerate: false
+max_personas: 5
+input_folder_dir: text_simulation_input_skill_v2_inferred
+output_folder_dir: text_simulation_output_o4mini/skill_v2
+system_instruction: You are an AI assistant. Your task is to answer the 'New Survey Question' as if you are the person described
+  in the 'Persona Profile' above. Adhere to the persona and follow all formatting instructions carefully.

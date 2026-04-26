@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned female at birth and are in the 30-49 age group. Their highest level of education is college graduate/some postgraduate. Their race/origin is reported as Other. They are a U.S. citizen, married, and identify their religion as Agnostic, attending religious services never aside from weddings and funerals. Politically, they identify as a Democrat with a liberal ideology. Their household income last year was $100,000 or more. The household size is three people, and their current employment status is self-employed.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is in the mid-range, suggesting a moderate level of candidness in self-reports; self-reports should be considered reasonably trustworthy but with some caution for potential impression management.
+
+## Personality
+
+### Big Five  
+Extraversion: 4.1 (approximate average from items)  
+Agreeableness: 3.6  
+Conscientiousness: 4.3  
+Neuroticism: 3.3  
+Openness: 4.8 (notably high, >=4.5)  
+
+The participant’s Big Five profile reveals a person who is moderately outgoing and sociable (extraversion around 4.1), somewhat trusting but with some reservations (agreeableness 3.6), and highly conscientious with strong work habits (4.3). Neuroticism is moderate (3.3), indicating some emotional reactivity but not extreme instability. Openness is very high (4.8), indicating strong creativity, imagination, and intellectual curiosity. The high openness combined with moderate neuroticism aligns with the emotional baseline data, which shows some depressive symptoms but not extreme neuroticism, suggesting a nuanced emotional profile rather than contradictory reporting.
+
+### Need for Cognition  
+Score: 4.1 / 5.  
+This person enjoys and seeks out effortful thinking to a high degree, showing a strong preference for intellectual challenges and abstract problem solving.
+
+### Empathy (BES-A)  
+Score: 3.5 / 5.  
+The participant shows a moderate to strong tendency to share and recognize others’ emotions, indicating reasonable empathic sensitivity.
+
+### Green Values  
+Score: 4.3 / 5.  
+The participant identifies as environmentally responsible and is willing to take actions that inconvenience themselves to protect the environment, showing a strong environmental identity.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.5  
+Vertical Individualism: 2.3  
+Horizontal Collectivism: 3.3  
+Vertical Collectivism: 2.0  
+
+This profile indicates a strong orientation toward personal independence and equality (high horizontal individualism), with less emphasis on hierarchy or competition (low vertical individualism). The participant moderately values group loyalty and equality within groups (horizontal collectivism 3.3) but shows low acceptance of hierarchical group structures (vertical collectivism 2.0). Overall, they prioritize autonomy and egalitarianism over hierarchical or competitive social relations.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 14 / 63, which falls in the mild anxiety range.  
+Symptom pattern is predominantly cognitive with minimal somatic symptoms: the participant reports some nervousness, inability to relax, and heart pounding but denies trembling, sweating, or fear of dying. This suggests mild anxiety with a cognitive focus rather than physical symptoms, supporting reasonable reliability of self-reports.
+
+### Beck Depression Inventory  
+Score: Approximately 18 / 61, indicating mild depression.  
+Symptom pattern includes sadness, loss of interest in others, some guilt, and fatigue, with notable weight loss (>15 pounds). There is no indication of severe cognitive distortions or motivational deficits, but the participant reports feeling sad, discouraged, and less interested in people, consistent with mild depressive symptoms.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I am a realist most of the times which often steals the joy out of life. Only when I express the fully unknowing part of myself do I ever feel free. I aspire to be a more carefree person to be able to experience the joy this world has to offer. I don't really worry per se but I also am fully aware that anything is possible at any moment and I tend to remind myself of that. Like, today could be the day that my child is killed or that my parent dies. Traits joyous people possess that I feel I lack are strong relationships (I keep my circle very small)being surrounded by positivity, sense of purpose (I feel like I have that but my compass of where it is going is temporarily broken), and savoring life."  
+- Ought self (what they feel they should be): "I am a business owner, a parent, have many animals, and have a spouse I feel like I should be everything. Hard stop. I feel like I should never drop the ball in those arenas because those things matter. Responsibility, accountability, forgiveness, consistency, patience, and flexibility."  
+- Actual self (what they believe they currently are): "I am sad, inconsistent but mostly reliable, hardworking, responsible at times, mostly accountable, mostly forgiving, sometimes patient, sometimes flexible, creative, smart, funny, but often just sad. The world around me is a hard place to be and I struggle with knowing there is little difference I can make as a whole. That goes back to being a realist."  
+
+There are meaningful gaps between the selves: the ideal self aspires to carefree joy and strong relationships, the ought self emphasizes responsibility and perfection in multiple roles, and the actual self is marked by sadness, inconsistency, and a sense of limited impact. This indicates internal conflict and tension between aspirations, duties, and current experience.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers correct, showing strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 5 / 6.  
+One error occurred on a cube rotation item (the participant incorrectly answered one cube rotation question), indicating a slight weakness in spatial rotation but strong matrix reasoning overall.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (based on 10 synonym and antonym items answered).  
+The participant answered most vocabulary items correctly, with only a few errors suggesting minor vocabulary gaps or occasional guessing.
+
+### Syllogistic Reasoning  
+Score: 7 / 8 (based on 8 syllogistic reasoning items answered).  
+Errors occurred on belief-biased items, indicating some influence of prior beliefs on logical reasoning, but abstract reasoning was generally strong.
+
+### Financial Literacy  
+Score: 6 / 8.  
+The participant missed the question about which asset normally gives the highest return over a long period (incorrectly answered "Savings account" instead of "Stocks"), indicating a specific knowledge gap in investment returns.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items answered correctly, showing strong numeric reasoning including probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 3 / 4.  
+One item was answered "No" (rejecting a logically valid conclusion), indicating some reluctance to accept conclusions that may conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Participant selected cards A and 7, correctly avoiding the classic matching bias of choosing A and 3, indicating good conditional reasoning.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), good fluid intelligence with minor spatial rotation difficulty, and strong crystallized intelligence with minor vocabulary gaps. Their syllogistic reasoning shows some belief bias but overall logical competence. Financial literacy is good but with a notable gap in understanding long-term investment returns. Numeracy is excellent. The participant shows some reluctance to accept logically valid conclusions in one deductive reasoning item but performs well on the Wason task, indicating generally sound conditional reasoning. Overall, cognitive abilities are strong with specific minor weaknesses in spatial rotation and financial knowledge.
+
+## Summary  
+This participant is a self-employed, college-educated female in her 30s-40s living in the U.S. South, with a liberal political orientation and a moderate income. Personality-wise, she is highly open and conscientious, moderately extraverted and agreeable, with moderate neuroticism. She enjoys intellectual challenges and shows moderate empathy and strong environmental values. Emotionally, she experiences mild anxiety and mild depression, with a cognitive symptom focus and some somatic symptoms, consistent with her moderate neuroticism. Her sense of self reveals meaningful internal conflicts between her ideal carefree self, her responsible ought self, and her actual self marked by sadness and realism. Cognitively, she is strong in reflective and logical reasoning, numeracy, and vocabulary, with minor weaknesses in spatial rotation and financial literacy. The most predictive feature for downstream simulation is the meaningful gaps in her sense of self combined with mild depressive symptoms and high openness, which will shape her responses with a blend of realism, intellectual curiosity, and emotional complexity.

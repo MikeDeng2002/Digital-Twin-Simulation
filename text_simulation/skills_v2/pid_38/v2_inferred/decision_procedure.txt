@@ -1,0 +1,67 @@
+## Effort regulation and cognitive style  
+The Need for Cognition scale responses indicate a low preference for engaging in effortful thinking: the respondent disagrees a little with liking complex problems (NFC item 1), handling situations requiring much thinking (NFC item 2), and satisfaction from deliberating hard and long (NFC item 6). They agree a little that thinking is not fun (NFC item 3) and prefer tasks requiring little thought (NFC items 4, 7, 9). This pattern suggests a tendency toward cognitive ease and minimal mental effort.  
+
+Cognitive test performance shows mixed results. The respondent correctly answered several trick or counterintuitive questions (e.g., "How many cubic feet of dirt in a hole?" = 0; "If you pass the person in second place, you are second"), indicating some logical reasoning ability. However, they struggled with syllogistic reasoning, often rejecting logically valid conclusions (e.g., denying valid conclusions in syllogisms about animals and plants, communist countries, and unemployment). They also failed to identify the correct cards to test a conditional rule (Wason selection task), choosing only the "A" card and not the necessary "7" card, indicating a classic confirmation bias error.  
+
+The respondent answered "I do not know" to all cube rotation tasks, suggesting difficulty with spatial reasoning or low confidence in such tasks.  
+
+Conscientiousness from Big Five is moderately high (agree a little on "does a thorough job," "is a reliable worker," "perseveres until task is finished," "makes plans and follows through," "does things efficiently," "organized," "efficient," "systematic," "practical" all rated 4 or 8 on different scales), indicating a tendency to regulate effort and persist despite low intrinsic enjoyment of thinking.  
+
+Overall, the respondent appears to regulate effort by avoiding deep or abstract thinking when possible but maintains conscientiousness and persistence in task completion. Error patterns include belief bias in syllogisms (rejecting valid conclusions), failure on Wason selection task (confirmation bias), and spatial reasoning uncertainty.  
+
+## Closure and uncertainty tolerance  
+The Need for Closure scale responses show moderate intolerance of uncertainty: the respondent agrees a little that they dislike uncertain situations (NFCC item 1), dislike questions with many possible answers (item 2), prefer a well-ordered life (item 3), dislike going into situations without knowing what to expect (item 6), and want to reach solutions quickly (item 8). They neither agree nor disagree on feeling relieved after decisions (item 7) and impatience when solutions are delayed (item 9).  
+
+Behaviorally, the respondent shows decision consistency in intertemporal choice tasks, consistently preferring smaller-sooner rewards over larger-later ones, indicating a preference for certainty and immediacy. Free responses are concise and show little evidence of prolonged rumination.  
+
+Decision consistency is also evident in economic games, where the respondent consistently chooses to keep all money for themselves and reject unfair offers, indicating quick commitment to self-interested strategies.  
+
+Taken together, these data suggest moderate closure needs with a preference for quick, decisive action and discomfort with ambiguity or unpredictability. The respondent likely commits to decisions relatively quickly and prefers structured, predictable environments.  
+
+## Optimization strategy  
+The Maximizer scale responses indicate a low maximizing tendency. The respondent disagrees a little with statements about never settling for second best and having the highest standards for themselves (Maximizer items 5 and 6). They neither agree nor disagree or disagree a little with difficulty shopping for gifts or finding clothing they love, suggesting some satisficing behavior.  
+
+In economic games, the respondent behaves in a highly self-interested, satisficing manner, keeping all money and rejecting offers that are not fully advantageous. This suggests domain-specific satisficing in social/economic decisions.  
+
+No evidence suggests maximizing in other domains such as personal image or product uniqueness; the respondent disagrees a little with statements about seeking uniqueness or breaking social rules in consumption.  
+
+Thus, the respondent shows a general satisficing strategy, especially in economic and social domains, with no strong drive to optimize or maximize outcomes beyond a reasonable threshold.  
+
+## Self-concept stability  
+Self-Concept Clarity scale responses show moderate clarity and stability. The respondent disagrees a little with statements about conflicting self-beliefs, changing opinions of self, or feeling not like the person they appear to be. They agree a little that they have a clear sense of who they are and what they are (SCC items 6 and 11).  
+
+Free-response self-descriptions are consistent: the aspirational, ought, and actual selves all emphasize honesty, helpfulness, courtesy, loyalty, and being trustworthy. There are no notable contradictions between these self-descriptions.  
+
+The respondent also agrees a little that they would not tell someone what they are really like, indicating some guardedness or privacy about self-disclosure, but this does not conflict with overall self-concept clarity.  
+
+Overall, the respondent maintains a fairly stable and coherent self-concept with minor reservations about full self-disclosure.  
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated values and their economic game behavior. The respondent rates altruism, compassion, honesty, and helpfulness as highly important guiding principles (Values items 9, 16, 17, 7 all rated 8), and self-descriptions emphasize being honest, helpful, courteous, and loyal. However, in dictator and trust games, the respondent consistently chooses to keep all money for themselves and rejects offers that are not fully in their favor, indicating highly self-interested behavior.  
+
+This gap implies a discrepancy between aspirational or moral self-image and actual economic decision-making, suggesting that the respondent’s reasoning under uncertainty may be influenced by self-protective or pragmatic considerations overriding stated altruistic values. This conflict may reduce the reliability of self-report measures for predicting behavior in social-economic contexts and indicates a potential for strategic or self-serving reasoning when stakes are involved.  
+
+No other major gaps are evident between self-reported personality and observed behavior.  
+
+## Intertemporal patience  
+The respondent consistently prefers smaller-sooner rewards over larger-later rewards in intertemporal choice tasks, indicating low intertemporal patience. This is supported by moderate conscientiousness (agree a little to being organized, making plans, persevering) but a preference for immediacy and quick decision-making (NFCC items).  
+
+The respondent’s choices suggest a discounting of delayed rewards and a preference for immediate gratification, consistent with their economic game behavior favoring immediate self-interest.  
+
+## Bias susceptibility predictions  
+Predictable from cognitive signals:  
+
+- Probability matching vs. maximizing: The respondent’s lottery valuations show consistent undervaluation of lotteries relative to expected value, indicating probability matching tendencies rather than maximizing.  
+
+- Dominator (denominator) neglect: The respondent’s incorrect answers to probability questions (e.g., estimating 10% chance of disease as 100 people out of 1,000) and misunderstanding of lottery odds (e.g., 1 in 1,000 as 10%) suggest susceptibility to denominator neglect.  
+
+- Belief bias in syllogisms: The respondent rejects logically valid conclusions when they conflict with prior beliefs (e.g., rejecting that plants are not animals), indicating belief bias.  
+
+- Wason matching bias: The respondent fails to select the logically necessary cards in the Wason selection task, showing classic matching bias.  
+
+Weakly predictable or not predictable from cognitive signals:  
+
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, and myside bias cannot be confidently predicted from the available data, consistent with Stanovich & West (2008) limits.  
+
+## Summary  
+The respondent exhibits a cognitive style characterized by low intrinsic motivation for effortful thinking but moderate conscientiousness and persistence in task completion. They show moderate intolerance of uncertainty, preferring quick decisions and structured environments. Their optimization strategy is generally satisficing, especially in social and economic domains, despite valuing altruism and honesty. A notable gap exists between their stated altruistic values and self-interested economic game behavior, suggesting pragmatic or strategic reasoning under uncertainty. Intertemporal choices reveal a preference for immediacy over delayed rewards. Cognitive biases such as belief bias, denominator neglect, and Wason matching bias are evident, while other biases remain unpredictable from the data. Overall, the respondent’s reasoning under uncertainty is pragmatic, effort-averse, and influenced by self-interest, with moderate closure needs and a stable self-concept.

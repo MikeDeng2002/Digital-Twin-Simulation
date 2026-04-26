@@ -1,0 +1,62 @@
+## Core Values
+
+### Agentic vs. Communal Values  
+The 24-item values scale shows some spread in ratings, with no extreme acquiescence compression; scores range from 1 to 9, allowing meaningful interpretation of relative importance. The participant places strong emphasis on communal values such as Forgiveness (9), Trust (9), Competence (9), Humility (9), Loyalty (9), Honesty (9), and Compassion (9). Agentic values are generally rated lower, with Influence (1), Power (2), Recognition (1), Status (3), and Superiority (3) rated lowest. Achievement (5), Ambition (4), and Excitement (4) are moderate to low. Autonomy (8) and Pleasure (8) are exceptions among agentic values, showing some importance. Overall, the participant prioritizes communal values strongly, especially those related to trust, kindness, and humility, while agentic values related to dominance and status are rated low. The highest rated individual values are Forgiveness, Trust, Competence, Humility, Loyalty, Honesty, and Compassion (all 9s). The lowest rated are Influence (1), Recognition (1), Power (2), Status (3), and Superiority (3).
+
+## Consumer and Product Preferences
+
+### Consumer Minimalism  
+Score: Approximately 4.6 / 5. The participant strongly endorses consumer minimalism, actively avoiding accumulation and preferring sparse aesthetics. Accumulation avoidance items (1-4) are rated mostly 4-5, indicating strong agreement with avoiding excess possessions. Aesthetic spareness items (5-8) are rated 4-5, showing a clear preference for simplicity and visual emptiness in environments. Mindful curation items (9-12) are also rated 4-5, reflecting thoughtful selection and curation of belongings. This pattern indicates a strong minimalist orientation, predicting a tendency to skip purchases even when income allows.
+
+### Need for Uniqueness  
+Score: 1 / 5. The participant strongly disagrees with all statements related to seeking uniqueness through consumption, indicating no desire to differentiate themselves by buying unusual or distinctive products. This low uniqueness score is consistent with the high minimalism score, suggesting a preference for conventional, non-flashy consumption and accumulation avoidance.
+
+## Social and Interpersonal Evaluation Standards
+
+### Self-Monitoring  
+Score: Approximately 3.7 / 5 (based on 13 items with mixed responses). The participant shows moderate self-monitoring with some ability to adjust behavior in social situations but also some difficulty changing behavior to suit different people and situations. They report generally good intuition about others’ emotions and are sensitive to subtle social cues (all items related to reading emotions rated 6/6). However, some items indicate trouble changing self-presentation readily. This suggests moderate sensitivity to social expectations with some limitations in flexibility.
+
+### Self-Concept Clarity (SCC)  
+Score: Approximately 3.0 / 5. The participant reports some internal conflict and occasional variability in self-beliefs but generally a moderate sense of self-consistency. They disagree with statements indicating frequent or strong self-concept confusion and report a somewhat clear sense of who they are, though not strongly so. This suggests moderately stable self-evaluation standards with some context dependence.
+
+## Risk and Loss Evaluation
+
+### Risk Aversion  
+CRRA coefficient: Approximately 0.7 (positive, indicating risk aversion). The participant consistently prefers certain smaller amounts over risky lotteries with equal or higher expected values in gain-domain lotteries. For example, they choose the certain option over lotteries offering 50% chance at $6, $8, or $10 until the certain amount approaches the lottery expected value. This pattern shows moderate to strong risk aversion in gains. They never switch to the lottery side until the certain amount is close to or exceeds expected value, indicating consistent risk-averse preferences.
+
+### Loss Aversion  
+Lambda coefficient: Approximately 2.0 (losses weighted about twice as much as gains). The participant prefers to avoid losses strongly, choosing to pay less certain losses over lotteries with higher expected losses, and requiring relatively large gains to accept mixed gambles involving losses. They reject lotteries with 50% chance of losing $6 or $8 unless the gain side is substantially higher than the loss. This indicates strong loss aversion. Cross-referencing with risk aversion shows a consistent pattern: the participant is both risk-averse in gains and strongly loss-averse, reflecting a prevention-focused orientation.
+
+## Fairness and Social Preferences
+
+### Mental Accounting  
+Score: 100% choices consistent with mental accounting predictions (4/4). The participant prefers segregated mental accounts, showing preference for two smaller gains over one combined gain of equal value (World Series lottery), greater upset over combined losses than separate losses (IRS letters), and similar patterns in lottery-plus-rug and car damage-plus-pool win scenarios. This indicates strong mental segregation of gains and losses rather than integration.
+
+### Ultimatum Game  
+Sender: Offered 40% of $5 to the other person (kept $2, sent $3).  
+Receiver: Accepted offers when the sender kept $0, $1, $2, or $3 (i.e., offers of $5, $4, $3, $2 to self), but rejected offers when sender kept $4 or $5 (offers of $1 or $0 to self). Minimum acceptable offer is $2 (40%).  
+The participant’s fairness norm as sender is moderately fair, offering a near-equal split but keeping slightly more than half. As receiver, they enforce a fairness floor by rejecting very low offers ($1 or $0). This shows a balanced fairness norm: willing to share fairly but not tolerate very unfair offers. There is no asymmetry; sender generosity and receiver tolerance align.
+
+### Trust Game  
+Sender: Sent 40% of $5 to the other person (kept $3, sent $2).  
+Receiver returns:  
+- Received $15 (sent $5 x3): returned $5 (33%)  
+- Received $12 (sent $4 x3): returned $6 (50%)  
+- Received $9  (sent $3 x3): returned $3 (33%)  
+- Received $6  (sent $2 x3): returned $2 (33%)  
+- Received $3  (sent $1 x3): returned $1 (33%)  
+The participant applies a mostly consistent proportional return rule, generally returning about one-third of the amount received, except for the $12 case where they return half.  
+Participant's thoughts (sender): "I would want to keep as much money as possible," "I also want to be fair to the other person," "keeping slightly more than half is still rather fair considering the situation," "I wonder if the other person would be as fair as I am trying to be."  
+Participant's thoughts (receiver): "I want to be as fair as possible," "I don't know if the other person would be fair and send back anything," "I think dividing the money as equally as possible would still be the fairest thing that I can do."  
+This indicates moderate trust in anonymous strangers (sending 40%), a reciprocity norm favoring fairness and proportional sharing, and a reasoning frame focused on fairness and cautious optimism about reciprocity.
+
+### Dictator Game  
+Sent 40% of $5 (kept $3, sent $2). The other person had no power to reject.  
+Participant's thoughts: "I need to be as fair as possible," "There is no way to completely evenly split five dollars," "I'll have to split it as evenly as I can," "How much would the other person likely give me in this situation," "I think giving myself the larger of the two small amounts is fair, since I am the one dividing it."  
+The Dictator offer matches the Ultimatum offer (both 40%), indicating that giving is driven by fairness preferences rather than strategic considerations. The participant aims for fairness even when the recipient cannot punish, reflecting genuine altruism or fairness motivation.
+
+## Self-Report Reliability for This File  
+The stated Values scale (A.3.3) is moderately trustworthy relative to behavioral game data. The participant’s Social Desirability score is not provided here, but the values ratings show no strong acquiescence compression and align well with behavioral data: high communal values correspond with fair offers and moderate generosity in economic games. There is no notable stated-vs-revealed gap; altruism and fairness are consistently expressed in both self-report and behavior. Therefore, the simulation can lean moderately on stated values but should prioritize behavioral data for precise modeling.
+
+## Summary  
+This participant strongly prioritizes communal values such as trust, forgiveness, humility, and compassion, while placing low importance on agentic values related to power and status. They exhibit strong consumer minimalism, actively avoiding accumulation and preferring sparse, curated possessions, combined with a very low need for uniqueness, indicating conventional and restrained consumption. Their social evaluation shows moderate self-monitoring and moderately stable self-concept clarity. They are moderately to strongly risk-averse in gains and strongly loss-averse, consistent with a prevention-focused orientation. Mental accounting is strong, with clear segregation of gains and losses. Fairness norms are balanced: they offer about 40% in Ultimatum and Dictator games, reject very low offers, and apply proportional reciprocity in the Trust Game. Their thoughts reveal a fairness and cautious reciprocity frame. The most predictive feature for pricing behavior is the strong consumer minimalism. The dominant fairness norm is moderate fairness with enforcement of a fairness floor. There is no major stated-vs-revealed gap; altruism and fairness are consistent across self-report and behavior.

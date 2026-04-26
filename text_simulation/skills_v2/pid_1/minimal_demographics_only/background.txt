@@ -1,0 +1,14 @@
+# Minimal demographics-only context for pid_1
+
+- Sex: Female
+- Race: Black
+- Age: 30-49
+- Region: Midwest (US)
+- Education: Some college, no degree
+- Employment: Part-time
+- Marital status: Married
+- Household size: 3
+- Income: $50,000-$75,000 (family total)
+- Political identity: Independent, moderate
+- Religion: Nothing in particular; attends services a few times a year
+- Citizenship: US citizen

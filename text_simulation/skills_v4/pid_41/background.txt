@@ -1,0 +1,100 @@
+## Demographics  
+The participant currently lives in the South region of the United States. She is female and in the 18-29 age group. Her highest level of education completed is college graduate/some postgraduate. She identifies as White and is a U.S. citizen. She has never been married and identifies as Protestant, attending religious services once or twice a month. Politically, she considers herself a Republican with conservative views. Her household income last year was between $50,000 and $75,000. She lives alone in a household size of one and is employed full-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of candor in self-reporting, indicating that the participant’s responses can generally be trusted but with some caution for potential impression management.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.9  
+Agreeableness: 4.3  
+Conscientiousness: 4.3  
+Neuroticism: 3.3  
+Openness: 3.7  
+
+The participant’s Big Five profile reveals a somewhat reserved interpersonal style, with extraversion near the lower-middle range (2.9), indicating she is not highly talkative or outgoing but not extremely introverted either. High agreeableness (4.3) and conscientiousness (4.3) suggest she is cooperative, kind, reliable, and diligent in her work habits. Neuroticism is moderate (3.3), indicating some emotional reactivity and worry, which aligns with her emotional baseline data. Openness is moderately high (3.7), showing curiosity and appreciation for new ideas and artistic experiences. No scores are at or near scale extremes (<=1.5 or >=4.5). The moderate neuroticism score is consistent with the emotional baseline findings.
+
+### Need for Cognition  
+Score: 3.7 / 5.  
+She enjoys and seeks out effortful thinking to a moderate-to-high degree, indicating a preference for engaging in complex and challenging cognitive tasks.
+
+### Empathy (BES-A)  
+Score: 3.8 / 5.  
+The participant shows a strong tendency to share and recognize others’ emotions, indicating good empathic sensitivity and emotional attunement.
+
+### Green Values  
+Score: 2.5 / 5.  
+Her environmental identity is moderate to low, suggesting ambivalence or limited prioritization of environmental concerns in her self-concept.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.5  
+Vertical Individualism: 3.0  
+Horizontal Collectivism: 4.0  
+Vertical Collectivism: 3.8  
+
+The participant shows a balanced orientation with a slight lean toward horizontal collectivism (4.0) and vertical collectivism (3.8), indicating a moderate emphasis on group loyalty and respect for hierarchical relationships within groups. Her horizontal individualism (3.5) and vertical individualism (3.0) scores suggest she values some personal independence but less so than group cohesion. Overall, she appears to value group loyalty and social harmony moderately more than personal independence, with some acceptance of hierarchy in both domains.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 11 / 63.  
+This score falls in the mild anxiety range (8-15). The symptom pattern is characterized more by cognitive symptoms such as worry and nervousness (e.g., "unable to relax," "fear of the worst happening," "nervous," "worries a lot") rather than somatic symptoms, which are minimal or absent (e.g., no trembling, heart racing, or sweating). This cognitive symptom predominance supports the reliability of self-reports and aligns with the moderate neuroticism score.
+
+### Beck Depression Inventory  
+Score: 3 / 61.  
+This score is in the minimal depression range (0-9). The participant reports no significant depressive symptoms, no cognitive distortions, motivational deficits, or physical symptoms of depression. This is consistent with her moderate neuroticism and mild anxiety, indicating no clinically significant depression.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be someone who strikes a perfect balance between doing the things I love, like traveling, while still fulfilling my professional goals. Ideally, I would be able to balance my career with my personal interests in a way that allows me to pursue my passions without compromising my responsibilities. My ultimate goal is to create a life where I can enjoy new experiences and relationships while maintaining success and fulfillment in my career."  
+- Ought self (what they feel they should be): "I ought to be a reliable and detail-oriented individual, fulfilling my professional responsibilities with the accuracy, especially in my role as a data analyst. Given my position, I should also be approachable and supportive to my team. Additionally, I should maintain a high level of integrity and contribute positively to society through my work, especially given the importance of my role in the justice system."  
+- Actual self (what they believe they currently are): "I’m someone who is driven and committed to my career, but I also deeply value my personal freedom, especially when it comes to traveling and exploring new experiences. While I work hard and stay dedicated to my professional goals, I recognize that balancing work and personal life is a challenge I’m still navigating. I’m detail-oriented and responsible, but I also make time to pursue the things that bring me joy, like my friends, cooking, and the gym. However, I know I need to do better about not letting overthinking and stress consume me, and just appreciating the moment."  
+
+The three selves are generally consistent, reflecting a coherent self-concept focused on balancing professional responsibility with personal fulfillment. Meaningful gaps exist primarily in the ongoing challenge of balancing work and personal life and managing stress, which the participant acknowledges.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps such as the bat-ball anchoring error.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+No errors were made. The participant successfully completed all matrix and cube rotation items, showing strong fluid reasoning and spatial visualization skills.
+
+### Crystallized Intelligence  
+Score: 7 / 10 (Note: transcript shows 10 synonym and antonym items answered; the module max is 20 items, but only 10 synonym and 10 antonym questions were presented).  
+Errors: The participant incorrectly answered the synonym for "CONCUR" as "divulge" (correct answer: "acquiesce"), indicating a vocabulary gap or guessing. All other synonym and antonym items were answered correctly. This suggests a generally strong vocabulary with isolated errors likely due to guessing or uncertainty.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (8 syllogistic items answered).  
+Errors occurred on belief-biased items:  
+- Incorrectly answered that the conclusion "Poodles do not have four legs" follows logically from premises (error: failure to reject invalid conclusion influenced by prior belief).  
+- Incorrectly answered that "China is not communist" follows logically from premises (error: failure to reject invalid conclusion).  
+- Incorrectly answered that "Roses are flowers" follows logically from premises (error: failure to accept invalid conclusion).  
+- Incorrectly answered that "Rockefeller is not poor" follows logically from premises (error: failure to reject invalid conclusion).  
+
+This pattern indicates reasoning is somewhat influenced by prior beliefs rather than strict logic.
+
+### Financial Literacy  
+Score: 8 / 8.  
+All financial literacy items were answered correctly, including understanding mortgage payments, inflation effects, risk diversification, and credit card debt implications (correctly answered "never" for debt payoff under minimum payments).
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items were answered correctly, including probability conversions, percentage calculations, and basic arithmetic reasoning.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All four modus ponens items were answered correctly with no "No" responses, indicating full acceptance of logically valid conclusions regardless of prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 1.  
+The participant correctly selected the card "A" to test the rule "If there is an A on one side, then there is a 3 on the other," showing good conditional reasoning and avoidance of matching bias.
+
+## Cognitive Summary  
+The participant demonstrates strong cognitive abilities overall, with perfect scores on the CRT, fluid intelligence, financial literacy, numeracy, modus ponens, and Wason selection tasks. Crystallized intelligence is generally strong with a minor vocabulary error, and syllogistic reasoning shows some susceptibility to belief bias, indicating reasoning is occasionally influenced by prior knowledge or assumptions rather than pure logic. The cognitive profile is consistent with her educational background and professional role. Financial literacy and numeracy scores align well with her cognitive strengths, showing solid practical knowledge and quantitative reasoning.
+
+## Summary  
+This participant is a young, college-educated White female living in the Southern U.S., employed full-time and politically conservative. Her personality is characterized by moderate introversion, high agreeableness and conscientiousness, moderate neuroticism, and openness. She enjoys effortful thinking and shows strong empathy but has only moderate environmental concern. Emotionally, she experiences mild anxiety with primarily cognitive symptoms and minimal depression. Her sense of self is coherent, balancing professional ambition with personal freedom and acknowledging challenges with stress and overthinking. Cognitively, she excels in reflective reasoning, fluid intelligence, and practical financial and numerical skills, though her syllog

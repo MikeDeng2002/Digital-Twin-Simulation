@@ -1,0 +1,55 @@
+## Effort regulation and cognitive style  
+The respondent demonstrates a strong preference for engaging in cognitively demanding tasks, as indicated by high Need for Cognition (NFC) scale items such as enjoying responsibility that requires a lot of thinking (NFC item 2: Agree strongly), preferring intellectual, difficult, and important tasks (NFC item 15: Agree strongly), and disliking tasks requiring little thought (NFC items 3, 4, 5, 7, 9, 12, 16, 17: Disagree strongly). This is consistent with their self-reported Big Five Conscientiousness traits, where they strongly agree with being organized, efficient, systematic, practical, and persevering until tasks are finished (Big Five items 3, 13, 28, 33, 38: Agree strongly; items 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 15, 20, 25, 30, 32, 36, 42: Agree strongly or high). The respondent also shows high openness to experience (e.g., original, ingenious, curious, imaginative, inventive, artistic; Big Five items 5, 15, 20, 25, 30, 44: Agree strongly).  
+
+However, cognitive test performance reveals some notable error patterns. The respondent answered the bat-and-ball problem incorrectly (answer: 5 instead of 0.05), indicating a common intuitive error and a failure to override heuristic responses in this classic cognitive reflection test (CRT)-style item. They also answered the cube rotation tasks with some uncertainty (choosing "I do not know" once, and selecting an incorrect cube rotation option in one instance), suggesting occasional difficulty with spatial reasoning or mental rotation tasks. Logical syllogism items were mostly answered correctly, except for one (Poodles are not dangerous; conclusion: Poodles do not have four legs) where the respondent incorrectly answered "No," indicating some difficulty with logical necessity and contrapositive reasoning.  
+
+Overall, the respondent shows a high cognitive engagement and conscientiousness but reveals some typical cognitive biases or errors in reasoning under uncertainty, especially in CRT-style and spatial tasks.  
+
+## Closure and uncertainty tolerance  
+The respondent strongly endorses a need for closure and low tolerance for uncertainty, as shown by high agreement with statements such as "I don’t like situations that are uncertain" (NFCC item 1: Agree strongly), "I dislike questions which could be answered in many different ways" (NFCC item 2: Agree strongly), "I don’t like to go into a situation without knowing what I can expect" (NFCC item 6: Agree strongly), and "I dislike unpredictable situations" (NFCC item 15: Agree strongly). They also agree that a well-ordered life with regular hours suits their temperament (NFCC item 3: Agree a little) and that establishing a consistent routine enables them to enjoy life more (NFCC item 12: Agree a little).  
+
+Behaviorally, the respondent does not rush to decisions or feel impatient when solutions are not immediate (NFCC items 8 and 9: Disagree strongly), indicating a measured commitment speed despite their preference for order. Their free responses and decision consistency in intertemporal choice tasks show consistent preference for smaller-sooner rewards over larger-later ones, suggesting a preference for certainty and immediacy.  
+
+The respondent’s free-response length and thoughtful answers in cognitive tasks also suggest tolerance for deliberation, despite their stated discomfort with ambiguity. This indicates a nuanced closure style: they prefer order and predictability but are willing to engage in effortful thinking rather than impulsive closure.  
+
+## Optimization strategy  
+The respondent strongly identifies as a maximizer, endorsing highest standards for themselves and never settling for second best (Maximizer items 5 and 6: Agree strongly). However, their responses to domain-specific questions about shopping and gift-giving indicate some flexibility: they disagree strongly with having difficulty finding clothing they love or gifts for friends (Maximizer items 3 and 4: Disagree strongly), suggesting satisficing behavior in social or consumer domains.  
+
+In economic games, the respondent proposes giving the entire $5 to the other person in the dictator game (Dictator game: keep $0, give $5), reflecting an altruistic maximizing of social welfare rather than self-interest. Yet, as a receiver in the ultimatum game, they reject even the most generous offers ($5), accepting only offers where the proposer keeps $3 or more, indicating a strategic satisficing or fairness threshold in social exchange.  
+
+This split suggests a prosocial maximizing orientation in giving but a pragmatic satisficing approach in receiving or negotiation contexts.  
+
+## Self-concept stability  
+The respondent reports a highly stable and clear self-concept, strongly disagreeing with statements about conflicting self-beliefs or frequent changes in self-view (SCC items 1-5, 7-9: Disagree strongly) and agreeing strongly that they have a clear sense of who they are (SCC item 11: Agree strongly). Their free-response descriptions of aspirational, ought, and actual selves are consistent and aligned, emphasizing kindness, generosity, and honesty in all three.  
+
+No contradictions are evident between self-descriptions and other self-report data. The respondent’s high self-monitoring scores (all items indicating strong ability to adapt behavior and read social cues) align with a coherent and well-regulated self-presentation.  
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated altruistic values and their economic game behavior as a receiver. They highly value altruism, kindness, and generosity (Values items 3, 7, 9, 17: Rated 9 - Highly Important), and as a proposer, they give the entire $5 to the other person, consistent with these values. However, as a receiver, they reject even the most generous offers ($5), accepting only offers where the proposer keeps $3 or more, which is inconsistent with their stated generosity and trust.  
+
+This gap implies a complex reasoning style under social uncertainty: while they aspire to be maximally generous and kind, they maintain strict fairness or self-protection thresholds when in a vulnerable position. This may reflect distrust or strategic caution despite stated values, reducing the reliability of self-report altruism in predicting actual social decision-making.  
+
+No other major gaps between self-reported personality and behavior are evident.  
+
+## Intertemporal patience  
+The respondent consistently prefers smaller-sooner rewards over larger-later rewards across multiple intertemporal choice tasks, indicating low intertemporal patience. This is shown by choosing immediate or earlier smaller amounts over delayed larger amounts in all tested scenarios (e.g., preferring $3 now over $6 in one week, $4 now over $8 in one week, etc.).  
+
+This impatience aligns with their high conscientiousness and preference for order, suggesting a preference for certainty and control rather than delayed gratification. Their planning and follow-through traits (Big Five items 38: Agree strongly) indicate that this impatience is not due to impulsivity but a deliberate preference for immediacy.  
+
+## Bias susceptibility predictions  
+Predictable from cognitive signals:  
+
+- Probability matching vs. maximizing: The respondent’s cognitive style and error patterns (e.g., CRT error on bat-and-ball) suggest a tendency toward probability matching rather than strict maximizing, as they do not consistently override intuitive errors.  
+
+- Denominator neglect: Given their good understanding of probabilities and percentages (correct answers on probability and financial literacy items), they are likely less susceptible to denominator neglect.  
+
+- Belief bias in syllogisms: The respondent answered most syllogisms correctly but failed on one involving contrapositive reasoning, indicating moderate susceptibility to belief bias.  
+
+- Wason matching bias: The respondent correctly identified the cards to turn over in the Wason selection task, suggesting low susceptibility to matching bias.  
+
+Weakly predictable or not predictable from cognitive signals:  
+
+- Framing effects, anchoring and adjustment, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, and myside bias cannot be confidently predicted from the available data, consistent with Stanovich & West (2008) limitations.  
+
+## Summary  
+The respondent exhibits a high need for cognition and conscientiousness, engaging deeply with complex problems but showing some typical cognitive errors in CRT-style and spatial tasks. They have a strong preference for closure and order, tolerating deliberation but disliking ambiguity. Their optimization strategy is primarily maximizing, especially in prosocial giving, but they show satisficing tendencies in receiving and consumer domains. Their self-concept is stable and coherent, with aligned aspirational and actual self-descriptions emphasizing kindness and generosity. However, a notable gap exists between their stated altruistic values and their economic game behavior as a receiver, indicating strategic caution or distrust under social uncertainty. They display low intertemporal patience, preferring immediate rewards despite conscientious planning. Cognitive biases such as belief bias and probability matching are moderately likely, while other biases remain unpredictable from the data.

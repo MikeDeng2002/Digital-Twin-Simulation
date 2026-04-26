@@ -1,0 +1,42 @@
+## Spending and Consumption Mode
+
+### Tightwad-Spendthrift  
+Score: 15 (scale: 4 = extreme tightwad, 26 = extreme spendthrift, midpoint ~13). This participant’s spending mode is balanced but slightly leaning toward moderate spendthrift behavior. Their self-rating slider places them near the midpoint, indicating neither strong difficulty spending nor strong difficulty controlling spending. They report sometimes having trouble limiting their spending but rarely have trouble spending money, and they identify more with a person who resists spending impulsively (similar to Mr. B in the mall scenario). The pattern across the four items (self-rating slider, trouble-spending question, trouble-limiting question, and mall scenario) is consistent, showing a moderate and controlled approach to spending rather than extremes.
+
+## Decision Search and Closure
+
+### Maximization vs. Satisficing  
+Score: 3.9 / 5. This participant tends toward a moderately high maximization style, indicating they search fairly exhaustively for the best possible option rather than settling quickly for good enough. They strongly endorse having high standards for themselves and never settling for second best, but also show some ambivalence in shopping difficulty, suggesting a balanced but goal-oriented search style.
+
+### Need for Cognitive Closure (NFCC)  
+Score: Approximately 3.3 / 5. The participant shows a moderate need for cognitive closure, with some preference for order and structure (agreeing a little that they dislike uncertainty and prefer clear answers) but not an extreme intolerance for ambiguity. They neither strongly rush to decisions nor strongly avoid uncertain situations, indicating a balanced decisiveness under uncertainty. This suggests moderate decision speed and commitment style, with some tolerance for ambiguity.
+
+### Regulatory Focus (RFS)  
+Score: Approximately 5.5 / 7 (higher = more promotion-focused; midpoint = 4). The participant is primarily promotion-focused, oriented toward achieving ideals, gains, and aspirations rather than primarily avoiding losses or fulfilling obligations. They agree with statements about creativity, responsibility, and achievement, and emphasize motivation and growth in their aspirational self-description. This implies they will be more responsive to gain-framed and opportunity-framed choices, seeking advancement and positive outcomes rather than focusing on safety or loss avoidance. This promotion focus is consistent with their moderate present bias and spending mode, suggesting openness to opportunity and reward.
+
+### IPIP Conscientiousness (Wave 2)  
+Score: 7.2 / 8 (average of items rated mostly 7 or 8). The participant is highly conscientious, describing themselves as organized, efficient, systematic, practical, and careful. This is consistent with their background Big Five conscientiousness score (not provided here, but no divergence flagged), indicating a reliable and disciplined approach to executing decisions.
+
+## Metacognition
+
+### Overconfidence  
+Score: -11 (predicted own score 24 minus actual score 35). The participant is underconfident, substantially underestimating their cognitive test performance by 11 points. This is a notable negative calibration, indicating modesty or lack of confidence in their cognitive abilities despite a relatively high actual score (35 out of 42). This underconfidence is not problematic given their actual cognitive ability is above average.
+
+### Overplacement  
+Score: -11 (own predicted score 24 minus average predicted score 35). The participant believes they perform worse than their peers, showing a strong negative social comparison bias. This aligns with their underconfidence and suggests a cautious or humble self-assessment relative to others.
+
+Cross-referencing metacognition with cognitive ability: The participant’s actual cognitive ability is relatively high (35/42), but they show large underconfidence and underplacement. This indicates a well-calibrated humility rather than miscalibration; they do not overestimate their abilities.
+
+### Forward Flow (Divergent Thinking)  
+Forward Flow data not available in this wave.
+
+## Time Preferences
+
+### Discount Rate  
+Annualized discount rate: Approximately 150%. The participant switches preferences in the multiple price lists indicating a moderately high discount rate, reflecting impatience in trading off sooner versus later rewards. They prefer smaller-sooner rewards over larger-later rewards until the delayed reward becomes sufficiently larger. This discount rate is above typical US adult averages (20%-200%), placing them toward the more impatient side but not at an extreme. They show consistent switching behavior rather than always choosing one side.
+
+### Present Bias  
+Present bias coefficient: Approximately +0.3 (positive). The participant shows a modest present bias, preferring immediate rewards somewhat more than predicted by their base discount rate. This present bias is directionally consistent with their moderate spendthrift tendencies and promotion focus, indicating some impulsivity but balanced by conscientiousness and controlled spending.
+
+## Summary  
+This participant exhibits a moderately promotion-focused decision style, oriented toward gains and achievement, which will make them more responsive to opportunity-framed and gain-framed choices. They are conscientious and systematic in decision execution, with a moderately high maximization tendency, indicating thorough search for the best options. Their time preferences reveal moderate impatience and present bias, suggesting some preference for immediate rewards but not extreme impulsivity. Metacognitively, they are underconfident and underestimate their abilities relative to peers, reflecting humility rather than miscalibration. Their spending mode is balanced, slightly leaning toward controlled spending rather than tightwad or spendthrift extremes. The most predictive single feature for simulating this person on choice tasks is their promotion-focused regulatory orientation, which shapes their responsiveness to framing and opportunity cues.

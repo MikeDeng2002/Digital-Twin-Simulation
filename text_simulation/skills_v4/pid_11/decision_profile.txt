@@ -1,0 +1,44 @@
+## Spending and Consumption Mode
+
+### Tightwad-Spendthrift  
+Score: 11 (scale: 4 = extreme tightwad, 26 = extreme spendthrift, midpoint ~13). This participant exhibits a spending mode that leans toward tightwad tendencies but is not at the extreme end. Their self-rating slider is low (3 on a 1-11 scale), indicating they see themselves as somewhat tight with money. They report never having trouble limiting spending and often having trouble spending money, which aligns with a cautious spending style. In the mall scenario, they identify more with Mr. B, who resists spending despite sales, reinforcing a consistent pattern of frugality and control over spending impulses. Overall, the items agree and show internal consistency toward a moderately tight spending mode.
+
+## Decision Search and Closure
+
+### Maximization vs. Satisficing  
+Score: 2 / 5. This participant tends not to search exhaustively for the best possible option but rather settles for good enough. Their responses indicate some reluctance to always seek the optimal choice, with moderate endorsement of satisficing tendencies.
+
+### Need for Cognitive Closure (NFCC)  
+Score: Approximately 4.0 / 5. The participant shows a relatively high need for cognitive closure, as indicated by strong agreement with disliking ambiguous or uncertain situations and a preference for definite answers. They feel uncomfortable without understanding reasons for events and dislike statements with multiple meanings. However, they do not strongly feel relieved upon making decisions nor do they rush to solutions, suggesting a nuanced profile: they prefer clarity and order but may not be impulsive in decision-making. This high closure need suggests they likely make decisions relatively quickly and commit firmly once a conclusion is reached.
+
+### Regulatory Focus (RFS)  
+Score: Approximately 3.5 / 7 (estimated from related items; exact RFS items not present but inferred from related attitudes). The participant shows a mixed but slightly prevention-focused orientation. They emphasize duties, obligations, and loyalty, and express concern about doing what is right and what God would approve of, indicating a prevention focus toward fulfilling responsibilities and avoiding losses or mistakes. This orientation implies they will be more responsive to loss-framed and safety-framed choices rather than gain-framed or opportunity-framed ones. This prevention focus is consistent with their tightwad spending mode and cautious decision style.
+
+### IPIP Conscientiousness (Wave 2)  
+Score: 8 / 8 (based on 8 items, 9-point scale, with very high agreement on organization, efficiency, systematic work, and reliability). The participant is highly conscientious, showing strong tendencies toward being organized, efficient, and thorough in executing decisions. This score aligns well with their background Big Five Conscientiousness score (noted as consistent), reinforcing a profile of disciplined and methodical decision execution.
+
+## Metacognition
+
+### Overconfidence  
+Score: -25 (predicted own score 5 vs. actual 30 on 42 cognitive items; participant predicted 5 correct, actual was 30, so difference is -25). This is a large negative score indicating strong underconfidence. The participant severely underestimated their cognitive performance.
+
+### Overplacement  
+Score: -25 (own predicted score 5 vs. average predicted 30; participant believes they perform much worse than peers). This large negative value shows the participant believes they underperform relative to others, consistent with the underconfidence finding.
+
+Cross-referencing with cognitive ability: The participant’s actual cognitive ability is moderate to high (30 correct out of 42), so this large underconfidence combined with moderate ability indicates a significant miscalibration characterized by low self-assessment rather than inflated confidence.
+
+### Forward Flow (Divergent Thinking)  
+Forward Flow data not available in this wave.
+
+## Time Preferences
+
+### Discount Rate  
+Annualized discount rate: Approximately 400% (inferred from consistent preference for sooner-smaller rewards over later-larger rewards across all three price lists, with switching points only at the highest delayed amounts). The participant consistently prefers sooner rewards over later ones, indicating extreme impatience. They never switch to preferring the later-larger reward until the delayed amount is substantially higher, reflecting a very high discount rate well above typical US adult ranges (20%-200%).
+
+This extreme impatience suggests a strong preference for immediate gratification and difficulty waiting for future rewards.
+
+### Present Bias  
+Present bias coefficient: Approximately +0.8 (strong positive). The participant shows a strong present bias, preferring immediate rewards much more than predicted by their base discount rate. This is consistent with their tightwad spending mode, as they are cautious but impatient, likely avoiding spending but also strongly favoring immediate over delayed outcomes.
+
+## Summary  
+This participant exhibits a moderately tight spending mode, characterized by difficulty spending money and strong control over expenditures. They tend to satisfice rather than maximize, with a high need for cognitive closure that drives a preference for clear, definite answers and relatively quick commitment to decisions. Their regulatory focus is slightly prevention-oriented, emphasizing duties and loss avoidance, which aligns with their cautious spending and strong present bias. They are highly conscientious, organized, and efficient in decision execution. Metacognitively, they are strongly underconfident despite moderate to high cognitive ability, indicating a significant self-assessment bias toward underestimation. Their time preferences reveal extreme impatience and strong present bias, favoring immediate rewards heavily over delayed ones. The most predictive single feature for simulating this person on choice tasks is their extreme impatience and strong present bias, which will strongly influence intertemporal trade-offs and impulsivity in decisions under uncertainty.

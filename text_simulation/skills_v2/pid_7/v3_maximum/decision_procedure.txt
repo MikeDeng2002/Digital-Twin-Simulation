@@ -1,0 +1,76 @@
+## Effort regulation and cognitive style  
+This individual exhibits a high Need for Cognition (NFC), as evidenced by strong agreement with items such as "I really enjoy a task that involves coming up with new solutions to problems" (5), "The notion of thinking abstractly appeals to me" (5), and "I usually end up deliberating about issues even when they do not affect me personally" (5). They also strongly disagree with statements indicating avoidance of effortful thinking, such as "Thinking is not my idea of fun" (1) and "I try to anticipate and avoid situations where there is likely chance I will have to think in depth" (1). This suggests a preference for deep, analytical processing and intellectual engagement.
+
+Cognitive test performance is mixed but generally competent. The participant correctly answered many classic cognitive reflection and logic problems, such as the "Emily’s father has three daughters" riddle (incorrectly answered "June" instead of "Emily," indicating a classic oversight of the question’s wording), and the cubic feet in a hole question (incorrectly answered 9 instead of 0, a common error reflecting a misunderstanding of the question’s logic). They correctly identified logical conclusions in syllogistic reasoning but made errors on some logical deduction tasks (e.g., incorrectly affirming conclusions that do not logically follow). In spatial reasoning tasks involving cube rotations, the participant selected "None of the cubes could be a rotation" (D) once, indicating some difficulty or uncertainty in spatial transformations.
+
+Their vocabulary and verbal reasoning are strong, with correct synonym and antonym selections for challenging words like "astute" (sagacious), "furtive" (stealthy), and "vacous" (profound, antonym). However, there is a notable error on the synonym for "solicit" (answered "purge" instead of "beseech"), suggesting occasional lapses or guessing.
+
+Conscientiousness is high, with strong self-ratings on being organized (8), thorough (5), and persevering (4), though some self-reported tendencies toward carelessness and disorganization (agreeing a little to "can be somewhat careless" and "tends to be disorganized") suggest some inconsistency or self-critical nuance. The participant strongly endorses being a deep thinker and original (5 on "ingenious, a deep thinker" and "original, comes up with new ideas"), indicating an analytical and creative cognitive style.
+
+Free responses reinforce a reflective and aspirational thinking style, emphasizing humility, learning from mistakes, and inspiring others, which aligns with a metacognitive awareness and a desire for growth.
+
+## Closure and uncertainty tolerance  
+The participant scores high on Need for Closure (NFCC), agreeing strongly with statements like "I don’t like situations that are uncertain" (5), "I don’t like to go into a situation without knowing what I can expect from it" (5), and "I dislike unpredictable situations" (5). They also strongly agree that they "dislike it when a person’s statement could mean many different things" (5), indicating discomfort with ambiguity and preference for clear, unambiguous information.
+
+Behaviorally, this is consistent with their intertemporal choices, where they often prefer immediate or more certain rewards over delayed or uncertain ones, though with some exceptions. Their free responses and self-reports show some tension between wanting to deliberate deeply and a desire for quick resolution ("When I have made a decision, I feel relieved" - 4), suggesting moderate impatience with prolonged uncertainty.
+
+They also express some irritation when others disagree with group consensus (agree a little to "I feel irritated when one person disagrees with what everyone else in a group believes"), indicating a social preference for harmony and predictability.
+
+Overall, the participant exhibits moderate to high intolerance of uncertainty, preferring structured, predictable environments and quick closure, but balanced by a reflective cognitive style that tolerates some ambiguity during problem-solving.
+
+## Optimization strategy  
+The participant shows a moderately strong maximizer profile. They agree strongly with "No matter what I do, I have the highest standards for myself" (5) and "I never settle for second best" (4), indicating a drive for optimal outcomes. However, they disagree strongly with statements indicating difficulty in shopping or gift selection, suggesting decisiveness rather than paralysis by choice.
+
+Consumerism and uniqueness scales reveal a strong desire for personal distinctiveness in possessions, with strong agreement on statements like "I often combine possessions in such a way that I create a personal image that cannot be duplicated" (5) and "I actively seek to develop my personal uniqueness by buying special products or brands" (5). They also enjoy challenging social norms through their purchases, indicating a nonconformist streak in consumption.
+
+Despite this, they do not endorse minimalism or simplicity in possessions, disagreeing strongly with "I avoid accumulating lots of stuff" and "I am drawn to visually sparse environments," suggesting a preference for curated but rich personal environments.
+
+In economic games, the participant behaves selfishly, proposing to keep all money for themselves and sending nothing to others, and reciprocating similarly by keeping all money sent to them. This reveals a strong self-interest and low trust or generosity in anonymous economic interactions, which contrasts with their stated values emphasizing kindness and selflessness, indicating a gap between ideals and revealed behavior.
+
+## Self-concept stability  
+Self-concept clarity (SCC) is moderate to somewhat low. The participant agrees a little with statements like "My beliefs about myself often conflict with one another" and "On one day I might have one opinion of myself and on another day I might have a different opinion," indicating some internal inconsistency or fluidity in self-perception. They also agree strongly that "It is often hard for me to make up my mind about things because I don't really know what I want," suggesting decisional uncertainty.
+
+However, they also agree a little that "In general, I have a clear sense of who I am and what I am," indicating some baseline self-knowledge. The free responses show aspirational self-images emphasizing humility, kindness, and inspiration, while actual self-descriptions focus on being loving, caring, and funny, with some acknowledgment of putting others first. This suggests a generally positive but somewhat conflicted self-view, with some tension between ideal and actual selves.
+
+No major contradictions appear in Big Five items, but the participant endorses both being talkative and somewhat shy, as well as being both relaxed and tense, indicating nuanced or context-dependent personality facets.
+
+## Behavioral vs. stated-preference gap  
+A notable gap exists between stated values and revealed behavior. The participant rates altruism and compassion as highly important values (9), and self-describes as selfless and caring, yet in economic games they behave selfishly, keeping all money for themselves and sending nothing to others, even when the other person’s money would be tripled. This suggests a discrepancy between social ideals and pragmatic or self-protective behavior in anonymous, incentivized contexts.
+
+Social desirability is not explicitly reported, but the participant’s self-reports include admissions of sometimes taking advantage of others and feeling resentful, indicating some candor. Their social desirability bias is likely moderate, so self-reports should be taken with some trust but balanced against behavioral data.
+
+The participant’s empathy scores are very high, with strong agreement on being affected by others’ emotions and understanding feelings, which contrasts with their selfish economic game behavior, reinforcing the gap between social-emotional values and economic self-interest.
+
+## Intertemporal patience  
+The participant shows moderate intertemporal patience. In delayed reward tasks, they often prefer immediate smaller rewards over delayed larger ones, especially when the delay difference is small, but switch to preferring larger delayed rewards when the difference is more substantial. This pattern suggests a typical hyperbolic discounting curve with some sensitivity to reward magnitude and delay.
+
+Conscientiousness is high (agreeing strongly with being organized and persevering), and free responses indicate a desire to be responsible and self-controlled, but also some self-reported procrastination ("I put off making decisions more than I used to"). This suggests a tension between planning intentions and execution.
+
+Overall, the participant is moderately patient but prone to some impulsivity or preference for immediacy in smaller stakes.
+
+## Egocentric projection tendency  
+The participant’s self-concept clarity is moderate to low, and empathy is very high, which typically reduces egocentric projection. However, their strong political identity as a "very liberal Democrat" and high importance placed on influence and recognition suggest a strong social identity that may increase projection on political or social issues.
+
+Given this, the participant is likely to exhibit moderate false consensus effects, especially on politically or socially charged judgments, projecting their own liberal views onto others. Their high empathy may moderate this somewhat, but strong identity salience tends to dominate.
+
+## Bias susceptibility predictions  
+**High confidence predictions:**  
+- Probability matching vs. maximizing: Likely to maximize rather than probability match, given high NFC and analytical style.  
+- Denominator neglect: Moderate risk due to some errors in probability and ratio understanding (e.g., inflation question answered incorrectly).  
+- Belief bias: Likely present, as some logical reasoning errors reflect belief-based rather than formal logic-based judgments.  
+- Wason matching bias: Likely present, given mixed performance on conditional reasoning tasks.
+
+**Moderate confidence predictions:**  
+- False consensus effect: Moderate to high, due to strong political identity and moderate SCC.  
+- Risk-benefit nonseparability (affect heuristic): Likely moderate, given emotional engagement and empathy.
+
+**Low confidence predictions (acknowledging limits):**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: These are not reliably predictable from the data.
+
+## Self-report reliability weighting  
+Self-reports are moderately reliable. The participant shows some candor in admitting negative traits (e.g., sometimes taking advantage of others, feeling resentful), and their somatic anxiety symptoms (e.g., "Unable to relax" rated severely) align with self-reported high neuroticism and worry, indicating reasonable calibration. Social desirability bias appears moderate, as some socially undesirable admissions are present.
+
+However, the large gap between stated altruistic values and selfish economic game behavior suggests some social desirability or aspirational bias in self-reports about prosociality. Thus, behavioral data should be weighted more heavily for social preference and economic decision-making, while self-reports are more trustworthy for internal states and personality traits.
+
+## Summary  
+This participant is a highly analytical, deep thinker with a strong need for cognition and a preference for intellectual engagement. They exhibit moderate intolerance of uncertainty, preferring clear, structured environments and quick closure, yet balance this with reflective deliberation. Their optimization strategy is characterized by a drive for uniqueness and high standards, but economic game behavior reveals a pragmatic, self-interested streak that contrasts with their altruistic self-image and high empathy. Self-concept clarity is moderate, with some internal conflict and decisional uncertainty. They show moderate intertemporal patience, with some impulsivity in smaller stakes. Cognitive errors reveal classic reasoning biases such as belief bias and denominator neglect, while their strong political identity suggests moderate false consensus effects. Self-reports are moderately reliable but should be balanced against revealed behavior, especially in social preference domains. The most predictive feature is the pronounced gap between stated prosocial values and revealed selfish economic behavior, indicating a complex interplay between ideals and pragmatic decision-making under uncertainty.

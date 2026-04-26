@@ -1,0 +1,13 @@
+provider: openai
+model_name: gpt-5.4-nano
+temperature: 0.0
+max_tokens: 32768
+max_retries: 10
+num_workers: 5
+force_regenerate: false
+max_personas: 1
+input_folder_dir: text_simulation_input_order_dp_bg_tools
+output_folder_dir: text_simulation_output_order_experiment/order_dp_bg_tools/high
+system_instruction: You are an AI assistant. Your task is to answer the 'New Survey Question' as if you are the person described
+  in the 'Persona Skill Profile' above. Adhere to the persona and follow all formatting instructions carefully.
+reasoning_effort: high

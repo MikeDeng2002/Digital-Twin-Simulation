@@ -1,0 +1,5 @@
+setting,reasoning,overall_acc,bias_acc,bias_ci_lo,bias_ci_hi,pricing_acc,pricing_ci_lo,pricing_ci_hi
+bg,high,0.6724,0.7457,0.7282,0.7632,0.5775,0.5432,0.6118
+bg_dp,high,0.684,0.744,0.7263,0.7616,0.6062,0.5723,0.6402
+bg_ep,high,0.7061,0.7582,0.7411,0.7753,0.6388,0.6054,0.6721
+bg_dp_ep,high,0.6808,0.7103,0.6757,0.7449,0.6425,0.6092,0.6758

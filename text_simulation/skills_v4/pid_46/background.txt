@@ -1,0 +1,96 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned male at birth and belong to the 30-49 age group. Their highest level of education is college graduate or some postgraduate education. Their race/ethnicity is Asian, and they are a U.S. citizen. They are married and identify their religion as Protestant, attending religious services a few times a year. Politically, they consider themselves an Independent with moderate political views. Their household income last year was between $30,000 and $50,000. The household size is two people, and the participant is employed full-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 1 / 13.  
+This very low score indicates highly candid and trustworthy self-reports throughout this file, with minimal impression management bias. This caveat should be applied explicitly when interpreting personality and emotional baseline sections below.
+
+## Personality
+
+### Big Five  
+Extraversion: 1.5 (disagree strongly on talkative, energetic, outgoing; agree strongly on reserved, quiet, aloof)  
+Agreeableness: 1.5 (strongly disagree on helpfulness, trust, kindness, forgiveness; strongly agree on faultfinding and coldness)  
+Conscientiousness: 3.0 (neutral on thoroughness, reliability, efficiency, organization; neither careless nor very careful)  
+Neuroticism: 1.5 (strongly disagree on worry, moodiness, tenseness; strongly agree on emotional stability and calmness)  
+Openness: 1.5 (strongly disagree on originality, imagination, ingenuity, artistic interests, sophistication)  
+
+This profile reveals a highly introverted, socially distant, and low-agreeableness interpersonal style, with emotional stability and low neuroticism despite self-reported depressive symptoms (see Emotional Baseline). Work habits are moderate and neither highly conscientious nor careless. Openness to experience is very low, indicating a preference for conventionality and lack of curiosity or creativity. The low neuroticism score contrasts with elevated depression symptoms, flagged below as a self-report reliability finding.
+
+### Need for Cognition  
+Score: 1 / 5.  
+The participant strongly dislikes effortful thinking, prefers simple tasks, avoids intellectual challenges, and finds no satisfaction in deliberation or abstract thought.
+
+### Empathy (BES-A)  
+Score: 1.9 / 5 (approximate average from mostly low scores, with some neutral and a few slightly disagree/agree items).  
+The participant shows a very low tendency to share or recognize others’ emotions, often unaffected by others’ feelings and rarely becoming sad or frightened by others’ emotional states.
+
+### Green Values  
+Score: 1 / 5.  
+The participant strongly rejects environmental concern or responsibility, showing no interest in environmental impact or eco-friendly behavior.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.75 (strong agreement with independence, doing own thing, personal identity importance)  
+Vertical Individualism: 3.5 (moderate agreement with competition and winning, but low pride in others’ success)  
+Horizontal Collectivism: 1.0 (strong disagreement with cooperation, group loyalty, family sticking together)  
+Vertical Collectivism: 1.0 (strong disagreement with respecting group decisions or family sacrifice)  
+
+This pattern indicates a strong orientation toward personal independence and competition, with rejection of group loyalty, cooperation, and hierarchical group obligations.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63.  
+The participant reports no anxiety symptoms, neither somatic nor cognitive, indicating minimal anxiety.
+
+### Beck Depression Inventory  
+Score: Approximately mild to moderate range (based on multiple responses indicating feeling sad, discouraged, hopeless, loss of interest in others, increased irritability, tiredness, and some motivational difficulties).  
+The participant reports feeling sad, discouraged about the future, hopeless, loss of interest in others, and increased irritability, but denies feelings of worthlessness, guilt, or self-disgust. Physical symptoms such as appetite and sleep are mostly normal, but there is increased fatigue and some difficulty initiating work. This suggests a mild to moderate depressive symptom pattern with cognitive and motivational components but limited somatic complaints.
+
+The low Big Five neuroticism score alongside mild-to-moderate depression symptoms flags a self-report reliability finding: the participant reports emotional distress but denies typical neuroticism traits, consistent with candid but possibly compartmentalized self-perception.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be a person who can afford to be myself, no matter what situation I'm in. I would like to be completely blunt and never have to worry about consequences for being blunt. I would like to be able to confront people harshly without ever having to worry about what they will do to me in retaliation."  
+- Ought self (what they feel they should be): "I ought to be a person who is always working and earning some form of income for my family. People do not want to hear me say something like, 'I want to be a house husband.' If I'm not working and being productive, people will see me as an inferior person."  
+- Actual self (what they believe they currently are): "I am a skeptical person who does not believe anything that people say because people's actions have proven to me that they lie most of the time. I am an introvert and I often keep to myself. I like doing things that I enjoy alone and I do not want to deal with people unless I have to."  
+
+The three selves reveal meaningful gaps: the ideal self emphasizes bluntness and confrontation without fear, the ought self stresses productivity and social expectations, while the actual self is skeptical, introverted, and socially withdrawn. There is a clear tension between ideal assertiveness and actual social withdrawal, as well as between social expectations and personal skepticism.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+All items answered correctly, showing strong fluid reasoning abilities, including matrix completion and spatial rotation.
+
+### Crystallized Intelligence  
+Score: 9 / 20.  
+Many errors, with a pattern suggesting vocabulary gaps or guessing, as plausible distractors were often chosen incorrectly.
+
+### Syllogistic Reasoning  
+Score: 6 / 12.  
+Errors occur more on belief-biased items, indicating reasoning is influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 5 / 8.  
+Incorrect answers include misunderstanding that stocks give highest long-term returns (answered savings account instead), and incorrect knowledge about 401(k) withdrawal rules (answered false to required withdrawals after age 70.5). Also, the participant estimated 70 years to pay off credit card debt at minimum payments, indicating a misunderstanding of credit card amortization.
+
+### Numeracy  
+Score: 7 / 8.  
+One error on the synonym question for "INDOLENT" where "arduous" (meaning hard-working) was chosen instead of "slothful" (lazy), indicating a semantic confusion rather than numeric reasoning failure.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 3 / 4.  
+One error: answered "No" to the conclusion that "Plants are not animals" based on premises, indicating reluctance to accept logically valid conclusions conflicting with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Selected cards A and 3 (classic matching bias) instead of the logically correct A and 7, indicating a common reasoning error.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective and fluid intelligence, with perfect CRT and fluid reasoning scores. However, crystallized intelligence is notably low, suggesting limited vocabulary or verbal knowledge. Reasoning is influenced by belief bias, as seen in syllogistic reasoning and deductive certainty errors. Financial literacy is moderate but includes key misconceptions about investment returns and retirement rules. Numeracy is generally good with minor semantic confusion. The participant exhibits classic reasoning errors such as matching bias on the Wason task. Overall, cognitive strengths lie in abstract and reflective reasoning, while verbal knowledge and some logical reasoning under belief conflict are weaker.
+
+## Summary  
+This participant is a middle-aged Asian male living in the U.S. South, college-educated and employed full-time, with moderate income and moderate political views. Personality-wise, he is highly introverted, socially distant, low in agreeableness and openness, and emotionally stable despite mild-to-moderate depressive symptoms, indicating a complex emotional baseline with some self-report reliability caveats. He strongly prefers independence and competition over group loyalty or cooperation. Cognitively, he excels in fluid and reflective reasoning but shows weaknesses in crystallized intelligence and some logical reasoning under belief conflict. The most predictive feature for downstream simulation is the stark contrast between low neuroticism and presence of depressive symptoms, combined with a strong cognitive reflection ability and a skeptical, socially withdrawn self-concept.

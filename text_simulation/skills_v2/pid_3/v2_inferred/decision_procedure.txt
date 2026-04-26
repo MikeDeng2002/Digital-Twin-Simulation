@@ -1,0 +1,63 @@
+## Effort regulation and cognitive style  
+The respondent demonstrates a strong preference for engaging in cognitively demanding tasks, as indicated by high Need for Cognition (NFC) scale items such as liking responsibility for situations requiring a lot of thinking (NFC item 2: 5 - Agree strongly), preferring intellectual, difficult, and important tasks (NFC item 15: 5 - Agree strongly), and enjoying abstract thinking (NFC item 14: 5 - Agree strongly). They also disagree strongly with statements indicating avoidance of thinking (NFC items 3, 4, 5, 12, 17: mostly 1 or 2 - Disagree strongly or a little).  
+
+Cognitive test performance shows moderate accuracy with some errors on spatial rotation and logical reasoning tasks. For example, the cube rotation tasks were answered inconsistently, with some correct and some "I do not know" responses (e.g., cube rotation Q4: answer 8 - "I do not know"), indicating some difficulty or uncertainty in spatial reasoning. Logical syllogism tasks were mostly answered correctly, but some errors occurred on more complex or counterintuitive items (e.g., rejecting valid conclusions in some syllogisms).  
+
+Cross-referencing with Big Five Conscientiousness items (e.g., "Does a thorough job" 5 - Agree strongly; "Is a reliable worker" 5 - Agree strongly; "Perseveres until the task is finished" 5 - Agree strongly) supports a conscientious cognitive style with high effort regulation. The respondent also reports liking to reflect and play with ideas (Big Five item 40: 5 - Agree strongly), consistent with a deep cognitive engagement style.  
+
+Error patterns suggest occasional difficulty with spatial rotation and complex visual puzzles but generally good logical reasoning and vocabulary knowledge (synonym and antonym tests mostly correct). The respondent’s self-reported cognitive effort aligns with their moderate-to-high cognitive test performance, indicating consistent effort regulation and cognitive style.  
+
+## Closure and uncertainty tolerance  
+The respondent shows a strong preference for closure and low tolerance for uncertainty, as indicated by Need for Closure (NFCC) scale items: "I don’t like situations that are uncertain" (5 - Agree strongly), "I don’t like to go into a situation without knowing what I can expect" (5 - Agree strongly), and "I dislike questions which could be answered in many different ways" (4 - Agree a little). They also prefer a well-ordered life with regular hours (4 - Agree a little) and enjoy having a clear and structured mode of life (4 - Agree a little).  
+
+Behaviorally, the respondent’s decision consistency in intertemporal choice tasks shows a pattern of preferring immediate or sooner rewards when the difference is small but switching to delayed rewards when the delayed amount is sufficiently larger, indicating moderate patience but a desire for clarity in trade-offs. Their free-response answers about their aspirational self indicate some discomfort with social uncertainty ("I ought to be a bit more outgoing... I find it easier to stay in my comfort zone"), which aligns with a preference for predictability and closure.  
+
+Decision consistency is moderate; for example, in the ultimatum game, they propose keeping $3 and sending $2, and as a receiver, they reject offers less than or equal to $2, accepting only the $3/$2 split or better, showing a clear, consistent threshold for fairness and decision commitment.  
+
+Overall, the respondent appears to commit to decisions with moderate speed, preferring to resolve uncertainty quickly but tolerating some ambiguity when necessary (e.g., neither strongly agreeing nor disagreeing with some NFCC items about impatience).  
+
+## Optimization strategy  
+The respondent’s Maximizer scale responses are moderate to low, with some ambivalence: they neither strongly endorse nor reject maximizing tendencies (items 5 and 6: 3 - Neither agree nor disagree). They report some difficulty in shopping for gifts and clothing (Maximizer items 3 and 4: 4 - Agree a little), indicating some maximizing behavior in social or personal domains. However, they do not strongly endorse "never settling for second best" or "highest standards for myself" (items 5 and 6: 3 - Neither agree nor disagree), suggesting a satisficing approach in many areas.  
+
+In economic games, the respondent proposes keeping a majority share ($3 out of $5) and sends $2, which is a moderate, satisficing split rather than a maximizing one. Their thoughts during the decision include "confused," "am I a cheat," "fair," and "generous," indicating some internal conflict but a tendency toward fairness rather than strict maximization.  
+
+Thus, the respondent shows a mixed optimization strategy: satisficing in economic and social domains with some maximizing tendencies in personal shopping or problem-solving contexts.  
+
+## Self-concept stability  
+Self-Concept Clarity (SCC) scale items indicate a generally stable self-concept with low internal conflict: "My beliefs about myself often conflict" (2 - Disagree a little), "I spend a lot of time wondering about what kind of person I really am" (1 - Disagree strongly), and "My beliefs about myself seem to change very frequently" (1 - Disagree strongly). The respondent agrees somewhat that they have a clear sense of who they are (4 - Agree a little).  
+
+Free-response self-descriptions show some mild contradictions: the aspirational self is "thoughtful and kind" and caring but admits "I never do anything about it," indicating some gap between ideals and actions. The actual self is described as "a good person, glass half full, with not a lot of patience for people who whine," suggesting a pragmatic and somewhat impatient self-view. The ought self emphasizes social comfort zone limitations and a desire for more outgoing behavior.  
+
+These differences reflect nuanced self-concept facets but no major instability or fragmentation. The respondent’s self-concept is coherent with some acknowledged areas for growth and mild self-criticism.  
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated values and their behavioral choices. They express altruistic and compassionate values (Values: Altruism 6, Compassion 8, Trust 8), and in free-response, they aspire to be "thoughtful and kind" and talk about "helping the poor." However, they explicitly state "I never do anything about it," revealing a gap between stated altruism and actual behavior.  
+
+In economic games, the respondent proposes keeping the majority share ($3) and sending $2, which is a moderately selfish split, and as a receiver, they reject offers less than $3, indicating a fairness threshold but not full generosity. Their thoughts during the game include feelings of confusion and concern about cheating, suggesting internal conflict about fairness and self-interest.  
+
+This gap implies that while the respondent values kindness and altruism, their actual decisions reflect a more self-protective and pragmatic approach. This discrepancy may reduce the reliability of self-reported altruism and suggests that reasoning under uncertainty may be influenced by social desirability or aspirational self-image rather than consistent behavior.  
+
+No major gaps are observed between self-reported personality and cognitive test performance; both indicate conscientiousness and moderate cognitive engagement.  
+
+## Intertemporal patience  
+The respondent shows moderate intertemporal patience. In delayed reward tasks, they prefer immediate smaller rewards when the difference is small but switch to delayed larger rewards as the delayed amount increases, indicating sensitivity to reward magnitude and delay. For example, they choose $3 now over $6 in 1 week but switch to $6 in 6 weeks over smaller immediate amounts when the difference is larger.  
+
+Conscientiousness items (e.g., "Makes plans and follows through" 4 - Agree a little; "Does a thorough job" 5 - Agree strongly) support the ability to plan and delay gratification. However, the respondent’s choices suggest some impatience or discounting of delayed rewards, consistent with a moderate level of patience rather than strong long-term orientation.  
+
+## Bias susceptibility predictions  
+Predictable from cognitive signals:  
+
+- Probability matching vs. maximizing: The respondent’s lottery choices show consistent preference for the lottery over low certain amounts until the certain amount approaches or exceeds expected value, indicating a tendency toward maximizing rather than probability matching. Confident prediction: low probability matching bias.  
+
+- Dominator (denominator) neglect: The respondent correctly interprets probabilities and percentages in financial literacy and probability questions, suggesting low dominator neglect.  
+
+- Belief bias in syllogisms: Some errors in syllogistic reasoning (e.g., rejecting logically valid conclusions) suggest moderate susceptibility to belief bias, especially when premises conflict with real-world knowledge.  
+
+- Wason matching bias: The respondent correctly identifies the card to turn over to test the rule (card A), indicating low Wason matching bias.  
+
+Weakly predictable or not predictable from cognitive signals:  
+
+- Framing effects, anchoring and adjustment, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, and myside bias cannot be confidently predicted from the available data.  
+
+## Summary  
+The respondent exhibits a conscientious and cognitively engaged style, with a strong preference for closure and structured environments. They show moderate intertemporal patience and a mixed optimization strategy, satisficing in social and economic decisions while maximizing in some personal domains. Their self-concept is generally stable but reveals a gap between altruistic values and actual behavior, suggesting some internal conflict between aspirational and pragmatic selves. Cognitive test performance aligns with their self-reported effort and reasoning style, though some susceptibility to belief bias in logical reasoning is evident. Overall, their reasoning under uncertainty is

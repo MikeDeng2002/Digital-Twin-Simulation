@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned female at birth and are in the 30-49 age group. Their highest level of education completed is high school graduate. They identify as White and are a U.S. citizen. Their marital status is never been married. Their present religion is Roman Catholic, but they never attend religious services aside from weddings and funerals. Politically, they consider themselves an Independent with moderate political views. Their total family income last year was between $30,000 and $50,000. They live in a household of three people and are currently employed part-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, with minimal impression management bias.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.0 (neither agree nor disagree to outgoingness, but agrees to being reserved and quiet)  
+Agreeableness: 4.7 (strongly agrees to being helpful, forgiving, kind, and trusting)  
+Conscientiousness: 4.7 (strongly agrees to being reliable, efficient, organized, and persevering)  
+Neuroticism: 3.3 (agrees a little to being tense, moody, and worrying, but also agrees strongly to being relaxed and emotionally stable)  
+Openness: 3.6 (agrees a little to curiosity, imagination, and artistic interests, but neither agrees nor disagrees on originality and inventiveness)  
+
+This profile reveals a person who is moderately introverted, highly agreeable and conscientious, with moderate emotional reactivity and openness. The high agreeableness and conscientiousness suggest a cooperative, dependable interpersonal style and strong work habits. Neuroticism is moderate, with some tension and worry but also emotional stability. There is no discrepancy between neuroticism and emotional baseline (see below).
+
+### Need for Cognition  
+Score: 4.3 / 5.  
+This person enjoys and actively seeks out effortful thinking, problem solving, and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 4.1 / 5.  
+They have a strong tendency to share and recognize others’ emotions, showing high emotional contagion and perspective-taking.
+
+### Green Values  
+Score: 4.0 / 5.  
+They have a moderately strong environmental identity and concern, willing to be inconvenienced for environmentally friendly actions.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.3  
+Vertical Individualism: 2.0  
+Horizontal Collectivism: 4.7  
+Vertical Collectivism: 3.0  
+
+This pattern indicates a strong orientation toward personal independence and equality (horizontal individualism), low acceptance of hierarchy in individualism (vertical individualism), very strong group loyalty and equality (horizontal collectivism), and moderate acceptance of hierarchical group structures (vertical collectivism). Overall, the participant values both personal autonomy and close, egalitarian group ties, especially within family and coworkers.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 10 / 63.  
+This score falls in the mild anxiety range. The symptom pattern is predominantly cognitive, with mild reports of inability to relax, fear of the worst happening, nervousness, and indigestion, but no somatic symptoms such as trembling, heart racing, or sweating. This mild cognitive anxiety aligns with the moderate neuroticism score and suggests reliable self-reporting.
+
+### Beck Depression Inventory  
+Score: 9 / 61.  
+This score is at the upper limit of the minimal depression range. The participant reports feeling guilty a good part of the time and increased irritability but denies sadness, discouragement, feelings of failure, or loss of interest. There are no notable clusters of physical symptoms or cognitive distortions. This minimal depression level is consistent with the moderate neuroticism and mild anxiety scores.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be the kind of person who has their life together. Who is organized, confident, self-sufficient, financially savvy, and at peace with their place in life."  
+- Ought self (what they feel they should be): "I ought to be the kind of person who is always organized and prepared for any situation. The kind of person who always has the situation under control and who other people can rely on. Who when something needs doing, or something goes wrong, they are the one who can deal with it and get everyone else through it. And they can do it all while remaining calm and keeping everyone else calm and on track. Who can provide support for other people when they need it, be it financially, physically, or emotionally."  
+- Actual self (what they believe they currently are): "I actually am a very organized and logical person. I prefer to be in control of situations, and I go out of my way to keep myself and others calm when things go wrong. I go out of my way to help people, likely to the point of being a 'people pleaser'. I remain calm under high stress, however I become anxious and irritable when dealing with 'the small things'. I am far more dependent on others for things like finances than I would like to be. I am an obsessive problem solver. If there is a problem, then I desperately want to find a solution. I can become obsessed with finding a solution to that problem, even if on some level I know that there isn't one."
+
+The three selves are largely consistent, all emphasizing organization, control, calmness, and supportiveness. However, the actual self reveals meaningful gaps in financial independence and emotional reactivity to minor stressors compared to the ideal and ought selves.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 5 / 6.  
+The participant made one error on the matrix completion or cube rotation tasks (specific item not detailed), indicating strong but not perfect fluid reasoning, with no clear clustering of errors.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (Note: transcript shows 10 synonym and 10 antonym questions, total 20 items; participant answered 18 correctly).  
+Errors suggest occasional selection of plausible distractors but overall strong vocabulary and verbal knowledge.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (8 items answered, 2 errors).  
+Errors occurred on belief-biased items involving familiar content, indicating some influence of prior beliefs on logical reasoning.
+
+### Financial Literacy  
+Score: 6 / 8.  
+Incorrectly answered that stocks normally give the highest return over long periods (answered savings account instead), and incorrectly answered the requirement to withdraw money after age 70.5 from retirement accounts (answered false). These reveal specific knowledge gaps in investment returns and retirement rules.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items answered correctly, indicating strong numeric reasoning including probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items correctly accepted as logically valid conclusions, showing no reluctance to accept valid deductions.
+
+### Wason Selection Task  
+Score: 2 / 2 (2 cards selected: A and 3).  
+Selected the correct cards (A and 3) to test the rule, avoiding the classic matching bias.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), solid fluid intelligence with minor errors, and strong crystallized intelligence with occasional plausible distractor errors. Their syllogistic reasoning shows some belief bias but overall good logical reasoning. Financial literacy is good but with notable gaps in understanding investment returns and retirement withdrawal rules. Numeracy is excellent. Deductive reasoning is intact with no logical biases. The cognitive profile is consistent with their self-reported enjoyment of effortful thinking and problem solving. The participant slightly underestimates average population performance on cognitive tests.
+
+## Summary  
+This participant is a moderately introverted, highly agreeable and conscientious woman in her 30s-40s from the U.S. South with a high school education and part-time employment. She is emotionally stable with mild anxiety and minimal depression, and reports candid self-assessments. She values organization, control, and helping others, aspiring to be self-sufficient and financially savvy but currently feels dependent in some areas. Cognitively, she is strong in reflective reasoning, numeracy, and logical deduction, with some gaps in financial literacy and occasional belief bias in reasoning. The most predictive feature for downstream simulation is her strong conscientiousness combined with mild anxiety and a tendency toward obsessive problem solving, especially under stress from minor issues.

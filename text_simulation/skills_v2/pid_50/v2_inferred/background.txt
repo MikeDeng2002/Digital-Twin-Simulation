@@ -1,0 +1,44 @@
+## Demographics  
+The respondent is a White female, aged 65 or older, living in the Southern United States. She is a U.S. citizen, married, and identifies as Roman Catholic, though she seldom attends religious services. She holds an associate’s degree and is retired. Her total family income last year was between $50,000 and $75,000. She lives in a two-person household and identifies politically as a liberal Democrat.
+
+## Stated beliefs and self-concept  
+The respondent aspires to be connected with the natural world, valuing self-enrichment and spiritual growth, and seeks to reduce “world-noise” to achieve this. She acknowledges a tension between her personal desires and family obligations, noting that she lives far from her family and does not fulfill the expected caregiving role for her elderly mother, valuing solitude more. She describes herself as private, preferring quiet and undisturbed time, and finds that letting people into her life complicates things. She is thoughtful, kind when given the opportunity, focused, and self-motivated in pursuing projects. She values independence strongly and prefers to work without instructions, emphasizing accuracy, organization, and responsibility. She also reports some internal conflict and variability in her self-beliefs but generally has a moderate sense of self-clarity.
+
+## Personality  
+The Big Five profile shows a person who is highly conscientious, with strong agreement on being thorough, reliable, efficient, organized, and persevering (e.g., “Does a thorough job” #3 = 5, “Is a reliable worker” #13 = 5, “Perseveres until the task is finished” #28 = 5, “Does things efficiently” #33 = 5, “Makes plans and follows through” #38 = 5). She is introverted and reserved, strongly disagreeing with being talkative or outgoing (#1 = 1, #6 = 5, #21 = 5, #36 = 1). She shows moderate openness to experience, agreeing somewhat with originality, ingenuity, curiosity, and artistic appreciation (#5 = 4, #10 = 5, #15 = 4, #30 = 5, #44 = 4). Neuroticism is moderate, with some worry and moodiness (#19 = 4, #29 = 4), but she denies strong emotional instability (#24 = 2). Agreeableness is moderate to somewhat low, with some disagreement about being forgiving (#17 = 2) and trusting (#22 = 2), but she is somewhat helpful and kind (#7 = 4, #32 = 4). She is low on extraversion and assertiveness (#26 = 2, #16 = 2).  
+
+Her Need for Cognition is high, strongly preferring complex problems, intellectual challenges, and thinking deeply (#1 = 5, #13 = 5, #14 = 4, #15 = 4). She enjoys problem-solving and abstract thinking (#11 = 4, #18 = 4).  
+
+Her Need for Closure is also high, showing strong preferences for order, predictability, and quick decision-making (#1 = 5, #3 = 5, #6 = 5, #7 = 5, #12 = 5, #13 = 5). She dislikes uncertainty and ambiguity (#1 = 5, #6 = 5, #11 = 4).  
+
+She reports moderate self-monitoring, with some ability to read others’ emotions (#8 = 5, #11 = 5, #12 = 5, #13 = 5), but also some difficulty changing behavior to suit situations (#1-7 on self-monitoring items mostly 3-4).  
+
+Self-concept clarity is moderate to somewhat low, with some internal conflict and variability in self-beliefs (#1 = 4, #2 = 4, #3 = 4, #11 = 2, #12 = 4). She agrees that she sometimes feels not fully herself (#4 = 3) and that her self-description might vary (#9 = 4).  
+
+No contradictions are evident between self-reports and behavioral evidence.
+
+## Values (directly reported, with acquiescence caveat)  
+The respondent’s value ratings are somewhat spread but show clear priorities. She places highest importance on competence (9), harmony (9), honesty (9), and autonomy (9). She also rates loyalty (8), politeness (8), excitement (7), trust (7), and civility (7) as quite important. She places low importance on influence, ambition, power, status, recognition, and superiority (all rated 1). Altruism and equality are rated low (2 and 2), and compassion is rated low (3). Wealth is rated moderately low (4), while pleasure is rated relatively high (8).  
+
+This pattern suggests a person who values personal mastery, integrity, social harmony, and independence, but is not motivated by power, status, or competition. She values politeness and loyalty but is less focused on altruism or equality as guiding principles.
+
+## Factual knowledge (directly tested)  
+The respondent demonstrates solid financial literacy and cognitive reasoning skills. She correctly answers most financial literacy questions, including mortgage payments, inflation effects, risk diversification, and required minimum distributions (e.g., “A 15-year mortgage typically requires higher monthly payments…” = True; “After age 70½, you have to withdraw…” = True). She correctly identifies stocks as the most volatile asset but incorrectly identifies savings accounts as the highest return asset over long periods (answering “Savings account” instead of “Stocks” for highest return).  
+
+Her probability and numeracy skills are strong, correctly answering questions about expected values, percentages, and logical reasoning problems. She scored 38 out of 42 on cognitive tests and estimated that the average person would score 35, indicating above-average cognitive ability.  
+
+She shows good logical reasoning, correctly identifying valid and invalid syllogistic conclusions in most cases.  
+
+Her performance on spatial rotation puzzles is mixed; she sometimes chooses “I do not know” or incorrect options, indicating some difficulty with complex spatial reasoning tasks.
+
+## Likely domain familiarity  
+Inferred from age, education, and income: The respondent is likely familiar with basic financial concepts relevant to personal finance, such as mortgages, credit cards, and investment risk, consistent with her demonstrated financial literacy. She is unlikely to have specialized knowledge of advanced financial instruments or investment strategies beyond common personal finance.  
+
+Inferred from retirement status and rural living aspiration: She is likely familiar with lifestyle and social dynamics relevant to older adults, including family caregiving issues and valuing solitude.  
+
+Inferred from political and religious identity: She is likely familiar with liberal political perspectives and Roman Catholic cultural contexts, though she seldom attends services.  
+
+Inferred from cognitive test performance: She has above-average verbal and numerical reasoning skills but may have moderate difficulty with complex spatial tasks.
+
+## Summary  
+This respondent is a retired White female in her late 60s or older, living in the Southern U.S., with an associate’s degree and moderate family income. She values competence, honesty, autonomy, and social harmony, and prefers a quiet, private life connected to nature. Personality-wise, she is conscientious, introverted, moderately open to experience, and somewhat neurotic, with a strong preference for intellectual engagement and order. She demonstrates solid financial literacy and logical reasoning skills, though spatial reasoning is a relative weakness. She is politically liberal and identifies as Roman Catholic but is only sporadically religious. Her self-concept is somewhat variable but generally clear, and she balances personal independence with some family obligations, though she prioritizes solitude.

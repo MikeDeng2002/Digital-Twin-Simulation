@@ -1,0 +1,86 @@
+## Demographics  
+The participant currently lives in the West region of the United States. They are male, aged between 50 and 64 years old. Their highest level of education completed is some college but no degree. They identify as White and are a U.S. citizen. Their marital status is never been married. They identify as atheist and never attend religious services outside of weddings and funerals. Politically, they consider themselves an Independent with moderate political views. Their household income last year was between $30,000 and $50,000. The household size is three people, and their current employment status is retired.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, with minimal impression management bias.
+
+## Personality
+
+### Big Five  
+Extraversion is high at approximately 4.0 (e.g., talkative 5, reserved 4, outgoing 2 but overall sociable and energetic). Agreeableness is high, around 4.3 (e.g., helpful 4, forgiving 5, considerate 5, trusting 4, few quarrels 1). Conscientiousness is very high, near 4.7 (e.g., does a thorough job 5, reliable 5, perseveres 5, organized 9/9 on related traits). Neuroticism is very low, about 1.5 or below (e.g., depressed 1, worries 1, nervous 1, tense 2, moody 2, relaxed 5, emotionally stable 5). Openness is moderately high, around 4.0 (e.g., original 4, curious 5, active imagination 5, artistic values 5 but sophistication 2). This profile reveals a highly conscientious, emotionally stable, and agreeable individual with strong interpersonal warmth and energy, who is moderately open to new ideas but somewhat reserved socially. The very low neuroticism aligns with the emotional baseline data, confirming consistency.
+
+### Need for Cognition  
+Score: 2.9 / 5 (average of item responses mostly between 2 and 4, with more 2s than 4s).  
+This person has a mild to moderate enjoyment of effortful thinking but tends to avoid complex or prolonged cognitive challenges.
+
+### Empathy (BES-A)  
+Score: Approximately 3.0 / 5 (mixed responses with some agreement and some disagreement on emotional contagion and recognition).  
+This indicates a moderate tendency to share and recognize others’ emotions, with some emotional distance or selectivity.
+
+### Green Values  
+Score: Approximately 4.3 / 5 (mostly 4s and 5s on environmental responsibility and concern).  
+This person identifies as environmentally responsible and is willing to take some inconvenience to protect the environment.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.8 / 5 (strong agreement on self-reliance, independence, and personal identity).  
+Vertical Individualism: 2.0 / 5 (disagreement with competition, winning, and hierarchy).  
+Horizontal Collectivism: 4.6 / 5 (strong agreement on cooperation, family loyalty, and group well-being).  
+Vertical Collectivism: 4.0 / 5 (agreement with respecting group decisions and family sacrifice).  
+This profile shows a strong orientation toward personal independence and equality (horizontal individualism), combined with strong group loyalty and cooperation without emphasis on hierarchy or competition (low vertical individualism, moderate vertical collectivism). The participant values both self-reliance and family/group cohesion.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 4 / 63, which falls in the minimal anxiety range (0-7).  
+Symptom pattern shows almost no anxiety symptoms, with only mild reports of feeling hot and slight wobbliness in legs. No somatic symptoms like trembling, heart racing, or sweating are present. The cognitive symptoms of fear or terror are absent. This minimal anxiety level supports the reliability of self-reports.
+
+### Beck Depression Inventory  
+Score: 11 / 61, which falls in the mild depression range (10-18).  
+Symptom pattern includes mild anhedonia ("I don't enjoy things the way I used to"), some loss of interest in others, increased tiredness, and significant weight loss (>15 pounds). There are no strong cognitive distortions or guilt/punishment feelings. The participant is purposely trying to lose weight. The mild depression is consistent with low neuroticism but should be noted as a mild emotional baseline concern.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "After 63 years I think I've done a lot of work towards becoming the person I've always aspired to be as I'm generous, honest, caring, loving, polite and thoughtful. My ultimate goal for myself at this point would be to be more prosperous perhaps so that I could be more help to my friends and family who are struggling financially. I sometimes feel bad when friends and family are in dire financial straits sometimes and I can't help because I'm barely keeping my own head above the water. So that is the type of person I aspire to be, someone who is fiscally solid and able to lend a hand to friends and family in need."  
+- Ought self (what they feel they should be): "As far as who I 'ought to be" is a tough question. My friends and family have not communicated any expectations of me changing in any way so I'm thinking that my current behavior attributes and traits (developed over decades of learning and living) seem to satisfy them. I can't think of any trait or behavior attribute that I ought to possess that I don't already possess at this point based on my responsibilities. If this question had been asked of me 40 years ago I would have had an extensive list of traits and behavior attributes that I "ought to be" but thankfully today I can proudly say I am the type of person I "ought to be"."  
+- Actual self (what they believe they currently are): "The traits and behaviors I actually possess today are honesty (to a fault), politeness, kindness, understanding, I listen well (with my mouth shut and ears open), caring, generous (with what little I have). I'm grounded in reality and have not succumbed to lies or joined any religious or political cults. I'm dependable so when I say I going to do something people can depend it happened (probably four years in the Air Force is responsible for that) and when anyone needs help I'm more than willing to help if it's something I can help with. Other than perhaps eating too much from time to time I'm proud of who I have grown into and become as a person."  
+The three selves are largely consistent, with the ideal self focusing on increased financial prosperity to help others, the ought self affirming current traits meet expectations, and the actual self describing a grounded, honest, and dependable person. There are no meaningful contradictions.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant answered the bat-and-ball question incorrectly with "1" dollar for the ball, which is the common intuitive trap (answering $1 instead of $0.10). The other three CRT items were answered correctly. This indicates a strong but not perfect ability to override intuitive errors.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors cluster on cube rotation items (incorrect answers on some cube rotation puzzles), while matrix completion was answered correctly. This suggests relative strength in pattern recognition but some difficulty with spatial rotation tasks.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (based on 10 synonym and antonym questions answered).  
+The participant answered most vocabulary questions correctly, with one notable error: "ASTUTE" synonym was answered as "ascetic" (incorrect), indicating a vocabulary gap or confusion between similar-sounding words. Overall, strong verbal knowledge with minor gaps.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (based on 8 logical syllogism questions).  
+Errors occurred on belief-biased items, such as the conclusion that "Plants are not animals" does not follow logically from premises, which was incorrectly answered "No" (correct answer is "Yes"). This suggests some influence of prior beliefs on logical reasoning.
+
+### Financial Literacy  
+Score: 7 / 8.  
+The participant correctly answered all financial literacy questions except the credit card minimum payment question, estimating 15 years to pay off $3,000 at 12% APR minimum payments, which is approximately correct but may indicate limited detailed knowledge of credit card amortization.
+
+### Numeracy  
+Score: 7 / 8.  
+The participant answered most numeracy questions correctly but gave an incorrect answer of "27" cubic feet for the hole volume question (correct answer is 0, as a hole contains no dirt). This is a classic volume-of-solid intuitive trap.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All four modus ponens items were answered correctly, indicating no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+The participant selected cards A and 3, which is the classic matching bias error instead of the logically correct cards A and 7. This indicates a common reasoning bias.
+
+## Cognitive Summary  
+This participant demonstrates strong verbal knowledge and reflective reasoning (high crystallized intelligence and CRT), with moderate fluid intelligence and some spatial reasoning difficulties (cube rotation errors). Logical reasoning is generally good but shows some belief bias. Financial literacy and numeracy are solid but include classic intuitive errors (hole volume, credit card payoff). Deductive reasoning is intact, but the participant exhibits the common matching bias on the Wason task. Overall, cognitive abilities are consistent with a well-educated, reflective individual with some typical reasoning biases and minor vocabulary gaps.
+
+## Summary  
+This is a White male aged 50-64, retired, living in the Western U.S., with some college education and moderate household income. Personality-wise, he is highly conscientious, agreeable, emotionally stable, moderately extraverted, and open, with a moderate need for cognition and moderate empathy. He values independence and group loyalty equally, with low emphasis on hierarchy or competition. Emotionally, he reports minimal anxiety and mild depression, consistent with his low neuroticism. His sense of self is coherent and positive, aspiring to greater financial stability to help others. Cognitively, he is strong in verbal and reflective reasoning but shows some intuitive reasoning errors and spatial reasoning challenges. The most predictive feature for downstream simulation is his low neuroticism combined with mild depression, indicating a generally stable but slightly fatigued emotional baseline, alongside a classic CRT intuitive trap and Wason matching bias that may influence reasoning under uncertainty.

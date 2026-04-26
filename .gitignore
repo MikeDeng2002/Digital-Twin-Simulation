@@ -7,10 +7,14 @@ __pycache__/
 data/
 text_simulation/data/
 text_simulation/text_personas/
+text_simulation/text_personas_demographic/
 text_simulation/text_questions/
 text_simulation/text_simulation_input/
+text_simulation/text_simulation_input_*/
 text_simulation/text_simulation_output/
+text_simulation/text_simulation_output_*/
 text_simulation/text_simulation_output_interaction/
+text_simulation/logs/
 cache/
 
 # C extensions
@@ -185,3 +189,5 @@ cython_debug/
 
 # Mac OS
 .DS_Store
+# R
+.Rhistory

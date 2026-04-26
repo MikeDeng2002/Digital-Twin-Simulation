@@ -1,0 +1,5 @@
+setting,reasoning,status,LLM_Accuracy,LLM_CI_low,LLM_CI_high,Random_Baseline,Human_Ceiling
+skill_v2_raw_end,none,ok,0.658,0.543,0.773,0.565,0.759
+skill_v2_raw_end,low,ok,0.681,0.616,0.745,0.617,0.757
+skill_v2_raw_end,medium,ok,0.653,0.582,0.724,0.634,0.76
+skill_v2_raw_end,high,ok,0.635,0.559,0.712,0.594,0.759

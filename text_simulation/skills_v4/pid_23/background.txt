@@ -1,0 +1,115 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They are male and belong to the 30-49 age group. Their highest level of education completed is college graduate or some postgraduate. They identify as White and are a U.S. citizen. Their marital status is married. They report having no particular religion and attend religious services seldom. Politically, they identify as a Democrat with a moderate political ideology. Their household income is $100,000 or more. The household size is four people, and their current employment status is full-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is in the mid-range, suggesting a moderate level of impression management; self-reports should be considered reasonably candid but with some caution, especially in personality and emotional baseline interpretations.
+
+## Personality
+
+### Big Five  
+Extraversion: 4.3 (average of items indicates mostly "agree a little" to "agree strongly")  
+Agreeableness: 4.7 (high, with many "agree strongly" responses)  
+Conscientiousness: 4.7 (high, many "agree strongly")  
+Neuroticism: 1.1 (very low, near scale floor)  
+Openness: 4.1 (high, mostly "agree a little" to "agree strongly")  
+
+This profile reveals a person who is outgoing, sociable, and energetic (extraversion near 4.3), very cooperative, kind, and forgiving (agreeableness near 4.7), and highly reliable, organized, and persevering (conscientiousness near 4.7). Neuroticism is at the very low extreme (1.1), indicating emotional stability and calmness, not easily upset or worried. Openness is high (4.1), showing curiosity, imagination, and appreciation for artistic experiences. The very low neuroticism contrasts with some emotional baseline findings (see below), which should be noted as a self-report reliability caveat.
+
+### Need for Cognition  
+Score: 3.4 / 5 (average of 18 items mostly around 3-4, with some 2s and 4s)  
+This indicates a moderate to somewhat high enjoyment and tendency to engage in and seek out effortful thinking.
+
+### Empathy (BES-A)  
+Score: 3.0 / 5 (mixed responses, some "agree a little," some "disagree strongly")  
+The participant shows a moderate tendency to share and recognize others' emotions, with some ambivalence or distancing in emotional contagion.
+
+### Green Values  
+Score: 3.0 / 5 (items range from 2 to 4, mostly around 3-4)  
+The participant has a moderate environmental identity, showing some concern about wasting resources and willingness to be inconvenienced for environmental reasons, but not strongly committed.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.8 (mostly "agree strongly")  
+Vertical Individualism: 4.3 (mostly "agree strongly" to "agree a little")  
+Horizontal Collectivism: 4.9 (mostly "agree strongly")  
+Vertical Collectivism: 4.9 (mostly "agree strongly")  
+
+This pattern shows a strong orientation toward both personal independence and group loyalty, with high respect for equality and hierarchy within both individualistic and collectivistic domains. The participant values self-reliance and competition but also strongly values family and group cohesion and respect for group decisions.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63 (all items rated "Not at all")  
+Clinical range: minimal anxiety.  
+The participant reports no anxiety symptoms, neither somatic nor cognitive, indicating a very low anxiety baseline.
+
+### Beck Depression Inventory  
+Score: 0-2 / 61 (all depression items answered with minimal or no symptoms except one item with "I don’t sleep as well as usual" and "I get tired more easily than I used to")  
+Clinical range: minimal depression.  
+The participant reports no significant depressive symptoms, with only mild sleep and fatigue changes. No clusters of cognitive distortion, motivational deficits, or physical symptoms stand out.
+
+Note: The very low neuroticism score aligns with minimal anxiety and depression, supporting self-report reliability in emotional baseline.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be a leader among men. I would like to be dependable. I would like to be personable."  
+- Ought self (what they feel they should be): "I should be able to take care of my family. I should be able to handle business. I ought to be generous."  
+- Actual self (what they believe they currently are): "I am a dependable person. I am honest. I handle my responsibilities in a timely manner."  
+
+The three selves are largely consistent, with the actual self closely matching the ideal and ought selves in dependability and responsibility, though the ideal self emphasizes leadership and personability, and the ought self emphasizes family care and generosity. There are no meaningful contradictions, indicating a coherent and stable self-concept.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4 (all correct)  
+No intuitive traps were fallen into; participant correctly answered all CRT items, indicating strong reflective reasoning.
+
+### Fluid Intelligence  
+Score: 6 / 6 (all correct)  
+No errors; participant successfully completed all matrix and cube rotation items, showing strong fluid reasoning and spatial ability.
+
+### Crystallized Intelligence  
+Score: 8 / 10 (partial data from 10 synonym and antonym items)  
+Errors:  
+- Incorrect synonym for OSCILLATE (answered "irradiate" instead of "vacillate") — suggests a vocabulary gap or confusion with similar-sounding words.  
+- Incorrect synonym for INDOLENT (answered "contrite" instead of "slothful") — indicates a misunderstanding of word meaning.  
+- Incorrect synonym for DISPARITY (answered "assiduity" instead of "incongruity") — likely guessing or confusion.  
+- Incorrect synonym for INDIGENT (answered "refractory" instead of "destitute") — vocabulary gap.  
+- Incorrect antonym for COMPLAISANT (answered "egoistical" instead of "recalcitrant") — semantic confusion.  
+- Incorrect antonym for CORPULENT (answered "anemic" instead of "emaciated") — partial confusion.  
+- Incorrect antonym for GERMANE (answered "healthful" instead of "irrelevant") — guessing error.  
+
+Pattern suggests some vocabulary gaps and occasional guessing, but overall good verbal knowledge.
+
+### Syllogistic Reasoning  
+Score: 7 / 8 (partial data from 8 syllogistic items)  
+Errors:  
+- Incorrect on the syllogism "All eastern countries are communist; China is not an eastern country; Conclusion: China is not communist." Answered "No" (correct answer is "No").  
+- Incorrect on "All unemployed people are poor; Rockefeller is not unemployed; Conclusion: Rockefeller is not poor." Answered "No" (correct answer is "No").  
+
+Errors occurred on belief-biased items involving real-world knowledge, indicating reasoning is mostly logical but sometimes influenced by prior beliefs.
+
+### Financial Literacy  
+Score: 7 / 8  
+Incorrect:  
+- False belief that after age 70½, one must withdraw money from 401(k) or IRA (answered "False" when correct is "True").  
+- Correct on other items including mortgage payments, inflation, risk diversification, and credit card debt (correctly answered "never" for credit card debt payoff with minimum payments).  
+
+Shows good financial knowledge with a minor gap on retirement account withdrawal rules.
+
+### Numeracy  
+Score: 8 / 8  
+All numeracy items answered correctly, including probability, percentage, and basic arithmetic problems.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4  
+All four modus ponens items answered correctly, indicating no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 2 / 2 (selected cards A and 3)  
+Selected the correct cards (A and 3) to test the rule, avoiding the classic matching bias of choosing A and 7.
+
+## Cognitive Summary  
+The participant demonstrates strong cognitive abilities overall, with perfect scores on CRT, fluid intelligence, numeracy, modus ponens, and Wason selection tasks. Crystallized intelligence shows some vocabulary gaps and occasional guessing errors, but verbal reasoning is generally good. Syllogistic reasoning errors are limited to belief-biased items, indicating logical reasoning is mostly intact but influenced by prior knowledge. Financial literacy is strong with one minor misconception about retirement withdrawals. Numeracy is flawless. This profile suggests a reflective, logical thinker with strong problem-solving skills and good verbal knowledge, though with some room for improvement in vocabulary precision.
+
+## Summary  
+This participant is a moderately aged, college-educated White male from the U.S. South, married with a family, employed full-time, and politically moderate Democrat. Personality-wise, he is outgoing, highly agreeable, conscientious, emotionally stable, and open to new experiences, with a moderate need for cognition and empathy. His self-concept is coherent and consistent across ideal, ought, and actual selves. Emotionally, he reports minimal anxiety and depression, aligning with his very low neuroticism. Cognitively, he excels in reflective reasoning, fluid intelligence, numeracy, and logical deduction, with minor vocabulary gaps and some belief-influenced reasoning errors

@@ -1,0 +1,22 @@
+## Budget constraint  
+The respondent reports a total family income last year in the $30,000-$50,000 range. She is currently employed part-time and lives alone in her household. No further direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows some rating compression, with many values rated in the mid to high range. Despite this, relative structure can be extracted. The highest-rated values (rated 9) are Competence (item 6), Loyalty (11), Harmony (14), Civility (19), Autonomy (20), and Equality (21). The lowest-rated values (rated 1 or 2) are Tradition (23) and Superiority (24) rated 1, and Power (13) and Recognition (22) rated 2. Other values mostly fall in the mid-range (3-8). This indicates a strong emphasis on being capable, loyal, harmonious, civil, autonomous, and valuing equality, while placing little importance on tradition, superiority, power, or recognition.
+
+## Minimalism and consumer orientation  
+On the minimalism scale, the respondent strongly disagrees with avoiding accumulation of stuff and prefers not to have sparse or simple environments (items 1, 5-8, all rated 1). However, she strongly agrees that she is mindful and thoughtful about what she owns and that her belongings are carefully curated and mindfully selected (items 9-12, all rated 5). This suggests a preference for mindful ownership rather than minimalism.  
+
+Regarding consumerism and uniqueness-seeking, the respondent generally disagrees or only slightly agrees with statements indicating a desire for uniqueness or breaking social norms in consumption (mostly ratings 1-2, with one 4). She does not seek to buy special products or brands to develop uniqueness, nor does she avoid popular products. This indicates low consumerism/uniqueness orientation.
+
+## Risk preferences  
+Direct responses to lottery and risk preference tasks are present. The respondent consistently prefers the lottery option over certain smaller amounts until the certain amount approaches the expected value of the lottery, indicating some risk aversion but willingness to accept risk at lower certain amounts. For example, she prefers the lottery over amounts up to about $4-$5 for lotteries with expected values around $5-$6. She also prefers to avoid losses and chooses safer options when lotteries involve losing money. Overall, the data show moderate risk aversion with some tolerance for risk in gains and strong aversion to losses.
+
+## Intertemporal patience  
+The respondent consistently prefers smaller, sooner rewards over larger, later rewards in all intertemporal choice tasks presented (e.g., choosing $3 now over $6 in one week, $4 now over $8 in one week, etc.). This pattern indicates relatively low patience or high present bias, preferring immediate smaller rewards to delayed larger rewards.
+
+## Social preferences  
+In dictator and ultimatum game scenarios, the respondent proposes to keep $3 and send $2 to the other person when she is the proposer. As the receiver, she accepts all offers from $0 to $5 sent to her, indicating high acceptance of offers regardless of fairness. In the trust game where money sent is tripled, she keeps $4 and sends $1 as the sender, and as the receiver, she keeps a majority of the tripled amount (e.g., keeps $8 of $15 sent). Her thoughts emphasize fairness and sharing in a close-to-fair manner. This suggests moderate generosity and fairness concerns, but also a tendency to keep a larger share when in the receiver role.
+
+## Summary  
+The respondent lives alone with a modest family income and part-time employment. She values competence, loyalty, harmony, civility, autonomy, and equality highly, while placing little importance on tradition, power, or superiority. She is not minimalist but practices mindful and thoughtful ownership, with low consumerism and uniqueness-seeking tendencies. She exhibits moderate risk aversion, especially toward losses, and shows low patience in intertemporal choices, preferring immediate rewards. Socially, she demonstrates moderate fairness and generosity in economic games, proposing fair splits and accepting all offers, but tends to keep a larger share when receiving multiplied amounts.

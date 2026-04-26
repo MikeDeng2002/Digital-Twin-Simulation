@@ -1,0 +1,115 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They are male and belong to the 18-29 age group. Their highest level of education completed is some college, no degree. They identify as Black in terms of race/ethnicity and are a U.S. citizen. Their marital status is never been married. They report having no particular religion and attend religious services seldom. Politically, they consider themselves an Independent with moderate political views. Their household income last year was between $75,000 and $100,000. The household size is four people, and their current employment status is student.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score implies candid and trustworthy self-reporting throughout this file, with minimal impression management bias.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.3  
+Agreeableness: 3.3  
+Conscientiousness: 3.9  
+Neuroticism: 3.0  
+Openness: 3.5  
+
+The participant’s Big Five profile suggests a moderately balanced interpersonal style with neither strong introversion nor extraversion, and a slight tendency to find fault with others (agreeableness at 3.3). Conscientiousness is relatively high (3.9), indicating thoroughness and reliability, with strong agreement on doing a thorough job and being a reliable worker. Neuroticism is moderate (3.0), with some tendency toward moodiness and nervousness but no extreme emotional instability. Openness is moderate (3.5), with some disagreement on originality but strong agreement on inventiveness and assertiveness. No scores are at or near scale extremes (<=1.5 or >=4.5). The moderate neuroticism aligns with the emotional baseline data showing minimal anxiety and depression, indicating consistency.
+
+### Need for Cognition  
+Score: 3.6 / 5.  
+This indicates a moderate enjoyment and seeking of effortful thinking, with some ambivalence; the participant both agrees and disagrees with statements about enjoying complex thinking and mental effort, showing some avoidance of deep thinking but also some appreciation for intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 2.7 / 5.  
+The participant shows a low to moderate tendency to share and recognize others’ emotions, often disagreeing with statements about becoming sad or frightened by others’ feelings and indicating emotional detachment or limited emotional contagion.
+
+### Green Values  
+Score: 3.3 / 5.  
+The participant is somewhat environmentally responsible, agreeing a little with being mindful and willing to be inconvenienced for environmental reasons, but overall shows a neutral to slightly positive environmental identity.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.0  
+Vertical Individualism: 3.3  
+Horizontal Collectivism: 3.8  
+Vertical Collectivism: 2.3  
+
+The participant shows a moderate orientation toward personal independence (individualism) with a slightly stronger tendency toward horizontal collectivism, indicating valuing group loyalty and equality within groups. Vertical collectivism is lower, suggesting less acceptance of hierarchical group structures. Vertical individualism is moderate, indicating some acceptance of competition and hierarchy in personal achievement. Overall, the participant balances independence with group loyalty, favoring equality over hierarchy in social relations.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63.  
+The participant reports minimal anxiety symptoms, with no somatic or cognitive anxiety symptoms endorsed. This minimal anxiety level supports the reliability of self-reports and aligns with moderate neuroticism.
+
+### Beck Depression Inventory  
+Score: 0 / 61.  
+The participant reports minimal depressive symptoms, denying sadness, discouragement, guilt, irritability, loss of interest, and physical symptoms. This minimal depression level is consistent with the moderate neuroticism score and supports the reliability of self-reports.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be a disciplined, resilient, and innovative individual who continuously seeks knowledge and growth. My ultimate goal is to contribute meaningfully to the field of cybersecurity, advocating for stronger data privacy policies and ensuring digital safety for individuals and organizations. I want to be someone who inspires others through leadership, integrity, and a commitment to lifelong learning."  
+- Ought self (what they feel they should be): "I ought to be responsible, dependable, and adaptable, meeting the expectations set by my academic and professional commitments. As a student and future professional, I should prioritize diligence, ethical decision-making, and effective communication to succeed in my career and contribute to my community. Additionally, I ought to be a supportive friend and family member, balancing personal and professional responsibilities with care and reliability."  
+- Actual self (what they believe they currently are): "I am a hardworking and curious individual who is passionate about problem-solving, particularly in the realm of cybersecurity and technology. While I strive for discipline, I sometimes struggle with procrastination and managing multiple responsibilities efficiently. However, I am continuously improving, learning from my experiences, and pushing myself to grow both personally and professionally."  
+
+The three selves are generally consistent, with the actual self acknowledging some gaps relative to the ideal and ought selves, particularly in discipline and time management, but showing alignment in values and aspirations.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 1 / 4.  
+Errors:  
+- Bat and ball question: answered 3 (ball costs $3) — classic intuitive trap, failing to perform the correct algebraic calculation (correct answer is $0.05).  
+- Passed the "passing second place" and "sheep" questions correctly.  
+Interpretation: The participant shows limited reflective reasoning, falling prey to common intuitive errors on CRT items.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors cluster on cube rotation tasks:  
+- Selected incorrect rotations for some cube problems, indicating difficulty with spatial rotation and mental manipulation of 3D objects.  
+- Correct on matrix completion tasks.  
+Interpretation: Fluid intelligence is moderate, with relative strength in pattern recognition but weakness in spatial rotation.
+
+### Crystallized Intelligence  
+Score: 7 / 20.  
+Errors:  
+- Many synonym and antonym questions answered incorrectly, often choosing implausible or unrelated distractors (e.g., "concur" synonym chosen as "concoct," "confiscate" synonym chosen as "repulse").  
+- Pattern suggests a vocabulary gap rather than guessing.  
+Interpretation: Crystallized intelligence is low, indicating limited verbal knowledge and vocabulary.
+
+### Syllogistic Reasoning  
+Score: 5 / 12.  
+Errors occur more on belief-biased items:  
+- Incorrectly judged some logically valid conclusions as invalid, especially when premises conflicted with prior beliefs (e.g., rejecting valid conclusions about plants and animals).  
+Interpretation: Reasoning is influenced by prior beliefs rather than strict logic.
+
+### Financial Literacy  
+Score: 5 / 8.  
+Incorrect answers:  
+- Believed inflation and interest rate scenario would allow buying exactly the same after one year (incorrect; should be less).  
+- Incorrectly answered credit card payoff time (5 years instead of "never" or longer).  
+- Incorrect answers on mortgage and 401(k) withdrawal rules.  
+Interpretation: Moderate financial literacy with some misconceptions about interest, inflation, and retirement rules.
+
+### Numeracy  
+Score: 3 / 8.  
+Errors:  
+- Incorrect answers on probability and percentage conversion questions (e.g., expected number of even rolls on 1000 die rolls answered as 6 instead of ~500).  
+- Miscalculated percentages in disease risk and lottery odds.  
+Interpretation: Numeracy is low, with fundamental errors in basic probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 3 / 4.  
+One error:  
+- Rejected a logically valid conclusion in a premise involving plants and animals, indicating reluctance to accept conclusions conflicting with prior beliefs.  
+Interpretation: Generally accepts valid deductive conclusions but shows some belief bias.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Selected cards: A and 3 (classic matching bias) instead of A and 7.  
+Interpretation: Demonstrates the common matching bias error, failing to correctly apply conditional logic.
+
+## Cognitive Summary  
+The participant’s cognitive profile reveals moderate fluid intelligence with specific weaknesses in spatial rotation tasks, low crystallized intelligence marked by vocabulary gaps, and low numeracy with fundamental errors in probability and percentage calculations. Reflective reasoning is limited, as shown by CRT performance and belief-biased errors in syllogistic reasoning and modus ponens tasks. Financial literacy is moderate but includes misconceptions about interest and inflation. The participant exhibits classic cognitive biases such as matching bias in the Wason task and intuitive traps in CRT. Overall, cognitive strengths lie in pattern recognition and some fluid reasoning, while weaknesses are pronounced in verbal knowledge, numeracy, and logical reasoning unaffected by prior beliefs.
+
+## Summary  
+This participant is a young Black male student from the U.S. South with some college education and moderate household income. Personality-wise, he is moderately conscientious and emotionally stable, with a moderate need for cognition but limited empathy and a somewhat neutral environmental identity. His emotional baseline is healthy, showing minimal anxiety and depression, consistent with his moderate neuroticism. Cognitively, he struggles with vocabulary and numeracy, shows limited reflective reasoning, and is prone to belief-biased and intuitive errors in logic tasks. The most predictive feature for downstream simulation is his low crystallized intelligence combined with belief-biased reasoning errors, which will shape how he processes

@@ -1,0 +1,52 @@
+## Demographics  
+The respondent is a White female aged between 30 and 49 years old, living in the Northeastern United States. She holds a postgraduate degree and is a U.S. citizen. She is married and lives in a household of four people. Her religious affiliation is Roman Catholic, and she attends religious services more than once a week. Politically, she identifies as a very conservative Republican. Her total family income last year was between $75,000 and $100,000. She is currently employed part-time.
+
+## Stated beliefs and self-concept  
+The respondent aspires to be selfless, kind, a good listener, and devoutly religious. She believes she ought to be a caring and devoted mother and wife, a thoughtful teacher, and a faithful Catholic. She describes her actual self as supportive and caring but acknowledges occasional impatience and frustration, especially when asked for favors. She tries to maintain patience and kindness but admits to sometimes feeling envious of others. She values family cohesion and duty highly, emphasizing sacrifice for family and respect for group decisions. She sees herself as a devout Catholic, though she admits to not always praying as much as she feels she should.
+
+## Personality  
+The Big Five profile shows a complex pattern. She scores high on Extraversion traits such as talkativeness (Item 1: 5) and curiosity (Item 10: 5), but also agrees somewhat with being reserved (Item 6: 4) and shy (Item 31: 4), indicating a nuanced social style. She is moderately conscientious, agreeing somewhat that she does a thorough job (Item 3: 4) and is a reliable worker (Item 13: 4), but is neutral or mixed on perseverance (Item 28: 3) and efficiency (Item 33: 3). She reports low Neuroticism, strongly disagreeing with being depressed (Item 4: 1) and moody (Item 29: 2), but somewhat agrees with worrying a lot (Item 19: 4) and being tense (Item 14: 3). Openness to experience is moderate to low, with disagreement on originality (Item 5: 2) and inventiveness (Item 25: 2), but some agreement on imagination (Item 20: 4) and valuing artistic experiences (Item 30: 4). Agreeableness is moderately high, with agreement on being helpful (Item 7: 4), forgiving (Item 17: 4), considerate (Item 32: 4), and trusting (Item 22: 4). She reports some self-reported laziness (Item 23: 4), which contrasts with her conscientiousness ratings, suggesting some ambivalence or situational variability. She shows low assertiveness (Item 26: 2) and low coldness (Item 27: 2).  
+
+Her Need for Cognition scale responses indicate a mild dislike for complex or highly intellectual tasks (Items 1, 2, 3, 4: mostly 2), but some appreciation for abstract thinking and intellectual challenge (Items 14, 15: 4). She tends to prefer routine and simpler tasks (Item 35: 4; Item 8: 4).  
+
+Need for Closure items show moderate preference for order and predictability (Items 1, 2, 3, 6, 10, 11, 12, 13, 15, 16: mostly 4), with some discomfort with ambiguity and unpredictability (Items 1, 2, 6, 10, 15).  
+
+She scores low on Maximizer tendencies, disagreeing strongly with statements about seeking uniqueness or breaking social norms in consumption (all items 1 or 2).  
+
+Self-monitoring responses are mixed but lean toward moderate ability to adjust behavior to social situations (Items 2, 3, 5, 7: 4), with some difficulty in reading subtle social cues (Items 1, 4, 9, 13: 3 or 4).  
+
+Self-concept clarity is moderate, with disagreement on frequent changes in self-beliefs (Items 1, 2, 3, 4, 5, 7, 8: mostly 1 or 2), and agreement that she has a clear sense of who she is (Item 11: 4).  
+
+No contradictions between personality self-reports and behavioral evidence are apparent.
+
+## Values (directly reported, with acquiescence caveat)  
+The respondent’s value ratings are somewhat compressed but show clear relative priorities. She places highest importance (9) on Forgiveness, Trust, Loyalty, Honesty, Compassion, and Tradition, indicating strong emphasis on interpersonal harmony, moral integrity, and cultural/religious continuity. Competence and Altruism are rated quite important (7-8), while Achievement, Ambition, Power, Status, Influence, and Superiority are rated low (1-4), suggesting low emphasis on dominance, competition, or material success. Pleasure, Politeness, Civility, and Autonomy are moderately important (5-6). Wealth is notably low (2), indicating little personal emphasis on financial success as a guiding principle.  
+
+Her spending habits align with a preference for simplicity and mindfulness, agreeing moderately (all 4s) with statements about avoiding excess possessions and preferring sparse, curated environments.
+
+## Factual knowledge (directly tested)  
+The respondent demonstrates solid financial literacy and basic probability understanding. She correctly identifies that a 15-year mortgage requires higher monthly payments but less total interest than a 30-year mortgage (Financial Literacy Item: True). She understands inflation effects on savings (correctly answers that 1% interest with 2% inflation results in less purchasing power). She correctly identifies stocks as the asset with highest fluctuations and highest long-term returns. She knows that after age 70½, required minimum distributions must be taken from retirement accounts.  
+
+Her numeric and logical reasoning is strong: she correctly answers classic cognitive puzzles (e.g., bat and ball cost, lily pad doubling), basic probability questions (e.g., expected counts from probabilities), and logical syllogisms (correctly identifying valid and invalid conclusions).  
+
+Her cognitive test self-assessment estimates 35/42 correct, matching her actual performance.  
+
+She shows good understanding of credit card debt amortization (10 years at 12% APR with minimum payments).  
+
+Her lottery and risk preferences indicate moderate risk aversion, preferring certain smaller amounts over lotteries with equal or slightly higher expected values, especially for gains close to the certain amount. She accepts offers in the ultimatum game that favor herself moderately (keeping $3, sending $2), and as a receiver, she accepts all offers, including those where the sender keeps all the money. In the trust game, she sends $2 of $5 and expects to receive a fair but not equal return, indicating moderate trust and fairness concerns.
+
+## Likely domain familiarity  
+Inferred from education level and financial literacy: The respondent is familiar with basic and intermediate financial concepts such as mortgages, inflation, investment risk, and retirement account rules. She likely understands everyday financial products and basic economic reasoning but may not be deeply familiar with complex financial instruments or advanced investment strategies.  
+
+Inferred from employment status (part-time) and income ($75k-$100k): She likely has practical knowledge of household budgeting and mid-level income financial management but may not be familiar with high-net-worth financial planning.  
+
+Inferred from occupation as a teacher (stated in self-concept): She is likely familiar with educational environments and responsibilities related to teaching and child development.  
+
+Inferred from religious attendance and values: She is familiar with Catholic religious practices and community life.  
+
+Unlikely to have strong familiarity with high-risk financial trading, luxury consumer markets, or cutting-edge technological domains.
+
+## Summary  
+This respondent is a well-educated, married White woman in her 30s-40s living in the Northeastern U.S., who identifies as a very conservative Roman Catholic and part-time worker. She aspires to be selfless, kind, and devout, and sees herself as a caring mother and teacher who sometimes struggles with patience and envy. Her personality is moderately extraverted, conscientious, and agreeable, with low openness and low assertiveness. She values forgiveness, trust, loyalty, honesty, compassion, and tradition highly, while placing little importance on wealth, power, or ambition.  
+
+Her cognitive and financial literacy is solid, with good reasoning skills and understanding of basic financial and probabilistic concepts. She demonstrates moderate risk aversion and fairness concerns in economic games. She prefers simplicity and mindfulness in possessions and consumption, rejecting uniqueness or rule-breaking in product choices. Overall, she is likely knowledgeable about everyday financial matters, education, family life, and religious practice, but less familiar with complex financial products or highly competitive domains.

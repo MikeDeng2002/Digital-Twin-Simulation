@@ -1,0 +1,36 @@
+## Budget constraint  
+The respondent reports a total family income before taxes last year in the range of $30,000 to $50,000. She is currently employed part-time and lives in a household of three people. These direct income and employment items define a moderate budget envelope without further inference about spending style.
+
+## Values hierarchy  
+The 24-item values scale shows evidence of rating compression, with many values rated highly (6 to 9). Explicitly, the highest-rated values (rated 9) include Forgiveness (item 3), Trust (5), Competence (6), Humility (7), Loyalty (11), Honesty (16), and Compassion (17). The lowest-rated values (rated 1) are Influence (4) and Recognition (22). Other relatively low values include Power (13) rated 2, Status (18) and Superiority (24) rated 3. This indicates a strong emphasis on interpersonal virtues, moral character, and social harmony, with little importance placed on dominance, influence, or fame.
+
+## Minimalism and consumer orientation  
+The respondent strongly endorses minimalism-related items, with multiple items rated 5 (Agree strongly), including avoiding accumulating lots of stuff (1), restricting number of things owned (2), drawn to visually sparse environments (5), preferring simplicity in design (6), preferring leaving spaces visually empty (8), being mindful of what is owned (9), importance of thoughtful ownership (11), and mindful selection of belongings (12). She also agrees a little or strongly with related items indicating a preference for sparse aesthetics and careful curation (items 3,4,7,10).  
+
+Regarding consumerism and uniqueness-seeking scales, the respondent strongly disagrees (rating 1) with all 12 items measuring consumerism, uniqueness-seeking, and rule-breaking in consumption (items 1-12). This indicates a clear rejection of consumerist or uniqueness-driven purchasing behavior and a preference for conformity and simplicity in consumption.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery over smaller certain amounts until the certain amount approaches or exceeds the expected value, indicating moderate risk aversion. For example, she prefers the lottery (50% chance $6, 50% $0) over amounts up to about $2.75 but switches preference to certain amounts at $3.00 and above. Similar patterns hold for other lotteries with varying payoffs.  
+
+In loss lotteries, she prefers the lottery over smaller certain losses until the certain loss is close to the expected loss, again consistent with moderate risk aversion.  
+
+In social economic games (dictator and ultimatum), she proposes to keep $2 and send $3 to the other person out of $5, and as a receiver, she accepts offers down to $1 but rejects offers of $0. In the trust game with tripling, she keeps $3 and sends $2, and as receiver, she returns about half of the tripled amount received.  
+
+Overall, these direct responses indicate moderate risk aversion and a preference for fairness in social economic exchanges.
+
+## Intertemporal patience  
+The respondent consistently prefers larger delayed rewards over smaller sooner rewards when the difference is moderate to large, indicating moderate to high patience. For example, she prefers $6 in 6 weeks over $5.25 or less in 5 weeks but switches preference to the sooner reward when it reaches $5.25 or higher. Similar patterns hold for other delayed reward comparisons. She also prefers immediate smaller amounts over delayed larger amounts when the difference is small, consistent with typical discounting behavior.  
+
+This pattern shows a balanced intertemporal preference with some discounting but willingness to wait for larger rewards.
+
+## Social preferences  
+In the dictator and ultimatum games, the respondent offers to keep $2 and send $3 to the other person and accepts offers down to $1 as receiver, rejecting $0 offers. In the trust game with tripling, she keeps $3 and sends $2, and as receiver, she returns about half of the tripled amount received. These allocations indicate a preference for fairness and reciprocity, with a willingness to share and moderate trust in others.  
+
+She also strongly agrees with statements indicating helpfulness, unselfishness, forgiveness, kindness, and cooperation (e.g., items 7,17,32,42 in personality scales). She values loyalty and family cohesion highly (values scale and agreement with family-related statements).  
+
+No direct evidence tests family vs. stranger context beyond the anonymous economic games.
+
+## Summary  
+The respondent has a moderate budget constraint with part-time employment and family income between $30,000 and $50,000. Her values hierarchy is compressed but shows uniquely high importance on interpersonal virtues such as forgiveness, trust, humility, loyalty, honesty, and compassion, and low importance on influence, power, and recognition. She strongly endorses minimalism and rejects consumerism and uniqueness-seeking in consumption.  
+
+Her risk preferences indicate moderate risk aversion, and she demonstrates fairness and reciprocity in social economic games. Intertemporal choices reveal moderate patience with a willingness to wait for larger delayed rewards. Social preferences emphasize cooperation, kindness, and family loyalty. Overall, she values simplicity, fairness, and social harmony, and is willing to pay for fairness and minimalism but not for uniqueness or consumerist status.

@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. They were assigned male at birth and are in the 30-49 age group. Their highest level of education completed is some college, no degree. Their race/origin is reported as Other. They are a U.S. citizen. Their marital status is divorced. Their present religion is "Nothing in particular," and they never attend religious services aside from weddings and funerals. Politically, they identify as an Independent and describe their political ideology as very liberal. Their total family income last year was between $30,000 and $50,000. They live alone in a household of one and are currently unemployed.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, so personality and emotional baseline data can be taken at face value without strong concern for impression management.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.0  
+Agreeableness: 4.3  
+Conscientiousness: 4.1  
+Neuroticism: 3.3  
+Openness: 4.7  
+
+The participant’s Big Five profile reveals a reserved and introverted interpersonal style, with extraversion notably low (2.0), near the lower scale extreme (<=1.5 is extreme, this is low but not extreme). They are highly agreeable (4.3) and conscientious (4.1), indicating a helpful, reliable, and thorough work habit and interpersonal approach. Neuroticism is moderate (3.3), neither low nor high, suggesting some emotional reactivity but not excessive instability. Openness is very high (4.7), near the upper extreme (>=4.5), indicating strong intellectual curiosity, creativity, and preference for novelty. There is no discrepancy flagged between neuroticism and emotional baseline (see below).
+
+### Need for Cognition  
+Score: 5 / 5.  
+This participant strongly enjoys and seeks out effortful thinking, preferring complex and challenging intellectual tasks.
+
+### Empathy (BES-A)  
+Score: 4.3 / 5.  
+They have a strong tendency to share and recognize others’ emotions, showing high empathic concern and emotional attunement.
+
+### Green Values  
+Score: 4.3 / 5.  
+The participant identifies as environmentally responsible and is willing to be inconvenienced to act in environmentally friendly ways.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.5  
+Vertical Individualism: 2.0  
+Horizontal Collectivism: 3.5  
+Vertical Collectivism: 3.0  
+
+This profile shows a moderate orientation toward personal independence and group loyalty, with a stronger preference for equality than hierarchy in both individualistic and collectivistic domains. The participant somewhat values autonomy and self-reliance (agreeing a little with statements about depending on self), but does not endorse competition or dominance. They moderately value group cohesion and family loyalty but are ambivalent about strict group conformity or hierarchy.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 14 / 63.  
+This score falls in the mild anxiety range (8-15). The symptom pattern is mild and primarily cognitive rather than somatic: the participant reports some nervousness, worry, and inability to relax but denies physical symptoms such as trembling, heart racing, sweating, or fear of dying. This mild cognitive anxiety is consistent with the moderate neuroticism score and suggests reliable self-reporting.
+
+### Beck Depression Inventory  
+Score: 33 / 61.  
+This score is in the severe depression range (30-63). The participant reports pervasive cognitive and affective symptoms including persistent sadness ("I am sad all the time and I can't snap out of it"), feelings of worthlessness ("I feel utterly worthless"), guilt ("I feel guilty most of the time"), self-disappointment, self-blame, loss of interest in others, and loss of interest in sex. They also report fatigue, difficulty initiating work, and disturbed sleep, but no significant weight loss or appetite loss. The severity of depressive symptoms contrasts with only moderate neuroticism, which flags a self-report reliability note: the participant’s emotional distress is genuine but may not be fully captured by trait neuroticism.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be knowledgeable in general on a wide variety of subjects. I aspire to be of service to my community. I aspire to be adventurous and try new things."  
+- Ought self (what they feel they should be): "I don't have any dependents. I don't have any responsibilities beyond those I chose to take on. I ought to walk away from this garbage heap we call a civilization."  
+- Actual self (what they believe they currently are): "I think of myself as an introverted intellectual. I spend almost all of my time alone. I am very curious, and indulge that curiosity."  
+
+There are meaningful gaps between the selves: the ideal self is aspirational and positive, focusing on knowledge, service, and adventure; the ought self is nihilistic and disengaged, reflecting a rejection of societal expectations; the actual self is consistent with introversion and intellectual curiosity but suggests social isolation. This indicates internal conflict and ambivalence about social roles and responsibilities.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+Perfect score with no errors, showing strong ability in matrix completion and spatial reasoning tasks.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (partial data from 10 synonym/antonym questions).  
+The participant answered 9 out of 10 vocabulary synonym/antonym questions correctly, with one notable error: for the synonym of "FURTIVE," they answered "ecstatic" (incorrect; correct is "stealthy"), indicating a specific vocabulary gap or momentary guessing error rather than a broad deficit.
+
+### Syllogistic Reasoning  
+Score: 8 / 8 (4 deductive certainty + 4 syllogisms).  
+All deductive reasoning items were answered correctly except one syllogism involving belief bias: the participant correctly identified logical conclusions in most cases but failed on one syllogism where prior belief conflicted with logic (e.g., incorrectly accepting a false conclusion about China’s communism status). This suggests reasoning is generally logical but somewhat influenced by prior beliefs.
+
+### Financial Literacy  
+Score: 8 / 8.  
+All financial literacy questions were answered correctly, including knowledge about mortgages, inflation, investment risk, and credit card debt, indicating strong financial knowledge.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy questions were answered correctly, including probability, percentage, and basic arithmetic problems, showing strong numeric reasoning.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items answered "Yes" to logically valid conclusions, indicating no reluctance to accept valid logical inferences.
+
+### Wason Selection Task  
+Score: 1 / 1.  
+The participant correctly selected the card "A" to test the rule "If there is an A on one side, then there is a 3 on the other," showing good conditional reasoning and no matching bias.
+
+## Cognitive Summary  
+This participant demonstrates a strong overall cognitive profile with perfect or near-perfect scores on fluid intelligence, cognitive reflection, financial literacy, numeracy, and deductive reasoning tasks. The only notable cognitive error was a single vocabulary synonym mistake ("FURTIVE" answered as "ecstatic"), suggesting a minor vocabulary gap rather than a general verbal knowledge deficit. Their reasoning is generally logical and not strongly biased by prior beliefs, though one syllogism showed some belief influence. Their cognitive abilities are consistent with their high need for cognition and openness scores. Financial literacy and numeracy are excellent, supporting sound practical reasoning.
+
+## Summary  
+This participant is a 30-49-year-old unemployed male from the U.S. Midwest with some college education and a very liberal political ideology. Personality-wise, he is introverted, highly conscientious, agreeable, and very open to new ideas, with a strong enjoyment of intellectual challenges and empathy for others. He reports mild anxiety but severe depression, with a notable discrepancy between trait neuroticism and emotional distress, suggesting genuine but complex emotional struggles. His sense of self reveals internal conflict between aspirational, nihilistic, and actual introverted intellectual identities. Cognitively, he is strong across fluid and crystallized intelligence, reasoning, and financial literacy, with only minor vocabulary gaps. The most predictive feature for downstream simulation is the severe depression combined with high cognitive ability and low social desirability, indicating candid but emotionally burdened responses with strong intellectual engagement.

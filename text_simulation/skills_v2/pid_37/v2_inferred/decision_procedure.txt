@@ -1,0 +1,57 @@
+## Effort regulation and cognitive style  
+The respondent demonstrates a strong preference for engaging in effortful cognitive activities, as evidenced by their maximal agreement with Need for Cognition items such as enjoying complex problems (NFC 1), liking responsibility requiring deep thinking (NFC 2), and satisfaction in deliberating hard and long (NFC 6, 11, 13, 14, 15, 18). This is consistent with their high self-ratings on Big Five Conscientiousness facets: "Does a thorough job" (5), "Is a reliable worker" (5), "Perseveres until the task is finished" (5), and "Does things efficiently" (5). However, there is a slight contradiction in self-rated organization: they rate themselves as somewhat disorganized (Big Five 18: 4 - Agree a little) and neither clearly organized nor efficient on a separate scale (5 for both "Organized" and "Efficient"). This suggests conscientiousness is expressed more in persistence and thoroughness than in neatness or orderliness.
+
+Cognitive test performance is flawless or near-perfect, with correct answers on all logic, syllogism, and spatial rotation tasks, and perfect self-estimate of performance (42/42 correct, self-estimate 42). The respondent also shows strong vocabulary and verbal reasoning skills (synonym and antonym tests mostly correct). The only notable error is the synonym for "Furtive," where they selected "ecstatic" (incorrect), indicating a rare semantic slip.
+
+Overall, the respondent reveals a deep intellectual engagement and persistence in cognitive tasks, with a style favoring thoroughness and deep thinking rather than speed or superficial processing.
+
+## Closure and uncertainty tolerance  
+The respondent shows a moderate tolerance for uncertainty and ambiguity. They disagree slightly with statements indicating discomfort with uncertainty or unpredictability (NFCC items 1, 2, 3, 6, 10, 13, 15 all rated 2 or 3), indicating low need for closure. They do agree a little that they feel uncomfortable when they do not understand reasons for events (NFCC 4: 4 - Agree a little), but overall they do not rush to closure or feel impatient to resolve problems immediately (NFCC 7, 8, 9: all 1 - Disagree strongly). They also do not dislike people capable of unexpected actions (NFCC 10: 2 - Disagree a little).
+
+Behaviorally, their cognitive test answers show careful reasoning rather than impulsive or snap judgments. Their free responses are thoughtful and reflective, indicating deliberation rather than hasty closure. Decision consistency is high, with no contradictory answers on logically similar items.
+
+Thus, the respondent exhibits moderate uncertainty tolerance with a preference for understanding and reflection rather than quick closure.
+
+## Optimization strategy  
+The respondent identifies as a maximizer, endorsing high standards and never settling for second best (Maximizer 5: Agree strongly; 6: Agree a little). They report difficulty shopping for gifts and clothing (Maximizer 3, 4: Agree a little), indicating maximizing tendencies in consumer domains.
+
+However, their economic game behavior shows some domain-specific satisficing. In the dictator game, they propose a fair split ($2 keep, $3 send) and accept all offers as receiver, indicating fairness but not extreme maximizing of self-interest. In the trust game, they keep $2 and send $3, and as receiver keep a moderate share and return a fair amount, suggesting cooperative but not purely maximizing behavior.
+
+Their self-reports also show low ambition and power values (Values 10 and 13 rated 2 and 1 respectively), and they disagree strongly with "Winning is everything" and "Competition is the law of nature" (Self-concept 6,7: Disagree strongly). This suggests that maximizing is more about personal standards and thoroughness than competitive dominance.
+
+Therefore, the respondent maximizes in intellectual and personal standards but satisficing or cooperative in social-economic domains.
+
+## Self-concept stability  
+The respondent reports some instability in self-concept. They disagree a little with "My beliefs about myself often conflict" (SCC 1: 2), but agree a little that their opinions of themselves vary from day to day (SCC 2: 4), that they spend time wondering who they really are (SCC 3: 4), and that sometimes they feel not really the person they appear to be (SCC 4: 4). They also agree a little that they are unsure about their past self (SCC 5: 4) and that their self-description might differ from day to day (SCC 9: 4). They disagree a little with having a clear sense of self (SCC 11: 2).
+
+No direct contradictions appear between self-descriptions and behavior, but the respondent acknowledges some internal uncertainty and fluctuation in self-views. This is consistent with their introverted intellectual self-description and reflective nature.
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated values and their economic game behavior. They rate altruism and helping others moderately important (Values 9: 5), and show strong empathy and emotional sensitivity (Empathy items mostly 4-5), yet in the ultimatum game they propose to keep $2 and send $3, which is fair but not fully altruistic. As receivers, they accept all offers, including those heavily favoring the other player, indicating fairness and tolerance.
+
+In the trust game, they send a moderate amount ($3 of $5) and expect a fair return but keep a substantial share themselves. This suggests a balance between self-interest and cooperation.
+
+Their free responses express aspirations to be knowledgeable, of service, and adventurous, but their "ought to be" self is disengaged and somewhat nihilistic ("walk away from this garbage heap we call a civilization"). This contrasts with their actual self as an introverted intellectual spending time alone indulging curiosity.
+
+This gap implies that while the respondent values altruism and service, their behavior is pragmatically balanced with self-interest. Their self-report is honest about internal conflict and ambivalence, which may reduce the reliability of purely self-reported altruistic motives but increase trustworthiness in acknowledging complexity.
+
+## Intertemporal patience  
+The respondent consistently prefers larger delayed rewards over smaller sooner ones, choosing the delayed $6-$10 over smaller amounts available sooner until the amounts become equal or better immediately (e.g., choosing $6 in 6 weeks over $5.75 in 5 weeks, but switching preference when immediate amount equals or exceeds delayed). This pattern indicates moderate patience and discounting consistent with normative intertemporal choice.
+
+Their conscientiousness facets (thoroughness, reliability, perseverance) and planning (Big Five 38: 4 - Agree a little) support this moderate patience. They also correctly understand financial concepts such as mortgage payments and inflation effects, indicating financial literacy that supports patient decision-making.
+
+## Bias susceptibility predictions  
+Predictable biases from cognitive signals:
+
+- Probability matching vs. maximizing: Given perfect cognitive test performance and high Need for Cognition, the respondent is likely to maximize rather than probability match in probabilistic tasks.
+
+- Denominator neglect: Their accurate understanding of probabilities and percentages (e.g., lottery and disease risk questions) suggests low susceptibility to denominator neglect.
+
+- Belief bias in syllogisms: The respondent correctly rejects invalid but believable syllogisms and accepts valid ones, indicating low belief bias.
+
+- Wason matching bias: The respondent correctly identifies the cards to turn over in the Wason selection task, indicating low Wason matching bias.
+
+Weakly predictable biases (framing, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost, less-is-more, omission bias, Allais/ certainty effects, myside bias) cannot be confidently predicted from the data, consistent with Stanovich & West (2008) limits.
+
+## Summary  
+The respondent is a highly conscientious, intellectually engaged individual with strong need for cognition and moderate tolerance for uncertainty. They exhibit near-perfect cognitive test performance and financial literacy, reflecting deep analytical skills and patience in intertemporal choices. Their optimization strategy is domain-specific: maximizing in intellectual and personal standards but cooperative and pragmatic in social-economic decisions. Self-concept shows some instability and internal conflict, mirrored by a gap between altruistic values and pragmatic economic behavior. They are likely to avoid common cognitive biases related to probability and logic but may still be susceptible to less predictable biases. Overall, their reasoning under uncertainty is reflective, thorough, and balanced between idealism and pragmatism.

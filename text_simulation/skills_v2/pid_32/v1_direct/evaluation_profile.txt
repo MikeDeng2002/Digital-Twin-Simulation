@@ -1,0 +1,26 @@
+## Budget constraint  
+The respondent reports a total family income before taxes last year in the range of $30,000 to $50,000. They are currently unemployed and live in a household of two people. No further direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows explicit ratings with no indication of rating compression. The highest-rated values are Loyalty (Item 11) and Equality (Item 21), both rated as "Highly Important" (9). Other relatively high values include Altruism (9), Honesty (8), Compassion (7), and Trust (7). The lowest-rated values, rated as "Not Important" (1), include Wealth (1), Power (13), Excitement (15), Status (18), Recognition (22), Tradition (23), and Superiority (24). This indicates a strong emphasis on social harmony, fairness, and interpersonal loyalty, with little importance placed on material success, status, or dominance.
+
+## Minimalism and consumer orientation  
+The respondent strongly agrees with all minimalism scale items (Items 1-12), with most rated at 5 (Agree strongly) and a few at 4 (Agree a little). This indicates a strong preference for minimalism, including avoiding accumulation of possessions, restricting the number of owned items, preferring simplicity in design, and mindful curation of belongings.  
+
+Regarding consumerism and uniqueness-seeking, the respondent strongly disagrees with statements about seeking uniqueness through buying special products or breaking social rules about consumption (Items 1, 3, 4, 6, 7). However, they strongly agree with statements about enjoying originality, breaking customs, challenging prevailing tastes, and avoiding popular products or brands (Items 2, 5, 8, 9, 10, 11, 12). This suggests a complex consumer orientation: while not actively seeking uniqueness by acquiring special products, they value originality and nonconformity in consumption behavior and reject mainstream or popular products.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the certain monetary amounts over lotteries with equivalent or slightly higher expected values, indicating risk aversion in gains. For lotteries involving losses, the respondent prefers the lottery over smaller certain losses in some cases but prefers certain losses over lotteries in others, showing nuanced risk attitudes. Overall, the respondent values certainty and tends to avoid risk, especially in gains, but shows some acceptance of risk in losses.  
+
+No explicit numeric risk tolerance parameters are provided, but the pattern of choices indicates moderate to strong risk aversion.
+
+## Intertemporal patience  
+The respondent consistently chooses the smaller, sooner monetary rewards over larger, later rewards across multiple intertemporal choice tasks involving delays of 1 to 7 weeks. This pattern indicates a high degree of present bias and impatience, preferring immediate rewards even when delayed rewards are larger.
+
+## Social preferences  
+In dictator and ultimatum game scenarios, the respondent proposes to keep $2 and send $3 to the other person when acting as the proposer, indicating a moderately generous offer. As the receiver, the respondent accepts all offers except the one where the proposer keeps all $5 and sends $0, which they reject. This shows a preference for fairness and rejection of unfair offers.  
+
+In the trust game where money sent is tripled, the respondent chooses to keep all the money and send nothing back when acting as the receiver, indicating low trust or reciprocity in this context. When acting as the sender, they keep all $5 and send nothing, showing a self-interested stance in this variant.
+
+## Summary  
+The respondent has a modest budget constraint with family income between $30,000 and $50,000 and is currently unemployed in a two-person household. Their values emphasize social loyalty, equality, altruism, honesty, and compassion, while material success, power, and status are unimportant. They strongly endorse minimalism and mindful ownership, and exhibit a consumer orientation that values originality and nonconformity but not uniqueness through special products. The respondent is risk averse, especially regarding gains, and impatient with delayed rewards, preferring immediate smaller payoffs. Socially, they demonstrate moderate generosity in simple money-splitting games but low reciprocity in trust games involving multiplied stakes.

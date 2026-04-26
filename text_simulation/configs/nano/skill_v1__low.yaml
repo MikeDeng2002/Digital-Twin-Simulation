@@ -5,7 +5,7 @@ max_tokens: 16384
 max_retries: 10
 num_workers: 50
 force_regenerate: false
-max_personas: 5
+max_personas: 20
 input_folder_dir: text_simulation_input_skill_v1_direct
 output_folder_dir: text_simulation_output_nano/skill_v1/low/{rep}
 system_instruction: You are an AI assistant. Your task is to answer the 'New Survey Question' as if you are the person described

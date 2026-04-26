@@ -1,0 +1,83 @@
+## Effort regulation and cognitive style  
+This individual exhibits a low Need for Cognition (NFC), as evidenced by strong disagreement with statements about enjoying complex problems, intellectual challenges, and abstract thinking (e.g., "I like to have the responsibility of handling a situation that requires a lot of thinking" = strongly disagree; "Learning new ways to think doesn't excite me very much" = strongly agree). They prefer to avoid deep mental effort ("I try to anticipate and avoid situations where there is likely chance I will have to think in depth" = strongly agree) and only think as hard as necessary. This is consistent with their cognitive test performance, which shows mixed accuracy: they correctly solved some puzzles requiring pattern recognition and logical deduction but made notable errors on simple trick questions (e.g., incorrectly answering the "Emily’s father has three daughters" riddle by saying "June" instead of "Emily," and misjudging the cubic feet of dirt in a hole). These errors reflect a tendency toward superficial or literal processing rather than reflective, analytic reasoning. Their vocabulary test answers are mostly correct but include some clear mistakes (e.g., selecting "ecstatic" as a synonym for "furtive," and "arduous" as a synonym for "indolent"), indicating occasional semantic confusion or inattentiveness.  
+
+Big Five responses show moderate Conscientiousness (agreeing somewhat with "does a thorough job" and "does things efficiently") but also some carelessness and disorganization ("can be somewhat careless" = agree a little; "tends to be disorganized" = agree a little). The individual reports low energy and low openness to new ideas ("is original" = disagree a little; "is ingenious" = disagree a little), consistent with a more reserved, cautious cognitive style. Free responses reveal a self-description of being "full of mental illness and insecurity" and "a broken doll," indicating low confidence and possibly depressive cognitive patterns that may impair sustained effort and motivation.  
+
+Overall, this person regulates effort conservatively, avoiding deep cognitive engagement, and tends to rely on heuristic or surface-level processing, with occasional specific errors in logical reasoning and vocabulary comprehension.  
+
+## Closure and uncertainty tolerance  
+The individual scores very high on Need for Closure (NFCC) scales, strongly agreeing with statements expressing discomfort with ambiguity, unpredictability, and uncertainty ("I don’t like situations that are uncertain" = strongly agree; "I dislike unpredictable situations" = strongly agree; "I feel irritated when one person disagrees with what everyone else in a group believes" = strongly agree). They prefer structured, ordered environments and routines ("I find that establishing a consistent routine enables me to enjoy life more" = strongly agree).  
+
+Behaviorally, this is supported by their economic choices showing strong preference for certainty and immediate resolution: in intertemporal choice tasks, they consistently prefer smaller-sooner rewards over larger-later ones, indicating impatience and intolerance for delay or ambiguity. Their free responses about decision-making reveal difficulty and discomfort ("I put off making decisions more than I used to," "I have greater difficulty in making decisions than before").  
+
+The free-response self-descriptions also reflect internal conflict between aspirational and actual selves, with a desire for confidence but a current state of insecurity and dysfunction, which likely exacerbates intolerance for uncertainty.  
+
+In sum, this person exhibits low tolerance for ambiguity and a strong drive for quick closure, likely leading to impatience and frustration when faced with uncertain or complex judgment tasks.  
+
+## Optimization strategy  
+Despite low NFC and high NFCC, the individual identifies strongly as a maximizer, endorsing statements such as "No matter what I do, I have the highest standards for myself" and "I never settle for second best" (both strongly agree). However, this maximization tendency is domain-specific and conflicted. They report difficulty shopping for gifts and clothing they "really love," indicating indecision and high standards in consumer choices. Yet, their minimalist values (strong agreement with avoiding excess possessions and preferring simplicity) suggest a preference for minimalism over accumulation or variety.  
+
+In economic games, they propose moderately generous splits ($2 kept, $3 sent) but as a receiver, they accept all offers except the most selfish, indicating a pragmatic approach rather than strict maximization. In the trust game, they keep all money for themselves and send nothing back, revealing a self-protective streak inconsistent with maximizing social reciprocity.  
+
+Free responses about their thoughts during economic decisions reveal a scarcity mindset ("I was thinking that I'm poor and shouldn't be giving away money," "I can't split it evenly. I need money"), suggesting that their maximization is constrained by perceived resource limitations and anxiety rather than pure preference for optimal outcomes.  
+
+Thus, their optimization strategy is characterized by high internal standards and a desire for the best, but tempered by low cognitive engagement, scarcity concerns, and minimalist values, leading to selective maximization with avoidance of complexity and risk.  
+
+## Self-concept stability  
+The individual scores very low on Self-Concept Clarity (SCC), strongly agreeing with statements indicating frequent shifts and conflicts in self-beliefs ("My beliefs about myself often conflict with one another," "On one day I might have one opinion of myself and on another day a different opinion," "I spend a lot of time wondering about what kind of person I really am"). They also report difficulty making up their mind and uncertainty about what they want.  
+
+This instability is corroborated by free responses contrasting aspirational, ought, and actual selves: they aspire to be confident and feminine, feel societal pressure to be "the man" and "head of the household," but describe themselves as "broken" and "full of mental illness and insecurity." This large gap between ideal and actual self suggests internal conflict and low self-coherence.  
+
+Big Five items also show contradictions: they agree both that they are "helpful and unselfish" and "can be cold and aloof," and simultaneously report being "moody," "tense," and "nervous," indicating emotional instability and self-contradiction.  
+
+Overall, this person’s self-concept is fragmented, fluctuating, and marked by internal conflict, which likely undermines consistent reasoning and decision-making under uncertainty.  
+
+## Behavioral vs. stated-preference gap  
+There is a notable gap between stated values and revealed behavior. The individual strongly endorses altruistic and prosocial values (e.g., "loyalty" and "equality" rated highly important, "helpful and unselfish" = strongly agree), yet in economic games, they behave cautiously and self-protectively, keeping all money in the trust game and sending only moderate amounts in the dictator game.  
+
+Their social desirability score is not explicitly given, but their self-reports include admissions of negative traits (e.g., "I sometimes try to get even," "I have taken advantage of someone," "I have been jealous"), suggesting moderate honesty rather than strong impression management. However, their free responses reveal a self-critical and vulnerable stance, which may bias self-reports toward negativity rather than positivity.  
+
+The gap between their high empathy scores (strong agreement with statements about feeling others’ emotions) and their cautious economic behavior suggests a conflict between emotional sensitivity and pragmatic self-interest.  
+
+In sum, their stated preferences emphasize prosociality and high standards, but revealed behavior is more self-protective and minimalist, reflecting a tension between ideals and practical constraints.  
+
+## Intertemporal patience  
+The individual shows low intertemporal patience, consistently preferring smaller-sooner rewards over larger-later ones across multiple delayed reward tasks. This is consistent with their low Conscientiousness facets related to persistence ("Perseveres until the task is finished" = disagree a little) and high impulsivity ("Is easily distracted" = agree strongly).  
+
+Their free responses and self-descriptions indicate difficulty with planning and follow-through, compounded by depressive symptoms and anxiety, which likely impair long-term goal pursuit.  
+
+Despite valuing achievement moderately, their behavior and self-reports suggest procrastination and difficulty delaying gratification.  
+
+Overall, this person is impatient with delay, prefers immediate rewards, and struggles with sustained effort and planning.  
+
+## Egocentric projection tendency  
+Low self-concept clarity combined with high empathy suggests a complex projection profile. Low SCC typically predicts higher egocentric projection (false consensus), but high empathy can moderate this by increasing perspective-taking. However, the individual’s political identity is weak (identifies as Independent but very liberal), which may reduce strong ideological projection.  
+
+Given their fragmented self-concept and emotional sensitivity, they may overestimate the similarity of others to their own feelings and attitudes, especially in emotional or social domains, but less so in political or cognitive domains.  
+
+Therefore, moderate to high egocentric projection is expected, particularly in affective judgments, but less so in ideological or factual domains.  
+
+## Bias susceptibility predictions  
+
+**HIGH CONFIDENCE**  
+- Probability matching vs. maximizing: Likely to probability match or show inconsistent maximizing due to low NFC and cognitive errors in logical tasks.  
+- Denominator neglect: Possible, given errors in base-rate and probability estimation tasks (e.g., underestimating expected winners in lotteries).  
+- Belief bias: Likely present, as shown by acceptance of invalid logical conclusions (e.g., affirming the consequent in syllogisms).  
+- Wason matching bias: Likely, given partial understanding of conditional reasoning and selection tasks.  
+
+**MODERATE CONFIDENCE**  
+- False consensus effect: Moderate to high, due to low SCC and high empathy, leading to projection of own feelings onto others.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, as emotional distress and anxiety may color risk perceptions.  
+
+**LOW CONFIDENCE** (acknowledging limits)  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: These biases are not reliably predictable from cognitive ability or personality alone; no strong evidence to predict direction or magnitude.  
+
+## Self-report reliability weighting  
+The individual’s social desirability appears moderate to low, as they admit to negative traits and mental health struggles openly. However, there is a notable discrepancy between self-reported cognitive ability (estimating 21/42 correct) and actual performance, which is mixed with specific errors. Somatic symptoms of anxiety are reported as severe, yet self-reported Neuroticism is high and consistent, indicating reasonable calibration between somatic and self-report data.  
+
+Given the high NFCC and low NFC, some self-reports may be influenced by discomfort with ambiguity and desire for closure, potentially biasing responses toward certainty and structure. The free responses reveal honesty about struggles, increasing trustworthiness.  
+
+Overall, self-reports should be weighted moderately, with behavioral and cognitive test data given somewhat greater emphasis for predictive modeling.  
+
+## Summary  
+This individual exhibits a low need for cognition and a strong need for closure, preferring simple, certain, and structured environments while avoiding deep cognitive effort. Their cognitive test performance reveals specific logical and semantic errors, reflecting superficial processing and occasional belief bias. They hold high internal standards and maximization tendencies but are constrained by scarcity concerns and minimalist values, leading to selective optimization. Their self-concept is fragmented and unstable, with large gaps between aspirational and actual selves, contributing to emotional distress and decision-making difficulties. Behavioral economic choices reveal cautious, self-protective strategies that contrast with stated prosocial values, highlighting a notable behavioral vs. stated-preference gap. They are impatient with delayed rewards and prone to egocentric projection in affective domains. The most predictive feature of their reasoning profile is the pronounced gap between their high need for closure and low cognitive engagement, which drives quick, heuristic-based judgments under uncertainty, often accompanied by specific logical errors and emotional interference.

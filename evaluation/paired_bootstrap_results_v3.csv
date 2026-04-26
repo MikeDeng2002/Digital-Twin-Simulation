@@ -1,0 +1,4 @@
+contrast,metric,delta_point,ci_lower,ci_upper,se_delta,rho_hat,significant
+bg+ep vs bg,overall,0.015,-0.0079,0.0429,0.013,0.755,False
+bg+dp vs bg,overall,0.0117,-0.0055,0.03,0.0091,0.879,False
+bg+dp+ep vs bg+dp,pricing,0.0013,-0.04,0.045,0.0216,0.795,False

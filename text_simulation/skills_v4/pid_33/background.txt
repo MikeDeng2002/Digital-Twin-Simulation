@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. She is female and belongs to the 30-49 age group. Her highest level of education completed is college graduate/some postgraduate. She identifies as White and is a U.S. citizen. Her marital status is never been married. She is Protestant by religion and attends religious services a few times a year. Politically, she identifies as a Democrat and describes her political ideology as liberal. Her household income last year was between $30,000 and $50,000. She lives alone in a household of one and is employed full-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 4 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, so personality and emotional baseline data can be interpreted with confidence.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.7  
+Agreeableness: 3.9  
+Conscientiousness: 4.3  
+Neuroticism: 4.0  
+Openness: 3.5  
+
+The participant’s Big Five profile reveals a reserved and somewhat introverted interpersonal style, as indicated by low extraversion (2.7) and strong agreement with being reserved and quiet. She is highly conscientious (4.3), showing strong work habits, thoroughness, and reliability. Agreeableness is moderately high (3.9), reflecting helpfulness and kindness, though with some tendency to find fault and occasional irritability. Neuroticism is elevated (4.0), near the higher end of the scale, consistent with emotional instability, worry, moodiness, and nervousness. Openness is moderate (3.5), showing some curiosity and appreciation for artistic experiences but not strongly inventive or highly imaginative. The high neuroticism aligns with the emotional baseline findings below, supporting the reliability of self-reports.
+
+### Need for Cognition  
+Score: 3.5 / 5.  
+This indicates a moderate enjoyment and engagement with effortful thinking and problem-solving, with some preference for complex tasks but not a strong enthusiasm for abstract or deep cognitive challenges.
+
+### Empathy (BES-A)  
+Score: 4.3 / 5.  
+The participant shows a strong tendency to share and recognize others’ emotions, often becoming sad or frightened in response to others’ feelings, and generally being sensitive and attuned to friends’ emotional states.
+
+### Green Values  
+Score: 2.7 / 5.  
+The participant shows a low to moderate environmental identity, with some concern about wasting resources but generally low engagement in environmentally responsible behaviors or strong environmental concern.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.8  
+Vertical Individualism: 3.3  
+Horizontal Collectivism: 3.3  
+Vertical Collectivism: 3.8  
+
+The participant strongly endorses horizontal individualism (4.8), emphasizing personal independence and equality without hierarchy. Vertical individualism is moderate (3.3), indicating some acceptance of competition and status differences. Horizontal collectivism (3.3) is moderate, showing some value for group loyalty and equality within groups. Vertical collectivism (3.8) is somewhat higher, reflecting moderate respect for hierarchy and authority within groups. Overall, she prioritizes personal independence and equality but also values group cohesion and some hierarchical structure.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 12 / 63.  
+This score falls in the mild anxiety range. The symptom pattern is predominantly cognitive, with severe nervousness and worry but minimal somatic symptoms such as trembling, heart racing, or sweating. This cognitive symptom pattern supports the reliability of self-reports and aligns with the elevated neuroticism.
+
+### Beck Depression Inventory  
+Score: 18 / 61.  
+This score is at the upper limit of the mild depression range. The participant reports sadness, discouragement about the future, disappointment in herself, increased irritability, and reduced interest in others, but no severe cognitive distortions or physical symptoms like appetite loss or sleep disturbance. The mild depressive symptoms are consistent with the elevated neuroticism and mild anxiety.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "This person is kind above all else, but not a push over. She is strong and independent. She knows her worth but knows how to share and lift up others."  
+- Ought self (what they feel they should be): "This person is kind. This person is respectful and treats others as she wishes to be treated. She speaks up for those who are underrepresented."  
+- Actual self (what they believe they currently are): "I am independent. I am kind but fall short sometimes. I try to be strong and a representative for others."  
+
+The three selves are largely consistent, with the actual self closely reflecting the ideal and ought selves, though the participant acknowledges some shortfall in kindness compared to her ideal.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors clustered on cube rotation items, with correct answers on matrix completion. This suggests relative strength in pattern recognition but some difficulty with spatial rotation tasks.
+
+### Crystallized Intelligence  
+Score: 8 / 20.  
+The participant made multiple errors, often selecting plausible distractors, indicating a vocabulary gap or guessing rather than confident knowledge.
+
+### Syllogistic Reasoning  
+Score: 6 / 12.  
+Errors occurred more on belief-biased items with familiar content, indicating reasoning is influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 7 / 8.  
+Missed one item, indicating good but not perfect financial knowledge.
+
+### Numeracy  
+Score: 6 / 8.  
+Errors involved probability conversion and percentage calculation, showing moderate numeric reasoning skills.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items answered correctly, showing acceptance of logically valid conclusions even if they conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Selected cards A and 3, demonstrating the classic matching bias rather than the logically correct A and 7.
+
+## Cognitive Summary  
+The participant shows strong reflective reasoning (perfect CRT) and deductive logic (Modus Ponens), but moderate fluid intelligence with spatial rotation difficulties and low crystallized intelligence suggesting limited vocabulary or verbal knowledge. Reasoning is somewhat belief-biased, and the classic matching bias on the Wason task indicates challenges with conditional reasoning. Financial literacy is good, consistent with moderate numeracy skills. Overall, cognitive strengths lie in reflective and deductive reasoning, while verbal knowledge and some numeric reasoning are weaker.
+
+## Summary  
+This participant is a college-educated, mid-aged White female from the Midwest, employed full-time and politically liberal Democrat. Personality-wise, she is reserved, conscientious, moderately agreeable, and emotionally vulnerable with elevated neuroticism and mild anxiety and depression symptoms. She is moderately reflective and cognitively engaged, with strong reasoning skills but some verbal and numeric limitations. Her sense of self is consistent and grounded in kindness, independence, and advocacy for others. The most predictive feature for simulation is the combination of high neuroticism with mild emotional distress and a strong cognitive reflection ability, suggesting a thoughtful but emotionally sensitive individual who may respond cautiously and reflectively to new questions.

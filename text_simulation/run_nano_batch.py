@@ -118,9 +118,10 @@ def parse_batch_output(content: str) -> dict[str, dict]:
             results[pid] = {"error": obj["error"], "response_text": "", "usage_details": {}}
             continue
 
-        response_body = obj.get("response", {})
+        # Batch API wraps the actual responses-API payload in response.body
+        response_body = obj.get("response", {}).get("body", {}) or obj.get("response", {})
         # responses API: output_text at top level, or inside output list
-        output_text = response_body.get("output_text", "")
+        output_text = response_body.get("output_text", "") or ""
         if not output_text:
             output_items = response_body.get("output", [])
             for item in output_items:
@@ -171,7 +172,7 @@ def save_results(
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config",    required=True, help="Path to YAML config file")
-    parser.add_argument("--nano_rep",  required=True, help="Repetition label: rep_1, rep_2, rep_3")
+    parser.add_argument("--nano_rep", default=None, help="Repetition label: rep_1, rep_2, rep_3 (omit for temp=0 configs)")
     args = parser.parse_args()
 
     cfg = load_config(args.config)
@@ -182,7 +183,10 @@ def main():
     max_tokens        = cfg.get("max_tokens", 16384)
     max_personas      = cfg.get("max_personas", 5)
     input_folder      = Path("text_simulation") / cfg["input_folder_dir"]
-    output_folder     = Path("text_simulation") / cfg["output_folder_dir"].replace("{rep}", args.nano_rep)
+    out_dir_str       = cfg["output_folder_dir"]
+    if args.nano_rep:
+        out_dir_str = out_dir_str.replace("{rep}", args.nano_rep)
+    output_folder     = Path("text_simulation") / out_dir_str
 
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
@@ -191,7 +195,7 @@ def main():
 
     print(f"\n{'='*60}")
     print(f"Config:    {args.config}")
-    print(f"Rep:       {args.nano_rep}")
+    print(f"Rep:       {args.nano_rep or '(none — temp0)'}")
     print(f"Model:     {model}  |  reasoning_effort: {reasoning_effort}")
     print(f"Input:     {input_folder}")
     print(f"Output:    {output_folder}")

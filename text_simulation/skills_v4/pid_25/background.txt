@@ -1,0 +1,109 @@
+## Demographics  
+The participant currently lives in the Northeast region of the United States. They were assigned female at birth and belong to the 50-64 age group. Their highest level of education completed is high school graduate. They identify as White and are a U.S. citizen. Their marital status is married. Their religion is Roman Catholic, and they seldom attend religious services aside from weddings and funerals. Politically, they identify as a Republican with moderate political views. Their household income last year was less than $30,000. The household size is three people, including themselves. They are currently employed full-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 3 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, with minimal impression management bias.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.5 (calculated from items: talkative=5, reserved=5 (reverse), full of energy=5, outgoing=5, quiet=5 (reverse), assertive=1, shy=4, generates enthusiasm=5) — overall high extraversion with some ambivalence on deep thinking.  
+Agreeableness: 4.9 (helpful=5, forgiving=5, considerate=5, trusting=5, cold=1 (reverse), quarrelsome=1 (reverse), rude=1 (reverse)) — very high agreeableness, indicating a warm, cooperative interpersonal style.  
+Conscientiousness: 4.7 (does thorough job=5, reliable=5, disorganized=1 (reverse), lazy=1 (reverse), efficient=5, makes plans=5, perseveres=3) — very high conscientiousness, showing strong work habits and reliability.  
+Neuroticism: 1.9 (depressed=1, tense=1, moody=1, worries=3, nervous=3, emotionally stable=5) — low neuroticism, indicating emotional stability.  
+Openness: 2.9 (original=5, curious=5, imaginative=3, artistic interests=1, inventive=1, sophisticated=1) — mixed openness with high curiosity and originality but low artistic/sophisticated interests.  
+This profile reveals a socially outgoing, warm, and highly conscientious individual with emotional stability and moderate openness. The low neuroticism aligns with the emotional baseline data, confirming consistency.
+
+### Need for Cognition  
+Score: 2.3 / 5 (average of 18 items, many answers neutral or disagree strongly on enjoying effortful thinking).  
+This person shows low to moderate enjoyment and seeking of effortful thinking, preferring simpler or routine tasks over complex intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 4.6 / 5 (mostly strong agreement with items indicating sharing and recognizing others’ emotions).  
+This indicates a strong tendency to share and recognize others’ emotions, showing high empathic concern and emotional attunement.
+
+### Green Values  
+Score: 3.3 / 5 (mixed responses: some strong agreement on environmental responsibility and concern, but disagreement on willingness to be inconvenienced).  
+This person has a moderate environmental identity, caring about environmental impact but less willing to make personal sacrifices.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.5 (neutral to agree on independence, doing own thing).  
+Vertical Individualism: 1.6 (disagree strongly on competition, winning is everything, competition as law of nature).  
+Horizontal Collectivism: 5.0 (strong agreement on cooperation, family loyalty, group respect).  
+Vertical Collectivism: 5.0 (strong agreement on duty to family, respect for group decisions, family sacrifice).  
+This profile shows a strong orientation toward group loyalty and hierarchy within groups (vertical collectivism), combined with moderate personal independence but rejection of competitive individualism.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 1 / 63 (mostly "Not at all" responses, with only "Nervous" rated as mild).  
+This is in the minimal anxiety range, with no somatic symptoms reported and only a very mild cognitive symptom of nervousness. This supports the reliability of self-reports and aligns with low neuroticism.
+
+### Beck Depression Inventory  
+Score: 3 / 61 (all responses indicate minimal or no depressive symptoms, except "I don’t sleep as well as usual" rated mild).  
+This is in the minimal depression range, with no significant cognitive or motivational symptoms. The mild sleep disturbance is the only notable symptom, consistent with overall emotional stability.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "i want to be open and honest and caring and be true to myself and i want to do a good job at work and stay focused at work and do my job well and do it right all the time and make sure i make myself proud and take care of my family all the time"  
+- Ought self (what they feel they should be): "the person i ought to be is caring and loving and a good person and good parent and hard working at my job and do my job well each and every day and take care of my family each and every day"  
+- Actual self (what they believe they currently are): "i am a caring and loving mother and a hard worker and i take care of my family each and every day and i take care of my job every day to my best of my abilty and i work hard each day and i do what is expected of it"  
+The three selves are consistent, showing alignment between aspirations, perceived duties, and current self-concept, especially emphasizing caring, hard work, and family responsibility.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 1 / 4.  
+Errors:  
+- "Emily’s father has three daughters..." answered "june" instead of "Emily" — failed the trick question relying on the name in the question.  
+- "If you pass the person in second place, what place are you in?" answered "1" instead of "2" — fell into the intuitive trap of assuming first place.  
+- "A bat and ball cost $1.10..." answered "10" instead of $0.05 — classic bat-ball anchoring error.  
+- "In a lake, lily pads double daily..." answered "24" instead of 47 — half-lake day error.  
+Interpretation: The participant fell into classic intuitive traps on all CRT items, indicating low reflective reasoning and susceptibility to cognitive biases.
+
+### Fluid Intelligence  
+Score: 2 / 6.  
+Errors cluster on matrix completion and cube rotation tasks:  
+- Selected incorrect options on matrix and cube rotation puzzles, indicating difficulty with spatial and pattern recognition tasks.  
+Interpretation: Fluid intelligence is low, with particular weakness in visual-spatial reasoning.
+
+### Crystallized Intelligence  
+Score: 3 / 20.  
+Many synonym and antonym questions answered incorrectly, often choosing implausible or unrelated distractors (e.g., "concur" synonym answered as "divulge").  
+Interpretation: Very low crystallized intelligence, suggesting limited vocabulary and verbal knowledge.
+
+### Syllogistic Reasoning  
+Score: 0 / 12.  
+All syllogistic reasoning items answered incorrectly, including both belief-biased and abstract items.  
+Interpretation: The participant struggles with logical reasoning, often rejecting logically valid conclusions, possibly influenced by prior beliefs or misunderstanding.
+
+### Financial Literacy  
+Score: 3 / 8.  
+Incorrect answers include:  
+- Belief that spreading money among assets does not decrease risk (answered "stays the same").  
+- Incorrect understanding of which asset gives highest return over long periods (answered "bonds" instead of "stocks").  
+- Incorrect answer on credit card debt payoff time (answered 6 years, which is plausible but may reflect misunderstanding).  
+Interpretation: Financial literacy is low, with gaps in understanding risk diversification and investment returns.
+
+### Numeracy  
+Score: 2 / 8.  
+Errors include:  
+- Estimating even number rolls out of 1000 as 100 (should be ~500).  
+- Incorrect percentage conversion for 1 in 1000 chance (answered 10% instead of 0.1%).  
+Interpretation: Numeracy is very low, with fundamental errors in probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 0 / 4.  
+All four items answered "No" when the correct answer was "Yes," indicating refusal to accept logically valid conclusions even when premises are true.  
+Interpretation: The participant shows reluctance or inability to accept deductive logical conclusions, possibly due to misunderstanding or disbelief.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+Selected card "3" only, failing to select "A" which is necessary to test the rule.  
+Interpretation: Classic matching bias present, indicating difficulty with conditional reasoning tasks.
+
+## Cognitive Summary  
+This participant exhibits very low cognitive ability across multiple domains. They scored at or near floor on crystallized intelligence, syllogistic reasoning, numeracy, and deductive logic tasks, with consistent errors indicating reliance on intuitive but incorrect answers. Fluid intelligence is also low, especially in spatial reasoning. The CRT results show susceptibility to common cognitive traps. Financial literacy is poor, consistent with low numeracy and reasoning skills. Overall, the cognitive profile reveals significant weaknesses in verbal knowledge, logical reasoning, and numerical understanding, with no areas of relative strength.
+
+## Summary  
+This participant is a middle-aged White female from the Northeast U.S., married, Roman

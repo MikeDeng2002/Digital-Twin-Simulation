@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. They were assigned female at birth and belong to the 30-49 age group. Their highest level of education completed is some college, no degree. They identify as Black in race/ethnicity and are a U.S. citizen. Their marital status is married. They report having no particular religion and attend religious services a few times a year. Politically, they consider themselves an Independent with moderate political views. Their household income last year was between $50,000 and $75,000. The household size is three people, and their current employment status is part-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is low, indicating candid and trustworthy self-reports throughout this file. This caveat applies explicitly when interpreting personality and emotional baseline sections below.
+
+## Personality
+
+### Big Five  
+Extraversion: 2.9 (calculated from item responses: low talkative, high reserved, high quiet, moderate outgoing)  
+Agreeableness: 4.3 (highly disagreeing with faultfinding and quarrelsome items, high helpfulness, forgiving nature, considerate and kind)  
+Conscientiousness: 4.8 (agree strongly on doing a thorough job, reliable worker, perseveres until task finished, does things efficiently, makes plans and follows through, prefers routine work) — this is at or near a scale extreme (>=4.5)  
+Neuroticism: 1.6 (disagree strongly with being depressed, tense, moody, worries a lot; agrees strongly with emotional stability) — near the low extreme (<=1.5) but slightly above  
+Openness: 4.3 (agrees a little to strongly on originality, curiosity, ingenuity, imagination, artistic values, sophistication)  
+
+This profile reveals a person who is emotionally stable and calm, highly conscientious with strong work habits and reliability, moderately introverted and reserved, very agreeable and kind, and open to new ideas and artistic experiences. The low neuroticism aligns with emotional stability, but see emotional baseline for calibration.
+
+### Need for Cognition  
+Score: 2.9 / 5 (average of item responses mostly agreeing a little but also some disagreement)  
+This person shows a moderate but somewhat ambivalent enjoyment of effortful thinking, tending to avoid complex problems and preferring less challenging tasks, but still finding some satisfaction in deliberation.
+
+### Empathy (BES-A)  
+Score: 4.0 / 5 (mostly agreeing a little to strongly on items reflecting emotional contagion, understanding others’ feelings, and sensitivity)  
+This indicates a strong tendency to share and recognize others’ emotions, with good emotional attunement to friends’ feelings.
+
+### Green Values  
+Score: 4.3 / 5 (mostly agreeing a little to strongly on environmental responsibility, mindful ownership, and willingness to be inconvenienced for the environment)  
+This person has a clear environmental identity and moderate to strong concern for ecological impact.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.3 (prefers independence, self-reliance, and personal identity)  
+Vertical Individualism: 4.7 (strong emphasis on competition, winning, and doing better than others)  
+Horizontal Collectivism: 3.8 (moderate agreement on cooperation and pleasure in spending time with others)  
+Vertical Collectivism: 4.9 (strong agreement on family loyalty, duty to family, and respect for group decisions)  
+
+This pattern shows a complex orientation valuing personal independence and competition (vertical individualism) alongside strong family loyalty and group respect (vertical collectivism). The participant balances a competitive self-view with a strong sense of duty and cohesion within close groups.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 33 / 63.  
+This score falls in the severe anxiety range (26-63). The symptom pattern includes moderate somatic symptoms such as numbness or tingling, inability to relax, dizziness, unsteadiness, trembling hands, shakiness, heart pounding, sweating, and face flushing, all rated mostly at moderate levels (2 on a 0-3 scale). Cognitive symptoms like fear of the worst happening, nervousness, fear of losing control are also present but less intense. The somatic symptom pattern is more pronounced, which may indicate heightened physical anxiety symptoms. Given the low Big Five neuroticism, this discrepancy suggests a self-report reliability finding rather than contradiction.
+
+### Beck Depression Inventory  
+Score: 18 / 61.  
+This score is at the upper bound of the mild depression range (10-18). The symptom pattern includes mild discouragement about the future, some disappointment in self, reduced enjoyment of things, increased tiredness, poorer sleep, and decreased appetite. There is no indication of severe cognitive distortions or motivational deficits. Physical symptoms such as tiredness and appetite changes stand out. This mild depression score aligns with the emotional baseline but contrasts with low neuroticism, reinforcing the self-report reliability caveat.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be a less selfless person {that is in thought} someone who has a little more patience and self control. My tendency to be selfish is the most important thing for me because even though I would do anything for my family my initial thoughts are to not do anything at first in my brain."  
+- Ought self (what they feel they should be): "I ought to be more helpful. Sometimes I'm just lazy because I have so much to do and then I put it off because I'm so overwhelmed. So when I need to help with dishes every night, sometimes I put it off, and then my husband who works 12 hours a day and does them."  
+- Actual self (what they believe they currently are): "I am so generous. I would put everyone's needs before mine every time. I am a loving , funny person who always has a joke to tell and laugh at myself all the time."  
+
+There are meaningful gaps between the selves: the ideal self aspires to be less selfless and more patient, the ought self feels a duty to be more helpful but struggles with laziness and overwhelm, while the actual self sees themselves as very generous and loving. This indicates internal conflict between self-perception and aspirations.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant answered correctly on three items but gave the intuitive, incorrect answer of "$1" for the bat and ball question instead of the correct $0.05, indicating the classic bat-ball anchoring error.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors cluster on cube rotation items (incorrect selections in cube rotation tasks), while matrix completion and pattern recognition were mostly correct. This suggests relative strength in pattern recognition but difficulty with spatial rotation.
+
+### Crystallized Intelligence  
+Score: 6 / 10 (only 10 items answered, assuming partial data).  
+Multiple synonym and antonym questions were answered incorrectly, often selecting distractors that are plausible but incorrect (e.g., "divulge" for "concur," "congregate" for "confiscate," "exert" for "solicit," "flimsy" for "furtive"). This pattern suggests a vocabulary gap or guessing rather than random errors.
+
+### Syllogistic Reasoning  
+Score: 3 / 8 (partial data; 8 items answered).  
+Errors occurred more on belief-biased items, incorrectly judging conclusions that logically follow but conflict with prior beliefs (e.g., denying valid conclusions about plants and animals, communist countries). This indicates reasoning driven more by prior belief than formal logic.
+
+### Financial Literacy  
+Score: 6 / 8.  
+Incorrect answers include misunderstanding that minimum payments at 12% APR will not pay off debt (answered 4 years to pay off credit card debt instead of "never"), and incorrectly identifying bonds as the highest return asset over long periods (selected bonds instead of stocks). This reveals specific knowledge gaps in investment risk and credit card debt mechanics.
+
+### Numeracy  
+Score: 5 / 8.  
+Errors include incorrect answers on probability conversion (e.g., 10% disease prevalence expected cases as 100 instead of 1000), percentage calculations (e.g., 1% chance of winning car as 10% instead of 0.1%), and time calculations (e.g., 100 minutes to make 100 widgets instead of 5). These errors indicate difficulties with basic percentage and proportional reasoning.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 2 / 4.  
+Two items were answered "No" when the correct answer was "Yes," indicating reluctance to accept logically valid conclusions that conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+The participant selected only the "A" card, failing to select the "7" card, demonstrating the classic matching bias error.
+
+## Cognitive Summary  
+Overall, the participant shows moderate cognitive ability with specific weaknesses in vocabulary knowledge, numeracy, and logical reasoning, especially when prior beliefs interfere. They performed better on fluid intelligence tasks involving pattern recognition but struggled with spatial rotation. Financial literacy is moderate but with notable gaps in understanding investment risk and credit card debt. The low CRT score (3/4) with a classic intuitive error and the Wason task matching bias indicate a tendency toward intuitive rather than reflective reasoning. These cognitive patterns align with their moderate need for cognition and suggest challenges in abstract and probabilistic reasoning.
+
+## Summary  
+This participant is a moderately educated Black female

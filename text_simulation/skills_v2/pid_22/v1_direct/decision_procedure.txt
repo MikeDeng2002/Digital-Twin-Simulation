@@ -1,0 +1,44 @@
+## Effort regulation and cognitive style
+The person’s Need for Cognition (NFC) profile is well measured by 18 direct items. They generally agree with statements indicating a preference for effortful thinking and intellectual challenge. For example, they "agree strongly" with liking puzzles to solve (item 13), thinking abstractly (item 14), preferring intellectual and difficult tasks (item 15), and deliberating about issues even when not personally affected (item 18). They "disagree strongly" with statements that downplay thinking effort, such as "thinking is not my idea of fun" (item 3), "I would rather do something that requires little thought" (item 4), and "I usually end up deliberating only as much as I have to" (item 7). This pattern indicates a relatively high NFC.
+
+Regarding cognitive test items, the person answered 42 questions with a self-reported correct count of 30. They correctly solved several syllogistic reasoning problems, such as affirming valid conclusions (e.g., "All things that are smoked are good for health" leading to "Cigarettes are good for health" - answered Yes). They also correctly identified logical inconsistencies (e.g., rejecting the conclusion that "China is not communist" given the premises). However, they made an error on the syllogism "If a car is a Honda, then it is expensive. A car is a Honda. Conclusion: The car is expensive," answering No, which is logically incorrect (affirming the antecedent is valid). This suggests some difficulty with conditional reasoning.
+
+On CRT-style items, the person correctly answered the bat and ball problem with 0.05, and the lily pad doubling problem with 47 days, indicating good analytic reasoning. They also correctly answered the die roll expected value (500) and lottery probability questions. In the cube rotation tasks, the person’s answers were mixed, including selecting "None of the cubes could be a rotation" (item 8 in one cube task), indicating some uncertainty or difficulty with spatial reasoning.
+
+Overall, the person shows a strong preference for cognitive effort and generally good performance on reasoning tasks, with some minor errors in conditional logic and spatial rotation problems.
+
+## Closure and uncertainty tolerance
+The Need for Closure (NFCC) scale is directly measured with 15 items. The person’s responses indicate moderate closure needs with some tolerance for uncertainty. They "agree a little" that they dislike questions with many possible answers (item 2), prefer a well-ordered life (item 3), feel uncomfortable when not understanding reasons for events (item 4), and feel relieved when making decisions (item 7). However, they "neither agree nor disagree" or "disagree a little" with items indicating impatience or intolerance for ambiguity, such as becoming irritated if no immediate solution is found (item 9) or disliking unpredictable people (item 10). They also "agree strongly" that they do not usually consult many opinions before forming views (item 14), suggesting some decisiveness.
+
+In sum, the person shows a moderate need for closure, valuing order and clarity but not strongly intolerant of ambiguity or unpredictability.
+
+## Optimization strategy
+The Maximizer scale (6 items) is directly measured. The person "disagrees strongly" with statements indicating maximizing tendencies, such as checking other options when satisfied (item 1) and having the highest standards for themselves (item 5). They "agree a little" that it is right to look for better opportunities (item 2) and that they have a hard time finding clothing they really love (item 4). They "disagree a little" with "never settling for second best" (item 6). This pattern suggests a low to moderate maximizing tendency, leaning more toward satisficing behavior.
+
+## Self-concept stability
+Self-concept clarity is measured with 12 items. The person "agrees strongly" that their beliefs about themselves often conflict (item 1), that their self-opinions change frequently (items 3, 4, 5, 8, 9), and that they sometimes feel not like the person they appear to be (item 4). They "disagree a little" that they seldom experience conflict between personality aspects (item 6), indicating some internal inconsistency. They "agree a little" that they have a clear sense of who they are (item 11), but this is weaker than other items. They "disagree strongly" that they would not tell someone what they are really like (item 10), indicating some openness.
+
+Overall, the person’s self-concept clarity is low, with frequent fluctuations and internal conflicts about identity.
+
+## Intertemporal patience
+Intertemporal choice tasks are present with multiple items offering choices between smaller-sooner and larger-later monetary rewards. The person tends to prefer immediate smaller rewards when the delayed reward is only slightly larger (e.g., choosing $3 now over $6 in 1 week), but switches to preferring delayed rewards when the difference is more substantial (e.g., choosing $6 in 6 weeks over $4 in 5 weeks). This pattern is consistent across different amounts and delays, showing moderate patience with some discounting of future rewards.
+
+In social economic games involving splitting money, the person proposes to keep $3 and send $2 to another person, and as a receiver, accepts all offers including the least generous ones. In a trust game with tripled amounts, they keep $4 and send $1, and as receiver, keep a majority of the tripled amount but send back some money, indicating moderate trust and reciprocity.
+
+## Bias susceptibility
+Direct scale evidence for bias susceptibility includes:
+
+- Social desirability is not explicitly measured or reported.
+
+- Self-monitoring is measured with 13 items, showing generally high ability to adjust behavior in social situations (items 1-3, 5, 7), sensitivity to others’ emotions (items 8-12), and some exceptions (item 4). This suggests moderate susceptibility to social influence but also good social awareness.
+
+- Cognitive biases related to reasoning under uncertainty are partially assessed via Need for Closure and Maximizer scales, as above.
+
+- No direct psychometric scales for specific biases like confirmation bias, anchoring, or overconfidence are present.
+
+- The person’s responses to syllogistic and Wason selection tasks (e.g., correctly identifying cards A and 7 to test a rule) indicate some understanding of logical testing, reducing susceptibility to confirmation bias.
+
+- The person’s error on the conditional syllogism about the Honda car (answering No to a valid conclusion) may indicate some susceptibility to logical fallacies or misunderstanding of conditional reasoning.
+
+## Summary
+The person exhibits a relatively high Need for Cognition, enjoying intellectual challenges and abstract thinking, with generally good performance on cognitive tests including CRT-style items, though with some minor errors in conditional logic and spatial reasoning. Their Need for Closure is moderate, showing preference for order and clarity but some tolerance for ambiguity. They lean toward satisficing rather than maximizing in decision-making. Self-concept clarity is low, with frequent internal conflicts and changing self-views. Intertemporal choice responses indicate moderate patience with future rewards, and social economic game behavior shows moderate fairness and reciprocity. Bias susceptibility evidence

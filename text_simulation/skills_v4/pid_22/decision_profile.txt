@@ -1,0 +1,42 @@
+## Spending and Consumption Mode
+
+### Tightwad-Spendthrift  
+Score: 15 (scale: 4 = extreme tightwad, 26 = extreme spendthrift, midpoint ~13). This participant’s spending mode is balanced, leaning slightly toward neither extreme tightwad nor spendthrift. Their self-rating slider places them near the midpoint, indicating moderate comfort with spending. They report sometimes having trouble limiting spending and sometimes having trouble spending money, showing some internal inconsistency but overall a moderate, flexible approach to consumption. The mall scenario and trouble-spending questions align with this moderate pattern, suggesting neither strong aversion nor compulsion in spending behavior.
+
+## Decision Search and Closure
+
+### Maximization vs. Satisficing  
+Score: 3.5 / 5. This participant tends to search somewhat exhaustively for the best possible option rather than settling quickly for good enough, indicating a moderate to high maximization tendency.
+
+### Need for Cognitive Closure (NFCC)  
+Score: Approximately 3.7 / 5. The participant shows a moderate need for cognitive closure, with some preference for definite answers and decisiveness but not an extreme intolerance for ambiguity. They neither strongly avoid uncertainty nor rush to closure, suggesting a balanced decision speed and commitment style that allows for some reflection under uncertainty.
+
+### Regulatory Focus (RFS)  
+Score: Approximately 5.0 / 7 (higher = more promotion-focused). This participant is primarily promotion-focused, oriented toward achieving ideals and gains rather than avoiding losses or fulfilling obligations. They are more responsive to gain-framing and opportunity-framing in decision tasks. This promotion focus suggests they will be motivated by potential rewards and aspirations. This score is consistent with their moderate present bias and spending mode, indicating a forward-looking, opportunity-seeking decision style.
+
+### IPIP Conscientiousness (Wave 2)  
+Score: 7 / 8. The participant is highly organized, systematic, and efficient in executing decisions. This high conscientiousness aligns well with their background Big Five conscientiousness score, indicating consistency in their self-reported personality traits related to orderliness and diligence.
+
+## Metacognition
+
+### Overconfidence  
+Score: -5 (predicted own score minus actual score on 42 cognitive items; positive = overconfident, negative = underconfident). The participant is moderately underconfident, predicting a lower performance than they actually achieved.
+
+### Overplacement  
+Score: -5 (own predicted score minus predicted average score; positive = believes they outperform peers, negative = believes they underperform). The participant believes they perform below average compared to peers, showing a negative social comparison bias.
+
+Cross-referencing these metacognitive scores with the participant’s cognitive ability (30 correct out of 42, slightly below average) indicates a calibrated but slightly underconfident self-assessment. This underconfidence combined with slightly below-average cognitive ability suggests cautious self-evaluation rather than miscalibration.
+
+### Forward Flow (Divergent Thinking)  
+Forward Flow data not available in this wave.
+
+## Time Preferences
+
+### Discount Rate  
+Annualized discount rate: Approximately 60% (based on switching points in multiple price lists). The participant switches from preferring sooner-smaller to later-larger rewards at moderate monetary differences and delays, indicating moderate impatience. This rate is above typical US adult averages (~20%-40%) but well below extreme impatience levels (>200%), situating them as somewhat impatient but capable of waiting for larger delayed rewards.
+
+### Present Bias  
+Present bias coefficient: Approximately +0.3 (positive = present-biased). The participant shows a mild present bias, preferring immediate rewards somewhat more than predicted by their base discount rate. This present bias is directionally consistent with their moderate Tightwad-Spendthrift score, reflecting a balanced but slightly present-oriented time preference.
+
+## Summary  
+This participant exhibits a moderately promotion-focused decision style, oriented toward gains and ideals, which will make them more responsive to opportunity-framed choices. Their conscientiousness is high, supporting organized and efficient decision execution. They show moderate maximization tendencies and a balanced need for cognitive closure, allowing for thoughtful but not overly prolonged decision-making. Their time preferences reveal moderate impatience with a mild present bias, consistent with a balanced spending mode that is neither tightwad nor spendthrift. Metacognitively, they are slightly underconfident and believe they perform below average, which may temper risk-taking and encourage cautious decision-making. The most predictive feature for simulating this person on choice tasks is their promotion-focused regulatory orientation, which shapes their responsiveness to gain versus loss framing.

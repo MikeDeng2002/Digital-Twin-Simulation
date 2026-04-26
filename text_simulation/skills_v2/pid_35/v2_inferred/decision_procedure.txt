@@ -1,0 +1,63 @@
+## Effort regulation and cognitive style  
+The respondent shows a moderate to low intrinsic motivation for effortful thinking, as indicated by Need for Cognition items such as "I would prefer complex to simple problems" (2 - Disagree a little), "I like to have the responsibility of handling a situation that requires a lot of thinking" (2 - Disagree a little), and "Thinking is not my idea of fun" (2 - Disagree a little), suggesting ambivalence or mild avoidance of deep cognitive engagement (Need for Cognition scale items 1, 2, 3). However, they also somewhat agree with items like "I prefer my life to be filled with puzzles that I must solve" (3 - Neither agree nor disagree) and "I usually end up deliberating about issues even when they do not affect me personally" (4 - Agree a little), indicating some engagement with thinking tasks.  
+
+Cognitive test performance supports a generally competent but not exceptional reasoning style. The participant correctly answered most cognitive puzzles and logical syllogisms, with an estimated self-assessed accuracy of 35/42. They correctly solved classic trick questions (e.g., "Emily’s father has three daughters..." answered "Emily") and performed well on spatial rotation and pattern completion tasks, though some answers suggest a preference for straightforward rather than highly creative or abstract solutions (e.g., moderate scores on "Is ingenious, a deep thinker" 3 - Neither agree nor disagree).  
+
+Conscientiousness-related Big Five items show moderate conscientiousness: "Does a thorough job" (4 - Agree a little), "Is a reliable worker" (4 - Agree a little), "Makes plans and follows through with them" (4 - Agree a little), and "Is organized" (7 on a 9-point scale), indicating a tendency toward effort regulation consistent with moderate conscientiousness. However, some contradictory items such as "Tends to be lazy" (4 - Agree a little) and "Can be somewhat careless" (2 - Disagree a little) suggest some variability in effort regulation.  
+
+Overall, the respondent appears to regulate cognitive effort moderately, engaging in thinking when necessary but not strongly driven by intrinsic enjoyment of complex cognition.  
+
+## Closure and uncertainty tolerance  
+The respondent expresses a mild preference for closure and order, as shown by Need for Closure scale items: "I don’t like situations that are uncertain" (4 - Agree a little), "I dislike questions which could be answered in many different ways" (4 - Agree a little), "I don’t like to go into a situation without knowing what I can expect from it" (4 - Agree a little), and "I find that establishing a consistent routine enables me to enjoy life more" (4 - Agree a little). They also strongly agree that "When I have made a decision, I feel relieved" (5 - Agree strongly), indicating a tendency to commit relatively quickly once a decision is made.  
+
+Behaviorally, the participant shows consistent decision-making across similar intertemporal choice items, consistently preferring the smaller-sooner reward over larger-later rewards until the amounts become equal or clearly better, indicating a stable preference pattern rather than impulsive or erratic choices. Free-response answers about decision thoughts emphasize fairness and mutual benefit, suggesting deliberation rather than rashness.  
+
+The participant’s free-response length and cognitive test completion times are not explicitly provided, but the moderate Need for Cognition and conscientiousness suggest a balanced approach to uncertainty: discomfort with ambiguity but not extreme intolerance.  
+
+## Optimization strategy  
+The Maximizer scale responses indicate a tendency away from maximizing: the participant disagrees strongly with "I never settle for second best" (2 - Disagree a little), "No matter what I do, I have the highest standards for myself" (3 - Neither agree nor disagree), and "I often find it difficult to shop for a gift for a friend" (5 - Agree strongly), suggesting some difficulty or ambivalence in maximizing behavior. They also disagree strongly with statements about seeking uniqueness or breaking social norms in consumption, indicating a preference for conventional choices rather than maximizing uniqueness or distinctiveness.  
+
+However, in economic games, the participant proposes moderately generous splits ($3 keep / $2 send in dictator and trust games) and accepts all offers in ultimatum games, indicating a pragmatic satisficing approach in social-economic domains. The participant’s aspirational self-description emphasizes selflessness and kindness, but actual self-description admits occasional impatience and frustration, suggesting some domain-specific moderation in optimization goals.  
+
+Thus, the participant shows a satisficing strategy overall, with no strong evidence of maximizing tendencies in either consumer or social domains.  
+
+## Self-concept stability  
+Self-Concept Clarity scale items show moderate to high stability: "My beliefs about myself often conflict with one another" (2 - Disagree a little), "On one day I might have one opinion of myself and on another day I might have a different opinion" (2 - Disagree a little), "I seldom experience conflict between the different aspects of my personality" (5 - Agree strongly), and "My beliefs about myself seem to change very frequently" (1 - Disagree strongly). The participant also agrees a little with "In general, I have a clear sense of who I am and what I am" (4 - Agree a little).  
+
+Free-response self-descriptions are consistent with these scale responses: the participant acknowledges aspirational traits (selflessness, kindness, devoutness) and actual traits (supportive, caring, but sometimes impatient and envious), showing awareness of some internal contradictions but no major instability or confusion about self-identity.  
+
+No significant contradictions between self-descriptions and scale responses are evident.  
+
+## Behavioral vs. stated-preference gap  
+A notable gap exists between the participant’s aspirational self and actual behavior. They aspire to be selfless, kind, and devout, yet admit to occasional impatience, frustration, and envy in actual behavior. This gap suggests some internal conflict or difficulty fully embodying ideal traits.  
+
+In economic games, the participant behaves moderately generously but not fully altruistically, proposing to keep more than half the money in dictator and trust games ($3 keep / $2 send), which is less generous than their stated high value on altruism and forgiveness (Values: Altruism 7, Forgiveness 9, Compassion 9). This indicates a gap between stated values and economic behavior.  
+
+However, the participant accepts all offers in ultimatum games, showing fairness and tolerance consistent with stated values.  
+
+This gap implies that while the participant values kindness and altruism highly, their actual decision-making balances self-interest and generosity pragmatically. This may reduce the reliability of self-report measures alone for predicting behavior under uncertainty, highlighting the importance of behavioral data.  
+
+## Intertemporal patience  
+The participant consistently prefers smaller-sooner rewards over larger-later rewards until the delayed reward is equal or clearly better, indicating relatively low patience or a preference for immediacy. This is consistent across multiple intertemporal choice matrices.  
+
+Conscientiousness items (e.g., "Makes plans and follows through with them" 4 - Agree a little; "Organized" 7 on 9-point scale) suggest moderate planning ability, but the intertemporal choices indicate a moderate discounting of future rewards.  
+
+Overall, the participant shows moderate to low intertemporal patience, favoring immediate rewards unless delayed rewards are substantially better.  
+
+## Bias susceptibility predictions  
+Predictable from cognitive signals:  
+
+- Probability matching vs. maximizing: Given moderate Need for Cognition and cognitive test performance, the participant is likely to lean toward maximizing rather than probability matching in decision tasks. Their logical reasoning and consistent choices support this.  
+
+- Dominator (denominator) neglect: The participant correctly interprets probabilities and percentages in lottery and risk questions, indicating low susceptibility to denominator neglect.  
+
+- Belief bias in syllogisms: The participant correctly rejects invalid syllogisms and accepts valid ones, showing low belief bias.  
+
+- Wason matching bias: The participant correctly identifies cards to test conditional rules (cards A and 3), indicating low Wason matching bias.  
+
+Weakly predictable or not predictable from cognitive signals:  
+
+- Framing effects, anchoring and adjustment, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, and myside bias cannot be confidently predicted from the available data. The participant’s moderate cognitive style and values do not provide strong evidence for or against susceptibility to these biases.  
+
+## Summary  
+The respondent exhibits a moderate cognitive engagement style, with competent but not exceptional reasoning performance and a pragmatic approach to effort regulation. They show a mild preference for closure and order, committing relatively quickly once decisions are made, and a satisficing optimization strategy rather than maximizing. Self-concept is relatively stable, with some acknowledged gaps between aspirational and actual self, especially regarding patience and altruism. Economic game behavior reveals a moderate generosity that does not fully align with highly altruistic stated values, indicating a behavioral vs. stated-preference gap. Intertemporal choices show moderate impatience, favoring immediate rewards unless delayed rewards are substantially better. Cognitive test performance predicts low susceptibility to probability matching, denominator neglect, belief bias, and Wason matching bias, while other biases remain unpredictable from the data.

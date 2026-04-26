@@ -1,0 +1,32 @@
+## Effort regulation and cognitive style
+The survey included a full 18-item Need for Cognition (NFC) scale. The respondent showed mixed responses: they strongly disagreed with enjoying tasks that involve coming up with new solutions (item 11: disagree strongly) and with finding satisfaction in deliberating hard and long (item 6: disagree strongly), but strongly agreed with liking abstract thinking (item 14: agree strongly) and often deliberating about issues even when not personally affected (item 18: agree strongly). They also disagreed somewhat with liking to have responsibility for situations requiring much thinking (item 2: disagree a little) and preferred tasks requiring little thought once learned (item 9: agree a little). This pattern suggests a moderate to low intrinsic motivation for effortful thinking, with some appreciation for abstract thought but limited enjoyment of deep problem solving.
+
+Cognitive test items were answered with some accuracy but also notable errors. For example, the classic bat-and-ball CRT question was answered incorrectly ("10" cents instead of 5 cents), indicating a common intuitive-trap error. The respondent correctly answered several syllogistic reasoning items (e.g., "All XARs are YOFs" questions) and logical deduction problems, but also showed uncertainty or non-response on some spatial rotation tasks (e.g., selecting "I do not know the solution" for one cube rotation item). The respondent estimated their own cognitive test accuracy as 5 out of 42, far below their estimate of the average US adult (30 out of 42), indicating low confidence in their performance.
+
+Overall, the cognitive style profile shows limited engagement with effortful thinking tasks, some susceptibility to intuitive errors (CRT bat-and-ball), but reasonable logical reasoning on syllogisms and analogies.
+
+## Closure and uncertainty tolerance
+The Need for Closure (NFCC) scale items show a mixed profile. The respondent strongly agreed with disliking questions with many possible answers (item 2: agree strongly) and feeling uncomfortable when not understanding reasons for events (item 4: agree strongly). They also strongly agreed with disliking ambiguous statements (item 11: agree strongly). However, they neither agreed nor disagreed with items about disliking uncertain situations (item 1: neither agree nor disagree) and preferring to know what to expect (item 6: neither agree nor disagree). They disagreed somewhat with feeling relieved after making decisions (item 7: disagree a little) and with impatience for immediate solutions (items 8 and 9: disagree a little and disagree strongly).
+
+This pattern suggests moderate intolerance of ambiguity and preference for clarity, but not extreme urgency or discomfort with uncertainty. The respondent values understanding and dislikes ambiguity but does not show strong impulsivity to close decisions quickly.
+
+## Optimization strategy
+The Maximizer scale responses indicate a low maximization tendency. The respondent strongly agreed with often checking for better options (item 1: agree strongly) and being on the lookout for better opportunities (item 2: agree strongly), which might suggest some maximizer traits. However, they disagreed or disagreed a little with having the highest standards for themselves (item 5: disagree a little) and never settling for second best (item 6: disagree a little). They also disagreed a little with difficulty finding clothing they love (item 4: disagree a little) and with difficulty shopping for gifts (item 3: disagree a little).
+
+Overall, the respondent shows some openness to seeking better options but does not strongly endorse perfectionistic or maximizing tendencies.
+
+## Self-concept stability
+The Self-Concept Clarity scale responses show a generally stable and clear self-concept. The respondent disagreed a little or strongly with items indicating conflict or change in self-beliefs (items 1, 2, 3, 4, 5, 7, 8, 9), and agreed a little or more with having a clear sense of who they are (item 11: agree a little). They strongly disagreed with frequently changing self-descriptions or feeling unsure about their identity.
+
+This indicates a relatively coherent and stable self-concept, with little internal conflict or confusion about personal identity.
+
+## Intertemporal patience
+The intertemporal choice tasks show a consistent preference for larger, later rewards over smaller, sooner rewards. Across multiple matrices comparing fixed delayed amounts (e.g., $6 in 6 weeks) to increasing amounts available sooner, the respondent consistently chose the delayed option until the immediate amount equaled or exceeded the delayed amount, at which point they switched preference. This pattern was consistent across different amounts and delays, indicating patient and consistent intertemporal preferences.
+
+## Bias susceptibility
+Direct evidence for bias susceptibility is limited to cognitive test items and related scales. The respondent made the classic bat-and-ball intuitive error on the CRT-style item (answering 10 cents instead of 5), indicating susceptibility to the intuitive trap bias. They correctly identified cards to test a conditional rule (Wason selection task), showing some logical reasoning ability.
+
+No direct scale evidence was present for social desirability bias, but the respondent’s social desirability scale was not reported. The respondent’s self-monitoring scale responses indicate generally good social perceptiveness and ability to adjust behavior, but no direct bias measures were reported.
+
+## Summary
+The respondent shows a moderate to low Need for Cognition, with some appreciation for abstract thinking but limited enjoyment of deep problem solving, and some intuitive errors on CRT items. Their Need for Closure profile indicates moderate intolerance of ambiguity and preference for clarity without extreme urgency. They show some openness to seeking better options but do not strongly maximize. Their self-concept clarity is relatively stable and coherent. Intertemporal choices reveal patient preferences for delayed rewards. Bias susceptibility is evidenced by the CRT intuitive error but otherwise limited direct evidence.

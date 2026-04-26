@@ -1,0 +1,63 @@
+## Effort regulation and cognitive style  
+The respondent’s Need for Cognition profile is moderate to low engagement with effortful thinking. They neither strongly prefer nor avoid complex problems (Need for Cognition items 1, 2, 7, 11, 13, 14, 15 all around "neither agree nor disagree" or slight disagreement), and they report only a mild satisfaction in deliberating hard and for long hours (item 6: agree a little). They also indicate a tendency to think only as hard as necessary (item 7: neither agree nor disagree) and sometimes avoid deep thinking (item 3 and 4: disagree a little). This suggests a cognitive style that is somewhat effort-averse or at least not strongly motivated by intellectual challenge.
+
+Cognitive test performance confirms moderate ability but with some errors and uncertainty. For example, the answer to the cubic feet of dirt question (3x3x3 = 27, but answer given was 92) is a clear error, indicating a lapse in basic spatial or arithmetic reasoning. The respondent correctly answered several logical syllogisms but made errors on vocabulary synonyms and antonyms (e.g., choosing "ascetic" for "astute" synonym, and "incessant" for "sporadic" antonym, which are incorrect). They also declined to solve the cube rotation puzzles, selecting "I do not know the solution" repeatedly, indicating either difficulty or unwillingness to engage with spatial rotation tasks.
+
+Conscientiousness from Big Five is moderate: the respondent agrees a little to doing a thorough job (item 3), being a reliable worker (item 13: agree strongly), persevering until tasks are finished (item 28: agree a little), and making plans and following through (item 38: agree a little). However, they neither strongly agree nor disagree on being organized or efficient (Big Five conscientiousness items mostly neutral). This aligns with a cognitive style that is somewhat conscientious but not highly driven by intellectual challenge or persistence.
+
+## Closure and uncertainty tolerance  
+The Need for Closure scale responses show a mild preference for closure but not extreme intolerance of uncertainty. The respondent agrees a little that they don’t like to go into situations without knowing what to expect (item 6), feel relieved when making decisions (item 7: agree strongly), and want to reach solutions quickly (item 8: agree a little). However, they neither agree nor disagree on impatience when solutions are not immediate (item 9), and they disagree a little with disliking uncertain or unpredictable situations (items 1, 2, 4, 5, 10). They also agree a little that establishing routines and structured life is enjoyable (items 12, 13).
+
+Behaviorally, the respondent’s free responses indicate some difficulty with overwhelm and procrastination (free-response on actual self: "I get overwhelmed with responsibilities and allow that to get in the way of self care and house keeping"), which may reflect a moderate tolerance for uncertainty but some stress when facing complex or multiple demands.
+
+Decision consistency is moderate; the respondent consistently chooses to keep $3 and send $2 in dictator and trust games, indicating a stable decision pattern. Free-response length is moderate, and the respondent shows some deliberation about fairness but also fatigue and low motivation for calculation.
+
+Overall, the respondent commits to decisions with some relief and mild impatience but tolerates uncertainty without strong distress.
+
+## Optimization strategy  
+The Maximizer scale responses indicate a low maximizing tendency. The respondent strongly disagrees with "I never settle for second best" and agrees only a little or neither agree nor disagree with having the highest standards or always seeking better options. They report difficulty finding clothing they really love (agree strongly), and some difficulty shopping for gifts (agree a little), but do not actively seek to maximize in all domains.
+
+In economic games and decision tasks, the respondent chooses a middle-ground split ($3 keep, $2 send) rather than extreme maximizing or satisficing. They also report thoughts reflecting a desire to be fair but not to engage in complex calculations, indicating satisficing behavior.
+
+No domain-specific exceptions to satisficing are evident; the respondent appears to apply a moderate satisficing approach across social and economic decisions.
+
+## Self-concept stability  
+Self-Concept Clarity scale responses are moderate. The respondent neither agrees nor disagrees strongly with statements about conflicting self-beliefs or frequent changes in self-view. They disagree a little with feeling that they are not the person they appear to be and strongly disagree with frequently changing self-descriptions. They agree a little that they sometimes are unsure about their past self and that they seldom experience conflict between personality aspects.
+
+Free responses reveal some instability or conflict: the respondent aspires to be disciplined and organized but reports feeling overwhelmed and sad, which interferes with self-care and housekeeping. This indicates some tension between ideal and actual self, but no strong contradictions or fragmentation.
+
+Overall, self-concept is moderately stable with some mild uncertainty or ambivalence.
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated values and self-descriptions versus their behavioral choices and cognitive performance.
+
+Stated values emphasize trust, humility, altruism, harmony, compassion, and equality as highly important (values rated 8 or 9), and the respondent strongly agrees with being helpful and unselfish (Big Five item 7: agree strongly). However, in economic games, the respondent chooses to keep a majority share ($3 out of $5) rather than equal or generous splits, indicating a more self-interested behavior than their altruistic values suggest.
+
+Similarly, the respondent states a desire to be disciplined and organized (aspirational self) but reports feeling overwhelmed and unable to maintain self-care and housekeeping (actual self). This gap between aspirational and actual self is explicit in free responses.
+
+Cognitively, the respondent’s moderate to low engagement with effortful thinking and errors on basic tasks contrast with their self-reported conscientiousness and desire for competence, indicating a gap between self-perception and cognitive performance.
+
+This gap implies that the respondent’s reasoning reliability may be compromised by motivational or emotional factors (e.g., fatigue, overwhelm), and self-report trustworthiness is moderate but should be interpreted cautiously given behavioral inconsistencies.
+
+## Intertemporal patience  
+The respondent consistently prefers larger, later rewards over smaller, sooner ones in intertemporal choice tasks, choosing the delayed $6 in 6 weeks over amounts up to $5.75 in 5 weeks, and similarly for other amounts and delays. This indicates a relatively patient intertemporal preference.
+
+Conscientiousness items (agree a little to making plans and following through, agree strongly to being a reliable worker) support the behavioral evidence of patience and planning.
+
+Thus, the respondent shows moderate intertemporal patience consistent with their conscientiousness profile.
+
+## Bias susceptibility predictions  
+Predictable biases from cognitive signals:
+
+- Probability matching vs. maximizing: The respondent’s moderate cognitive engagement and some errors suggest a tendency toward probability matching rather than strict maximizing, especially given their satisficing approach and fatigue.
+
+- Denominator neglect: The respondent correctly interprets probabilities and percentages in lottery and disease risk questions, indicating low susceptibility to denominator neglect.
+
+- Belief bias in syllogisms: The respondent correctly accepts logically valid conclusions even when content is counterintuitive (e.g., "All animals love water; plants do not; plants are not animals" accepted as valid), suggesting low belief bias.
+
+- Wason matching bias: The respondent correctly identifies the need to turn over the "A" card only in the Wason selection task, indicating low matching bias.
+
+Weakly predictable or not predictable biases (framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias) cannot be confidently predicted from the data, consistent with Stanovich & West (2008) limits.
+
+## Summary  
+The respondent exhibits a moderate cognitive engagement style with some effort aversion and occasional errors on basic reasoning tasks. They show a mild preference for closure and structured routines but tolerate uncertainty without strong distress. Their optimization strategy is satisficing rather than maximizing, applied consistently across domains. Self-concept clarity is moderate with some mild ambivalence between aspirational and actual self, reflected in free responses about overwhelm and self-care difficulties. A notable gap exists between their altruistic stated values and more self-interested economic game behavior, as well as between their ideal disciplined self and actual overwhelmed self. Intertemporal patience is moderate and consistent with conscientiousness. Bias susceptibility predictions indicate low belief and matching biases but a tendency toward probability matching rather than maximizing. Overall, the respondent’s reasoning is reliable within limits but influenced by motivational and emotional factors that create gaps between stated attitudes and behavior.

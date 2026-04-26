@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the West region of the United States. They were assigned male at birth and are in the 30-49 age group. Their highest level of education completed is college graduate/some postgrad. They identify as White and are a U.S. citizen. Their marital status is married. Their religion is Roman Catholic, and they attend religious services a few times a year. Politically, they identify as a Republican and describe their political ideology as very conservative. Their household income last year was $100,000 or more. They live in a household with more than four people and are employed full-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of impression management; self-reports should be considered generally candid but with some caution for potential social desirability bias, especially in personality and emotional baseline sections.
+
+## Personality
+
+### Big Five  
+Extraversion: 1.9 (calculated from items: low talkative, high reserved, low outgoing, high quiet, moderate energy)  
+Agreeableness: 3.9 (high forgiving, generally trusting, somewhat helpful, but some disagreement on kindness)  
+Conscientiousness: 4.7 (very thorough, reliable, persevering, organized, efficient, planful, and prefers routine work)  
+Neuroticism: 3.6 (high worry and moodiness, some tension, but moderate emotional stability and relaxation)  
+Openness: 3.5 (moderate originality, curiosity, imagination, and inventiveness, but low sophistication in art/music)  
+
+This profile reveals a person who is introverted and reserved, preferring quiet and routine environments, with strong conscientiousness indicating diligent and reliable work habits. They show moderate emotional reactivity with notable worry and moodiness, consistent with their neuroticism score. Openness is moderate, showing curiosity and some creativity but limited interest in sophisticated artistic experiences. The neuroticism score aligns with emotional baseline findings, showing moderate emotional distress.
+
+### Need for Cognition  
+Score: 4.3 / 5.  
+This person enjoys and actively seeks out effortful thinking and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 3.5 / 5.  
+They tend to share and recognize others’ emotions moderately well, showing some emotional contagion and sensitivity to others’ feelings, though with some inconsistencies in awareness.
+
+### Green Values  
+Score: 2.6 / 5.  
+This person shows low environmental identity and responsibility, generally disagreeing with environmental concern statements but somewhat concerned about wasting resources.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.5  
+Vertical Individualism: 3.0  
+Horizontal Collectivism: 3.0  
+Vertical Collectivism: 2.0  
+
+The participant leans moderately toward personal independence and equality within individualism, with a somewhat weaker orientation toward group loyalty and hierarchy. They value some independence and self-reliance but show less emphasis on hierarchical group obligations or strong family/group loyalty.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 9 / 63.  
+This score falls in the mild anxiety range. The symptom pattern is predominantly cognitive with mild physical symptoms: some feeling hot, unable to relax, nervousness, and slight unsteadiness, but no trembling, heart racing, or severe somatic symptoms. The cognitive symptom pattern suggests self-reports are reasonably reliable and not dominated by somatic anxiety.
+
+### Beck Depression Inventory  
+Score: 7 / 61.  
+This score is in the minimal depression range. The participant reports no significant sadness, discouragement, guilt, or loss of interest. There are no notable clusters of physical or cognitive depressive symptoms. This aligns with the moderate neuroticism and mild anxiety, indicating a generally stable mood.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I want to be a happy father to my children."  
+- Ought self (what they feel they should be): "I would be a great dad and drink no alcohol."  
+- Actual self (what they believe they currently are): "I drink a lot. I still am a good dad."  
+
+There are meaningful gaps between the selves: the ideal and ought selves emphasize happiness and abstinence from alcohol, while the actual self admits to drinking a lot but maintaining good fatherhood. This indicates some internal conflict between personal behavior and aspirational standards.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers correct, showing strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors cluster on cube rotation items (incorrect answers on cube rotation puzzles), while matrix completion was answered correctly. This suggests relative strength in pattern recognition but some difficulty with spatial rotation tasks.
+
+### Crystallized Intelligence  
+Score: 7 / 10 (based on 10 synonym and antonym questions answered).  
+Several errors suggest some vocabulary gaps or guessing, e.g., incorrect synonym for CONCUR (answered "divulge" instead of "acquiesce"), and antonym errors (e.g., for COMPLAISANT answered "alone" instead of "recalcitrant"). The pattern indicates moderate verbal knowledge with occasional errors.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (based on 8 syllogistic reasoning items answered).  
+Errors occurred on belief-biased items, such as incorrectly judging the conclusion about poodles and mammals, indicating reasoning influenced by prior beliefs rather than strict logic.
+
+### Financial Literacy  
+Score: 7 / 8.  
+Missed the credit card minimum payment question (answered "never" for how long to pay off debt at 12% APR minimum payments), indicating a lack of understanding that minimum payments at 12% APR will never pay off the debt.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items answered correctly, including probability conversion and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 3 / 4.  
+One item answered "No" (postal strike causing unemployment doubling), indicating reluctance to accept logically valid conclusions conflicting with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 4.  
+Selected cards A and 3 (classic matching bias) instead of the logically correct A and 7, indicating a common reasoning error.
+
+## Cognitive Summary  
+The participant shows strong reflective reasoning (perfect CRT) and solid numeracy skills, with moderate fluid intelligence marked by difficulty in spatial rotation tasks. Crystallized intelligence is moderate with some vocabulary gaps. Syllogistic reasoning is influenced by belief bias, and deductive reasoning shows some reluctance to accept valid conclusions conflicting with prior beliefs. Financial literacy is generally good but includes a critical gap in understanding credit card debt repayment. The Wason selection task error reflects a common reasoning bias. Overall, cognitive abilities are consistent with their educational background and support a profile of a reflective but sometimes belief-driven thinker.
+
+## Summary  
+This participant is a middle-aged, college-educated White male living in the Western U.S., married with a large household and a high income. Personality-wise, he is introverted, conscientious, moderately open, and somewhat neurotic, with a strong need for cognition and moderate empathy but low environmental concern. Emotionally, he experiences mild anxiety but minimal depression, with a notable internal conflict between his ideal and actual self regarding alcohol use and fatherhood. Cognitively, he excels in reflective reasoning and numeracy but shows some spatial reasoning weaknesses and belief-biased logical reasoning. The most predictive feature for downstream simulation is the meaningful gap between his ideal/ought selves and actual self, especially regarding alcohol use, combined with his strong reflective reasoning but occasional reasoning biases.

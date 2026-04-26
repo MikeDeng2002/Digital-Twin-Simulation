@@ -1,0 +1,2 @@
+setting,reasoning,status,LLM_Accuracy,LLM_CI_low,LLM_CI_high,Random_Baseline,Human_Ceiling
+skill_v3,high,ok,0.683,0.661,0.705,0.586,0.813

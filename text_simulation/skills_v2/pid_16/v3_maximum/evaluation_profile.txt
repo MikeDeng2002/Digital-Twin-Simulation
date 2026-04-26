@@ -1,0 +1,48 @@
+## Budget constraint  
+The person is a White male aged 50-64, living in the Midwest, unmarried, unemployed, with some college but no degree, and a household size of two. His total family income is in the $50,000-$75,000 range, which is modest but not impoverished. Being unemployed likely constrains his disposable income, though the household size of two suggests some shared expenses. He reports sometimes having trouble limiting spending and sometimes trouble spending money, indicating ambivalence or caution about expenditures. There is no explicit free-response evidence of financial stress or abundance, but the unemployment status combined with moderate income suggests a moderate budget constraint with some sensitivity to price and value. For grocery-range purchases, a reasonable spending envelope would be moderate, likely in the low to mid hundreds of dollars monthly, with a tendency to avoid unnecessary or luxury purchases due to income and employment status.
+
+## Values hierarchy  
+The values ratings show moderate importance placed on wealth, pleasure, achievement, ambition, and influence (all rated around 5), indicating a balanced but not strongly achievement-driven profile. Higher ratings are given to humility (8), honesty (8), compassion (8), autonomy (8), equality (8), trust (7), competence (7), harmony (7), forgiveness (7), and loyalty (6), suggesting a strong orientation toward self-transcendence and social harmony, combined with personal integrity and independence. Power and superiority are rated low (3), and status is rated very low (2), indicating low concern for dominance or social rank. The Big Five personality traits align with this: moderate conscientiousness (agree a little on being thorough, reliable, organized), moderate agreeableness (helpful, forgiving, kind), and emotional stability (not easily upset). The person aspires to be wise and looked up to, values responsibility and caring for family, and describes himself as dependable and a good communicator. Overall, the values hierarchy is mixed but leans toward self-transcendence and integrity, with moderate achievement and autonomy, and low status/power orientation.
+
+## Minimalism and consumer orientation  
+The minimalism scale responses are mostly neutral or slightly disagreeing with minimalist statements (e.g., "I avoid accumulating lots of stuff" = disagree a little; "I keep the aesthetic in my home very sparse" = disagree a little). The person is somewhat mindful of possessions but does not strongly endorse minimalism. Consumer uniqueness and brand orientation are low, with strong disagreement toward avoiding popular brands or seeking uniqueness. This suggests a functional, mainstream consumer orientation rather than lifestyle or novelty-driven shopping. The person likely prefers mainstream or budget brands over premium or niche brands, with low interest in novelty or accumulation. Purchasing is likely just-in-time rather than bulk or accumulation. Confidence in these inferences is moderate given the neutral to slightly negative minimalism scores and low uniqueness seeking.
+
+## Risk preferences  
+Lottery and risk task responses show moderate risk aversion. The person values certainty over lotteries until the certain amount approaches the lottery expected value, indicating risk aversion in gains. For losses, the person prefers to avoid larger losses and accepts smaller sure losses over risky larger losses, consistent with loss aversion. The person correctly understands financial risk concepts and shows moderate financial literacy. The Big Five trait of conscientiousness (agree a little on being thorough, reliable) supports moderate risk aversion. This risk profile suggests cautious product choice, with low willingness to try unfamiliar or novel brands, preferring known, reliable options.
+
+## Intertemporal patience  
+The intertemporal choice data show a strong preference for delayed larger rewards over smaller sooner rewards, except when the amounts are very close, indicating patience and low present bias. The person consistently chooses the delayed option until the immediate reward is nearly equal or better, suggesting near-exponential discounting rather than hyperbolic. This aligns with moderate conscientiousness and planning orientation. Free responses indicate a sense of responsibility and dependability, supporting behavioral patience. There is no divergence between stated and revealed patience.
+
+## Social preferences — detailed  
+Toward strangers, economic game behavior shows moderate fairness: in the dictator game, the person proposes to keep $2 and give $3 out of $5, which is a fair split favoring the other person slightly. As a receiver, the person accepts offers down to $2 for the other and $3 for self, rejecting very unfair offers. In the trust game, the person sends all $5 to the other (maximizing the other’s gain) but expects to keep a substantial share when receiving, indicating strategic reciprocity but some self-interest. This suggests moderate stranger generosity but with self-protective limits.
+
+Toward family and close group, the person rates loyalty, family duty, and group respect moderately high (6 for loyalty, 4 for family duty items), and free responses emphasize caring for family and fulfilling responsibilities. This indicates stronger generosity and cooperation within the in-group.
+
+Toward abstract causes, the person rates compassion, altruism, equality, and environmental concern moderately high but shows only mild environmental concern behaviorally. There is no strong stated-vs-revealed gap; economic games show moderate selfishness balanced with fairness, so the person is a pragmatic altruist with in-group preference.
+
+Overall, this is an in-group cooperator profile: moderately generous and fair toward strangers but more committed and loyal toward family and close groups.
+
+## Policy and value-laden preferences  
+The person identifies as politically independent but conservative in views. He rates tradition and loyalty moderately (6), and power/status low, suggesting moderate conservatism with emphasis on social order and family values. Environmental concern is low to moderate, with some willingness to be inconvenienced for environmental reasons but not strongly motivated. The person likely supports policies favoring family stability, personal responsibility, and moderate social conservatism, with less enthusiasm for progressive or environmental activism.
+
+## Product-category predictions for the pricing study  
+Grocery staples: Moderate likelihood to purchase, with moderate price sensitivity due to moderate income and cautious spending. Likely to buy mainstream brands rather than premium or generic extremes. Confidence: high.
+
+Premium branded items: Low to moderate likelihood, given low uniqueness seeking and minimalism neutrality. Price sensitivity and risk aversion reduce premium brand purchases. Confidence: moderate.
+
+Bulk/party-size items: Low likelihood, as minimalism is not strongly endorsed and the person prefers mindful, just-in-time purchasing. Confidence: moderate.
+
+Indulgence/novelty items: Low likelihood, given low excitement seeking and low consumer uniqueness orientation. Confidence: high.
+
+Household necessities: Moderate to high likelihood, with preference for functional, reliable products over luxury. Confidence: high.
+
+Specific brand tiers: Preference for mainstream national brands over generic or premium, balancing quality and price. Confidence: high.
+
+## Willingness-to-pay calibration  
+Given income and moderate minimalism, the person’s price ceiling for common grocery categories is moderate. For staples, WTP likely ranges from $3 to $7 per item depending on category; for premium items, WTP is lower, around $5 or less premium over mainstream; for indulgences, WTP is low, likely under $3 premium. Bulk items are less preferred, so WTP for large sizes is low. Overall, price sensitivity is moderate to high.
+
+## Self-report reliability for this file  
+The person’s social desirability score is moderate, with some acquiescence in values ratings but no strong pattern. There is some discrepancy between stated altruism and economic game behavior, but the behavioral data are consistent and plausible. The person’s self-descriptions are coherent and stable, with no evidence of major response bias. Overall, self-report reliability is moderate to high, with behavioral data prioritized for social preferences.
+
+## Summary  
+This middle-aged, unemployed Midwestern male with moderate income exhibits a balanced value system emphasizing humility, honesty, compassion, autonomy, and equality, combined with moderate achievement and responsibility. He is a pragmatic in-group cooperator, fair but self-protective toward strangers and loyal toward family. Minimalism is not strongly endorsed, and consumer behavior is mainstream and functional rather than novelty-seeking or minimalist. Risk preferences show moderate risk aversion and loss aversion, shaping cautious product choices. Intertemporal choices reveal patience and planning. The strongest single predictor of pricing behavior is moderate minimalism combined with moderate income, leading to price-sensitive, functional purchasing focused on mainstream brands and grocery staples, with low indulgence or bulk buying.

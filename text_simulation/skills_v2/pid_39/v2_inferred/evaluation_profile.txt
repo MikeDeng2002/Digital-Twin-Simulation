@@ -1,0 +1,35 @@
+## Budget constraint  
+The respondent is a female aged 50-64, living in a two-person household in the Western United States, currently unemployed, with a family income between $75,000 and $100,000 (Income scale item). Being unemployed likely reduces disposable income despite a moderate household income level. The household size is small (2 people), which may moderate expenses. There is no direct indication of financial pressure or time constraints from free responses, but unemployment suggests some budget caution. Overall, the spending ceiling for everyday purchases is moderate, with some caution likely due to unemployment status, implying a mid-range budget but with potential sensitivity to non-essential spending.
+
+## Values hierarchy  
+The values ratings show some acquiescence with many values rated highly (mostly 7-9), indicating compression. Notably, the respondent rates Forgiveness, Humility, Altruism, Loyalty, Politeness, Harmony, Honesty, Compassion, Civility, and Tradition all at 9 (Highly Important), indicating a strong emphasis on prosocial, family-oriented, and moral values. Wealth and Influence are moderately important (6), while Power, Status, Recognition, and Superiority are rated very low (1-2), showing low valuation of dominance or status-seeking. This pattern aligns with high Agreeableness traits (Big Five: high helpfulness, forgiveness, kindness) and moderate Conscientiousness (agree a little on being thorough and reliable). The values are consistent with the respondent’s self-description emphasizing love, self-control, and family duty. The strong family and group loyalty values (Loyalty 9, Tradition 9) indicate a collectivist orientation toward family and close social groups.
+
+## Minimalism and consumer orientation  
+The respondent agrees moderately with minimalism statements (mostly 3-4 on a 5-point scale), indicating a mild to moderate minimalist orientation. She agrees with avoiding excess possessions and preferring simplicity in design but disagrees somewhat with keeping spaces visually empty, suggesting a balanced approach rather than extreme minimalism. Consumerism and uniqueness scales show disagreement or neutrality toward seeking uniqueness or breaking social norms in consumption, indicating mainstream or conventional consumer preferences rather than premium or niche brand orientation. Given moderate income and unemployment, combined with mild minimalism and low desire for status or recognition, the respondent likely prefers mainstream or budget brands and is unlikely to pay premiums for luxury or highly unique products.
+
+## Intertemporal patience  
+The respondent consistently prefers larger delayed rewards over smaller sooner ones until the delayed reward is very close in time and value, indicating moderate to high patience in intertemporal choice tasks. This is supported by moderate to high Conscientiousness traits (agree a little on being thorough, reliable, and making plans). She prefers to deliberate and solve problems thoughtfully but also shows some preference for simpler tasks and avoiding excessive mental effort. Overall, the respondent exhibits a balanced but somewhat patient time preference, favoring delayed rewards when the difference is meaningful.
+
+## Risk preferences  
+In lottery tasks, the respondent prefers certain smaller amounts over risky lotteries with equivalent or slightly higher expected values, indicating risk aversion in gains. She also prefers to avoid lotteries with potential losses, showing loss aversion. The respondent’s moderate income and unemployment status align with typical moderate risk aversion. She values fairness and is somewhat cautious in financial decisions, as seen in her financial literacy and risk task responses. There is no strong gain/loss asymmetry beyond typical loss aversion.
+
+## Social preferences  
+The respondent shows strong family-oriented social preferences, valuing loyalty, family duty, and tradition highly (Values scale items 11, 13, 14, 15 rated 9). She endorses sacrifice for family and group cohesion strongly. Behavioral game responses show generosity toward strangers in the dictator and ultimatum games, offering fair splits and accepting fair offers, indicating stranger-oriented fairness and altruism as well. However, she rejects offers that are too selfish (rejects $4 for other/$1 for self), showing some boundary to selfishness from others. Overall, the respondent is both family-collectivist and stranger-fair, with no evidence of selfishness toward strangers.
+
+## Product-category predictions for the pricing study  
+Grocery staples: Likely to purchase at elevated prices moderately, given moderate income and mild minimalism; staples are necessities and align with practical values.  
+Premium branded items: Less likely to purchase at elevated prices due to mild minimalism, low status/power values, and moderate income. Preference for mainstream or budget brands dominates.  
+Bulk/party-size items: Less likely to purchase in bulk or party sizes, as minimalism and budget caution suggest avoiding excess.  
+Indulgence/novelty items: Moderately less likely to purchase indulgence items at elevated prices, given moderate pleasure value but mild minimalism and budget caution.  
+Household necessities: Likely to purchase at elevated prices if necessary, as practical and conscientious traits support maintaining household function.
+
+## Summary  
+This respondent is a moderately patient, risk-averse, and family-oriented individual with strong prosocial and moral values emphasizing forgiveness, humility, and loyalty. She exhibits mild minimalism and prefers mainstream, practical consumption over premium or unique brands. Budget constraints due to unemployment moderate her spending, especially on non-essential or indulgent items. Social preferences are generous both toward family and strangers, reflecting fairness and altruism. Pricing and product choices will reflect a preference for necessity and fairness, with limited willingness to pay premiums or accumulate excess possessions.
+
+# Direct evidence citations  
+- Values scale: Items 3,7,9,11,12,14,16,17,19,23 rated 9 (high prosocial/family values)  
+- Minimalism scale: Items 1,3,4,5,6,10,11,12 mostly 3-4 (mild minimalism)  
+- Big Five: Agreeableness high (items 7,17,22,32 rated 5), Conscientiousness moderate (items 3,13,28,33,38 rated 4)  
+- Risk preferences: Lottery tasks consistently prefer certain smaller amounts over risky lotteries (lottery matrices)  
+- Social preferences: Dictator game offer 3 for self/2 for other; acceptance of fair offers; rejection of very selfish offers  
+- Budget: Income $75k-$100k, unemployed, household size 2 (demographics)

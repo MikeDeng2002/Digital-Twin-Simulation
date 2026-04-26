@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. They were assigned male at birth and belong to the 18-29 age group. Their highest level of education completed is high school graduate. They identify as White and are a U.S. citizen. Their marital status is never been married. Their present religion is Protestant, and they attend religious services once a week. Politically, they identify as a Republican with very conservative views. Their total family income last year was less than $30,000. The household size is two people, and their current employment status is unemployed.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 2 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, so personality and emotional baseline data can be taken at face value without strong concern for impression management.
+
+## Personality
+
+### Big Five  
+Extraversion: 1.7  
+Agreeableness: 3.0  
+Conscientiousness: 2.0  
+Neuroticism: 4.0  
+Openness: 4.3  
+
+The participant is very low in extraversion (near the scale floor), indicating a strongly introverted and quiet interpersonal style. Agreeableness is moderate, suggesting a neutral tendency toward cooperation and kindness. Conscientiousness is low, near the floor, reflecting disorganization, carelessness, and poor work habits. Neuroticism is high (4.0), indicating emotional instability, worry, and moodiness; this aligns with the emotional baseline data showing depression and anxiety symptoms. Openness is high, near the ceiling, showing curiosity, imagination, and appreciation for artistic experiences. Overall, this profile reveals a withdrawn, emotionally vulnerable individual with poor self-discipline but a rich inner life and aesthetic sensitivity.
+
+### Need for Cognition  
+Score: 2.6 / 5.  
+This person shows a low to moderate tendency to enjoy and seek out effortful thinking, often preferring simpler or routine tasks and avoiding complex intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 2.1 / 5.  
+The participant has a low tendency to share and recognize others' emotions, indicating limited emotional contagion and empathic responsiveness.
+
+### Green Values  
+Score: 2.6 / 5.  
+The participant shows low concern for environmental issues and does not strongly identify with environmentally responsible behaviors.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 3.0  
+Vertical Individualism: 4.5  
+Horizontal Collectivism: 2.0  
+Vertical Collectivism: 1.5  
+
+This profile indicates a strong orientation toward personal independence combined with acceptance of hierarchical status differences (high vertical individualism). The participant shows low loyalty to groups and little emphasis on equality or cohesion within groups (low horizontal and vertical collectivism). They value competition and winning highly, reflecting a competitive, self-reliant worldview with little group-oriented or egalitarian sentiment.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 18 / 63.  
+This score falls in the moderate anxiety range. The symptom pattern is more cognitive than somatic: the participant reports severe inability to relax, frequent worry, fear of losing control, fear of dying, and some dizziness, but minimal physical symptoms like trembling or heart racing. This cognitive anxiety pattern supports the reliability of self-reports and aligns with the high neuroticism score.
+
+### Beck Depression Inventory  
+Score: 38 / 61.  
+This score is in the severe depression range. The participant reports pervasive cognitive and motivational symptoms including feelings of sadness, hopelessness, failure, guilt, self-disgust, worthlessness, irritability, loss of interest in others and sex, difficulty making decisions, early awakening, fatigue, poor appetite, and preoccupation with physical problems. There is no significant weight loss. The severity and breadth of symptoms indicate a major depressive episode.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be healthy and in good shape. I would like to be wealthy. I would like to be powerful."  
+- Ought self (what they feel they should be): "I need to dedicated and not lose focus so easily. I need to be more frugal with my money and not spend it on stupid stuff. I need to determined in order to succeed."  
+- Actual self (what they believe they currently are): "I lack attention and very compulsive acting on a whim and it caused a lot of mistakes in my life. I am not happy where I right right now. I am lazy and depressed most days."  
+
+There are meaningful gaps between the selves: the ideal self is ambitious and powerful, the ought self emphasizes discipline and frugality, but the actual self is characterized by inattention, impulsivity, unhappiness, laziness, and depression, indicating significant self-discrepancy and internal conflict.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant answered three items correctly but gave the intuitive, incorrect answer "May" to the riddle "Emily’s father has three daughters. The first two are April and May. What is the third daughter's name?" This reflects a literal reading error rather than a classic intuitive trap. Overall, strong reflective reasoning with one minor error.
+
+### Fluid Intelligence  
+Score: 4 / 6.  
+Errors cluster on cube rotation items (incorrect answers on some spatial rotation tasks), while matrix completion items were answered correctly. This suggests moderate spatial reasoning ability with some difficulty in mental rotation.
+
+### Crystallized Intelligence  
+Score: 7 / 20.  
+The participant made multiple errors on vocabulary synonym and antonym items, often selecting implausible or unrelated distractors, indicating a significant vocabulary gap and limited verbal knowledge.
+
+### Syllogistic Reasoning  
+Score: 6 / 12.  
+Errors occur more on belief-biased items involving familiar or counterfactual content, indicating reasoning is influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 5 / 8.  
+The participant missed the question about long-term returns (incorrectly choosing bonds over stocks for highest return), and misestimated probabilities and percentages, revealing gaps in basic financial knowledge.
+
+### Numeracy  
+Score: 4 / 8.  
+Errors include incorrect probability conversions and percentage calculations (e.g., 25% instead of 20%, 10% instead of 0.1%), indicating weak numeric reasoning skills.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items answered correctly, showing no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+The participant selected only the "A" card, failing to select the necessary "7" card, demonstrating the classic matching bias and poor conditional reasoning.
+
+## Cognitive Summary  
+The participant shows moderate reflective reasoning (CRT 3/4) and intact deductive logic (Modus Ponens perfect), but weaknesses in verbal knowledge (low crystallized intelligence), numeric reasoning (low numeracy), and susceptibility to belief bias in syllogistic reasoning. Spatial reasoning is moderate with some difficulty in mental rotation. Financial literacy is incomplete, with misunderstandings of investment returns and probabilities. The Wason task reveals a classic reasoning bias. Overall, cognitive abilities are uneven, with particular deficits in verbal and numeric domains consistent with low education and current unemployment.
+
+## Summary  
+This young adult male from the U.S. Midwest is unemployed with a high school education and low income. He is introverted, emotionally unstable, and disorganized, with a strong aesthetic openness but low empathy and environmental concern. He exhibits severe depression and moderate anxiety, with a cognitive anxiety symptom pattern supporting reliable self-reporting. His self-concept reveals significant gaps between his ideal, ought, and actual selves, marked by ambition but hampered by impulsivity, inattention, and depression. Cognitively, he shows moderate reflective reasoning but poor verbal and numeric skills, belief-biased reasoning, and classic reasoning biases. The most predictive feature for downstream simulation is the severe depression combined with low conscientiousness and high neuroticism, which will strongly shape his emotional responses and self-perception.

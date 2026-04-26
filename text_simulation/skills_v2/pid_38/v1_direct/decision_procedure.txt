@@ -1,0 +1,46 @@
+## Effort regulation and cognitive style
+The person's Need for Cognition (NFC) profile indicates a generally low to moderate engagement with effortful thinking. They disagree a little with preferring complex problems (item 1), handling situations requiring much thinking (item 2), and enjoying deliberating hard and long (item 6). They agree a little that thinking is not fun (item 3), prefer tasks requiring little thought (items 4 and 9), and try to avoid situations requiring deep thought (item 5). They also agree a little that they only think as hard as necessary (item 7). This pattern suggests a tendency to avoid cognitively demanding tasks and a preference for simpler or routine thinking.
+
+Regarding cognitive test items, the person answered 25 out of 42 questions correctly, estimating that the average US adult would answer 30 correctly. They correctly solved several CRT-style problems such as the bat and ball problem (answering 0.05), the lily pad doubling problem (47 days), and the credit card debt question (30 years). However, they made errors on some logical syllogisms and reasoning tasks, for example, incorrectly judging that the conclusion "Cigarettes are good for health" does not follow from the premises, and similarly for other syllogistic reasoning items (e.g., "All animals love water" premises). They also failed to identify the correct cards to turn over in the Wason selection task (choosing only card A). On the cube rotation tasks, they consistently selected "I do not know the solution" (option H), indicating difficulty or unwillingness to engage with spatial reasoning problems.
+
+The errors on CRT-style items do not reflect the classic intuitive trap (e.g., bat and ball intuitive error) since the correct answer was given there, but the person shows some inconsistency in logical reasoning tasks and spatial puzzles. Overall, the cognitive test performance aligns with a moderate cognitive effort profile with some difficulties in abstract and spatial reasoning.
+
+## Closure and uncertainty tolerance
+The Need for Closure (NFCC) scale responses show a moderate preference for closure and discomfort with uncertainty. The person agrees a little with statements such as disliking uncertain situations (item 1), disliking questions with many possible answers (item 2), preferring a well-ordered life (item 3), disliking to enter situations without knowing what to expect (item 6), and wanting quick solutions to problems (item 8). They also agree a little that they dislike ambiguous statements (item 11), enjoy clear and structured life modes (item 13), and prefer consistent routines (item 12). They neither agree nor disagree on some items related to impatience or irritation when solutions are delayed (items 7 and 9).
+
+This pattern suggests a moderate need for closure, with some tolerance for ambiguity but a general preference for order, predictability, and quick resolution of uncertainty.
+
+## Optimization strategy
+On the Maximizer scale, the person generally disagrees or only slightly agrees with maximization tendencies. They disagree a little with statements about seeking originality or uniqueness in products (items 1-5), and neither agree nor disagree on some items about breaking social rules (item 6). They agree a little that they avoid products bought by the general population (items 10-12), indicating some preference for distinctiveness but not strongly so. They also disagree a little with "never settle for second best" (item 6) and have mixed responses on having the highest standards for themselves (item 5).
+
+Overall, the person shows a low to moderate maximizer tendency, with some inclination to avoid common products but not a strong drive to maximize or seek the best possible options.
+
+## Self-concept stability
+The Self-concept Clarity scale responses indicate a fairly stable and clear self-concept. The person disagrees a little with statements about conflicting beliefs about themselves (items 1 and 2), spending much time wondering about their true self (item 3), feeling not like the person they appear to be (item 4), or having frequently changing self-beliefs (items 8 and 9). They agree a little that they seldom experience conflict between personality aspects (item 6) and have a clear sense of who they are (item 11). They also agree a little that they might not fully disclose what they are really like (item 10), suggesting some guardedness.
+
+This pattern reflects a moderately clear and stable self-concept with some minor reservations about full self-disclosure.
+
+## Intertemporal patience
+The intertemporal choice tasks show a strong preference for larger, later rewards over smaller, sooner rewards in most cases involving delays of several weeks. For example, the person consistently chooses $6 in 6 weeks over smaller amounts in 5 weeks until the smaller amount approaches $5.25 or more, at which point they switch preference. Similarly, for $8 in 7 weeks, they always prefer the delayed amount over earlier smaller amounts, even when the earlier amount is close to the delayed amount. For $10 in 7 weeks, they always prefer the delayed amount over earlier smaller amounts, including amounts close to $10.
+
+However, when the delay is very short (1 or 2 weeks), the person prefers immediate smaller amounts over delayed larger amounts, indicating some present bias or impatience for very short delays.
+
+In the ultimatum and dictator game scenarios, the person chooses to keep all the money for themselves and send nothing to the other person, and as a receiver, they reject offers where the other keeps more than half. This suggests a self-interested and somewhat strict fairness norm.
+
+Overall, the person shows moderate to high patience for delayed rewards over weeks but prefers immediate rewards when delays are very short.
+
+## Bias susceptibility
+Direct scale evidence for bias susceptibility includes:
+
+- Social desirability: The person admits to some socially undesirable behaviors (e.g., taking advantage of someone, trying to get even) and does not strongly endorse socially desirable responding, suggesting low social desirability bias.
+
+- Self-monitoring: The person generally agrees a little that they can adjust behavior in social situations (items 1-3, 5, 7, 9, 11, 12), indicating moderate self-monitoring ability.
+
+- Maximizer scale: Low to moderate maximization tendencies, which may relate to decision-making biases around choice overload.
+
+- Cognitive biases: The person’s errors on syllogistic reasoning and Wason selection tasks indicate susceptibility to logical reasoning biases, such as confirmation bias or failure to apply proper logical rules (e.g., incorrectly judging syllogistic conclusions and selecting only card A in the Wason task).
+
+No direct measures of other biases (e.g., anchoring, framing) are present.
+
+## Summary
+The person exhibits a low to moderate Need for Cognition, preferring simpler tasks and avoiding deep thinking, with moderate performance on cognitive tests including some errors in logical and spatial reasoning. They show a moderate Need for Closure, favoring order and quick solutions but tolerating some ambiguity. Their optimization strategy reflects low to moderate maximization tendencies, with some avoidance of common products but no strong drive for the best. Self-concept clarity is moderate, with a generally stable self-view and some guardedness. Intertemporal choice responses indicate moderate patience for delayed rewards over weeks but impatience for very short delays, and self-interested behavior

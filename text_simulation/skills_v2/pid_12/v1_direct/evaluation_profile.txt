@@ -1,0 +1,28 @@
+## Budget constraint  
+The respondent reports a total family income of $100,000 or more before taxes (item 24). They are currently employed full-time (item 29) and live in a household of four people (item 25). No further direct information about spending style or budget envelope is provided.
+
+## Values hierarchy  
+The 24-item values scale shows evidence of rating compression, with many values rated highly (mostly 8s and 9s). Given this, only the relative structure is extracted. The highest-rated values (rated 9) include Trust (item 5), Competence (6), Humility (7), Achievement (8), Altruism (9), Politeness (12), Honesty (16), Compassion (17), Civility (19), Autonomy (20), and Equality (21). The lowest-rated values (rated 6) are Excitement (15) and Recognition (22). Power (13) and Influence (4) are rated moderately high (7). This indicates a strong emphasis on social harmony, ethical behavior, competence, and altruism, with less emphasis on thrill-seeking or fame.
+
+## Minimalism and consumer orientation  
+On the 12-item minimalism scale, the respondent generally agrees moderately to strongly with minimalist attitudes. They "agree a little" or "agree strongly" with statements such as avoiding accumulating lots of stuff (item 1), restricting possessions (2), preferring simplicity in design (6, strongly agree), and being mindful and thoughtful about what they own (items 9, 11, 12, strongly agree). This indicates a clear preference for minimalism and mindful consumption.  
+
+Regarding consumerism and uniqueness-seeking, the respondent "agrees a little" with statements about seeking uniqueness and originality in products (items 1-4 on the consumerism scale), but disagrees or disagrees a little with statements about breaking social rules or avoiding popular products (items 5-12). This suggests a mild preference for uniqueness without strong rebellious consumer behavior.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over smaller certain amounts until the certain amount approaches the expected value, indicating moderate risk tolerance. For example, they prefer a 50% chance at $6 over certain amounts up to about $2.75, switching preference at $3 (lottery vs. certain money). Similar patterns hold for other lotteries with varying payoffs.  
+
+In loss lotteries, the respondent consistently prefers the lottery over smaller certain losses, indicating risk aversion in losses. They do not accept exchanges that reduce expected losses substantially, showing loss aversion.  
+
+In social games (dictator and ultimatum), the respondent proposes to keep $3 and send $2 out of $5, and as a receiver, accepts all offers except the one where the sender keeps all $5. In the trust game with tripling, they send all $5 and expect the other to return a fair share (keeping $7 and sending back $8 out of $15). This indicates moderate generosity and trust.
+
+## Intertemporal patience  
+The respondent consistently prefers the larger, later reward ($6 in 6 weeks) over smaller, sooner rewards down to about $5.75 in 5 weeks, switching preference only when the sooner reward equals or exceeds the later reward. This pattern holds across multiple delayed reward comparisons, indicating a relatively patient intertemporal preference with a clear discounting of earlier smaller amounts but willingness to wait for larger delayed rewards.
+
+## Social preferences  
+In the dictator/ultimatum game, the respondent offers to keep $3 and send $2 out of $5, and accepts all offers except the one where they receive nothing. In the trust game, they send the full $5 (which triples to $15) and expect the other to return a fair amount (keeping $7 and sending back $8). These choices reflect moderate fairness, trust, and reciprocity.  
+
+No other economic game allocations are reported.
+
+## Summary  
+The respondent has a household income above $100,000 with full-time employment and a household size of four. Their values show a compressed pattern but emphasize trust, competence, humility, achievement, altruism, politeness, honesty, compassion, civility, autonomy, and equality, with less emphasis on excitement or recognition. They exhibit a clear minimalist orientation with mindful consumption and moderate uniqueness-seeking without rebellious consumerism. Risk preferences indicate moderate risk tolerance in gains and loss aversion in losses. Intertemporal choices reveal patience and preference for larger delayed rewards. Social preferences in economic games show moderate fairness, trust, and reciprocity. Overall, the profile reflects a conscientious, socially responsible individual with balanced risk and time preferences and a mindful consumer orientation.

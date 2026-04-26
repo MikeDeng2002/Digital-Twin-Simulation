@@ -1,0 +1,48 @@
+## Effort regulation and cognitive style
+The person's Need for Cognition profile indicates a low preference for effortful thinking. They disagree strongly with items such as "I like to have the responsibility of handling a situation that requires a lot of thinking" (item 2), "I find satisfaction in deliberating hard and for long hours" (item 6), and "I prefer a task that is intellectual, difficult, and important" (item 15). They agree that they try to avoid situations requiring deep thought (item 5: agree strongly) and only think as hard as necessary (item 7: agree a little). They also report relief rather than satisfaction after completing mentally effortful tasks (item 16: agree strongly). This pattern suggests a tendency to avoid cognitive effort and a low intrinsic motivation for complex thinking.
+
+Regarding cognitive test items, the person completed 42 questions and estimated their own and the population average correct answers as 21 out of 42, indicating moderate self-assessed performance. Specific cognitive test answers show mostly correct logical reasoning on syllogisms and conditional reasoning tasks (e.g., correctly affirming conclusions in syllogisms about animals, plants, and other categories). However, there is a notable error in the conditional reasoning about XARs and YOFs: for the statement "If a glock is a XAR, you can say that it is certain that the glock is a YOF," the person answered "that it is certain that the glock is not a YOF" (incorrect), indicating a misunderstanding of logical implication. This error reflects a common intuitive-trap pattern where the person reverses the direction of implication.
+
+On CRT-style items, the bat and ball problem was answered as 0.1 dollars, which is the intuitive but incorrect answer (correct is 0.05). This suggests susceptibility to the intuitive trap of accepting the immediate but wrong answer rather than engaging in reflective thinking.
+
+Overall, the cognitive style is characterized by low need for cognition, moderate logical reasoning ability with some errors in conditional logic, and susceptibility to intuitive traps on CRT items.
+
+## Closure and uncertainty tolerance
+The Need for Closure profile is strongly elevated. The person agrees strongly with items expressing discomfort with uncertainty and ambiguity, such as "I don’t like situations that are uncertain" (item 1), "I dislike questions which could be answered in many different ways" (item 2), and "I find that a well ordered life with regular hours suits my temperament" (item 3). They also strongly agree with statements about irritation when others disagree with the group (item 5), dislike of unpredictable situations (item 15), and preference for clear, structured life (item 13). They disagree strongly with consulting many opinions before forming a view (item 14), indicating a preference for quick closure rather than open exploration.
+
+They report feeling relief when making decisions less strongly (item 7: disagree strongly), but express impatience to reach solutions quickly (items 8 and 9: agree strongly). They also dislike being around people capable of unexpected actions (item 10: agree strongly).
+
+These responses indicate a high need for closure, low tolerance for ambiguity, and a preference for order, predictability, and quick resolution of uncertainty.
+
+## Optimization strategy
+The Maximizer scale responses show strong maximization tendencies. The person strongly agrees with having the highest standards for themselves (item 5), never settling for second best (item 6), and having difficulty shopping for gifts or clothing they really love (items 3 and 4: agree strongly). They disagree strongly with statements about checking other options despite satisfaction (item 1) and being on the lookout for better opportunities regardless of satisfaction (item 2), which may reflect a selective or context-dependent maximization.
+
+Overall, the person exhibits a strong maximizer profile, characterized by high standards and difficulty settling for less than the best.
+
+## Self-concept stability
+The Self-concept Clarity scale responses indicate low self-concept clarity and instability. The person agrees strongly with statements such as "My beliefs about myself often conflict with one another" (item 1), "On one day I might have one opinion of myself and on another day I might have a different opinion" (item 2), and "I spend a lot of time wondering about what kind of person I really am" (item 3). They also agree strongly that they sometimes feel not to be the person they appear to be (item 4) and that their beliefs about themselves change frequently (item 8). They disagree strongly with having a clear sense of who they are (item 11) and agree strongly that it is often hard to make up their mind because they don't know what they want (item 12).
+
+This pattern reflects a fragmented and unstable self-concept with frequent internal conflict and uncertainty about personal identity.
+
+## Intertemporal patience
+The intertemporal choice tasks show a consistent preference for immediate rewards over delayed rewards. For multiple choices involving smaller amounts sooner versus larger amounts later (e.g., $6 in 6 weeks vs. $3 in 5 weeks), the person consistently chooses the sooner, smaller amount (answers 1 on items 1-7 in the first matrix). Only when the delayed amount equals or exceeds the immediate amount do they switch preference (items 8 and 9: choose delayed).
+
+Similarly, in other intertemporal choice sets ($8 in 7 weeks vs. smaller amounts sooner; $10 in 7 weeks vs. smaller amounts sooner), the person prefers the sooner option until the amounts are equal or better later, at which point they switch.
+
+In choices involving immediate versus now (e.g., $6 in 1 week vs. $3 now), the person consistently prefers the immediate smaller amount now (answers 2 on all items), indicating impatience.
+
+Overall, the person demonstrates low intertemporal patience, favoring immediate or sooner rewards over larger delayed rewards unless the delayed reward is substantially better.
+
+## Bias susceptibility
+Direct scale evidence indicates susceptibility to the following biases:
+
+- **Intuitive trap on CRT items:** The bat and ball problem was answered incorrectly (0.1 instead of 0.05), indicating susceptibility to the intuitive but wrong answer pattern.
+
+- **Logical reasoning errors in conditional reasoning:** The incorrect answer to the XAR/YOF syllogism (answering that a glock that is a XAR is certainly not a YOF) shows misunderstanding of logical implication, suggesting bias in conditional reasoning.
+
+- **Maximization bias:** Strong maximizer tendencies (items 3-6 on Maximizer scale) may predispose to decision difficulty and potential regret.
+
+No direct evidence was found for social desirability bias or other specific biases.
+
+## Summary
+The person exhibits a low Need for Cognition, avoiding effortful thinking and showing some errors in logical reasoning and CRT-style tasks. They have a high Need for Closure, preferring order, predictability, and quick decisions, with low tolerance for ambiguity. Their Maximizer scale responses indicate strong maximization tendencies with high personal standards. Self-concept clarity is low, with frequent internal conflict and instability in self-views. Intertemporal choice responses reveal impatience, favoring immediate rewards over delayed ones unless the latter are substantially larger. Bias susceptibility is evident in intuitive trap errors on CRT items and conditional reasoning mistakes.

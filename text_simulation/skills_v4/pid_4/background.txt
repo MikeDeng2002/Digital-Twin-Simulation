@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They were assigned male at birth and belong to the 50-64 age group. Their highest level of education is college graduate or some postgraduate. They identify as White and are a U.S. citizen. Their marital status is married. Their present religion is categorized as "Other," and they never attend religious services aside from weddings and funerals. Politically, they identify as a Democrat and describe their political ideology as very liberal. Their household income last year was between $75,000 and $100,000. The household size is two people, and their current employment status is full-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of candor in self-reporting, with no strong impression management detected; self-reports in personality and emotional baseline sections can be considered generally trustworthy but with some caution.
+
+## Personality
+
+### Big Five  
+Extraversion: 4.6 (calculated from mostly 5s and a few 2s)  
+Agreeableness: 4.9 (very high, with almost all 5s and no fault-finding)  
+Conscientiousness: 4.9 (very high, with strong agreement on thoroughness, reliability, and organization)  
+Neuroticism: 1.3 (very low, with strong disagreement on depression, worry, moodiness)  
+Openness: 5.0 (maximal, with strong agreement on originality, curiosity, imagination, artistic interests)  
+
+This profile reveals a highly outgoing, warm, and cooperative interpersonal style, combined with exceptional conscientiousness and emotional stability. The participant is intellectually curious and open to new experiences. The very low neuroticism aligns with the emotional baseline data, confirming low emotional distress. The high conscientiousness suggests strong work habits and reliability.
+
+### Need for Cognition  
+Score: 4.3 / 5.  
+The participant enjoys and seeks out effortful thinking, showing a strong preference for intellectual challenges and abstract thinking.
+
+### Empathy (BES-A)  
+Score: 3.9 / 5.  
+The participant tends to share and recognize others' emotions well, showing moderate to high empathy, with some ambivalence on becoming easily caught up in others' feelings.
+
+### Green Values  
+Score: 5.0 / 5.  
+The participant has a strong environmental identity, expressing high concern for environmental impact and willingness to act in environmentally responsible ways.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.5 / 5 (strong preference for personal independence and equality)  
+Vertical Individualism: 1.7 / 5 (low endorsement of competition and hierarchy in individualism)  
+Horizontal Collectivism: 4.9 / 5 (strong loyalty and equality within groups)  
+Vertical Collectivism: 4.9 / 5 (strong acceptance of hierarchy and duty within groups)  
+
+The participant values both personal independence and strong group loyalty, emphasizing equality in both domains. They reject competitive individualism but accept hierarchical structures within groups, indicating a nuanced balance between self and group orientation.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63.  
+The participant reports minimal anxiety symptoms, with no somatic or cognitive anxiety symptoms endorsed, indicating an absence of clinically significant anxiety.
+
+### Beck Depression Inventory  
+Score: 0 / 61.  
+The participant reports minimal depressive symptoms, with no endorsement of sadness, guilt, irritability, or physical symptoms, indicating no clinical depression.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I want to be a kind person. I want to be a generous person. I want to be an honest person"  
+- Ought self (what they feel they should be): "I ought to be kind. I ought to be generous. I ought to be honest."  
+- Actual self (what they believe they currently are): "I AM a kind person. I AM a generous person. I AM an honest person."  
+
+The three selves are consistent, showing alignment between aspirations, perceived duties, and current self-concept centered on kindness, generosity, and honesty.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant answered correctly on three items but gave an incorrect answer of "5" cents for the bat and ball problem, falling into the classic intuitive trap of "$0.10 -> answered $0.05 — bat-ball anchoring error."
+
+### Fluid Intelligence  
+Score: 5 / 6.  
+Errors cluster on cube rotation tasks; the participant answered "I do not know" on one cube rotation item, indicating some difficulty with spatial rotation but strong matrix reasoning.
+
+### Crystallized Intelligence  
+Score: 9 / 10 (based on 10 synonym and antonym questions answered).  
+The participant answered most vocabulary items correctly, with one error on the synonym for "Furtive" (answered "facile" instead of "stealthy"), suggesting a minor vocabulary gap or guessing.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (based on 8 syllogistic reasoning items answered).  
+Errors occurred on belief-biased items: the participant incorrectly answered two syllogisms where prior beliefs interfered with logical reasoning (e.g., concluding "Poodles do not have four legs" is not logically valid). This suggests reasoning is somewhat influenced by prior beliefs.
+
+### Financial Literacy  
+Score: 7 / 8.  
+The participant missed the credit card minimum payment question, answering "never" for how long it would take to pay off debt with minimum payments, indicating a lack of understanding that minimum payments at 12% APR will never fully pay off the debt.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items were answered correctly, including probability conversions and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All four modus ponens items were answered "Yes," showing no reluctance to accept logically valid conclusions even if they conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 2 / 2 (correct cards selected).  
+The participant correctly selected cards A and 3, the logically correct cards to test the rule, avoiding the classic matching bias.
+
+## Cognitive Summary  
+The participant demonstrates strong verbal and numerical skills, with high crystallized intelligence and numeracy, and good fluid intelligence, though with some difficulty in spatial rotation tasks. Their CRT score is high but not perfect, with a classic intuitive error on the bat and ball problem. Syllogistic reasoning shows some belief bias, indicating reasoning is influenced by prior knowledge. Financial literacy is strong except for a key gap in understanding credit card minimum payments. Deductive reasoning and Wason task performance are strong, indicating good logical reasoning abilities.
+
+## Summary  
+This participant is a middle-aged, college-educated White male from the U.S. South, married and employed full-time, with a very liberal political orientation and moderate household income. Personality-wise, he is highly extraverted, agreeable, conscientious, emotionally stable, and open to experience, with a strong need for cognition and empathy, and a strong environmental identity. His emotional baseline is very healthy, with no anxiety or depression symptoms. His sense of self is coherent and consistent, centered on kindness, generosity, and honesty. Cognitively, he is strong in verbal and numerical domains, with minor spatial reasoning challenges and a classic CRT intuitive error. Financial literacy is generally good but with a notable gap in understanding credit card debt repayment. The most predictive feature for downstream simulation is the very low neuroticism combined with minimal anxiety and depression, indicating a stable emotional baseline, alongside a classic CRT intuitive trap that may influence problem-solving style.

@@ -1,0 +1,42 @@
+## Effort regulation and cognitive style
+The person's Need for Cognition (NFC) profile indicates a strong disinclination toward effortful thinking. They strongly disagree with items such as "I would prefer complex to simple problems" (Item 1), "I like to have the responsibility of handling a situation that requires a lot of thinking" (Item 2), and "I find satisfaction in deliberating hard and for long hours" (Item 6). They agree strongly with statements like "Thinking is not my idea of fun" (Item 3), "I would rather do something that requires little thought than something that is sure to challenge my thinking abilities" (Item 4), and "I only think as hard as I have to" (Item 7). This pattern shows a low need for cognition and a preference for minimal cognitive effort.
+
+Regarding cognitive test items, the person answered 21 out of 42 questions correctly, estimating that the average person would answer 25 correctly. They correctly solved several logic and reasoning problems, including syllogisms and Wason selection tasks (e.g., correctly answering that the conclusion follows logically in the postal strike and flu epidemic premises). However, they made errors on some synonym and antonym items, such as selecting "heinous" as a synonym for "furtive" (Item: Synonym FURTIVE) and "refractory" as a synonym for "indigent," which are incorrect. This suggests some errors in verbal reasoning.
+
+On CRT-style items, the person correctly answered the bat and ball problem with "0.05," the lily pad doubling problem with "47," and the credit card debt question with "70" years, indicating some understanding of intuitive traps and delayed gratification. However, their overall cognitive test performance is moderate, with some errors indicating susceptibility to intuitive but incorrect responses.
+
+## Closure and uncertainty tolerance
+The Need for Closure (NFCC) scale responses show a strong preference for closure and low tolerance for uncertainty. The person agrees strongly with items such as "I don’t like situations that are uncertain" (Item 1), "I dislike questions which could be answered in many different ways" (Item 2), "I feel uncomfortable when I don’t understand the reason why an event occurred in my life" (Item 4), and "I don’t like to go into a situation without knowing what I can expect from it" (Item 6). They also strongly agree that they dislike unpredictable situations (Item 15) and prefer clear, structured modes of life to some extent.
+
+They disagree strongly with the item "I feel irritated when one person disagrees with what everyone else in a group believes" (Item 5), indicating that their need for closure is more about personal certainty than social conformity. They show some impatience with unresolved problems (Items 8 and 9: agree a little). Overall, the profile reflects a high need for closure and low tolerance for ambiguity.
+
+## Optimization strategy
+On the Maximizer scale, the person disagrees strongly with statements reflecting maximizing tendencies, such as "I never settle for second best" and "I have the highest standards for myself" (Items 5 and 6). However, they agree strongly that "No matter how satisfied I am with my job, it’s only right for me to be on the lookout for better opportunities" (Item 2) and strongly agree that they find it difficult to shop for gifts and clothing they really love (Items 3 and 4). This suggests some concern with choice and standards but not a strong maximizing orientation.
+
+They also disagree strongly with "I often combine possessions in such a way that I create a personal image that cannot be duplicated" and related uniqueness-seeking items, indicating low maximizing or uniqueness-seeking behavior in consumption.
+
+## Self-concept stability
+The Self-concept Clarity scale responses indicate a stable and clear self-concept. The person agrees strongly with "In general, I have a clear sense of who I am and what I am" (Item 11) and disagrees strongly with items indicating self-concept confusion or fluctuation, such as "My beliefs about myself often conflict with one another" (Item 1) and "On one day I might have one opinion of myself and on another day I might have a different opinion" (Item 2). They also disagree strongly with "I spend a lot of time wondering about what kind of person I really am" (Item 3) and "My beliefs about myself seem to change very frequently" (Item 8).
+
+This pattern shows a coherent and stable self-view with little internal conflict or uncertainty about identity.
+
+## Intertemporal patience
+The intertemporal choice tasks show a preference for immediate rewards over delayed ones, indicating relatively low patience. For example, in multiple choices between $6 in 6 weeks versus smaller amounts sooner, the person consistently chooses the smaller-sooner option until the immediate amount approaches the delayed amount (e.g., choosing $5.75 now over $6 in 6 weeks, but switching preference at $5.75+). Similar patterns occur for $8 and $10 delayed rewards.
+
+This pattern suggests moderate to low intertemporal patience, with a tendency to discount future rewards relatively steeply.
+
+## Bias susceptibility
+Direct scale evidence indicates susceptibility to the following biases:
+
+- **Social desirability bias:** The person scores low on social desirability, as indicated by their self-reports of disagreeing with socially desirable traits (e.g., disagreeing strongly with "I am always courteous," "I have never been irked," and "I have never deliberately said something that hurt someone's feelings"). This suggests low concern for social approval.
+
+- **Maximization bias:** The person shows low maximizing tendencies (disagreeing strongly with maximizing items), indicating low susceptibility to maximization-related biases.
+
+- **Need for closure bias:** High need for closure suggests susceptibility to biases related to premature closure and intolerance of ambiguity.
+
+- **Cognitive reflection bias:** The person made some errors on CRT-style and verbal reasoning items, indicating some susceptibility to intuitive but incorrect responses.
+
+No direct evidence for other biases such as social influence or self-monitoring biases is present.
+
+## Summary
+The person exhibits a low Need for Cognition, preferring minimal cognitive effort and showing moderate cognitive test performance with some errors on verbal and reasoning items. They have a high Need for Closure, indicating low tolerance for uncertainty and a preference for clear, structured situations. Their Maximizer scale responses suggest low maximizing tendencies, and their Self-concept Clarity responses indicate a stable and coherent self-view. Intertemporal choice data reveal moderate to low patience for delayed rewards. Bias susceptibility is evident for need for closure and cognitive reflection biases, with low social desirability concerns.

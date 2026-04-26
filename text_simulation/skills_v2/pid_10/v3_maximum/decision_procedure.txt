@@ -1,0 +1,80 @@
+## Effort regulation and cognitive style  
+This individual exhibits a complex cognitive style characterized by a strong preference for intellectual engagement and deep thinking, as evidenced by their high Need for Cognition (NFC) scores on items such as "I would prefer complex to simple problems" (5 - strongly agree), "The notion of thinking abstractly appeals to me" (5), and "I would prefer a task that is intellectual, difficult, and important" (5). They also report enjoying deliberation ("I find satisfaction in deliberating hard and for long hours" - 4) and curiosity ("Is curious about many different things" - 5). However, there is a notable ambivalence or inconsistency in their self-assessment of effort regulation: they "disagree a little" with persevering until tasks are finished (28: 2), and "disagree a little" with being relaxed under stress (9: 2), while simultaneously agreeing strongly to being tense (14: 5) and moody (29: 5). This suggests a cognitive style that is intellectually engaged but vulnerable to affective interference, possibly leading to fluctuating effort regulation.
+
+Their cognitive test performance supports this profile: they correctly solved classic cognitive reflection and logic puzzles (e.g., the bat and ball problem answered correctly as 0.05, the lily pad doubling problem answered correctly as 47), and demonstrated good logical reasoning in syllogistic tasks, correctly rejecting invalid conclusions (e.g., "All flowers have petals; Roses have petals; Roses are flowers" answered "No"). However, some errors in spatial rotation tasks (e.g., selecting option B for cube rotation when A was correct) and a tendency to select plausible but incorrect options in cube rotation puzzles indicate occasional lapses in spatial or visual reasoning. Their self-estimated cognitive performance (36/42 correct) is substantially higher than their estimate of the average person (16/42), indicating confidence in their cognitive abilities.
+
+Conscientiousness is moderate to low: they "agree a little" to doing a thorough job (3:4), but also "agree a little" to being somewhat careless (8:4) and disorganized (18:4), and "disagree a little" with doing things efficiently (33:2). This suggests a cognitive style that values depth and complexity but struggles with consistent task execution and organization, possibly due to affective or somatic factors.
+
+Free responses reveal a reflective and creative thinker who "loves to play with words and ideas," "create order out of chaos," and "learn new things," but who also struggles with pain and focus, which impairs sustained effort. This aligns with the observed pattern of intellectual engagement coupled with affective and somatic challenges.
+
+## Closure and uncertainty tolerance  
+The individual shows a moderate Need for Closure (NFCC) with some ambivalence. They "agree a little" to disliking uncertainty (1:4), feeling uncomfortable without understanding reasons for events (4:4), and preferring a well-ordered life with regular hours (3:5). They also "agree a little" to impatience when solutions are not immediate (9:4) and dislike unpredictable situations (15:5). However, they "disagree a little" with disliking ambiguous statements (11:2) and with irritation at dissenting opinions (5:2), suggesting some tolerance for ambiguity in social contexts.
+
+Behaviorally, their economic game choices reflect a cautious but fair approach: they propose to keep $2 and send $3 in the dictator game, and as receivers, they accept all offers except the most selfish ($5/$0). Their thoughts during these decisions emphasize trust tempered by hedging ("I want to trust them to share but also hedge against the possibility they don't"), indicating a balanced but vigilant approach to uncertainty in social exchange.
+
+Free responses about their "ought to be" self emphasize a desire for stability and responsibility ("hold down a job," "keep the house cleaner," "pursue spiritual path"), reflecting a wish for closure and order. Yet, their actual self reports pain and difficulty focusing, indicating a gap between desired closure and lived uncertainty.
+
+Overall, this person seeks structure and clarity but tolerates some ambiguity, especially in social and intellectual domains, balancing impatience for resolution with reflective deliberation.
+
+## Optimization strategy  
+The individual scores low on Maximizer tendencies, disagreeing with statements like "I never settle for second best" (2) and "I have the highest standards for myself" (2), and agreeing only a little to difficulty shopping for gifts or finding clothing they love (4). They also "disagree a little" with the importance of recognition (9:3) and ambition (10:1), indicating a low drive for maximizing outcomes or status.
+
+Consumerism and uniqueness scales show mild nonconformity: they "agree a little" to breaking social rules about products (5:4) and creating a personal image that cannot be duplicated (1:4), but mostly "disagree a little" with seeking uniqueness through products or rejecting popular brands. This suggests a moderate preference for individuality without strong maximizing behavior.
+
+In economic games, they choose a fair split (2/3) rather than maximizing self-interest, and as receivers, they reciprocate generosity but keep a substantial share, indicating a satisficing rather than maximizing approach.
+
+Free responses reveal indecision and a wish for fairness ("I want to be fair," "I wish this let me split it 2.50/2.50!"), showing some frustration with forced discrete choices and a preference for balanced, equitable outcomes over optimal ones.
+
+Overall, the individual employs a satisficing strategy, balancing fairness and trust with self-protection, rather than relentless optimization or maximizing.
+
+## Self-concept stability  
+Self-Concept Clarity (SCC) is high, with strong agreement to "I have a clear sense of who I am" (11:5) and strong disagreement with statements about conflicting self-beliefs or frequent changes in self-opinion (all 1 or 2). They "disagree a little" with difficulty making up their mind (12:4), indicating some mild indecision but overall stable self-concept.
+
+Big Five responses show some internal contradictions: they "agree a little" to being disorganized (18:4) and careless (8:4), but also "agree a little" to being a reliable worker (13:4) and doing a thorough job (3:4). They report being moody (29:5) and tense (14:5), yet also "agree a little" to being helpful and kind (7:4) and considerate (32:4). This suggests a self-concept that integrates both positive and negative traits without conflict, consistent with a nuanced and stable self-view.
+
+Free responses reveal a gap between aspirational and actual self: the aspirational self is creative, spiritually connected, and impactful, while the actual self struggles with pain and focus but strives to fulfill responsibilities. This gap is acknowledged but not experienced as identity confusion, indicating mature self-awareness.
+
+## Behavioral vs. stated-preference gap  
+There is a notable gap between stated values and behavioral tendencies. The individual rates altruism, honesty, compassion, autonomy, equality, and harmony as highly important (mostly 8-9), yet their economic game behavior is fair but not maximally altruistic (keeping $2 of $5, sending $3). They reject the most selfish offers but accept even low offers, indicating pragmatic fairness rather than idealistic altruism.
+
+Social desirability is not explicitly reported, but the pattern of self-reports (e.g., admitting to sometimes taking advantage of others, feeling resentful, sometimes trying to get even) suggests moderate candor rather than impression management. Their self-reports of moodiness, tension, and worry contrast with moderate somatic anxiety symptoms, indicating some affective self-awareness but possible underreporting of distress.
+
+In consumerism, they express mild nonconformity but do not strongly endorse uniqueness or rule-breaking, contrasting with some free-response emphasis on creativity and individuality. This suggests a gap between idealized self-image and everyday behavior.
+
+Overall, behavioral data suggest a pragmatic, fair, and somewhat cautious individual whose stated values are idealistic but whose behavior is tempered by realism and self-protection.
+
+## Intertemporal patience  
+The individual shows moderate to high patience in intertemporal choice tasks, consistently preferring larger, later rewards over smaller, sooner ones until the delayed reward is equal or better (e.g., choosing $6 in 6 weeks over $5.75 in 5 weeks, switching only when the immediate reward equals or exceeds the delayed). This pattern holds across multiple amounts and delays, indicating a stable preference for delayed gratification.
+
+Conscientiousness is moderate, with "agree a little" to making plans and following through (38:4) but "disagree a little" to persevering until tasks are finished (28:2). Free responses reveal a struggle with pain and focus that impairs goal pursuit, suggesting that patience is more a cognitive preference than a fully realized behavioral pattern.
+
+Their economic game behavior also reflects some future orientation: they send money expecting it to be tripled and reciprocate generosity, indicating trust in future returns.
+
+Overall, the individual exhibits a patient, future-oriented decision style, moderated by somatic and affective constraints on execution.
+
+## Egocentric projection tendency  
+Low self-concept clarity and low empathy predict higher egocentric projection, but this individual scores high on SCC (stable self-concept) and high on empathy (strong agreement with items like "I usually feel sad after being with a sad friend" - 5, "I can understand my friends' happiness" - 5, "I often get swept up in friends' feelings" - 4). Political identity is strong (very liberal Democrat), which can increase projection on political issues.
+
+Given this, the individual likely exhibits moderate egocentric projection: their strong political identity may bias their judgments on policy-related uncertainty, but their high empathy and stable self-concept may temper false consensus effects in social or emotional domains.
+
+## Bias susceptibility predictions  
+**High confidence predictions:**  
+- Probability matching vs. maximizing: Likely to maximize rather than probability match, given good cognitive test performance and consistent lottery valuation choices favoring expected value maximization.  
+- Denominator neglect: Low likelihood, as they correctly interpret probabilities and percentages in multiple tasks (e.g., disease risk, lottery odds).  
+- Belief bias: Moderate risk, as some syllogistic errors (e.g., accepting invalid conclusions about China and communism) suggest occasional belief-driven reasoning overriding logic.  
+- Wason matching bias: Likely low, as they correctly identify cards to test conditional rules (choosing A but not 3 or 7), indicating good conditional reasoning.
+
+**Moderate confidence predictions:**  
+- False consensus effect: Moderate, due to strong political identity but high empathy and self-concept clarity.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, given affective tension and worry influencing some decisions.
+
+**Low confidence predictions (acknowledging limits):**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: These are not reliably predictable from cognitive ability or personality alone; no strong signals present.
+
+## Self-report reliability weighting  
+Social desirability appears moderate to low, as the individual admits to negative traits (resentment, taking advantage, irritability) and affective difficulties (moodiness, tension). Somatic symptoms (mild anxiety-related) are somewhat elevated but self-reported neuroticism is moderate, suggesting reasonable calibration with some underreporting of distress. The gap between idealized values (high altruism, honesty) and pragmatic behavior (fair but not maximally generous) suggests some aspirational bias but not gross distortion.
+
+Overall, self-reports are moderately reliable but should be weighted alongside behavioral and cognitive data, especially for affective and motivational constructs.
+
+## Summary  
+This individual is a deeply reflective, intellectually engaged thinker with a strong preference for complex, abstract problems and a stable, coherent self

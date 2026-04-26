@@ -1,0 +1,50 @@
+## Budget constraint  
+The respondent is a female aged 30-49, living in the Midwest region of the United States, with a postgraduate degree and a household income of $100,000 or more. She lives with one other person (partner), and is employed full-time. The household size of two and relatively high income suggest a moderate to comfortable financial situation, though free-response thoughts during economic games repeatedly reference bills such as mortgage, credit card, car, internet, and streaming services, indicating ongoing financial obligations and some mental accounting of expenses. She reports sometimes having trouble spending money and sometimes trouble limiting spending, suggesting a nuanced relationship with money rather than extreme scarcity or abundance. There is no explicit mention of financial stress, but the focus on bills in decision-making implies a conscious budgeting mindset. Given income and household size, a reasonable grocery spending envelope would be in the range of $150-$250 per week, reflecting middle to upper-middle class consumption but moderated by some frugality and planning.  
+
+## Values hierarchy  
+The values ratings show a strong emphasis on competence, humility, achievement, loyalty, honesty, compassion, civility, equality, and tradition, all rated highly (mostly 8-9). Power and status are rated low, indicating low priority on dominance or social rank. Pleasure and ambition are moderately high, but wealth is middling (6), suggesting financial success is valued but not paramount. The Big Five personality traits align with conscientiousness (agreeing strongly with being organized, efficient, reliable, persevering, and preferring routine), moderate agreeableness (helpful but also somewhat fault-finding), and moderate neuroticism (high worry and tension). The respondent’s values profile is mixed but leans strongly toward self-transcendence (compassion, equality, altruism) and achievement (competence, ambition, loyalty), with a strong ethical and social responsibility orientation. The acquiescence pattern is present but limited; the respondent uses a spread of values ratings, so relative structure is reliable.  
+
+## Minimalism and consumer orientation  
+The respondent explicitly disagrees strongly with minimalist statements such as avoiding excess possessions, preferring sparse environments, or “less is more.” However, she strongly agrees that she is mindful and thoughtful about what she owns and that her belongings are carefully curated and selected. This suggests a selective, quality-focused consumer orientation rather than strict minimalism. She is unlikely to be a bulk buyer or accumulation-oriented; instead, she prefers curated possessions with personal meaning or utility. She disagrees with avoiding mainstream products and does not seek uniqueness aggressively, showing low interest in lifestyle-brand shopping or novelty. She moderately challenges social norms in product use but does not seek to break customs aggressively. Confidence in these inferences is high given consistent minimalism scale responses and free-response content.  
+
+Predicted brand/category preferences: mainstream or premium brands with functional and quality appeal rather than budget or novelty brands. Likely to avoid excessive accumulation or impulse buying but willing to invest in well-chosen items.  
+
+## Risk preferences  
+Lottery and economic game behavior indicate moderate risk aversion. The respondent prefers certain smaller amounts over risky lotteries with equivalent or slightly higher expected value, rejecting lotteries in favor of sure gains until the sure amount approaches the lottery expected value. She is loss averse, accepting smaller sure losses rather than gambles with equal expected loss. The respondent’s risk perception is somewhat inconsistent (e.g., incorrectly believes inflation-adjusted savings account value remains the same), indicating moderate financial literacy but some gaps. Her conscientiousness and income level support moderate risk tolerance but with caution. She is unlikely to try unfamiliar brands or products without strong evidence of quality or value.  
+
+## Intertemporal patience  
+The respondent consistently prefers delayed larger rewards over smaller sooner rewards, choosing to wait for higher payoffs even when the delay is short (e.g., prefers $6 in 6 weeks over $5.75 in 5 weeks). This pattern suggests relatively high patience and low present bias, consistent with exponential discounting rather than hyperbolic. She also shows planning orientation in free responses, aspiring to be more organized and less overwhelmed, and reports putting off decisions more than before, indicating some procrastination but overall moderate self-control. Conscientiousness scores (high perseverance, efficiency, and planning) support this. Behavioral patience aligns well with stated patience.  
+
+## Social preferences — detailed  
+Toward strangers: Economic games show moderately selfish behavior. In the dictator game, she proposes to keep $3 and give $2 out of $5, favoring self over anonymous others. As a receiver, she rejects offers where the other keeps more than $2, indicating fairness concerns but self-interest dominance. In the trust game, she keeps all money and returns nothing, showing strong stranger-selfishness.  
+
+Toward family and close group: Values ratings show very high loyalty and tradition, and free responses emphasize family duty and respect for group decisions. She moderately agrees that family should be cared for even at personal sacrifice, though not at the highest level. This indicates a strong in-group cooperative orientation.  
+
+Toward abstract causes: She rates compassion, altruism, equality, and environmental responsibility highly and agrees somewhat with environmental concern and willingness to be inconvenienced for it. However, economic game behavior reveals a gap between stated altruism and revealed selfishness toward strangers, indicating a classic stated-vs-revealed gap.  
+
+Overall, the profile is a classic in-group cooperator: generous and loyal to family and close groups, but selfish and cautious with strangers.  
+
+## Policy and value-laden preferences  
+The respondent identifies as a liberal Democrat with strong values on equality, honesty, civility, and compassion. She supports environmental responsibility and is willing to accept inconvenience for it. She is unlikely to support policies emphasizing power, status, or dominance. Her political and value profile predicts support for progressive social policies, environmental regulation, and social welfare programs.  
+
+## Product-category predictions for the pricing study  
+Grocery staples: Moderate to high likelihood of purchase, but with price sensitivity due to moderate minimalism and budgeting mindset. Likely to prefer quality mainstream or premium brands over generics, but not bulk or party-size items. Confidence: moderate-high.  
+
+Premium branded items: Likely to purchase selectively, especially if aligned with quality and ethical values. Willing to pay a premium for trusted brands but avoids excessive accumulation. Confidence: moderate.  
+
+Bulk / party-size items: Low likelihood of purchase due to lack of accumulation preference and minimalism disagreement. Prefers just-in-time purchasing. Confidence: high.  
+
+Indulgence / novelty items: Low to moderate likelihood; not strongly novelty-seeking or uniqueness-driven, but may indulge occasionally if justified by quality or social context. Confidence: moderate.  
+
+Household necessities: High likelihood of purchase, with preference for functional, reliable, and quality products. Confidence: high.  
+
+Specific brand tiers: Avoids generic brands; prefers mainstream national brands or premium brands with ethical or quality appeal. Confidence: high.  
+
+## Willingness-to-pay calibration  
+Given income and moderate minimalism, WTP ceilings for common grocery categories likely fall in the mid to upper-middle range. For staples, WTP might be around 1.2x to 1.5x generic brand prices; for premium items, up to 2x generic prices if quality and ethical factors are salient. Bulk items will have low WTP due to low preference. Rough dollar ranges: $3-$5 for staple packaged goods, $5-$10 for premium branded items, avoiding large bulk packs unless heavily discounted.  
+
+## Self-report reliability for this file  
+The respondent shows moderate social desirability and acquiescence, but also some inconsistencies and gaps between stated and revealed preferences, especially in social domains. The strong stated altruism contrasts with selfish economic game behavior, indicating moderate trustworthiness of stated values for social preferences. Personality and minimalism scales are consistent and reliable. Overall, self-reports are moderately reliable but behavioral data should be weighted more heavily for social and economic preference predictions.  
+
+## Summary  
+This respondent is a well-educated, middle-aged Midwestern woman with a comfortable income and a strong achievement and self-transcendence value orientation. She is conscientious, organized, and moderately anxious, with a preference for planning and patience in intertemporal choices. She rejects strict minimalism but is mindful and selective about possessions, favoring quality over quantity. Socially, she is an in-group cooperator: generous and loyal to family but selfish toward strangers, as revealed in economic games. She is moderately risk-averse and cautious in financial decisions, with moderate financial literacy. The strongest single predictor of her pricing behavior is her rejection of minimalism combined with mindful curation, leading to selective purchasing of mainstream and premium brands but avoidance of bulk and novelty items.

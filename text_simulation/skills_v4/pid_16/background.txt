@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. They are male and belong to the 50-64 age group. Their highest level of education completed is some college, no degree. They identify as White and are a U.S. citizen. Their marital status is never been married. Their religion is Protestant, and they seldom attend religious services. Politically, they consider themselves an Independent and describe their political ideology as conservative. Their household income last year was between $50,000 and $75,000. They live in a household of two people and are currently unemployed.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 3 / 13.  
+This low score indicates candid and trustworthy self-reporting throughout this file, with minimal impression management bias. This caveat should be applied explicitly when interpreting personality and emotional baseline sections below.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.0  
+Agreeableness: 3.7  
+Conscientiousness: 3.7  
+Neuroticism: 2.6  
+Openness: 3.7  
+
+The participant’s Big Five profile reveals a moderately balanced interpersonal style and work habits. Extraversion is neutral (3.0), indicating neither particularly outgoing nor reserved tendencies. Agreeableness, conscientiousness, and openness are all slightly above average (~3.7), suggesting a somewhat cooperative, reliable, and open-minded individual. Neuroticism is moderate-low at 2.6, indicating relatively low emotional instability. No scores are at or near scale extremes (≤1.5 or ≥4.5). Cross-referencing neuroticism with emotional baseline measures shows consistency, as neuroticism is moderate-low and anxiety and depression scores are also low to mild.
+
+### Need for Cognition  
+Score: 3.0 / 5.  
+This score indicates a neutral stance toward effortful thinking; the participant neither strongly seeks nor avoids complex cognitive tasks.
+
+### Empathy (BES-A)  
+Score: 3.4 / 5.  
+The participant shows a moderate tendency to share and recognize others’ emotions, with some empathy but not highly sensitive.
+
+### Green Values  
+Score: 2.8 / 5.  
+The participant has a somewhat low to moderate environmental identity, showing limited but some concern for environmental responsibility.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.0  
+Vertical Individualism: 2.0  
+Horizontal Collectivism: 4.0  
+Vertical Collectivism: 4.0  
+
+The participant exhibits a strong orientation toward personal independence and equality within horizontal individualism and collectivism domains (both 4.0). Vertical individualism is low (2.0), indicating less acceptance of hierarchy and competition in individualistic contexts. Vertical collectivism is moderately high (4.0), showing respect for hierarchy and authority within group loyalty. Overall, the participant values both independence and group loyalty, with a preference for equality over hierarchy in individualistic domains but acceptance of hierarchy within collectivist groups.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 2 / 63.  
+This score falls in the minimal anxiety range (0-7). The participant reports almost no anxiety symptoms, with no notable somatic or cognitive symptom patterns. This minimal anxiety level supports the reliability of other self-reports.
+
+### Beck Depression Inventory  
+Score: 11 / 61.  
+This score falls in the mild depression range (10-18). The participant reports mild depressive symptoms, including feeling sad, discouraged about the future, less enjoyment in activities, and some self-criticism. There are no severe symptoms or clusters of physical symptoms; the pattern is mild and primarily cognitive/motivational. This mild depression is consistent with the moderate-low neuroticism and minimal anxiety, indicating a generally stable emotional baseline with some mild low mood.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be someone who is looked up to. I would like to be someone who others seek to solve a philosophical problem. I aspire to be wise."  
+- Ought self (what they feel they should be): "I ought to be responsible. I ought to fulfill my daily responsibilities. I ought to be a caring brother to my sisters."  
+- Actual self (what they believe they currently are): "I actually am dependable. I actually am a good listener. I actually am a good communicator."  
+
+The three selves are generally consistent, with the ideal self emphasizing wisdom and respect, the ought self focusing on responsibility and care for family, and the actual self describing dependable and communicative traits. There are no meaningful contradictions, indicating a coherent and stable sense of self.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant answered three items correctly and one incorrectly. The incorrect answer was the bat-and-ball problem, where they answered "9" cents for the ball cost instead of the correct $0.05. This reflects the classic intuitive trap of taking the $1 difference at face value rather than solving the algebraic problem.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+The participant answered all fluid intelligence items correctly, including matrix completion and cube rotation tasks, indicating strong fluid reasoning and spatial ability.
+
+### Crystallized Intelligence  
+Score: 9 / 20.  
+The participant answered less than half of the vocabulary/synonym/antonym items correctly. Errors suggest a vocabulary gap rather than random guessing, as plausible distractors were often chosen (e.g., selecting "facile" as synonym for "furtive" instead of "stealthy"). This indicates limited verbal knowledge or lexical sophistication.
+
+### Syllogistic Reasoning  
+Score: 8 / 12.  
+Errors occurred more on belief-biased items involving familiar or counterfactual content, indicating some influence of prior beliefs on logical reasoning. The participant tends to accept conclusions consistent with beliefs even if logically invalid.
+
+### Financial Literacy  
+Score: 8 / 8.  
+All financial literacy items were answered correctly, showing strong knowledge of mortgages, inflation, investment risk, and credit card debt.
+
+### Numeracy  
+Score: 7 / 8.  
+One error was made on the percentage conversion item ("20 out of 100" converted to 20.1% instead of 20%), indicating a minor numeric reasoning slip but overall strong numeracy skills.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All four modus ponens items were answered correctly, showing no reluctance to accept logically valid conclusions even when conflicting with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+The participant selected only the "A" card to test the rule "If there is an A on the letter side, then there is a 3 on the number side," failing to select the "7" card, which is necessary to test the rule fully. This classic matching bias indicates a common reasoning error.
+
+## Cognitive Summary  
+The participant demonstrates strong fluid intelligence and financial literacy, with perfect scores on spatial and logical reasoning tasks like fluid intelligence and modus ponens. However, crystallized intelligence is notably weaker, with many vocabulary and synonym/antonym errors suggesting limited verbal knowledge. Syllogistic reasoning shows some belief bias, and the Wason selection task reveals a classic matching bias error. Numeracy is strong with only a minor slip. The CRT score is high but includes the classic bat-ball intuitive trap. Overall, the participant’s cognitive profile is characterized by strong abstract and logical reasoning but limited verbal sophistication and some common reasoning biases.
+
+## Summary  
+This participant is a middle-aged, White, never-married male from the U.S. Midwest with some college education and currently unemployed. Personality-wise, he is moderately agreeable, conscientious, and open, with low neuroticism and a neutral extraversion level, indicating a stable and balanced interpersonal and emotional style. His empathy and environmental concern are moderate to low. Emotionally, he reports minimal anxiety and mild depression, consistent with his personality profile. Cognitively, he excels in fluid intelligence and financial literacy but shows weaknesses in crystallized intelligence and some reasoning biases such as belief bias and matching bias. The most predictive feature for downstream simulation is his strong fluid intelligence combined with a notable crystallized intelligence gap and the classic bat-ball intuitive error on the CRT, which may influence how he processes new information and solves problems.

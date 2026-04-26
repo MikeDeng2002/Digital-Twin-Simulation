@@ -1,0 +1,32 @@
+## Budget constraint  
+The respondent reports a total family income from all sources before taxes as "Less than $30,000" (income item). Employment status is "Unemployed." Household size is 4 people. These direct income and employment items define a limited budget envelope without any inference about spending style.
+
+## Values hierarchy  
+The 24-item values scale shows clear non-compressed ratings, with some values rated at the extremes. The highest-rated values (rated 9, "Highly Important to me") include Trust (item 5), Competence (6), Humility (7), Altruism (9), Loyalty (11), Harmony (14), Excitement (15), Honesty (16), Compassion (17), Autonomy (20), and Equality (21). The lowest-rated values (rated 1, "Not Important to me") include Wealth (1), Influence (4), Ambition (10), Power (13), Status (18), Civility (19), Recognition (22), Tradition (23), and Superiority (24). There is no evidence of rating compression bias here; the respondent uses the full scale with meaningful differentiation.
+
+## Minimalism and consumer orientation  
+On the 12-item minimalism scale, the respondent strongly agrees with avoiding accumulating lots of stuff (item 1), actively avoiding excess possessions (4), being mindful of what is owned (9), and carefully curating belongings (10-12). However, the respondent strongly disagrees with restricting the number of things owned (2), preferring simplicity in design (6), or being drawn to visually sparse environments (5,7,8). This suggests a nuanced minimalism: mindful and selective ownership without embracing visual or design minimalism.  
+
+Regarding consumerism and uniqueness-seeking scales, the respondent strongly disagrees with all items measuring uniqueness-seeking or consumerism orientation (items 1-7 on that scale), indicating no preference for uniqueness through consumption or breaking social norms in product use.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery over smaller certain amounts when the certain amount is substantially less than the expected lottery value, indicating risk tolerance in gains. For example, the respondent prefers the 50% chance of $6 over certain amounts up to $5.75, switching only at $6 or above. Similarly, for lotteries with higher stakes, the respondent prefers the lottery over certain amounts until the certain amount approaches or exceeds the expected value.  
+
+In loss lotteries, the respondent prefers to avoid losses and chooses the certain loss over lotteries with higher expected losses, indicating risk aversion in losses. For mixed lotteries (loss and gain), the respondent prefers the lottery over a sure zero only when the gain is sufficiently high.  
+
+In ultimatum and dictator games, the respondent proposes to keep $3 and send $2 out of $5, and as a receiver, accepts all offers including the least favorable ($0 for self). In the trust game, the respondent would send all $5 to the other person (maximizing joint payoff) and expects the other to return about half of the tripled amount, indicating trust and reciprocity.  
+
+Overall, the respondent shows risk tolerance in gains, risk aversion in losses, and moderate social preferences favoring fairness and cooperation.
+
+## Intertemporal patience  
+The respondent consistently prefers the larger delayed reward ($6 in 6 weeks) over smaller sooner rewards down to $5.75, switching preference only when the sooner reward equals or exceeds the delayed reward. This pattern holds similarly for larger amounts ($8, $10). For immediate versus one-week delayed rewards, the respondent prefers immediate smaller amounts over delayed larger amounts, indicating present bias for very short delays but patience for longer delays.  
+
+This suggests moderate intertemporal patience with some present bias for very short delays but willingness to wait for larger delayed rewards over weeks.
+
+## Social preferences  
+In the dictator game, the respondent proposes to keep $3 and send $2 out of $5. As the receiver in the ultimatum game, the respondent accepts all offers, including $0 for self, indicating high acceptance tolerance. In the trust game, the respondent would send all $5 to the other person (maximizing joint payoff) and expects the other to return about half of the tripled amount, keeping $7 and sending back $8 of $15. This indicates a high level of trust and reciprocity.  
+
+No family-versus-stranger context is tested directly.
+
+## Summary  
+The respondent has a limited budget with family income under $30,000 and is currently unemployed in a household of four. Values emphasize trust, competence, humility, altruism, loyalty, harmony, excitement, honesty, compassion, autonomy, and equality, while wealth, power, ambition, and status are rated as unimportant. The respondent practices mindful ownership and avoids excess possessions but does not embrace visual minimalism or uniqueness-seeking consumerism. Risk preferences show tolerance for risk in gains and aversion in losses, with social preferences favoring fairness, trust, and reciprocity. Intertemporal choices reveal moderate patience with some present bias for very short delays. The respondent’s social preferences in economic games reflect moderate generosity and acceptance of offers, coupled with high trust in others.

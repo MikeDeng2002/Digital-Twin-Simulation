@@ -1,0 +1,17 @@
+setting,reasoning,status,LLM_Accuracy,LLM_CI_low,LLM_CI_high,Random_Baseline,Human_Ceiling
+bg,none,missing,,,,,
+bg,low,missing,,,,,
+bg,medium,missing,,,,,
+bg,high,ok,0.696,0.669,0.723,0.605,0.803
+bg_dp,none,missing,,,,,
+bg_dp,low,missing,,,,,
+bg_dp,medium,missing,,,,,
+bg_dp,high,ok,0.69,0.667,0.714,0.598,0.803
+bg_ep,none,missing,,,,,
+bg_ep,low,missing,,,,,
+bg_ep,medium,missing,,,,,
+bg_ep,high,ok,0.696,0.67,0.721,0.589,0.803
+bg_dp_ep,none,missing,,,,,
+bg_dp_ep,low,missing,,,,,
+bg_dp_ep,medium,missing,,,,,
+bg_dp_ep,high,ok,0.695,0.668,0.722,0.588,0.803

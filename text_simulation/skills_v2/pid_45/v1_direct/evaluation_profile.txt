@@ -1,0 +1,36 @@
+## Budget constraint  
+The respondent reports a total family income of $100,000 or more before taxes (item 24). They are currently employed full-time (item 29) and live in a household of two people (item 26). No further direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows some degree of rating compression, with many values rated between 4 and 9, but the respondent did use a range of ratings from 1 to 9, indicating some differentiation. The highest-rated values are Competence (item 6) and Ambition (item 10), both rated 9, indicating these are uniquely important guiding principles. Other highly rated values include Wealth (8), Achievement (8), Trust (8), and Honesty (8). The lowest-rated values are Equality (1) and Autonomy (2), indicating these are relatively unimportant to the respondent. Civility (3), Power (4), and Status (4) are also rated relatively low. This suggests a values hierarchy emphasizing personal effectiveness, ambition, and achievement, with less emphasis on equality and autonomy.
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent shows a moderate to low endorsement of minimalism. They neither strongly avoid accumulating possessions nor strongly restrict their belongings, with some agreement to restricting the number of things owned (item 2: 4 - Agree a little) and preferring simplicity in design (item 6: 4 - Agree a little). However, they disagree with statements endorsing sparse environments or actively avoiding excess possessions (items 3,4,5,7,8 mostly 1 or 2). They also agree somewhat that they are mindful and careful about what they own (items 9 and 10: 4 - Agree a little).  
+
+Regarding consumerism and uniqueness-seeking, the respondent generally disagrees or is neutral on actively seeking uniqueness or breaking social rules in consumption (items 1,3,5,6,7: mostly 2 - Disagree a little). They agree a little that they like interesting or unusual products (items 2 and 4: 4 - Agree a little) but do not strongly seek to avoid common products or brands (items 9-12: mostly 1 or 2 - Disagree). Overall, the respondent shows mild interest in uniqueness but does not strongly identify as a consumerist or uniqueness-seeker.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over smaller certain amounts when the certain amount is substantially lower than the expected value, but switches to the certain amount when it approaches or exceeds the expected value. For example, for a 50% chance of $6 lottery, they prefer the lottery over amounts up to $3 but switch to the certain amount at $3.25 and above. Similar patterns hold for other lotteries, indicating moderate risk aversion but willingness to accept some risk.  
+
+In loss lotteries, the respondent prefers the lottery over smaller certain losses but switches to the certain loss when it becomes less negative, indicating risk aversion in losses as well.  
+
+In the ultimatum game as proposer, they choose to keep $4 and send $1 to the other person (keeping 80%). As responder, they accept all offers except the offer of $0 to self. This suggests moderate selfishness as proposer but acceptance of low offers as responder.  
+
+No direct lottery or risk preference scale scores are provided beyond these choices.
+
+## Intertemporal patience  
+The respondent consistently prefers the delayed larger reward ($6, $8, $10 in 6-7 weeks) over smaller sooner rewards when the sooner reward is substantially less, but switches to the sooner reward when it approaches the delayed reward in amount and timing. For example, for $6 in 6 weeks vs. $5.75 in 5 weeks, they prefer the delayed reward, but switch to the sooner reward at $6 in 5 weeks. Similar patterns hold for other amounts. This indicates moderate patience with some discounting of delayed rewards.  
+
+In choices between money in 1-2 weeks vs. now, the respondent shows similar patterns, preferring delayed rewards when the immediate amount is substantially less, but switching to immediate rewards as amounts approach equality.  
+
+Overall, the respondent shows moderate intertemporal patience with a discounting pattern consistent with typical behavior.
+
+## Social preferences  
+In the dictator game, the respondent proposes to keep $4 and send $1 to the other person, indicating a preference for keeping the majority of resources but giving a small positive amount. As responder in the ultimatum game, they accept all offers except the offer of $0 to self, indicating willingness to accept low offers but rejecting zero offers.  
+
+In the trust game where money sent is tripled, the respondent chooses to keep $4 and send $1 as sender. As receiver, they keep a majority of the money sent back (e.g., keep $11 of $15 when sent $5, keep $6 of $12 when sent $4, keep $6 of $9 when sent $3), indicating a relatively selfish or self-interested allocation preference.  
+
+In empathy-related items, the respondent agrees moderately that they feel others’ emotions (items 2,3,5,9,10,13-18 mostly 4 - Agree a little), but also shows some contradictory responses (item 19: 5 - Agree strongly "I am not usually aware of my friends’ feelings"), suggesting some ambivalence or inconsistency in social emotional sensitivity.
+
+## Summary  
+The respondent has a household income above $100,000 with full-time employment and a two-person household. Their values emphasize competence and ambition most strongly, with low importance placed on equality and autonomy. They show moderate minimalism, with some mindfulness about possessions but no strong avoidance of accumulation or consumerism. Risk preferences indicate moderate risk aversion, with willingness to accept some risk in gains and losses. Intertemporal choices reveal moderate patience with typical discounting of delayed rewards. Social preferences show a tendency to keep the majority of resources in economic games, though they do give small positive amounts and accept low offers as responders. Empathy measures suggest moderate but somewhat inconsistent emotional sensitivity. Overall, the profile reflects a pragmatic, achievement-oriented individual with moderate patience and risk tolerance, and a moderately self-interested but not entirely selfish social orientation.

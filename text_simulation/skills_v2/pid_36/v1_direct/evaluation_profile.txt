@@ -1,0 +1,24 @@
+## Budget constraint  
+The respondent reports a total family income of $100,000 or more before taxes (income item). She is retired (employment status) and lives in a household of two people (household size). No further direct information about spending style or budget flexibility is provided.
+
+## Values hierarchy  
+The 24-item values scale shows some rating compression, with many values rated quite high (6-9). Explicitly, the highest-rated values (rated 9) are Trust (item 5), Competence (6), Loyalty (11), Honesty (16), and Equality (21). The lowest-rated values (rated 1 or 2) include Status (18, rated 1), Recognition (22, rated 1), Wealth (1, rated 2), Power (13, rated 2), and Superiority (24, rated 2). This indicates a relative preference for social harmony, integrity, and fairness over material success or dominance.
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent agrees somewhat to avoiding accumulating lots of stuff (item 1, agree a little) and is strongly mindful of what she owns (item 9, agree strongly). However, she disagrees or is neutral on most other minimalism items, including restricting the number of things owned, preferring sparse environments, or simplicity in design. This suggests moderate minimalism with some mindfulness but not strong minimalistic preferences overall.
+
+Regarding consumerism and uniqueness-seeking, the respondent strongly disagrees with all statements about seeking uniqueness through products or breaking social norms for consumption (items 1-4 all disagree strongly). However, she agrees a little or strongly with items indicating she has violated social group rules about product use (items 5-7). She disagrees strongly with avoiding popular products or brands (items 9-12). This pattern indicates low consumerism and uniqueness-seeking in terms of product acquisition, but some willingness to challenge social norms in product use.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over certain smaller amounts until the certain amount approaches or exceeds the expected value, indicating moderate risk aversion. For example, she prefers a 50% chance at $6 over any certain amount less than $6, but switches preference when the certain amount reaches or exceeds $6. Similarly, for lotteries with higher stakes, she prefers the lottery until the certain amount is close to or above the expected value. For losses, she prefers certain smaller losses over lotteries with larger potential losses, indicating risk aversion in losses as well.
+
+In the WTA/WTP dictator and ultimatum games, she proposes to keep $2 and send $3 to the other person, and as a receiver, she accepts all offers including the least favorable ($0 for self). In the trust game, she would send all $5 to the other person (maximizing the tripled amount) and as receiver, she would keep $5 and send back $10 out of $15, indicating a generous but balanced social preference.
+
+## Intertemporal patience  
+In intertemporal choice tasks involving delayed monetary rewards, the respondent consistently prefers the larger, later reward over smaller, sooner rewards, even when the delay difference is small. For example, she chooses $6 in 6 weeks over $3 to $7 in 5 weeks, and similarly for other amounts and delays. This pattern indicates high patience and a strong preference for delayed rewards over immediate smaller rewards.
+
+## Social preferences  
+In the dictator game, the respondent proposes to keep $2 and give $3 to the other person. In the ultimatum game, she accepts all offers, including the least favorable. In the trust game, she sends the full $5 to the other person and, as receiver, keeps $5 and returns $10 out of $15. These choices indicate a prosocial orientation with generosity and fairness. The respondent’s written statements reinforce this, expressing a strong desire to help others without expecting rewards and prioritizing others’ needs over her own.
+
+## Summary  
+The respondent has a household income above $100,000 and is retired, living with one other person. Her values emphasize trust, competence, loyalty, honesty, and equality, while material success and status are relatively unimportant. She exhibits moderate minimalism with mindfulness about possessions but does not strongly avoid accumulation or prefer sparse environments. Consumerism and uniqueness-seeking are low, though she sometimes challenges social norms in product use. She shows moderate risk aversion in lotteries and losses, high intertemporal patience favoring delayed rewards, and prosocial social preferences with generous allocations in economic games. Her expressed motivations align with helping others and fairness without seeking personal gain.

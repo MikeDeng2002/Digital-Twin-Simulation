@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the South region of the United States. She is female, aged between 50 and 64 years old, and has completed postgraduate education. She identifies as White and is a U.S. citizen. Her marital status is widowed. She follows the Roman Catholic religion but never attends religious services aside from weddings and funerals. Politically, she identifies as an Independent with moderate political views. Her household income last year was between $75,000 and $100,000. She lives alone in a household of one and is currently retired.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of candor in self-reporting, with some potential for impression management but generally trustworthy responses. This caveat should be applied when interpreting personality and emotional baseline data.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.3 (approximate average from item responses)  
+Agreeableness: 3.3  
+Conscientiousness: 4.3 (notably high, near the upper range)  
+Neuroticism: 3.0 (moderate)  
+Openness: 3.7  
+
+The profile reveals a conscientious individual with strong work habits and reliability, as indicated by a high conscientiousness score (>=4.3). She is moderately extraverted and agreeable, suggesting a somewhat sociable and cooperative interpersonal style but not highly outgoing. Neuroticism is moderate, indicating average emotional stability, though some items suggest mild moodiness. Openness is above average, reflecting curiosity and appreciation for new ideas and artistic experiences. There are no extreme scores at or near scale extremes (<=1.5 or >=4.5) except conscientiousness, which is near the high extreme. Neuroticism is moderate and consistent with emotional baseline findings.
+
+### Need for Cognition  
+Score: 3.6 / 5 (based on average item responses)  
+This indicates a moderate to strong enjoyment and tendency to seek out effortful thinking and intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 3.9 / 5 (approximate average)  
+The participant shows a clear tendency to share and recognize others’ emotions, with strong empathic responses to friends’ feelings and emotional cues.
+
+### Green Values  
+Score: 3.3 / 5 (approximate average)  
+She expresses moderate environmental identity, showing some concern for environmental impact and willingness to take environmentally friendly actions, though not strongly committed.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 4.5 (high)  
+Vertical Individualism: 2.0 (low)  
+Horizontal Collectivism: 4.5 (high)  
+Vertical Collectivism: 2.0 (low)  
+
+The participant strongly values personal independence and equality (high horizontal individualism and collectivism), indicating a preference for autonomy and egalitarian relationships both personally and within groups. She shows low endorsement of hierarchy or dominance in either individualistic or collectivistic domains (low vertical scores), suggesting a preference for non-hierarchical social structures and group relations.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63.  
+This score falls in the minimal anxiety range, with no reported symptoms of anxiety, either somatic or cognitive. The absence of anxiety symptoms supports the reliability of self-reports in this domain.
+
+### Beck Depression Inventory  
+Score: 9 / 61 (approximate based on item responses)  
+This score is at the upper limit of the minimal range or very mild depression. The participant reports some cognitive and motivational symptoms such as reduced satisfaction and feelings of guilt and disappointment, but no severe or physical symptom clusters. There is no indication of severe depression.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I am an old woman, so a lot of my aspirations have waned. My current aspirations have more to do with what kind of person I want to be and what kind of life I want to lead, rather than what degrees or promotions I want to get or material things I want to have. I do aspire to be happy, engaged with the world, kind, healthy and fit."  
+- Ought self (what they feel they should be): "At this stage of life, given the freedom I have, I ought to be helping the world through work or volunteerism. I ought to be fostering relationships with friends, family and community. I ought to be supporting causes I believe in. I ought to be working on building a legacy. I ought to be cleaning up my affairs so that those I leave behind won't have to."  
+- Actual self (what they believe they currently are): "Wow, this is going to feel harsh for $7, because MOST people do not live up to their ideals. I can say I am better than I was before. Since making a big life change a couple years ago (I retired), I am eating better, sleeping better, stress is reduced, I am exercising more and I am keeping up with medical appointments. So I am improving on the health and fitness axis, but I am still fat and out of shape and I haven't done the dental work I need. I began volunteering with an organization that raises guide dog puppies, so that hits supporting causes, community engagement, and to some extent, building relationships. But I am not working a paid job though I am still young enough that I could be, and I have some guilt about that. On the relationships axis, I am finally able to make time to work on friendships and family relationships. I've visited my elderly father twice since retiring and I'm touching base with friends more often. But again, could be doing more. On the legacy axis, I have gotten my finances cleaned up and I am making repairs and upgrades on my house, which had been deferred over the busier years. But I still need to work on an estate plan and I need to make a second go at cleaning out my junk so that the person who gets here at the end doesn't have a giant mess. I do spend far too much time on the internet and watching TV. I am disappointed in myself for that. But I'm a bit afraid to spend my nest egg, given how unsettled everything is. I know that time's a-wasting and there will come a time when I physically can't do these things. But's it's scary to start spending down that nest egg, give that we in the USA don't take care of our sick and elderly. So yeah, I am still a work in progress."  
+
+The three selves show meaningful gaps. The ideal and ought selves emphasize engagement, kindness, health, legacy, and social contribution, while the actual self acknowledges progress but also significant shortcomings and ambivalence, especially regarding health, productivity, and legacy work.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4.  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 6 / 6.  
+All items answered correctly, showing strong fluid reasoning abilities with no clustering of errors.
+
+### Crystallized Intelligence  
+Score: 20 / 20.  
+Perfect score, indicating excellent vocabulary and verbal knowledge with no evidence of guessing.
+
+### Syllogistic Reasoning  
+Score: 7 / 12.  
+Errors occurred more on belief-biased items involving counterfactual or familiar content, suggesting reasoning is somewhat influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 7 / 8.  
+Missed one item: incorrectly answered the statement "After age 70 and a half, you have to withdraw at least some money from your 401(k) plan or IRA" as false (correct answer is true). This reveals a specific knowledge gap about retirement account withdrawal rules.
+
+### Numeracy  
+Score: 8 / 8.  
+All numeracy items answered correctly, indicating strong numeric reasoning including probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4.  
+All items answered correctly, showing no reluctance to accept logically valid conclusions even if they conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+Selected card A only, exhibiting the classic matching bias by failing to select the logically necessary card 7. This indicates a common reasoning error in conditional rule testing.
+
+## Cognitive Summary  
+The participant demonstrates strong overall cognitive abilities, with perfect or near-perfect scores in fluid and crystallized intelligence, CRT, numeracy, and modus ponens tasks. Financial literacy is high but shows a specific gap in knowledge about required minimum distributions from retirement accounts. Syllogistic reasoning errors suggest some influence of belief bias. The Wason selection task reveals a classic matching bias error, a common cognitive limitation in conditional reasoning. These cognitive strengths align well with her postgraduate education and moderate-to-high need for cognition.
+
+## Summary  
+This participant is a well-educated, retired White female in her early 50s to mid-60s living alone in the Southern U.S. She is conscientious, moderately extraverted, and open to new experiences, with a balanced emotional profile showing minimal anxiety and mild depressive symptoms. Her empathy is strong, and she values independence and egalitarian social relations. Cognitively, she is highly capable, with excellent fluid and crystallized intelligence and reflective reasoning, though she exhibits some belief bias and a classic reasoning error on the Wason task. The most predictive feature for downstream simulation is her high conscientiousness combined with meaningful gaps between her ideal, ought, and actual selves, reflecting a self-aware, motivated individual who is actively working on self-improvement but experiences some amb

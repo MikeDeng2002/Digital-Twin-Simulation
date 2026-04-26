@@ -1,0 +1,74 @@
+## Effort regulation and cognitive style  
+This individual exhibits a high Need for Cognition (NFC), strongly preferring complex problems and intellectual challenges, as evidenced by maximal agreement with items such as "I prefer complex to simple problems" (5), "I like to have the responsibility of handling a situation that requires a lot of thinking" (4), and "I really enjoy a task that involves coming up with new solutions to problems" (4). They strongly disagree with statements indicating avoidance of thinking or mental effort, such as "I only think as hard as I have to" (1) and "I try to anticipate and avoid situations where there is likely chance I will have to think in depth" (1). This suggests a deliberate, analytical cognitive style with sustained effort regulation.
+
+Cognitive test performance supports this: the participant correctly answered most cognitive puzzles and logical reasoning tasks, including syllogistic reasoning and spatial rotation problems, with only minor uncertainty (e.g., choosing "I do not know" on one cube rotation task). They correctly solved classic cognitive reflection test items (bat and ball, lily pad doubling), indicating good analytical reasoning and avoidance of impulsive errors. However, there is a notable specific error pattern in the financial literacy domain: the participant incorrectly identified stocks as the asset with the highest long-term return, choosing savings account instead, indicating a domain-specific misconception or knowledge gap.
+
+Big Five personality responses show high Conscientiousness: "Does a thorough job" (5), "Is a reliable worker" (5), "Perseveres until the task is finished" (5), "Does things efficiently" (5), and "Makes plans and follows through with them" (5). This aligns with the high NFC and suggests disciplined effort regulation. The participant is reserved and quiet ("Is reserved" 5, "Is talkative" 1), indicating a reflective, introverted style that likely supports deep cognitive engagement.
+
+Free responses reinforce this analytical depth: the participant describes themselves as "thoughtful in the true sense of the word," "kind when given the opportunity," and "self-motivated," emphasizing focus and solitude as facilitators of their cognitive work. They also express a preference for "screening out as much world-noise as possible" to achieve self-enrichment and spiritual growth, indicating a deliberate control over cognitive and environmental inputs.
+
+## Closure and uncertainty tolerance  
+The participant scores very high on Need for Closure (NFCC), strongly agreeing with statements such as "I don’t like situations that are uncertain" (5), "I don’t like to go into a situation without knowing what I can expect from it" (5), and "When I have made a decision, I feel relieved" (5). They also agree that they "find that establishing a consistent routine enables me to enjoy life more" (5) and "enjoy having a clear and structured mode of life" (5). This profile indicates a strong preference for order, predictability, and quick resolution of ambiguity.
+
+Behaviorally, this is consistent with their intertemporal choices, where they consistently prefer smaller-sooner rewards over larger-later ones until the delayed reward is equal or better, indicating impatience and intolerance for delay or uncertainty. Their free responses about decision-making show a preference for solitude and control, avoiding chaotic social dynamics, which may reflect a strategy to reduce uncertainty in social contexts.
+
+Despite this, the participant disagrees with statements indicating irritation at dissent ("I feel irritated when one person disagrees with what everyone else in a group believes" - 2), suggesting that their intolerance for uncertainty is more about personal cognitive and environmental control than social conformity pressure.
+
+## Optimization strategy  
+The participant identifies strongly as a maximizer, endorsing "No matter what I do, I have the highest standards for myself" (5) and "I never settle for second best" (5). They also report difficulty shopping for gifts (5) and somewhat difficulty finding clothing they love (4), indicating a tendency toward careful, high-standard selection rather than satisficing.
+
+However, their consumerism profile is nuanced: they strongly reject minimalism and simplicity in possessions ("I avoid accumulating lots of stuff" - 1, "I prefer simplicity in design" - 1), yet they report being "mindful of what I own" and that their belongings are "carefully curated" (all 5). This suggests a selective, deliberate acquisition strategy focused on uniqueness and personal expression rather than minimalism.
+
+Their uniqueness and consumer identity scales show a strong drive for distinctiveness and nonconformity: they "often combine possessions to create a personal image that cannot be duplicated" (5), "enjoy challenging prevailing tastes" (5), and "dislike products customarily bought by everyone" (5). This indicates an optimization strategy that values originality and personal identity over social norms or mass appeal.
+
+Free responses about economic games reveal a pragmatic, self-protective approach: when deciding how much money to keep or send, they express thoughts like "I would always keep more for myself," "I was never given anything in life and am hesitant to do the same," and "I don't know this person and don't owe them anything." This suggests a cautious maximization of self-interest in social-economic exchanges, tempered by some willingness to reciprocate when given something.
+
+## Self-concept stability  
+Self-Concept Clarity (SCC) items show moderate instability: the participant agrees "My beliefs about myself often conflict with one another" (4), "On one day I might have one opinion of myself and on another day a different opinion" (4), and "I spend a lot of time wondering about what kind of person I really am" (4). They also agree that "If I were asked to describe my personality, my description might end up being different from one day to another day" (4) and "Even if I wanted to, I don't think I would tell someone what I'm really like" (4). They disagree somewhat with "In general, I have a clear sense of who I am" (2).
+
+This pattern indicates a moderately fragmented and evolving self-concept, with some internal conflict and uncertainty about identity. The aspirational vs. actual self free responses confirm this: the participant aspires to be connected with nature and spiritual growth, but acknowledges a gap with their "ought" self, especially regarding family responsibilities, which they do not fulfill due to valuing solitude more.
+
+Big Five items show some contradictions consistent with this: they agree they are "moody" (4) and "worried a lot" (4), but also "relaxed, handles stress well" only a little (2). They report being "sometimes shy, inhibited" (5) and "reserved" (5), but also "curious about many different things" (5) and "original" (4). This mix suggests a complex, somewhat ambivalent self-view.
+
+## Behavioral vs. stated-preference gap  
+There is a notable gap between stated values and revealed behavior in social-economic games. The participant states high values on honesty (9), competence (9), harmony (9), and autonomy (9), but low values on ambition (1), influence (1), power (1), and recognition (1). They also rate altruism low (2) but loyalty and politeness high (8).
+
+In dictator and ultimatum games, they propose to keep a majority share ($3 of $5) but offer $2 to the other, and as a receiver, they accept all offers, even the lowest. In the trust game, they keep all the money for themselves and send nothing, but as receiver, they return a substantial portion (e.g., keep $10 of $15 and send $5 back). This asymmetry suggests a cautious, self-protective stance when in control, but a somewhat generous or norm-compliant stance when in a reactive role.
+
+Their free responses confirm this: they think "I would always keep more for myself," "I was never given anything in life," and "I don't owe them anything," indicating a guarded, self-interested approach despite valuing harmony and politeness. The social desirability score is not explicitly given, but the participant's self-reports show some socially desirable answers (e.g., "I am always courteous" - 2 TRUE, "I’m always willing to admit when I make a mistake" - 2 TRUE), yet also admit to taking advantage of others (2 TRUE), indicating moderate social desirability bias.
+
+Overall, behavioral data should be weighted more heavily than self-reports in social preference domains, as the participant’s behavior reveals pragmatic self-interest and guarded reciprocity that contrasts with their stated high harmony and altruism values.
+
+## Intertemporal patience  
+The participant consistently prefers immediate smaller rewards over delayed larger rewards until the delayed reward is equal or better, indicating impatience and low intertemporal patience. This is supported by their high Conscientiousness and planning ("Makes plans and follows through" 5), but also by their strong Need for Closure and intolerance of uncertainty, which likely drive a preference for immediate resolution and reward.
+
+Free responses do not indicate procrastination but rather a preference for solitude and focused work, suggesting that impatience is not due to lack of discipline but rather a cognitive-affective preference for certainty and immediacy.
+
+## Egocentric projection tendency  
+Moderate self-concept clarity instability combined with high empathy scores (e.g., "After being with a friend who is sad, I usually feel sad" - 5, "I can usually work out when my friends are scared" - 5) suggests moderate egocentric projection. The participant is emotionally attuned to others but maintains a somewhat private, reserved self, which may reduce false consensus effects.
+
+Political identity is moderate: identifies as Democrat and liberal but with low social conformity and influence values, suggesting moderate political identity strength. This combination predicts moderate false consensus bias, with some projection of own views but tempered by awareness of social complexity.
+
+## Bias susceptibility predictions  
+**High confidence predictions:**  
+- Probability matching vs. maximizing: Likely to maximize given high NFC and analytical style, avoiding probability matching.  
+- Denominator neglect: Low likelihood due to strong numeracy and cognitive reflection performance.  
+- Belief bias: Low, as participant correctly applies logical rules in syllogistic reasoning.  
+- Wason matching bias: Low, given correct selection of cards to test rules.
+
+**Moderate confidence predictions:**  
+- False consensus effect: Moderate, due to moderate SCC instability and empathy.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, as participant shows some affective responses but also analytical reasoning.
+
+**Low confidence predictions (acknowledging limits):**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/ certainty effects, myside bias: These are not reliably predictable from the data.
+
+## Self-report reliability weighting  
+The participant’s social desirability bias appears moderate: they admit to some socially undesirable behaviors (taking advantage of others) and negative emotions (feeling sad, discouraged), but also present themselves as conscientious and polite. The somatic symptom report shows low anxiety symptoms, but self-reported Neuroticism is somewhat elevated (e.g., "Worries a lot" 4, "Moody" 4), indicating reasonable calibration between somatic and self-report data.
+
+There is a notable stated-vs-revealed gap in social preferences and economic games, suggesting that self-reports on social values should be discounted somewhat, while cognitive and personality self-reports are more reliable.
+
+## Summary  
+This participant is a highly conscientious, analytical thinker with a strong preference for cognitive effort and complexity. They exhibit a strong need for closure and intolerance of uncertainty, favoring structured, predictable environments and quick decision resolution. Their optimization strategy is characterized by high standards and a drive for uniqueness and personal identity expression, rejecting minimalism but curating possessions carefully.
+
+Self-concept is moderately unstable, with some internal conflict and a gap between aspirational and actual selves, especially regarding family obligations versus valued solitude. Behavioral economic choices reveal a guarded, self-interested approach tempered by conditional reciprocity,

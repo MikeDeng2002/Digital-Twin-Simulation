@@ -1,0 +1,26 @@
+## Budget constraint  
+The respondent reports a total family income before taxes in the range of $75,000 to $100,000 (Question: Last year, total family income). Employment status is "Home-maker" (Question: Current employment status). Household size is "More than 4" people (Question: Number of people in household). No other direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows some rating compression, with many values rated in the mid to high range (mostly 4 to 9). The highest-rated values are Loyalty (Item 11), Harmony (Item 14), Honesty (Item 16), and Equality (Item 21), each rated 9 (Highly Important). The lowest-rated values are Recognition (Item 22) and Superiority (Item 24), each rated 1 (Not Important). Other values such as Trust (Item 5) and Competence (Item 6) are rated 8, while Status (Item 18) and Power (Item 13) are rated low (2 and 3 respectively). This indicates a relative preference for social harmony, loyalty, honesty, and equality, and a relative disinterest in status, recognition, and dominance.
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent disagrees strongly with avoiding accumulating stuff and restricting possessions (Items 1 and 2: Disagree strongly). They neither agree nor disagree or disagree a little on most other minimalism items, with some mild agreement on preferring simplicity in design (Item 6: Agree a little) and being thoughtful about what they choose to own (Item 11: Agree a little). Overall, the respondent does not endorse minimalism strongly and tends to disagree with owning fewer things or sparse environments.
+
+Regarding consumerism and uniqueness-seeking, the respondent neither agrees nor disagrees or agrees a little with statements about seeking uniqueness through products (e.g., Items 1, 5: Neither agree nor disagree; Items 2, 3, 4: Agree a little). They disagree a little with breaking social rules about product use or ownership (Items 6, 7, 8: Disagree a little). They agree a little that they avoid products bought by the general population and dislike products customarily bought by everyone (Items 10, 11: Agree a little). This suggests a mild preference for uniqueness and some consumer distinctiveness, but not strong rule-breaking or rebellion in consumption.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over certain smaller amounts when the certain amount is substantially less than the expected lottery value, indicating some risk tolerance. For example, in a 50% chance to win $6 vs. certain amounts, they prefer the lottery over amounts up to about $3.50, switching preference to the certain amount at $4.00 and above. Similar patterns hold for other lotteries with different payoffs. For losses, the respondent prefers the lottery over smaller certain losses, indicating risk aversion in losses but with some tolerance.
+
+In the ultimatum game, the respondent proposes to keep $3 and send $2 to the other person and would accept all offers from $0 to $5 sent to them, indicating acceptance of all splits. In the dictator game with tripled amounts, the respondent keeps all $5 and sends $0, and as receiver, keeps a majority of the money sent back, indicating self-interest in this context.
+
+Overall, the respondent shows moderate risk tolerance in gains, some risk aversion in losses, and self-interested behavior in economic games.
+
+## Intertemporal patience  
+The respondent consistently prefers the larger delayed reward ($6 in 6 weeks) over smaller sooner rewards up to about $5.50 in 5 weeks, switching preference to the sooner reward at $5.75 and above. Similar patterns hold for other delayed reward tasks with different amounts and delays. This indicates moderate patience with some discounting of delayed rewards but willingness to wait for moderately larger amounts.
+
+## Social preferences  
+In the ultimatum game, the respondent proposes to keep $3 and send $2 to the other person and would accept all offers from the other person, including offers where the other keeps $5 and sends $0. In the dictator game with tripled amounts, the respondent keeps all $5 and sends $0. When receiving money in the tripled game, the respondent tends to keep a majority share and send back a smaller portion, indicating a self-interested but somewhat reciprocal approach. This suggests moderate fairness concerns but a preference for self-interest in social allocation decisions.
+
+## Summary  
+The respondent has a family income between $75,000 and $100,000, is a home-maker in a household of more than four people. Their values emphasize loyalty, harmony, honesty, and equality, with low importance placed on recognition and superiority. They do not strongly endorse minimalism and show mild uniqueness-seeking in consumption without strong rule-breaking tendencies. Risk preferences indicate moderate risk tolerance for gains and some aversion to losses. Intertemporal choices reveal moderate patience with delayed rewards. Social preferences in economic games show a balance between fairness and self-interest, with acceptance of all ultimatum offers but self-interested behavior in dictator games.

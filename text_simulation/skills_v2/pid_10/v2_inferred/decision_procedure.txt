@@ -1,0 +1,56 @@
+## Effort regulation and cognitive style  
+The respondent demonstrates a strong preference for engaging in complex and effortful cognitive tasks, as indicated by high Need for Cognition (NFC) scale items such as "I would prefer complex to simple problems" (NFC item 1: 5 - Agree strongly), "The notion of thinking abstractly appeals to me" (NFC item 14: 5 - Agree strongly), and "I would prefer a task that is intellectual, difficult, and important" (NFC item 15: 5 - Agree strongly). They also disagree strongly with statements indicating avoidance of thinking effort (NFC items 3, 4, 5, 7, 12, 13 all 1 - Disagree strongly). This suggests a cognitive style oriented toward deep, sustained thinking and intellectual challenge.
+
+Cognitive test performance supports this self-description: the respondent correctly answered most logic and reasoning problems, including syllogistic reasoning and analogies, with a self-estimated accuracy of 36/42, well above the population average estimate of 16/42. They correctly solved puzzles involving spatial rotations and pattern completions, and demonstrated good vocabulary knowledge (synonyms and antonyms) with mostly accurate answers.
+
+However, some error patterns emerge. For example, in the cube rotation tasks, the respondent selected options that do not perfectly match the cube rotations (e.g., choosing option B when the correct rotation was option A in one instance), indicating occasional lapses in spatial reasoning or attention to detail. Also, the respondent admits to being "easily distracted" (Big Five item 43: 5 - Agree strongly) and "somewhat careless" (Big Five item 8: 4 - Agree a little), which may moderate their otherwise strong cognitive engagement.
+
+Conscientiousness is moderate to low: "Does a thorough job" (Big Five item 3: 4 - Agree a little), "Is a reliable worker" (item 13: 4 - Agree a little), but also "Tends to be disorganized" (item 18: 4 - Agree a little) and "Can be careless" (item 8: 4 - Agree a little). This suggests some inconsistency in effort regulation, with a tendency toward carelessness or distraction despite valuing thoroughness.
+
+## Closure and uncertainty tolerance  
+The respondent shows moderate need for closure (NFCC) with some intolerance for uncertainty. They "dislike situations that are uncertain" (NFCC item 1: 4 - Agree a little), "feel uncomfortable when I don’t understand the reason why an event occurred" (item 4: 4 - Agree a little), and "don’t like to go into a situation without knowing what I can expect" (item 6: 5 - Agree strongly). They also "enjoy having a clear and structured mode of life" (item 13: 5 - Agree strongly) and "find that establishing a consistent routine enables me to enjoy life more" (item 12: 5 - Agree strongly). These indicate a preference for order and predictability.
+
+At the same time, the respondent "dislikes questions which could be answered in many different ways" only slightly (item 2: 2 - Disagree a little), and "dislike it when a person’s statement could mean many different things" also slightly (item 11: 2 - Disagree a little), suggesting some tolerance for ambiguity.
+
+Behaviorally, the respondent took time to answer cognitive tests carefully, as the survey enforced minimum time per question, but their free responses indicate some impatience with unresolved problems ("When I am confronted with a problem, I’m dying to reach a solution very quickly" NFCC item 8: 5 - Agree strongly). They also "would quickly become impatient and irritated if I would not find a solution immediately" (item 9: 4 - Agree a little). This suggests a relatively fast commitment speed in reasoning, with low tolerance for prolonged uncertainty.
+
+Decision consistency is high, as the respondent’s choices in intertemporal and lottery tasks are coherent and systematic, further supporting moderate closure and intolerance for uncertainty.
+
+## Optimization strategy  
+The respondent scores low on maximizing tendencies. They "never settle for second best" (Maximizer item 6: 2 - Disagree a little) and "have the highest standards for myself" only somewhat (item 5: 2 - Disagree a little). They "often find it difficult to shop for a gift" and "have a hard time finding clothing that I really love" (items 3 and 4: 4 - Agree a little), indicating some difficulty in choice but not strong maximizing behavior.
+
+They "disagree strongly" with "I often check other stations to see if something better is playing" (item 1: 1 - Disagree strongly), and "No matter how satisfied I am with my job, it’s only right for me to be on the lookout for better opportunities" (item 2: 2 - Disagree a little), suggesting satisficing or contentment in many domains.
+
+No domain-specific exceptions are evident; the respondent appears to apply a generally satisficing approach across domains, including social and consumer choices.
+
+## Self-concept stability  
+The respondent reports a stable and clear self-concept. They "disagree strongly" with statements indicating self-concept conflict or fluctuation (e.g., "My beliefs about myself often conflict" item 1: 1 - Disagree strongly; "On one day I might have one opinion of myself and on another day a different opinion" item 2: 1 - Disagree strongly). They "agree strongly" that "In general, I have a clear sense of who I am and what I am" (item 11: 5 - Agree strongly).
+
+No contradictions appear between self-descriptions and free responses. The aspirational self emphasizes creativity, connection to divinity, and making the world better, while the actual self acknowledges pain and difficulty focusing but also a love of learning and creating order. The respondent’s self-concept is coherent and stable.
+
+## Behavioral vs. stated-preference gap  
+A meaningful gap exists between the respondent’s stated values and their behavioral or self-reported limitations. They highly value altruism, harmony, honesty, compassion, autonomy, and equality (Values items 9, 14, 16, 17, 20, 21 all rated 8 or 9 - Highly important), and their economic game behavior reflects generosity: in the dictator game, they propose to keep $2 and give $3 to the other person, and as receiver, they accept all offers except the one where the sender keeps all $5. In the trust game, they send $2 (out of $5) and return a fair share to the sender, indicating reciprocity and fairness.
+
+However, their free-response about the "person they ought to be" reveals a struggle with fulfilling responsibilities, including employment and household tasks, due to pain and focus difficulties. They express a desire to contribute more financially and socially but acknowledge falling short.
+
+This gap implies that while the respondent holds strong prosocial and ethical values, their current physical and cognitive constraints limit their ability to fully enact these values in behavior. This may affect reasoning reliability under stress or pain, and suggests self-report trustworthiness is high for values but moderated by situational limitations in behavior.
+
+## Intertemporal patience  
+The respondent consistently prefers larger, later rewards over smaller, sooner ones in intertemporal choice tasks, choosing the delayed option until the immediate reward becomes equal or better (e.g., preferring $6 in 6 weeks over $5.75 in 5 weeks, but switching when immediate reward equals or exceeds delayed). This pattern indicates moderate to high patience.
+
+Conscientiousness is moderate: "Makes plans and follows through" (Big Five item 38: 4 - Agree a little), "Does a thorough job" (item 3: 4 - Agree a little), but also some disorganization and carelessness. The respondent’s free responses indicate difficulty maintaining focus and energy, which may limit long-term planning despite preference for delayed rewards.
+
+Overall, the respondent shows a preference for delayed gratification consistent with moderate intertemporal patience, tempered by some practical difficulties in execution.
+
+## Bias susceptibility predictions  
+Predictable from cognitive signals:  
+- Probability matching vs. maximizing: The respondent’s lottery choices show a tendency to accept sure amounts close to expected values, suggesting a maximizing approach rather than probability matching. Confident prediction: low probability matching bias.  
+- Denominator neglect: The respondent correctly interprets probabilities and percentages in multiple tasks (e.g., lottery winning chances, disease probabilities), indicating low denominator neglect.  
+- Belief bias in syllogisms: The respondent correctly accepts logically valid conclusions even when content is counterintuitive (e.g., "All unemployed people are poor" premises), suggesting low belief bias.  
+- Wason matching bias: The respondent correctly identifies the card to turn over to test the rule (choosing A), indicating low Wason matching bias.
+
+Weakly predictable or not predictable from cognitive signals:  
+- Framing effects, anchoring and adjustment, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, myside bias: These biases cannot be confidently predicted from the available data. The respondent’s cognitive style and values suggest some resistance to myside bias due to openness to others’ feelings and cooperation, but this remains speculative.
+
+## Summary  
+The respondent exhibits a cognitive style characterized by strong engagement with complex, abstract thinking and a preference for intellectual challenge, supported by good performance on reasoning and vocabulary tests. They show moderate conscientiousness

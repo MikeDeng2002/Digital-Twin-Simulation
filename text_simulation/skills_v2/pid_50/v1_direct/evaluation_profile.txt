@@ -1,0 +1,24 @@
+## Budget constraint  
+The respondent is retired and lives in a household of two people. Their total family income last year was between $50,000 and $75,000 before taxes.  
+
+## Values hierarchy  
+The 24-item values scale shows some rating compression, with several values rated highly (7 to 9) and others rated low (1 to 4). The highest-rated values (rated 9) are Competence (item 6), Harmony (14), Honesty (16), and Autonomy (20). The lowest-rated values (rated 1) are Influence (4), Ambition (10), Power (13), Status (18), Recognition (22), and Superiority (24). This indicates a relative preference for personal effectiveness, social harmony, sincerity, and independence, and a relative disinterest in power, status, and dominance.  
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent strongly disagrees (1) with all statements reflecting minimalism or preference for sparse possessions and environments (items 1-8). However, they strongly agree (5) with all four items (9-12) indicating mindfulness and careful curation of possessions. This suggests a consumer orientation that is not minimalist in the sense of owning few things or preferring sparse environments, but rather one that values thoughtful and deliberate ownership.  
+
+Regarding consumerism and uniqueness-seeking, the respondent strongly agrees (5) that they combine possessions to create a unique personal image (item 1), strongly agree (5) that they enjoy challenging prevailing tastes by buying products others would not accept (item 8), and strongly agree (5) that they avoid products bought by the general population (items 10-12). They disagree strongly (1) with actively seeking special products or brands (item 3). Overall, this indicates a strong preference for uniqueness and nonconformity in consumption, but not necessarily through branded or special products.  
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over certain smaller amounts of money, indicating risk tolerance in gains. For example, in lotteries with 50% chance of winning various amounts ($6, $8, $10), they prefer the lottery over certain amounts up to the expected value and beyond. In loss lotteries (50% chance of losing $6, $8, $10), they prefer to avoid losses and choose safer options, indicating risk aversion in losses.  
+
+In the ultimatum game, the respondent proposes to keep $3 and send $2 to the other person, and as a receiver, accepts all offers from $0 to $5 for themselves, showing acceptance of all offers. In the dictator game with tripled amounts, the respondent keeps all $5 and sends $0, and as receiver, returns a moderate share (e.g., keeps $10 of $15 and sends $5 back). This suggests a somewhat self-interested but not entirely selfish social preference.  
+
+## Intertemporal patience  
+The respondent consistently prefers the larger, later monetary rewards over smaller, sooner rewards across multiple intertemporal choice tasks with delays ranging from 1 week to 7 weeks. For example, they choose $6 in 6 weeks over $3 in 5 weeks, and continue to prefer the delayed $6 over increasing immediate amounts up to $5.75. Only when the immediate amount equals or exceeds the delayed amount do they switch preference. This pattern indicates relatively high patience and willingness to wait for larger rewards.  
+
+## Social preferences  
+In the economic games, the respondent proposes to keep $3 and send $2 in the ultimatum game, and accepts all offers as receiver, indicating moderate fairness and acceptance of unequal splits. In the dictator game with tripled amounts, they keep all $5 and send $0, showing self-interest in giving decisions. As receiver, they return a moderate share of money received (e.g., keep $10 of $15 and send $5 back), indicating some reciprocity but a preference to keep more for themselves.  
+
+## Summary  
+The respondent has a moderate household budget with retirement income between $50,000 and $75,000 and lives with one other person. Their values emphasize competence, harmony, honesty, and autonomy, while power and status are unimportant. They reject minimalism in favor of mindful and curated ownership and strongly seek uniqueness and nonconformity in consumption. They display risk tolerance in gains but risk aversion in losses. Their intertemporal choices reveal patience and preference for larger delayed rewards. Socially, they show moderate fairness in ultimatum offers, accept all offers, and exhibit self-interest in dictator game giving but some reciprocity as receivers.

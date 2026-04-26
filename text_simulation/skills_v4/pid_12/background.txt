@@ -1,0 +1,96 @@
+## Demographics  
+The participant currently lives in the South region of the United States. They are male and belong to the 50-64 age group. Their highest level of education is postgraduate. They identify as White and are a U.S. citizen. Their marital status is married. Their religion is Muslim, and they attend religious services once a week. Politically, they identify as a Republican with a conservative ideology. Their household income is $100,000 or more. The household size is four people, and their employment status is full-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 6 / 13.  
+This moderate score suggests a balanced level of impression management, indicating that self-reports in this file should be considered reasonably candid but with some caution for potential social desirability bias, especially in personality and emotional baseline sections.
+
+## Personality
+
+### Big Five  
+Extraversion: 4.3 (average of talkative 4, reserved 4, full of energy 5, outgoing 4, quiet 2)  
+Agreeableness: 4.7 (high scores on helpful 5, forgiving 4, trusting 5, considerate 5, kind 5)  
+Conscientiousness: 4.9 (very high on thorough 5, reliable 5, efficient 5, perseveres 5, organized 8/9 scale elsewhere)  
+Neuroticism: 1.6 (very low; disagrees strongly with being tense, moody, worried, depressed)  
+Openness: 4.1 (agree a little to strongly on original 4, curious 5, imaginative 4, artistic interests 4, sophisticated 4)  
+
+This profile reveals a person who is socially engaged but not overly extroverted, highly agreeable and conscientious, emotionally stable with very low neuroticism, and moderately open to new experiences. The very low neuroticism aligns with the emotional baseline data. The participant likely has a warm interpersonal style, is dependable and organized in work habits, and is intellectually curious without being highly unconventional.
+
+### Need for Cognition  
+Score: 3.5 / 5 (average of mostly "agree a little" responses with some "disagree a little")  
+This indicates a moderate enjoyment and seeking of effortful thinking, with some ambivalence or selective preference for cognitive challenges.
+
+### Empathy (BES-A)  
+Score: 3.7 / 5 (mostly agree a little, some disagree a little, no strong extremes)  
+The participant tends to share and recognize others' emotions moderately well, showing some emotional contagion and sensitivity to others' feelings.
+
+### Green Values  
+Score: 5 / 5 (all items answered "agree strongly" or "agree a little")  
+This participant has a strong environmental identity and is highly concerned about the environmental impact of their actions, willing to be inconvenienced for environmental responsibility.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 5 / 5 (strong agreement with independence, self-reliance)  
+Vertical Individualism: 2.3 / 5 (disagree a little to neutral on competition, winning, pride in others' success)  
+Horizontal Collectivism: 4.0 / 5 (agree a little to strongly on cooperation, family duty, group well-being)  
+Vertical Collectivism: 2.0 / 5 (disagree a little on respecting group decisions, hierarchy)  
+
+The participant strongly values personal independence and self-reliance without endorsing competitive or hierarchical individualism. They moderately value group loyalty and family obligations but reject hierarchical group norms. This suggests a balanced orientation favoring equality and cooperation within groups while maintaining a strong personal identity.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63 (minimal anxiety)  
+The participant reports no anxiety symptoms, neither somatic nor cognitive, indicating a very low anxiety baseline.
+
+### Beck Depression Inventory  
+Score: 0 / 61 (minimal depression)  
+No depressive symptoms reported; no physical, cognitive, or motivational symptoms present.
+
+There is no discrepancy between low neuroticism and minimal anxiety/depression, supporting the reliability of self-reports.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I aspire to be principled, hardworking, and compassionate, always standing by my values. I want to leave a positive legacy, whether through my work or the guidance I provide to my children. I want to be a person of integrity, known for honesty and kindness."  
+- Ought self (what they feel they should be): "I ought to be responsible and dependable. It is important for me to be adaptable and solution-oriented, always seeking ways to improve situations. I also should uphold high ethical and moral values."  
+- Actual self (what they believe they currently are): "I am dedicated and hardworking. I take my job seriously and do my best to do all the tasks and the responsibilities. As father, I am family oriented person. I always prioritize my family. I am also a lifelong learner. I always try to learn and improve myself."  
+
+The three selves are consistent, showing alignment between aspirations, perceived duties, and current self-concept, with a strong emphasis on responsibility, integrity, and family orientation.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4 (all correct)  
+The participant correctly answered all CRT items, showing strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 4 / 6  
+Errors cluster on cube rotation items (incorrect answers on cube rotation puzzles), while matrix completion was mostly correct. This suggests relative strength in pattern recognition but some difficulty with spatial rotation tasks.
+
+### Crystallized Intelligence  
+Score: 6 / 10 (partial data; 10 items answered)  
+Several synonym and antonym questions were answered incorrectly, often choosing implausible or unrelated options (e.g., "confiscate" synonym chosen as "congregate," "furtive" synonym chosen as "facile," "astute" synonym chosen as "bizarre"). This pattern suggests some vocabulary gaps or guessing rather than consistent knowledge.
+
+### Syllogistic Reasoning  
+Score: 4 / 8 (partial data; 8 items answered)  
+Errors occurred more on belief-biased items, indicating reasoning influenced by prior beliefs rather than pure logic.
+
+### Financial Literacy  
+Score: 6 / 8  
+Missed the question about mandatory withdrawals after age 70.5 (answered false, correct is true). Correct on mortgage, inflation, risk diversification, and investment returns. Shows good but not perfect financial knowledge.
+
+### Numeracy  
+Score: 7 / 8  
+Missed one probability conversion question (e.g., synonym or percentage conversion errors). Overall strong numeric reasoning.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4  
+All logically valid conclusions accepted, no reluctance to accept valid deductions.
+
+### Wason Selection Task  
+Score: 2 / 4  
+Selected cards A and 3 (classic matching bias) instead of A and 7, indicating a common error pattern in conditional reasoning.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), good fluid intelligence with some spatial rotation weaknesses, and moderate crystallized intelligence with some vocabulary gaps and guessing. Syllogistic reasoning is influenced by belief bias. Financial literacy and numeracy are generally strong but not flawless. Deductive reasoning is intact, but the participant exhibits the classic matching bias on the Wason task. Overall, cognitive abilities are solid with specific weaknesses in spatial rotation and vocabulary knowledge.
+
+## Summary  
+This participant is a middle-aged, highly educated, married Muslim male from the U.S. South, employed full-time with a high income. Personality-wise, he is conscientious, agreeable, emotionally stable, moderately extraverted, and open to experience. He enjoys moderate cognitive challenge and shows strong environmental concern. His self-concept is consistent and grounded in responsibility, integrity, and family orientation. Emotionally, he reports minimal anxiety and depression, consistent with low neuroticism. Cognitively, he excels in reflective reasoning and deductive logic but shows some weaknesses in spatial rotation and vocabulary knowledge, with a classic matching bias in conditional reasoning. The most predictive feature for downstream simulation is his perfect CRT score combined with the classic Wason selection task error, indicating strong reflective reasoning but susceptibility to common cognitive biases.

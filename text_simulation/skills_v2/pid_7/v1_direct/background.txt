@@ -1,0 +1,35 @@
+## Demographics  
+The respondent is a female aged 18-29, living in the Northeast region of the United States. She identifies as White and is a U.S. citizen. She has completed college or some postgraduate education. She is never married, currently unemployed, and lives in a household of two people. Her total family income last year was between $75,000 and $100,000. She reports no particular religion and seldom attends religious services. Politically, she identifies as a Democrat with very liberal views.
+
+## Stated beliefs and self-concept  
+The respondent aspires to be someone others look up to, who uses her mistakes to help others avoid similar errors and inspires through her strengths, while remaining humble, respectful, and loving toward the world. She believes she ought to be kind, respectful, and selfless, emphasizing selflessness as a key trait that would promote harmony, though she acknowledges most people are not truly selfless. She describes herself as loving, caring, and funny, using humor to cope with tragedy and often prioritizing others’ needs, especially loved ones, showing deep care and action based on that care.
+
+## Personality  
+Based on direct item responses, the respondent shows high levels of extraversion (e.g., talkative [item 1: 5], outgoing [36: 5]), conscientiousness (does a thorough job [3: 5], reliable worker [13: 4]), openness to experience (original, comes up with new ideas [5: 5], curious [10: 5], inventive [25: 4], values artistic experiences [30: 5], sophisticated in art/music/literature [44: 5]), and agreeableness (helpful and unselfish [7: 5], considerate and kind [32: 5], generally trusting [22: 5]). She also reports high neuroticism (worries a lot [19: 5], can be tense [14: 5], moody [29: 5], nervous [39: 5], emotionally unstable [24: 1 - disagree strongly with emotionally stable]).  
+
+In need for cognition, she agrees moderately to strongly with enjoying complex problems, intellectual challenges, and abstract thinking (e.g., prefers complex problems [1: 4], likes responsibility requiring thinking [2: 4], enjoys new solutions [11: 5], thinking abstractly appeals [14: 5], prefers intellectual tasks [15: 5]).  
+
+She shows a strong need for closure, agreeing strongly that she dislikes uncertainty and unpredictable situations (e.g., dislikes uncertain situations [1: 5], dislikes unpredictable situations [15: 5], prefers clear and structured life [12: 5]).  
+
+Regarding maximization, she reports high standards for herself (never settles for second best [6: 4], highest standards [5: 5]) and some difficulty in gift shopping or finding clothing she loves (disagrees strongly with difficulty shopping for gifts or clothing).  
+
+She also reports generally good self-monitoring abilities (can alter behavior in social situations [1: 5], controls impression [2: 5], reads emotions well [8-13: mostly 5 or 6]) and moderate self-concept clarity (some agreement with clear sense of self [11: 4], but also some agreement with conflicting beliefs about self [1:4], changing opinions [8:4], and difficulty making up mind [12:5]).
+
+## Values (directly reported)  
+The respondent rates the following values as highly important (ratings 8 or 9): Pleasure (9), Influence (9), Competence (9), Achievement (9), Ambition (9), Honesty (9), Compassion (9), Status (9), Autonomy (9), Recognition (9), Wealth (8), Loyalty (8), Excitement (8), Equality (8). She rates Power as not important (1). Other values vary from moderate to low importance.
+
+## Factual knowledge (directly tested)  
+The respondent correctly answered several financial literacy and probability questions:  
+- Correctly identified that a 15-year mortgage has higher monthly payments but less total interest than a 30-year mortgage (True).  
+- Correctly answered that after 1 year with 1% interest and 2% inflation, you can buy exactly the same as today (though this is technically false; inflation reduces purchasing power).  
+- Correctly answered that spreading investments decreases risk.  
+- Correctly answered that after age 70½, required minimum distributions must be taken from retirement accounts.  
+- Correctly answered that it would take 1 year to pay off a $3,000 credit card debt with $30 monthly payments at 12% APR (though this is likely an underestimate).  
+- Correctly estimated expected values in probability questions (e.g., 500 even rolls out of 1,000 die rolls, 10 winners out of 1,000 tickets at 1% chance).  
+- Correctly converted probabilities to percentages (e.g., 20 out of 100 = 20%).  
+- Correctly answered logic and syllogism questions, though some answers were incorrect (e.g., incorrectly answered "No" to some valid logical conclusions).  
+- Correctly solved cognitive puzzles involving pattern recognition and spatial reasoning, though some answers indicated uncertainty (e.g., choosing "None of the cubes could be a rotation" in one cube rotation question).  
+- Estimated answering 30 out of 42 cognitive test questions correctly, higher than the estimated average of 10 for the general US adult population.
+
+## Summary  
+The respondent is a young, college-educated female from the US Northeast with liberal political views and no strong religious affiliation. She describes herself as loving, caring, and humorous, aspiring to inspire others while remaining humble and respectful. Personality measures indicate she is extraverted, conscientious, open to experience, agreeable, but also high in neuroticism. She values pleasure, influence, competence, achievement, and autonomy highly. Her financial literacy and cognitive test performance show generally good understanding of financial concepts and logical reasoning, with some minor inaccuracies. She tends to keep all money for herself in economic games and is skeptical about the reality of the other players.

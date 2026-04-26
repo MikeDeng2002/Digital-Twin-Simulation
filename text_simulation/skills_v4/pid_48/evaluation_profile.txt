@@ -1,0 +1,69 @@
+## Core Values
+
+### Agentic vs. Communal Values  
+The values ratings show some compression with many items rated 7-9, indicating acquiescence, so only the relative structure is informative. The participant places very high importance (9/9) on communal values such as Trust, Humility, Loyalty, Politeness, Civility, Autonomy, and Equality, signaling a strong communal orientation. Agentic values like Wealth, Competence, Achievement, and Altruism are also rated highly (8/9), but Power and Influence are rated low (3/9), and Ambition, Tradition, and Superiority are rated very low (2/9). The highest rated values are Trust, Humility, Loyalty, Politeness, Civility, Autonomy, and Equality (all 9), while the lowest are Ambition, Tradition, Superiority, Power, and Influence (2-3). This suggests a person who values social harmony, fairness, and moral principles over dominance or competitive superiority, blending strong agentic competence with a pronounced communal and ethical focus.
+
+## Consumer and Product Preferences
+
+### Consumer Minimalism  
+Score: Approximately 4.5 / 5. The participant strongly endorses consumer minimalism, actively avoiding accumulation (items 1-4 mostly 4-5), preferring visually sparse environments and leaving spaces empty (items 5-8 mostly 4-5 except one 2), and practicing mindful curation (items 9-12 mostly 4-5). This pattern indicates a clear preference for restricting possessions, favoring simplicity and thoughtful ownership rather than accumulation.
+
+### Need for Uniqueness  
+Score: Approximately 2.5 / 5. The participant is neutral to slightly low in seeking uniqueness through consumption, neither strongly pursuing nor rejecting uniqueness. This moderate score combined with strong minimalism suggests a preference for conventional or restrained consumption rather than conspicuous or selective uniqueness.
+
+## Social and Interpersonal Evaluation Standards
+
+### Self-Monitoring  
+Score: Approximately 4.7 / 6. The participant generally reports good ability to adjust self-presentation and read social cues, with most items rated 4-5 and a few exceptions. This indicates moderate to high sensitivity to social expectations and adaptability in social contexts.
+
+### Self-Concept Clarity (SCC)  
+Score: Approximately 3.7 / 5. The participant shows moderate self-concept clarity, with some agreement that self-views can vary and occasional uncertainty about identity, but also strong agreement on having a clear sense of self and reluctance to reveal true self to others. This suggests a somewhat stable but occasionally context-dependent self-evaluation.
+
+## Risk and Loss Evaluation
+
+### Risk Aversion  
+CRRA coefficient: Approximately 0.7 (positive, indicating risk aversion). The participant consistently prefers the certain option over lotteries with increasing monetary gains, never switching to the lottery until the certain amount approaches or exceeds the expected value. This pattern shows strong risk aversion in the gain domain.
+
+### Loss Aversion  
+Lambda coefficient: Greater than 2.0 (high loss aversion). The participant consistently prefers to avoid lotteries involving losses, choosing safer options even when the expected loss is moderate, and rejects mixed gambles unless the gain is substantially higher. This indicates strong asymmetric weighting of losses over gains.
+
+Cross-referencing risk and loss aversion reveals a consistent pattern of strong risk aversion and strong loss aversion, suggesting a prevention-focused orientation toward uncertain outcomes.
+
+## Fairness and Social Preferences
+
+### Mental Accounting  
+Score: 100% choices consistent with mental accounting predictions (4/4). The participant prefers segregating gains and losses into separate mental accounts, showing a strong tendency to treat multiple smaller gains or losses separately rather than integrating them into a single net outcome. Item-level data shows preference for two small wins over one combined win, greater upset over separate losses than combined, and similar patterns in mixed scenarios.
+
+### Ultimatum Game  
+Sender: Offered 40% of $5 to the other person (kept $3, sent $2).  
+Receiver: Rejects offers of $5, $4 (i.e., when other keeps $0 or $1), accepts offers of $3, $2, $1, and $0 (i.e., when other keeps $2, $3, $4, or $5). Minimum acceptable offer is $3 to self (i.e., rejects offers less than 60% to self).  
+
+This participant proposes a moderately selfish split (keeping 60%), but enforces a fairness floor by rejecting very generous offers to the other (0 or 1 dollar). The asymmetry suggests a fairness norm that expects a reasonable share for self and is intolerant of offers that give the participant too little, but the sender offer is somewhat stingy compared to typical 50% splits.
+
+### Trust Game  
+Sender: Sent 20% of $5 to the other person (kept $4, sent $1).  
+Receiver returns:  
+- Received $15: returns $7 (47%)  
+- Received $12: returns $6 (50%)  
+- Received $9: returns $5 (56%)  
+- Received $6: returns $3 (50%)  
+- Received $3: returns $1 (33%)  
+
+The participant applies a roughly proportional return rule, returning about one-third to one-half of the amount received, with a tendency toward returning close to half for mid-range amounts.  
+
+Participant's thoughts (sender): "split the outcome 50:50; if 50:50 not possible, take slightly more."  
+Participant's thoughts (receiver): "split evenly if possible; if even not possible, take more in the option closest to 50/50."  
+
+This reveals a reciprocity norm focused on fairness and approximate equality, with a slight self-favoring bias. The participant trusts others modestly (sending only 20%) but expects fair reciprocation.
+
+### Dictator Game  
+Sent 40% of $5 (kept $3, sent $2). The other person had no power to reject.  
+Participant's thoughts: "split money evenly; if even split not possible, take option that allows split to be as close as possible to even; in the event of uneven split, take option in my favor that minimizes amount of divergence between me and the 2nd person."  
+
+This allocation matches the Ultimatum Game offer exactly, indicating that giving is driven by fairness preferences rather than strategic considerations. The participant is moderately altruistic, willing to share a substantial portion even when the recipient cannot punish.
+
+## Self-Report Reliability for This File  
+The stated Values scale shows some acquiescence compression but aligns well with behavioral data in communal values. The participant’s Social Desirability score is not provided here, but the behavioral games reveal moderate fairness and altruism consistent with stated high communal values. There is no strong stated-vs.-revealed gap; the participant’s moderate selfishness in offers aligns with moderate altruism in values. Therefore, the stated values can be trusted moderately but behavioral game data should be weighted slightly more heavily for fairness and social preference modeling.
+
+## Summary  
+This participant exhibits a strong communal value orientation, emphasizing trust, humility, loyalty, and equality, alongside competent and agentic values but low ambition and power seeking. They are a strong consumer minimalist, preferring to own few, carefully curated possessions, and show moderate need for uniqueness. Socially, they are moderately self-monitoring and have a somewhat stable self-concept. They are strongly risk- and loss-averse, consistent with a prevention-focused mindset. Their mental accounting is strong, segregating gains and losses distinctly. Fairness norms reveal moderate selfishness in giving but a firm fairness floor in receiving, with reciprocity norms favoring near-equal splits. The participant’s Dictator and Ultimatum offers match, indicating fairness-driven giving rather than strategic. The most predictive feature for pricing behavior is the strong consumer minimalism. The dominant fairness norm is moderate generosity combined with enforcement of fairness thresholds. There is no major stated-vs.-revealed gap to reconcile, allowing the simulation to integrate stated values and behavioral data with moderate confidence.

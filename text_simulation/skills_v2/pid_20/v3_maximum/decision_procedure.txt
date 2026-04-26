@@ -1,0 +1,63 @@
+## Effort regulation and cognitive style  
+This individual demonstrates a moderately high Need for Cognition (NFC), consistently agreeing "a little" or "quite a bit" with statements reflecting enjoyment of complex problems, intellectual challenges, and abstract thinking (e.g., "I would prefer complex to simple problems" = 4, "I really enjoy a task that involves coming up with new solutions" = 5, "I prefer my life to be filled with puzzles" = 5). They reject the idea of thinking being unpleasant or something to avoid, indicating a positive engagement with cognitive effort. Their Big Five Conscientiousness profile is moderate to high, with items like "Does a thorough job" (4), "Is a reliable worker" (4), "Perseveres until the task is finished" (4), and "Does things efficiently" (5) supporting a conscientious and diligent cognitive style, though some disorganization is admitted ("Tends to be disorganized" = 4), suggesting occasional lapses in systematic effort.
+
+Cognitive test performance is strong, with 39/42 correct on various reasoning and logic tasks, including syllogistic reasoning and spatial rotation puzzles. However, some specific errors reveal a tendency to accept invalid conclusions in logical reasoning (e.g., incorrectly judging that "Plants are not animals" does not follow from premises, and rejecting valid conclusions about poodles and plants). This pattern suggests occasional belief bias or difficulty inhibiting intuitive but incorrect responses in deductive reasoning. The individual also failed to identify a valid cube rotation in one task, selecting an option that included an extraneous symbol, indicating some lapses in spatial visualization or attention to detail.
+
+Their vocabulary and synonym/antonym tests show solid verbal ability, with correct selections for words like "concur," "confiscate," "furtive," and "astute," but a notable error on "solicit" (choosing "exert" rather than "beseech") suggests occasional semantic confusion or less precise lexical knowledge. Overall, the cognitive style is analytical and engaged, with a preference for thoroughness and problem-solving, but with some susceptibility to specific reasoning errors, especially belief bias and occasional spatial misjudgments.
+
+## Closure and uncertainty tolerance  
+The individual scores moderately high on Need for Closure (NFCC), agreeing "a little" or "probably true" with statements reflecting discomfort with ambiguity and unpredictability ("I don’t like situations that are uncertain" = 4, "I dislike questions which could be answered in many different ways" = 4, "I find that establishing a consistent routine enables me to enjoy life more" = 4). They express a preference for order, routine, and predictability, and report feeling irritated when solutions are not found quickly ("I would quickly become impatient and irritated if I would not find a solution immediately" = 4). This suggests a moderate intolerance for ambiguity and a drive to resolve uncertainty promptly.
+
+Behaviorally, their economic game choices show a pragmatic fairness approach, proposing to keep $3 of $5 and send $2 to others, and accepting all offers except the most selfish ($5/$0). Their thoughts during these decisions emphasize fairness and acceptability, indicating a balanced approach to social uncertainty and trust. They also show moderate environmental concern but are somewhat inconsistent in applying it to purchase decisions, reflecting some ambivalence toward uncertain or complex trade-offs.
+
+Free responses about aspirational vs. actual self reveal a desire to worry less and be more confident, indicating some internal tension with uncertainty or anxiety, though somatic symptom reports are minimal and self-reported neuroticism is low, suggesting good self-report calibration. Overall, the person tolerates uncertainty moderately but prefers structure and closure, with some impatience toward unresolved problems.
+
+## Optimization strategy  
+The individual shows a moderate maximizer tendency. They neither strongly endorse nor reject maximization items, with some ambivalence ("No matter what I do, I have the highest standards for myself" = 3, "I never settle for second best" = 3). They report some difficulty finding clothing they love and shopping for gifts, indicating some deliberation and selectivity. However, they do not frequently seek better options once satisfied ("When I am in the car listening to the radio, I often check other stations" = 2), and they disagree somewhat with always looking for better job opportunities (2), suggesting a balanced approach between satisficing and maximizing.
+
+In economic games, they propose a fair but self-favoring split ($3/$2) and send less in the trust game ($1 sent, keeping $4), indicating a pragmatic rather than perfectionist approach to social optimization. Their free responses emphasize fairness and acceptability rather than exhaustive search or perfection. This suggests a satisficing strategy with some attention to quality and fairness but without excessive re-evaluation or indecision.
+
+## Self-concept stability  
+Self-Concept Clarity (SCC) is moderate to high. The individual strongly disagrees with statements indicating fluctuating or unclear self-beliefs ("On one day I might have one opinion of myself and on another day a different opinion" = 1, "I spend a lot of time wondering what kind of person I really am" = 1). They agree that they seldom experience conflict between personality aspects (5) and have a clear sense of who they are (4). There is little evidence of internal contradiction or instability.
+
+Their free responses about aspirational, ought, and actual selves are consistent and coherent, emphasizing responsibility, dependability, kindness, and loyalty. There is a small gap between aspiration (wishing to worry less and be more confident) and actual self (already responsible and dependable), indicating some self-awareness of emotional regulation goals but no major identity conflict.
+
+Big Five items show no contradictory patterns; emotional stability is high (agree strongly to "Is emotionally stable, not easily upset" = 5), and agreeableness is high (helpful = 5, forgiving = 5). Overall, the self-concept is stable, coherent, and well-integrated.
+
+## Behavioral vs. stated-preference gap  
+There is a modest gap between stated values and behavior. The individual rates altruism and compassion moderately (6 and 2 respectively) but in economic games acts with moderate self-interest, keeping more money for themselves than the most generous option. They endorse fairness and kindness as important but also admit to sometimes taking advantage of others (agreeing to "I have taken advantage of someone" = 2) and to feelings of jealousy and resentment (agreeing to "I sometimes feel resentful" and "I have been jealous" = 2). This suggests some ambivalence between idealized self and actual behavior.
+
+Social desirability is not explicitly reported but can be inferred as moderate given some admissions of negative traits (e.g., "I sometimes try to get even" = 2, "I have deliberately said something that hurt someone's feelings" = 2). The individual’s acceptance of unfair offers in the ultimatum game and moderate generosity in the trust game align with stated values of fairness but also self-protection.
+
+Self-reports of emotional stability and low anxiety are consistent with low somatic symptoms, supporting reliability. However, some cognitive errors (belief bias) and moderate Need for Closure suggest that behavior may sometimes diverge from idealized reasoning or values under uncertainty.
+
+## Intertemporal patience  
+The individual shows moderate to high patience in intertemporal choice tasks, consistently preferring larger, later rewards over smaller, sooner ones until the amounts become very close. For example, they choose $6 in 6 weeks over $5.75 in 5 weeks, and $8 in 7 weeks over $7.75 in 6 weeks, but switch preference when amounts equalize or the sooner reward is substantially better. This pattern indicates a reasonable discounting of delayed rewards, consistent with moderate self-control.
+
+Conscientiousness items support this, with agreement on being reliable, persevering, and making plans. Free responses emphasize responsibility and dependability, and the individual denies procrastination or difficulty making decisions. Overall, the person exhibits a balanced, pragmatic approach to delayed gratification, neither impulsive nor excessively patient.
+
+## Egocentric projection tendency  
+The individual’s self-concept clarity is relatively high, which predicts lower egocentric projection. Empathy scores are moderate, with some ambivalence: they agree "a little" to being affected by friends' emotions but also disagree with being easily caught up in others' feelings. This suggests moderate perspective-taking ability.
+
+Political identity is moderately strong (Republican, conservative), which may increase projection on political issues, but no direct data on political projection is available. Overall, the person likely exhibits moderate false consensus effects, projecting their moderate-to-strong political and social values onto others but tempered by reasonable empathy and self-concept clarity.
+
+## Bias susceptibility predictions  
+
+**HIGH CONFIDENCE**  
+- Probability matching vs. maximizing: Likely to maximize rather than probability match, given strong cognitive ability and preference for analytical thinking.  
+- Denominator neglect: Moderate risk, as some numeric reasoning errors (e.g., credit card debt "never" payoff, incorrect time for machines/widgets) suggest occasional denominator neglect or misunderstanding of ratios.  
+- Belief bias: Present, as shown by acceptance of invalid syllogistic conclusions and rejection of valid ones, indicating reliance on prior beliefs over logic.  
+- Wason matching bias: Likely present, given selection of cards A and 3 to test conditional rules, consistent with typical Wason task performance.
+
+**MODERATE CONFIDENCE**  
+- False consensus effect: Moderate, due to moderate political identity strength and moderate empathy.  
+- Risk-benefit nonseparability (affect heuristic): Moderate, as emotional responses in economic games and lottery choices suggest some affective influence on risk perception.
+
+**LOW CONFIDENCE**  
+- Framing effects, anchoring, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, myside bias: These biases are not reliably predictable from cognitive ability or stated attitudes; no direct behavioral evidence here.
+
+## Self-report reliability weighting  
+Self-reports are moderately reliable. Social desirability appears moderate, as the individual admits to some negative traits and errors, and somatic symptoms are low and consistent with low neuroticism self-report. The alignment between self-reported emotional stability and low anxiety symptoms supports trustworthiness. However, some gaps between stated values (high altruism) and behavior (moderate generosity) suggest cautious interpretation. Cognitive test performance and behavioral economic choices provide a robust anchor for simulation, with self-reports supplementing but not overriding observed behavior.
+
+## Summary  
+This individual exhibits a moderately high need for cognition and conscientiousness, engaging thoughtfully with complex problems but showing specific reasoning errors consistent with belief bias and occasional spatial misjudgments. They prefer closure and structure, tolerating uncertainty only moderately and showing some impatience with unresolved problems. Their optimization strategy is pragmatic satisficing rather than strict maximizing, balancing fairness with self-interest in social decisions. Self-concept is stable and coherent, with moderate empathy and moderate political identity strength predicting moderate egocentric projection. Behavioral choices reveal a modest gap from idealized altruistic values, and intertemporal patience is balanced and pragmatic. The most predictive feature is the specific pattern of belief bias in logical reasoning, which will shape their susceptibility to reasoning errors under uncertainty and influence their numeric predictions and judgment biases.

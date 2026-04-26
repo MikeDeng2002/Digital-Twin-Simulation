@@ -1,0 +1,26 @@
+## Budget constraint  
+The respondent reports a total family income of $100,000 or more before taxes (item #Last year, total family income). She is currently unemployed (item #Current employment status) and lives in a household of three people (item #Household size). No further direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows clear differentiation without rating compression. The highest-rated values (rated 9) are Altruism (#9), Compassion (#17), Autonomy (#20), and Equality (#21). The lowest-rated values (rated 1) are Ambition (#10), Loyalty (#11), Status (#18), Recognition (#22), Tradition (#23), and Superiority (#24). Other values fall in the mid-range (3-8). This indicates a strong emphasis on helping others, kindness, independence, and equal rights, with low importance placed on ambition, social status, and traditional or competitive values.
+
+## Minimalism and consumer orientation  
+On the minimalism scale (12 items), the respondent generally disagrees with statements endorsing minimalism or visual sparsity (e.g., #1 "I avoid accumulating lots of stuff" rated 2, #5 "I am drawn to visually sparse environments" rated 1, #7 "I keep the aesthetic in my home very sparse" rated 1). She agrees a little with restricting the number of things owned (#2 rated 4) and being mindful of possessions (#9 rated 4, #12 rated 4). Overall, she shows mild agreement with some minimalism-related mindfulness but does not strongly endorse minimalism or simplicity.  
+
+Regarding consumerism and uniqueness-seeking scales (12 items), she strongly disagrees with all statements indicating a desire for uniqueness or breaking social norms in consumption (all rated 1). This indicates no preference for consumerism driven by uniqueness or nonconformity.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent shows moderate risk aversion in lotteries with gains, often preferring the certain amount over the lottery until the certain amount approaches or exceeds the expected value (e.g., choosing the lottery over certain amounts starting around $1.50-$2 for a 50% chance at $6). For lotteries involving losses, she prefers to avoid larger losses and accepts smaller sure losses over risky losses. In social economic games (dictator and ultimatum), she proposes to keep $3 and send $2 out of $5, and as a receiver, she accepts offers down to $1 but rejects offers of $0. In the trust game, she keeps $2 and sends $3, and as receiver, she keeps a majority of the tripled amount but returns some money, indicating moderate trust and reciprocity.  
+
+Overall, these choices indicate moderate risk aversion and a preference for fairness with some self-interest in social economic games.
+
+## Intertemporal patience  
+In intertemporal choice tasks involving delayed monetary rewards, the respondent consistently prefers the larger, later reward over smaller, sooner rewards until the delayed reward is equal or slightly better in amount. For example, she chooses $6 in 6 weeks over $3 to $5.75 in 5 weeks, switching to the sooner reward only when it equals or exceeds $6. Similar patterns hold for other amounts and delays. This indicates a relatively high degree of patience and willingness to wait for larger delayed rewards.
+
+## Social preferences  
+In dictator and ultimatum games, the respondent proposes to keep $3 and send $2 out of $5, and accepts offers down to $1 but rejects offers of $0. In the trust game, she sends $3 out of $5 (which is tripled) and as receiver keeps a majority but returns some money, indicating moderate trust and reciprocity. Her thoughts during these decisions emphasize fairness, trust, and reciprocity.  
+
+No family-versus-stranger context is tested directly.
+
+## Summary  
+The respondent has a household income above $100,000 but is currently unemployed and lives with two others. Her values emphasize altruism, compassion, autonomy, and equality, while rejecting ambition, status, and traditionalism. She shows mild minimalism in mindful ownership but does not embrace minimalism or uniqueness-seeking consumerism. Risk preferences indicate moderate risk aversion and fairness concerns in social economic games. She exhibits relatively high patience in intertemporal choices, preferring larger delayed rewards. Social preferences reflect moderate generosity and reciprocity, with fairness and trust as guiding considerations.

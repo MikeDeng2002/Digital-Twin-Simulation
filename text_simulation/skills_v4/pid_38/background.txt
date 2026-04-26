@@ -1,0 +1,95 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. They were assigned female at birth and belong to the 50-64 age group. Their highest level of education completed is high school graduate. They identify as White and are a U.S. citizen. Their marital status is married. Their religion is Roman Catholic, and they attend religious services a few times a year. Politically, they consider themselves an Independent and describe their political ideology as conservative. Their household income is $100,000 or more. The household size is four people, and their current employment status is full-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is in the mid-range, suggesting a moderate level of candidness in self-reports; self-reports should be interpreted with some caution but are not strongly biased by impression management.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.8 (approximate average of items, mostly "agree a little")  
+Agreeableness: 3.8 (mostly "agree a little" with some neutral)  
+Conscientiousness: 3.9 (mostly "agree a little" with some neutral)  
+Neuroticism: 2.3 (mostly "disagree a little" or neutral, low)  
+Openness: 2.3 (mostly "disagree a little" or neutral, low)  
+
+The participant’s Big Five profile reveals a moderately outgoing and sociable interpersonal style with a generally cooperative and kind nature. They show conscientious work habits, being reliable and efficient, but score low on openness, indicating limited interest in new ideas or artistic experiences. Neuroticism is low, suggesting emotional stability and low proneness to negative emotions. No scores are at or near scale extremes (<=1.5 or >=4.5). The low neuroticism aligns with the emotional baseline data, supporting reliability of self-reports.
+
+### Need for Cognition  
+Score: 2.5 / 5 (based on mostly "disagree a little" and "agree a little" responses, leaning toward low)  
+This person shows a low to moderate tendency to enjoy and seek out effortful thinking, often preferring less cognitively demanding tasks.
+
+### Empathy (BES-A)  
+Score: approximately 3.3 / 5 (mixed responses, mostly "agree a little" and some neutral or slight disagreement)  
+The participant has a moderate tendency to share and recognize others’ emotions, showing some emotional responsiveness but not strongly empathic.
+
+### Green Values  
+Green values scale data not available in this wave (all items rated "neither agree nor disagree").
+
+### Individualism and Collectivism  
+Horizontal Individualism: ~3.8 (mostly "agree a little")  
+Vertical Individualism: ~3.8 (mostly "agree a little")  
+Horizontal Collectivism: ~3.8 (mostly "agree a little")  
+Vertical Collectivism: ~3.8 (mostly "agree a little")  
+
+The participant shows a balanced orientation toward personal independence and group loyalty, valuing both equality and hierarchy moderately within individualistic and collectivistic domains. They slightly favor self-reliance and competition but also value cooperation and family obligations, indicating a nuanced social orientation.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 0 / 63 (all items rated "not at all")  
+Clinical range: minimal anxiety.  
+The participant reports no anxiety symptoms, neither somatic nor cognitive, indicating a calm emotional baseline.
+
+### Beck Depression Inventory  
+Score: 3-4 / 61 (based on mostly minimal symptom responses, with one item indicating "I feel disappointed in myself")  
+Clinical range: minimal depression.  
+The participant reports minimal depressive symptoms overall, with a slight indication of mild self-disappointment but no significant cognitive distortions or motivational deficits.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I tried to be the best version of me. To be honest trusting and I want others to rely on me. I want to be helpful and courteous."  
+- Ought self (what they feel they should be): "I ought to be helpful courteous honest courageous and willing. I aspire to be all these things that I talked about above and these ones I've talked about now. I just want to be a very good person"  
+- Actual self (what they believe they currently are): "I try to be honest and loyal and caring. I try to be helpful and courteous towards others. I want to be treated with the same respect that I treat others."  
+
+The three selves are largely consistent, reflecting a coherent self-concept centered on honesty, helpfulness, and courtesy, with no meaningful gaps or contradictions.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4 (all correct)  
+No intuitive traps were fallen into; participant correctly answered all CRT items, indicating strong reflective reasoning.
+
+### Fluid Intelligence  
+Score: 5 / 6  
+Errors cluster on cube rotation items (missed one cube rotation question), suggesting slight difficulty with spatial rotation but strong matrix completion skills.
+
+### Crystallized Intelligence  
+Score: 7 / 20  
+Many incorrect answers suggest a vocabulary gap or guessing, as some chosen synonyms and antonyms were incorrect or only partially correct, indicating limited verbal knowledge.
+
+### Syllogistic Reasoning  
+Score: 3 / 12  
+Errors predominantly on belief-biased items (counterfactual or familiar content), indicating reasoning is strongly influenced by prior beliefs rather than formal logic.
+
+### Financial Literacy  
+Score: 7 / 8  
+Missed the question about inflation and savings account purchasing power (answered "exactly the same" instead of "less"), indicating a specific knowledge gap about inflation effects.
+
+### Numeracy  
+Score: 5 / 8  
+Errors include underestimating expected values (e.g., die rolls, lottery probabilities), and incorrect percentage conversions (e.g., 10% disease expected cases answered as 100 instead of 100), indicating weaknesses in probability and percentage calculations.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 1 / 4  
+Participant answered "No" to three of four logically valid modus ponens problems, indicating reluctance to accept logically valid conclusions that conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 4  
+Selected only card A (letter A), failing to select the critical card 7 (number 7), demonstrating classic matching bias.
+
+## Cognitive Summary  
+The participant shows strong reflective reasoning as evidenced by a perfect CRT score and good fluid intelligence, especially in matrix completion. However, crystallized intelligence is low, with many vocabulary and verbal reasoning errors. Syllogistic reasoning is poor, heavily influenced by belief bias. Financial literacy is mostly good except for misunderstanding inflation effects. Numeracy is moderate but with notable errors in probability and percentage calculations. The participant exhibits a strong reluctance to accept logically valid conclusions that contradict prior beliefs, as shown by low modus ponens and Wason task performance. Overall, cognitive strengths lie in reflective and fluid reasoning, while verbal knowledge, logical reasoning under belief conflict, and numeracy show weaknesses.
+
+## Summary  
+This participant is a middle-aged, White, married female from the U.S. Midwest with a high school education and full-time employment, holding conservative political views and moderate religious engagement. Personality-wise, she is moderately extraverted, agreeable, and conscientious, with low neuroticism and openness, indicating emotional stability but limited curiosity or creativity. She has a low to moderate need for cognition and moderate empathy. Emotionally, she reports minimal anxiety and depression, consistent with her low neuroticism. Cognitively, she excels in reflective and fluid reasoning but struggles with verbal knowledge, belief-biased reasoning, and some numeracy tasks. A key predictive feature for simulation is her strong cognitive reflection combined with a pronounced reluctance to accept logically valid conclusions that conflict with prior beliefs, as evidenced by her modus ponens and Wason task errors. This pattern suggests a reflective thinker who may nonetheless filter reasoning through existing beliefs, impacting decision-making and problem-solving styles.

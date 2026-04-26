@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Midwest region of the United States. They were assigned female at birth and belong to the 18-29 age group. Their highest level of education completed is postgraduate. Their race/ethnicity is Black, and they are a U.S. citizen. They are married and identify as Protestant, attending religious services once a week. Politically, they identify as a Democrat with liberal views. Their household income last year was $100,000 or more. The household size is three people, and their current employment status is part-time employment.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score indicates a moderate level of impression management, suggesting that self-reports should be interpreted with some caution but are not strongly biased by social desirability.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.3 (calculated average from items)  
+Agreeableness: approximately 3.3  
+Conscientiousness: approximately 3.7  
+Neuroticism: approximately 2.3  
+Openness: approximately 3.7  
+
+The participant shows moderate extraversion, being somewhat reserved yet sociable and energetic. Agreeableness is moderate, with a tendency to be helpful and kind but also somewhat cautious in trust. Conscientiousness is moderately high, with strong reliability and efficiency but some ambivalence about thoroughness and organization. Neuroticism is low to moderate, with some emotional stability but occasional mild tension or moodiness. Openness is moderately high, indicating curiosity, imagination, and inventiveness. No Big Five score is at or near an extreme (<=1.5 or >=4.5). Neuroticism is low to moderate, which aligns with the emotional baseline data showing minimal anxiety and depression.
+
+### Need for Cognition  
+Score: 3.4 / 5 (approximate average from item responses)  
+The participant enjoys and seeks out effortful thinking to a moderate degree, showing some preference for complex problems and intellectual challenges but also some ambivalence.
+
+### Empathy (BES-A)  
+Score: approximately 2.9 / 5 (average of responses)  
+The participant shows a moderate tendency to share and recognize others' emotions, with some sensitivity but also some emotional distance.
+
+### Green Values  
+Score: approximately 4.3 / 5 (average of 6 items)  
+The participant has a strong environmental identity, expressing concern for the environment and willingness to act in environmentally responsible ways.
+
+### Individualism and Collectivism  
+Horizontal Individualism: approximately 4.3  
+Vertical Individualism: approximately 4.0  
+Horizontal Collectivism: approximately 3.0  
+Vertical Collectivism: approximately 4.5  
+
+The participant leans strongly toward personal independence and self-reliance (horizontal individualism) and accepts some hierarchy in individual achievement (vertical individualism). They show moderate loyalty and cooperation within groups (horizontal collectivism) but a strong sense of duty and respect for group authority and family obligations (vertical collectivism). This suggests a balanced orientation valuing both independence and group loyalty, with a notable emphasis on hierarchical group responsibilities.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 9 / 63.  
+This score falls in the mild anxiety range. The symptom pattern is predominantly cognitive, with minimal somatic symptoms reported (e.g., no trembling, heart racing, or sweating). This mild anxiety level supports the reliability of self-reports and aligns with the low to moderate neuroticism score.
+
+### Beck Depression Inventory  
+Score: 7 / 61.  
+This score is in the minimal depression range. The participant reports no significant cognitive distortions, motivational deficits, or physical symptoms of depression. This minimal depression level is consistent with the low neuroticism and mild anxiety scores.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I want to be someone who is confident, kind, and successful in both my personal and professional life. I hope to stay motivated, overcome challenges, and always keep learning and growing. My goal is to make a positive impact on others while living a happy and fulfilling life."  
+- Ought self (what they feel they should be): "I should be responsible, reliable, and supportive to the people who count on me, like family, friends, or coworkers. I ought to stay disciplined, meet my obligations, and handle problems with maturity and patience. People expect me to act with honesty, respect, and fairness in all situations."  
+- Actual self (what they believe they currently are): "I try my best to be kind and responsible, but sometimes I struggle with staying motivated or confident. I do care about others and work hard to meet my goals, even if I face setbacks. I’m a work in progress, learning from my mistakes and trying to improve every day."  
+
+The three selves are generally consistent, reflecting a coherent self-concept with some realistic acknowledgment of current challenges relative to ideals and obligations.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 3 / 4.  
+The participant correctly answered three of four items. The one error was on the lily pad doubling question, answered as 24 days instead of the correct 47 days (the correct answer is one day before full coverage, so 47 if full coverage is 48). This suggests a partial susceptibility to the exponential growth intuitive trap.
+
+### Fluid Intelligence  
+Score: 5 / 6.  
+Errors clustered on cube rotation tasks, with one uncertain or "I do not know" response on a cube rotation item, indicating some difficulty with spatial rotation but strong matrix completion skills.
+
+### Crystallized Intelligence  
+Score: 8 / 10 (based on 10 synonym and antonym items answered).  
+Errors suggest some vocabulary gaps or confusion, e.g., choosing "repulse" for "confiscate" (incorrect), and "ascetic" for "astute" (incorrect). This pattern indicates occasional semantic confusion rather than random guessing.
+
+### Syllogistic Reasoning  
+Score: 6 / 8 (4 items answered).  
+Errors occurred on belief-biased items, such as incorrectly judging the conclusion about poodles and four legs, and China and communism, indicating some influence of prior beliefs over pure logic.
+
+### Financial Literacy  
+Score: 6 / 8.  
+Incorrect answers include the 15-year vs. 30-year mortgage question (answered false, correct is true) and the long-term return on stocks vs. bonds (answered bonds, correct is stocks). This reveals some gaps in financial knowledge, particularly about mortgages and investment returns.
+
+### Numeracy  
+Score: 7 / 8.  
+The participant answered most numeracy questions correctly but erred on the lily pad doubling question (CRT overlap) and possibly on the die roll expected value question (answered 500, which is correct). Overall, numeracy is strong.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 3 / 4.  
+One item was answered "No" when the correct answer was "Yes," indicating some reluctance to accept logically valid conclusions that conflict with prior beliefs.
+
+### Wason Selection Task  
+Score: 1 / 4.  
+The participant selected card "3" only, missing the classic correct cards "A" and "7," indicating a classic matching bias and difficulty with conditional reasoning tasks.
+
+## Cognitive Summary  
+The participant demonstrates moderate to strong cognitive abilities overall, with particular strengths in fluid intelligence matrix tasks and numeracy. Crystallized intelligence shows some vocabulary gaps and semantic confusions. Reasoning is somewhat influenced by prior beliefs, as seen in syllogistic reasoning and modus ponens errors. Financial literacy is generally good but with notable misconceptions about mortgages and investment returns. The participant shows a classic matching bias on the Wason selection task and a partial intuitive trap on the CRT exponential growth item. Overall, cognitive abilities are consistent with their educational attainment but reveal specific areas for improvement in logical reasoning and financial knowledge.
+
+## Summary  
+This participant is a young Black female from the U.S. Midwest with postgraduate education, married, and employed part-time. Personality-wise, she is moderately extraverted, agreeable, conscientious, and open, with low to moderate neuroticism. She enjoys effortful thinking moderately and has a strong environmental identity. Emotional baseline measures indicate mild anxiety and minimal depression, consistent with her personality profile. Her sense of self is coherent, aspiring to confidence and kindness while acknowledging current motivational struggles. Cognitively, she performs well on fluid intelligence and numeracy but shows some reasoning biases and financial literacy gaps. The most predictive feature for downstream simulation is her moderate social desirability score, which suggests some impression management but overall candid reporting, combined with her specific cognitive error patterns in reasoning tasks and financial knowledge.

@@ -1,0 +1,62 @@
+## Effort regulation and cognitive style  
+The respondent shows a moderate to high engagement with cognitive effort as indicated by Need for Cognition items (e.g., "I would prefer complex to simple problems" [NFC #1], "I like to have the responsibility of handling a situation that requires a lot of thinking" [NFC #2], and "I find satisfaction in deliberating hard and for long hours" [NFC #6], all answered with "Agree a little"). They also disagree with statements indicating avoidance of effortful thinking (e.g., "Thinking is not my idea of fun" [NFC #3], "I try to anticipate and avoid situations where there is likely chance I will have to think in depth" [NFC #5]). This suggests a preference for engaging in cognitive challenges, though not at the highest intensity.  
+
+Cognitive test performance supports this moderate to high cognitive engagement: the respondent correctly answered 36 out of 42 cognitive test questions, well above the estimated average of 20 for the US adult population. They correctly solved various logic puzzles, syllogisms, and analogies, and demonstrated good understanding of logical inference (e.g., correctly identifying valid conclusions in syllogistic reasoning).  
+
+Conscientiousness from the Big Five is high, with strong agreement on items such as "Does a thorough job" (4), "Is a reliable worker" (5), "Perseveres until the task is finished" (5), and "Does things efficiently" (5). This aligns with the cognitive style of sustained effort and thoroughness.  
+
+Error patterns in cognitive tests are minimal; the respondent correctly answered tricky items such as the "Emily’s father has three daughters" riddle and the cubic feet in a hole question, indicating attention to detail and avoidance of common intuitive errors. However, some synonym and antonym items were answered incorrectly or with less accurate choices (e.g., "Oscillate" synonym chosen as "irradiate" [incorrect], "Indolent" synonym chosen as "contrite" [incorrect], "Disparity" synonym chosen as "assiduity" [incorrect], "Indigent" synonym chosen as "refractory" [incorrect]). This suggests some occasional semantic confusion or lapses in vocabulary knowledge, but these do not appear to impair overall reasoning performance.  
+
+## Closure and uncertainty tolerance  
+The Need for Closure scale responses are mostly neutral to mildly disagreeing with intolerance of uncertainty. For example, the respondent neither agrees nor disagrees with "I don’t like situations that are uncertain" (3), "I dislike questions which could be answered in many different ways" (3), and "I find that a well ordered life with regular hours suits my temperament" (3). They slightly disagree with statements indicating discomfort with uncertainty or impatience for quick solutions (e.g., "I don’t like to go into a situation without knowing what I can expect from it" [2], "When I have made a decision, I feel relieved" [2], "When I am confronted with a problem, I’m dying to reach a solution very quickly" [2]).  
+
+Behaviorally, the respondent took time to answer complex cognitive puzzles correctly, indicating patience and tolerance for uncertainty in problem-solving. Free-response answers are concise but thoughtful, and decision consistency is high (e.g., consistent acceptance of ultimatum offers regardless of fairness level, consistent rejection of smaller immediate rewards in intertemporal choice).  
+
+Overall, the respondent appears to have moderate tolerance for uncertainty and a preference for structured, well-understood situations but does not exhibit strong discomfort or urgency to close decisions prematurely. Commitment speed in reasoning is moderate, favoring accuracy over speed.  
+
+## Optimization strategy  
+The Maximizer scale responses indicate a tendency toward maximizing behavior, with strong agreement on "I never settle for second best" (5) and "No matter what I do, I have the highest standards for myself" (4). The respondent also agrees moderately with difficulty in gift shopping and finding clothing they really love (4), suggesting some domain-specific maximizing tendencies in consumer behavior.  
+
+However, the respondent also shows some satisficing or moderate behavior in other domains, such as a moderate score on "No matter how satisfied I am with my job, it’s only right for me to be on the lookout for better opportunities" (4), indicating a balanced approach rather than relentless maximizing.  
+
+In economic games, the respondent proposes to keep $3 and send $2 in the dictator game, which is a moderate offer rather than a fully maximizing or fully generous split. In the trust game, they send the full $5 but expect to keep $7 of the $15 returned, indicating strategic maximizing behavior in reciprocity.  
+
+Thus, the respondent maximizes in personal standards and strategic social exchanges but satisficing or moderate in some consumer and interpersonal domains. This split suggests a pragmatic maximizer profile.  
+
+## Self-concept stability  
+Self-Concept Clarity scale responses are strongly consistent and stable. The respondent strongly disagrees with statements indicating self-concept confusion or fluctuation (e.g., "My beliefs about myself often conflict with one another" [1], "On one day I might have one opinion of myself and on another day I might have a different opinion" [1], "I spend a lot of time wondering about what kind of person I really am" [1]). They strongly agree with "In general, I have a clear sense of who I am and what I am" (5) and "I seldom experience conflict between the different aspects of my personality" (5).  
+
+Free-response self-descriptions align with this clarity: the aspirational self ("I would like to be a leader among men. I would like to be dependable. I would like to be personable."), the ought self ("I should be able to take care of my family. I should be able to handle business. I ought to be generous."), and the actual self ("I am a dependable person. I am honest. I handle my responsibilities in a timely manner.") are coherent and consistent, emphasizing dependability, responsibility, and interpersonal qualities.  
+
+No contradictions or instability are evident in self-descriptions or scale responses.  
+
+## Behavioral vs. stated-preference gap  
+No meaningful gap is evident between stated preferences and behavioral choices. The respondent values altruism highly (Altruism rated 9), and in the dictator game, they offer a moderate share ($2 out of $5), which is consistent with moderate generosity. In the trust game, they send the full $5 and expect a fair but strategic return, indicating alignment between stated values and behavior.  
+
+Self-reported personality traits such as conscientiousness, emotional stability, and agreeableness are supported by behavioral evidence in cognitive tasks and economic games. The respondent denies being resentful or irritable but admits to some occasional irritability and jealousy, which is consistent with moderate scores on related items.  
+
+Free-response aspirational, ought, and actual selves are aligned, emphasizing dependability and generosity, matching behavioral evidence.  
+
+Overall, self-report and behavior are congruent, suggesting reliable self-assessment and trustworthy reasoning.  
+
+## Intertemporal patience  
+The respondent consistently prefers larger delayed rewards over smaller sooner ones in intertemporal choice tasks, choosing $6 in 6 weeks over $3 in 5 weeks, $8 in 7 weeks over $4 in 6 weeks, and $10 in 7 weeks over $5 in 5 weeks, until the immediate reward becomes substantially larger. This pattern indicates moderate to high patience.  
+
+Conscientiousness is very high (e.g., "Organized" 9, "Efficient" 9, "Systematic" 9), supporting the ability to plan and delay gratification. The respondent also reports making plans and following through with them (Big Five #38: 4 - Agree a little).  
+
+This combination suggests a reasoning style that favors long-term benefits and self-control in decision-making under uncertainty.  
+
+## Bias susceptibility predictions  
+Predictable from cognitive signals:  
+
+- Probability matching vs. maximizing: Given the high cognitive test performance and preference for maximizing in decision tasks, the respondent is likely to maximize rather than probability match.  
+- Dominator (denominator) neglect: The respondent correctly interprets probabilities and percentages in financial literacy and risk tasks, suggesting low susceptibility.  
+- Belief bias in syllogisms: The respondent correctly answered syllogistic reasoning questions, including those that conflict with real-world knowledge (e.g., "All unemployed people are poor" premises), indicating low belief bias.  
+- Wason matching bias: The respondent correctly identified the cards to turn over in the Wason selection task, indicating low susceptibility.  
+
+Weakly predictable or not predictable from cognitive signals:  
+
+- Framing effects, anchoring and adjustment, base-rate neglect, conjunction fallacy, outcome bias, sunk-cost effect, less-is-more effect, omission bias, Allais/certainty effects, and myside bias cannot be confidently predicted from the available data. The respondent’s high cognitive ability and conscientiousness may reduce some biases, but no direct evidence is available.  
+
+## Summary  
+The respondent exhibits a reasoning style characterized by moderate to high cognitive engagement and conscientiousness, with a preference for thoroughness and accuracy. They tolerate uncertainty moderately well, favoring structured and well-understood situations without rushing to closure. Their optimization strategy is pragmatic, maximizing in personal standards and strategic social interactions while satisficing in some consumer domains. Self-concept is stable and coherent, with no contradictions between stated and behavioral evidence. Intertemporal patience is moderate to high, supported by conscientiousness and planning. Cognitive test performance and decision-making indicate low susceptibility to common reasoning biases such as belief bias and Wason matching bias, though some semantic confusion is noted in vocabulary

@@ -1,0 +1,42 @@
+## Spending and Consumption Mode
+
+### Tightwad-Spendthrift  
+Score: 4 (scale: 4 = extreme tightwad, 26 = extreme spendthrift, midpoint ~13). This participant exhibits a spending mode close to the tightwad end of the scale, indicating difficulty spending money. The pattern across the four items shows consistency: a self-rating slider at 4 (tightwad side), rarely having trouble limiting spending, but often having trouble spending money, and identifying more with Mr. B in the mall scenario who refrains from buying despite good deals. These items align well, showing a coherent tendency toward frugality and reluctance to spend.
+
+## Decision Search and Closure
+
+### Maximization vs. Satisficing  
+Score: 3.5 / 5 (estimated from agreement levels). This participant tends toward searching exhaustively for the best possible option rather than settling for good enough. They strongly agree with statements about preferring complex problems, enjoying intellectual challenges, and deliberating hard and long, indicating a maximizer decision style.
+
+### Need for Cognitive Closure (NFCC)  
+Score: Approximately 3.3 / 5. The participant shows a moderate need for cognitive closure. They neither strongly dislike uncertainty nor strongly seek quick closure, with some agreement on liking clear, structured life and feeling relieved after decisions. This suggests a balanced tolerance for ambiguity, with neither extreme decisiveness nor excessive indecision, implying moderate decision speed and commitment style.
+
+### Regulatory Focus (RFS)  
+Score: Approximately 5.5 / 7 (higher = promotion-focused). The participant is primarily promotion-focused, oriented toward achieving ideals and gains rather than avoiding losses. They aspire to be successful, brilliant at work, and want to be respected, reflecting a strong promotion orientation. This implies they will respond more strongly to gain-framed and opportunity-framed choices, showing motivation toward advancement and accomplishment. This score is consistent with their relatively low loss aversion indicated in evaluation_profile.txt (not shown here).
+
+### IPIP Conscientiousness (Wave 2)  
+Score: 4 / 8. The participant is moderately conscientious, somewhat organized, systematic, and efficient in executing decisions. They agree a little with being a reliable worker and persevering until tasks are finished but do not show strong extremes. This score is consistent with their background Big Five Conscientiousness score (not provided here), with no flagged divergence.
+
+## Metacognition
+
+### Overconfidence  
+Score: 0 (predicted own score minus actual score). The participant predicted correctly their performance on 42 cognitive items, estimating 21 correct out of 42 and actually scoring 21. This indicates well-calibrated confidence with no over- or underconfidence.
+
+### Overplacement  
+Score: 0 (own predicted score minus predicted average score). The participant believes their performance is on par with peers, showing no social comparison bias toward over- or underplacement.
+
+Cross-referencing these metacognitive scores with the participant’s cognitive ability (21/42 correct, average) shows accurate self-assessment and no evidence of miscalibration or inflated self-perception.
+
+### Forward Flow (Divergent Thinking)  
+Forward Flow data not available in this wave.
+
+## Time Preferences
+
+### Discount Rate  
+Annualized discount rate: Approximately 150% (estimated from switching points). The participant switches from preferring sooner-smaller to later-larger rewards at relatively high thresholds, indicating impatience but not extreme. They consistently prefer sooner rewards when the difference is small but switch to later rewards as the delayed amount increases. This places them in the moderately impatient range compared to typical US adults (20%-200%).
+
+### Present Bias  
+Present bias coefficient: Positive, approximately +0.3 (moderate present bias). The participant shows a moderate present bias, preferring immediate rewards more than the base discount rate predicts. This is directionally consistent with their tightwad spending mode, as present bias often correlates with cautious or restrained spending behavior.
+
+## Summary  
+This participant exhibits a moderately tightwad spending style, showing reluctance to spend money and a preference for frugality. Their decision style is characterized by maximization tendencies and a moderate need for cognitive closure, suggesting they search thoroughly for the best options but tolerate some ambiguity. A strong promotion focus drives their motivation toward gains and ideals, making them more responsive to opportunity-framed choices. Their conscientiousness is moderate, supporting systematic but not rigid decision execution. Metacognitively, they are well-calibrated, accurately assessing their cognitive performance without overconfidence or social comparison bias. Time preferences reveal moderate impatience and present bias, consistent with their spending restraint. The most predictive feature for simulating this person on choice tasks is their strong promotion focus, which will shape their responsiveness to gain versus loss framing and opportunity cues.

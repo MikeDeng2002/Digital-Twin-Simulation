@@ -1,0 +1,28 @@
+## Budget constraint  
+The respondent reports a total family income last year in the range of $30,000 to $50,000. They are currently retired and live in a household of two people. No further direct income or employment details are provided.
+
+## Values hierarchy  
+The 24-item values scale shows some compression but not extreme; ratings range from 2 to 8 on a 9-point scale. The highest-rated values (rated 8) include Pleasure (item 2), Trust (5), Competence (6), Achievement (8), Compassion (17), and Civility (19). The lowest-rated values (rated 2 or 3) include Power (13) and Superiority (24) at 2, and Influence (4), Status (18), and Recognition (22) at 3. This indicates a relative preference for social harmony, competence, and kindness over dominance or status. The respondent rated Forgiveness (3), Altruism (9), Equality (21), and Tradition (23) moderately (6), and Ambition (10) and Humility (7) as quite important (5).  
+
+## Minimalism and consumer orientation  
+On the minimalism scale, the respondent shows mixed responses. They strongly agree (5) with being drawn to visually sparse environments (item 5) and preferring simplicity in design (6). They agree a little (4) with preferring leaving spaces visually empty (8), being mindful of what they own (9), the importance of being thoughtful about what they choose to own (11), and that their belongings are mindfully selected (12). However, they disagree strongly (1) or a little (2) with avoiding accumulating lots of stuff (1), restricting the number of things owned (2), “less is more” (3), actively avoiding excess possessions (4), and keeping the aesthetic in their home very sparse (7 and 10).  
+
+Regarding consumerism and uniqueness-seeking, the respondent generally disagrees or is neutral with statements about seeking uniqueness through products or breaking social rules in consumption. They mostly disagree a little or strongly with items about developing personal uniqueness by buying special products, violating social norms about products, or avoiding common brands. This suggests a low consumerism/uniqueness orientation.
+
+## Risk preferences  
+The survey includes multiple lottery and risk preference tasks. The respondent consistently prefers the lottery option over certain smaller amounts until the certain amount approaches or exceeds the expected value, indicating risk aversion. For example, they prefer a 50% chance of $6 over certain amounts up to about $3 but switch preference at $5. They also show risk aversion in loss lotteries, preferring to avoid lotteries with potential losses by choosing better certain outcomes.  
+
+In the ultimatum game, the respondent proposes to keep $3 and send $2 to the other person. As a receiver, they reject offers that are more generous to the other person than to themselves (rejecting offers where the other keeps less than or equal to $2), but accept the offer where the other keeps $3 and they get $2. This indicates a preference for fairness or at least a minimum acceptable share.  
+
+In the trust game, when sending money that will be tripled, the respondent keeps $3 and sends $2. When receiving money, they keep a moderate share and send back a substantial portion, indicating moderate trust and reciprocity.  
+
+## Intertemporal patience  
+The respondent’s choices in delayed reward tasks show a preference for smaller-sooner rewards over larger-later rewards when the delay difference is small or the amount difference is small, but they switch to larger-later rewards as the amount difference increases. For example, they prefer $3 in 5 weeks over $6 in 6 weeks but switch preference when the immediate amount increases. This pattern suggests moderate patience with some present bias.  
+
+## Social preferences  
+In the dictator game, the respondent proposes to keep $3 and give $2 out of $5, indicating a moderate level of generosity. In the ultimatum game as a receiver, they reject offers that are less favorable to themselves (rejecting offers where they get $3 or more but the other keeps less), accepting only the offer where the proposer keeps $3 and they get $2. This suggests a preference for fairness and some willingness to punish unfair offers.  
+
+In the trust game, the respondent sends $2 (out of $5) to be tripled and returns a substantial portion of the tripled amount when receiving money, indicating moderate trust and reciprocity.  
+
+## Summary  
+The respondent has a moderate family income and is retired, living in a two-person household. Their values emphasize social harmony, competence, kindness, and achievement, with low importance placed on power and status. They show some appreciation for minimalism in design and visual sparsity but do not strongly avoid possessions. Consumerism and uniqueness-seeking tendencies are low. Risk preferences indicate moderate risk aversion, especially in losses, and social preferences reveal moderate fairness concerns and reciprocity in economic games. Intertemporal choices suggest moderate patience with some present bias. Overall, the respondent values social connectedness and fairness, prefers simplicity in aesthetics, and exhibits cautious economic decision-making.

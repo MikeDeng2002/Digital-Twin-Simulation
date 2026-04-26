@@ -1,0 +1,94 @@
+## Demographics  
+The participant currently lives in the Northeast region of the United States. She is female and in the 30-49 age group. She has completed postgraduate education. Her race/ethnicity is White, and she is a U.S. citizen. She is married and identifies as Roman Catholic, attending religious services more than once a week. Politically, she identifies as a Republican and describes her political views as very conservative. Her household income last year was between $75,000 and $100,000. She lives in a household of four people and is currently employed part-time.
+
+## Self-Report Reliability  
+Social Desirability Scale score: 5 / 13.  
+This score is in the mid-range, suggesting a moderate level of impression management; self-reports should be interpreted with some caution but are not strongly biased toward socially desirable responding.
+
+## Personality
+
+### Big Five  
+Extraversion: 3.3 (calculated average from items)  
+Agreeableness: 3.7  
+Conscientiousness: 3.3  
+Neuroticism: 2.9  
+Openness: 3.1  
+
+The participant shows moderately high agreeableness, indicating a generally cooperative and kind interpersonal style. Extraversion is moderate, with some items indicating talkativeness and sociability but also some reserved tendencies. Conscientiousness is moderate, reflecting a somewhat reliable and thorough work habit but with some ambivalence about organization and efficiency. Neuroticism is slightly below average, suggesting relatively low emotional instability; however, this should be cross-referenced with emotional baseline data. Openness is moderate, with some curiosity and imagination but less inclination toward originality or inventiveness. No Big Five dimension is at or near an extreme (<=1.5 or >=4.5).
+
+### Need for Cognition  
+Score: 2.9 / 5 (approximate average from item responses)  
+The participant shows a somewhat low to moderate enjoyment of and engagement with effortful thinking, tending to prefer less complex problems and not strongly seeking out intellectual challenges.
+
+### Empathy (BES-A)  
+Score: 3.5 / 5 (approximate average)  
+The participant tends to share and recognize others’ emotions moderately well, showing some emotional contagion and understanding of friends’ feelings, though with some ambivalence on certain items.
+
+### Green Values  
+Score: 3.3 / 5 (approximate average)  
+The participant expresses moderate environmental concern and responsibility, agreeing somewhat with environmentally friendly attitudes but showing some ambivalence about inconvenience and purchase habits.
+
+### Individualism and Collectivism  
+Horizontal Individualism: 2.3 (average of items 1-4)  
+Vertical Individualism: 1.3 (average of items 5-8)  
+Horizontal Collectivism: 4.8 (average of items 9-12)  
+Vertical Collectivism: 4.3 (average of items 13-16)  
+
+The participant shows a strong orientation toward horizontal and vertical collectivism, indicating a strong loyalty to and identification with groups and family, with acceptance of hierarchy within groups. Individualism scores are low, especially vertical individualism, suggesting less emphasis on competition or standing out. This profile reflects a strong group loyalty and respect for social roles and hierarchy within groups.
+
+## Emotional Baseline
+
+### Beck Anxiety Inventory  
+Score: 4 / 63 (sum of item scores)  
+This score falls in the minimal anxiety range (0-7). The participant reports virtually no cognitive or somatic anxiety symptoms except for severe indigestion or abdominal discomfort and mild sweating. The somatic symptom of indigestion is notable but isolated. Overall, anxiety is minimal and unlikely to bias self-reports.
+
+### Beck Depression Inventory  
+Score: 6 / 61 (estimated from responses)  
+The participant is in the minimal depression range (0-9). She reports no significant depressive symptoms, no sadness, guilt, or loss of interest, and no cognitive distortions. She does report some worry about physical problems such as aches and pains or upset stomach, but this is not accompanied by mood symptoms. This suggests mild somatic concerns without depressive affect.
+
+## Sense of Self (Selves Questionnaire)  
+- Ideal self (what they aspire to be): "I would like to be the kind of person who is selfless and gives to others without worrying about the cost. I would like to be someone who others think is kind and a good listening. I would like to be someone who others think is holy and devout."  
+- Ought self (what they feel they should be): "I think I should be a caring and devoted mother and wife. I should be a thoughtful teacher who supports her students. I should be a devout and faithful Catholic."  
+- Actual self (what they believe they currently are): "I am the kind of person who tries to be a supportive and caring mother, although sometimes I might lose my patience. I try to be a devout and faithful Catholic, although I don't always pray as much as I should. I do my best to be patient and kind to others, although sometimes I get frustrated and angry when others ask me to do things for them. Sometimes I am envious of others,"  
+
+There are meaningful gaps between the selves: the ideal self emphasizes selflessness and holiness, the ought self stresses caregiving and faithfulness, while the actual self acknowledges struggles with patience, frustration, and occasional envy, indicating some internal conflict and imperfection relative to ideals.
+
+## Cognitive Ability Profile
+
+### Cognitive Reflection Test (CRT)  
+Score: 4 / 4  
+All answers were correct, indicating strong reflective reasoning and avoidance of intuitive traps.
+
+### Fluid Intelligence  
+Score: 4 / 6  
+Errors cluster on matrix completion and cube rotation items. Specifically, the participant selected answer D (circle with diagonal line, arrow pointing right) for the matrix puzzle, which was correct, but made errors on the cube rotation tasks, showing some difficulty with spatial rotations and mental manipulation of 3D objects.
+
+### Crystallized Intelligence  
+Score: 9 / 20  
+The participant answered synonym and antonym vocabulary items with some errors, often choosing plausible distractors, indicating a moderate vocabulary gap or guessing pattern.
+
+### Syllogistic Reasoning  
+Score: 6 / 12  
+Errors occurred more on belief-biased items, such as incorrectly judging some conclusions that conflict with prior beliefs, indicating reasoning influenced by prior knowledge rather than pure logic.
+
+### Financial Literacy  
+Score: 8 / 8  
+All financial literacy items were answered correctly, showing strong knowledge of financial concepts.
+
+### Numeracy  
+Score: 8 / 8  
+All numeracy items were answered correctly, indicating strong numeric reasoning skills.
+
+### Modus Ponens (Deductive Certainty)  
+Score: 4 / 4  
+All items answered "Yes" correctly, showing no reluctance to accept logically valid conclusions.
+
+### Wason Selection Task  
+Score: 4 / 4  
+The participant correctly selected cards A and 3, avoiding the classic matching bias, indicating good conditional reasoning.
+
+## Cognitive Summary  
+The participant demonstrates strong reflective reasoning (perfect CRT), solid financial literacy and numeracy, and good deductive reasoning (Modus Ponens and Wason tasks). Fluid intelligence is somewhat weaker, especially on spatial rotation tasks, and crystallized intelligence is moderate with some vocabulary gaps. Syllogistic reasoning shows susceptibility to belief bias. Overall, cognitive abilities are consistent with a well-educated individual with strong logical and numeric skills but some limitations in spatial and verbal knowledge domains.
+
+## Summary  
+This participant is a well-educated, middle-aged White female from the U.S. Northeast with a strong religious and family orientation and very conservative political views. Her personality is moderately extraverted and agreeable, with moderate conscientiousness and low neuroticism, though self-reports suggest some emotional tension and somatic concerns. She aspires to be selfless and devout but acknowledges occasional frustration and envy. Cognitively, she excels in reflective and deductive reasoning and financial/numeric literacy but shows some weaknesses in fluid intelligence and vocabulary. The most predictive feature for downstream simulation is the meaningful gap between her ideal, ought, and actual selves, reflecting internal conflict and nuanced self-awareness, combined with a moderate social desirability score that advises cautious interpretation of self-reports.
